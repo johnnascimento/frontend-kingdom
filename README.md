@@ -1,2 +1,2 @@
-# casadaarvore174
-Project dedicated to provide a new website to Casa Da Arvore enterprise
+# Frontend kingdom
+This repository is focused on tracking my evolving path along the studies of Frontend devlopment
