@@ -1,11 +1,14 @@
-
 // Loglal part
 //-------------------------------------------------------------------------
 var d = document;
 var b = d.body || d.bodyElement;
+var docQuery = function(elem){
+  return d.querySelector(elem);
+};
 var w = window;
 var key = '';
-var selectedItemsArray = [];
+var selectedItemsArray = []; 
+var evaluatedValueToReturn = [];
 
 const siteLists = {
   first: {
@@ -25,7 +28,7 @@ const siteLists = {
     options: d.querySelector('.listOfItems-3').options,
     index: 3
   }
-}
+};
 
 var submitBtn = d.querySelector('#submitBtn');
 var textBlockCounter = 0;
@@ -41,62 +44,61 @@ function criarEl(elType, assignmentReference, klass, id, textEl, el) {
 }
 
 
+function grabInputValues(element, index) {
+  console.log('It came within the myArr function');
+  console.log(index);
+  console.log(element);
+  console.log('Txt node', data.planets[index].title);
+  console.log('Txt node', data.signos[index].title);
+  console.log('Txt node', data.casas[index].title);
+  
+  for(key in data.planets){
+    //console.log('data planet content: ', data.planets[key].title);
+    if (data.planets[key].title == element) {
+      console.log('The title is: ', data.planets[key].title);
+      evaluatedValueToReturn.push(data.planets[key].title);
+      console.log('Evaluated value to return: ', evaluatedValueToReturn);
+      return evaluatedValueToReturn;
+    } else {
+      console.log('It\'s not data planets');
+    }
+  }
+  
+  for(key in data.signos){
+    //console.log('data planet content: ', data.planets[key].title);
+    if (data.signos[key].title == element) {
+      console.log('The title is: ', data.signos[key].title);
+      evaluatedValueToReturn.push(data.signos[key].title);
+      console.log('Evaluated value to return: ', evaluatedValueToReturn);
+      return evaluatedValueToReturn;
+    } else {
+      console.log('It\'s not data planets');
+    }
+  }
+  
+  for(key in data.casas){
+    //console.log('data planet content: ', data.planets[key].title);
+    if (data.casas[key].title == element) {
+      console.log('The title is: ', data.casas[key].title);
+      evaluatedValueToReturn.push(data.casas[key].title);
+      console.log('Evaluated value to return: ', evaluatedValueToReturn);
+      return evaluatedValueToReturn;
+    } else {
+      console.log('It\'s not data planets');
+    }
+  }
+  return evaluatedValueToReturn;
+}
+
 
 function setUpTextForTemplate(indexSelectedArray) {
   console.log('setUpTextForTemplate was called');
+  evaluatedValueToReturn = [];
   indexSelectedArray = indexSelectedArray || [];
-  var evaluatedValueToReturn = [];
   var indexSelectedNum = 0;
   
   if (indexSelectedArray.length) {
     console.log('If is true');
-    
-    function grabInputValues(element, index) {
-      console.log('It came within the myArr function');
-      console.log(index);
-      console.log(element);
-      console.log('Txt node', data.planets[index].title);
-      console.log('Txt node', data.signos[index].title);
-      console.log('Txt node', data.casas[index].title);
-      
-      for(key in data.planets){
-        //console.log('data planet content: ', data.planets[key].title);
-        if (data.planets[key].title == element) {
-          console.log('The title is: ', data.planets[key].title);
-          evaluatedValueToReturn.push(data.planets[key].title);
-          console.log('Evaluated value to return: ', evaluatedValueToReturn);
-          return evaluatedValueToReturn;
-        } else {
-          console.log('It\'s not data planets');
-        }
-      }
-      
-      for(key in data.signos){
-        //console.log('data planet content: ', data.planets[key].title);
-        if (data.signos[key].title == element) {
-          console.log('The title is: ', data.signos[key].title);
-          evaluatedValueToReturn.push(data.signos[key].title);
-          console.log('Evaluated value to return: ', evaluatedValueToReturn);
-          return evaluatedValueToReturn;
-        } else {
-          console.log('It\'s not data planets');
-        }
-      }
-      
-      for(key in data.casas){
-        //console.log('data planet content: ', data.planets[key].title);
-        if (data.casas[key].title == element) {
-          console.log('The title is: ', data.casas[key].title);
-          evaluatedValueToReturn.push(data.casas[key].title);
-          console.log('Evaluated value to return: ', evaluatedValueToReturn);
-          return evaluatedValueToReturn;
-        } else {
-          console.log('It\'s not data planets');
-        }
-      }
-      return evaluatedValueToReturn;
-    }
-    
     
     indexSelectedArray.forEach(grabInputValues);
     return evaluatedValueToReturn;
@@ -106,23 +108,52 @@ function setUpTextForTemplate(indexSelectedArray) {
   }
 }
 
+function indexChecker(){
+  var elemReturned = [];
+  var result;
+  
+  elemReturned.push(siteLists.first.options[siteLists.first.link.selectedIndex]);
+  console.log('Selected index in Index Checker: ' + elemReturned[0]);
+  
+  elemReturned.push(siteLists.second.options[siteLists.second.link.selectedIndex]);
+  console.log('Selected index in Index Checker: ' + elemReturned[1]);
+  
+  elemReturned.push(siteLists.third.options[siteLists.third.link.selectedIndex]);
+  console.log('Selected index in Index Checker: ' + elemReturned[2]);
+  
+  elemReturned.reduce(function(a,b){
+   result = a + b;
+
+   if(result > 0) {
+     result = false;
+     return result;
+   } else {
+     result = true;
+     return result;
+   }
+   return result;
+  });
+  return result;
+}
+
 
 function addElementsToTemplate() {
+  console.log('addElementsToTemplate is running sound');
+  
   var elemPlaceholder = [];
   
   // Use the criarEl method to create this one
   // ------------------------------------------------------
   var textBlockWrapper = "";
   var klassAssigner = '';
+  var templateArray = [];
+  var selectedItemsArray = [];
+  var indexCheckerVar;
   
   // Used in the function bellow
   klassAssigner = 'textBlockWrapper-' + textBlockCounter;
   
-  console.log('addElementsToTemplate is running sound');
-  
-  var templateArray = [];
-  
-  var selectedItemsArray = [];
+  idAssigner = 'textBlockWrapperId-' + textBlockCounter;
   
   selectedItemsArray.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
   
@@ -133,28 +164,30 @@ function addElementsToTemplate() {
   // console.log(selectedItemsArray[1]);
   
   templateArray = selectedItemsArray;
+  indexCheckerVar = indexChecker();
   
   // This works but I need to move it inside the followinf function in order to get a real output based on the value of template Array element. The way it is now, the textBlockContent will be printed out regardless of the content within it
-  if (templateArray.length) {
+  if (indexCheckerVar == true) {
     
     // Create a for loop to test if there's any textBlockWrapper already created and empty.If so, grab the empty guy and add the value to it.
     
-    criarEl('DIV', 'imgPlaceHolder', 'textBlockWrapper-' + textBlockCounter, 'textBlockId-' + textBlockCounter, '');
+    criarEl('DIV', 'imgPlaceHolder', klassAssigner, idAssigner, '');
     textBlockCounter++;
     console.log('The content of img place holder is: ', d.querySelector('.imgPlaceHolder'));
     
   } else {
     console.log(templateArray + ' is equals zero!');
+    checkEmptyTextBlock('.imgPlaceHolder');
   }
   
   console.log('template array: ' + templateArray);
   
   
   elemPlaceholder = setUpTextForTemplate(templateArray);
-  console.log('THIS IS THE ELEMENT PLACE HOLDER: ', elemPlaceholder);
+  console.log('THIS IS THE ELEMENT PLACE HOLDER: ' + elemPlaceholder);
   
   for (var z = 0; z < templateArray.length; z++) {
-    if (siteLists.first.link.selectedIndex == 0 || siteLists.second.link.selectedIndex == 0 || siteLists.third.link.selectedIndex == 0) {
+    if (siteLists.first.link.selectedIndex === 0 || siteLists.second.link.selectedIndex === 0 || siteLists.third.link.selectedIndex === 0) {
       console.log('Element placeholder is Zero');
     } else {
       if(siteLists.third.link.selectedIndex) {
@@ -168,6 +201,28 @@ function addElementsToTemplate() {
 }
 
 
+function grabEmptyBlock(elem, idx){
+  if(!elem.length) {
+    console.log('The element in question is empty, so let\'s grab it ', elem);
+    elem.delete();
+    return;
+  } else {
+    console.log('The given element has value in it');
+  }
+}
+
+
+//Check for empty textBlock
+function checkEmptyTextBlock(elem) {
+  console.log('working!!!!!');
+  
+  var textBlocks = docQuery(elem);
+  console.log('TextBlocks: ' + textBlocks);
+  
+  textBlocks.forEach(grabEmptyBlock);
+}
+
+
 function fillFormIn(obj, listNumber) {
   for (key in obj) {
     criarEl('option', 'listOfItems-' + listNumber, 'optionClass', 'optionId', obj[key].title);
@@ -177,9 +232,10 @@ function fillFormIn(obj, listNumber) {
 
 
 window.onload = function() {
-  // fillFormIn();
   fillFormIn(data.planets, 1);
   fillFormIn(data.signos, 2);
   fillFormIn(data.casas, 3);
   submitBtn.addEventListener('click', addElementsToTemplate);
+  checkEmptyTextBlock('.formSpot');
+  
 };
