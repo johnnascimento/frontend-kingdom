@@ -203,7 +203,7 @@ function addElementsToTemplate() {
 
 function grabEmptyBlock(elem, idx){
   if(!elem.length) {
-    console.log('The element in question is empty, so let\'s grab it ', elem);
+    console.log('**********The element in question is empty, so let\'s grab it ********', elem);
     elem.delete();
     return;
   } else {
@@ -214,7 +214,7 @@ function grabEmptyBlock(elem, idx){
 
 //Check for empty textBlock
 function checkEmptyTextBlock(elem) {
-  console.log('working!!!!!');
+  console.log('************working!!!!!************');
   
   var textBlocks = docQuery(elem);
   console.log('TextBlocks: ' + textBlocks);
@@ -236,6 +236,4 @@ window.onload = function() {
   fillFormIn(data.signos, 2);
   fillFormIn(data.casas, 3);
   submitBtn.addEventListener('click', addElementsToTemplate);
-  checkEmptyTextBlock('.formSpot');
-  
 };
