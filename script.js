@@ -31,17 +31,87 @@ const siteLists = {
   }
 };
 
-var submitBtn = d.querySelector('#submitBtn');
+// I must remove elementIndexesAndTexts from here and place within the function grabInputValues, so that
+// The siteList defined will be based on this function. I also need to refactor other parts of the code in order
+// for this to work more concisely.
+// This function was mainly created for controlling with text should be printed from the data base.
+const elementIndexesAndTexts = defineSelectedIndexInAnArray(true, true);
+const $submitBtn = d.querySelector('#submitBtn');
+const $contentSpotElem = d.querySelector('#contentSpot');
 var textBlockCounter = 0;
 let i = 0;
 
+console.log('%c elementIndexesAndTexts ', 'font-size: 25px; color: #770077;', elementIndexesAndTexts);
 
 
-function criarEl(elType, assignmentReference, klass, id, textEl, el) {
+function criarEl(elType, assignmentReference, klass, id, selectorElem, textEl, el) {
   el = d.createElement(elType);
   el.classList.add(klass);
   el.appendChild(d.createTextNode(textEl));
-  d.querySelector('.' + assignmentReference).appendChild(el);
+  if(selectorElem === undefined || selectorElem === null) {
+    d.querySelector('.' + assignmentReference).appendChild(el);
+  } else {
+    d.querySelector(selectorElem + assignmentReference).appendChild(el);
+  }
+}
+
+
+//
+// Come back to this later
+// -------------------------------------------------------------------
+function defineSelectedIndexInAnArray(textOfElem, indexOfElem) {
+
+  if(textOfElem === true && indexOfElem === false) {
+    console.log('%c text of element is ', 'font-size: 16px; font-weight: bold; color: #770055;', textOfElem);
+
+    return function(elem) {
+      elem = [];
+
+      elem.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
+      elem.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
+      elem.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
+      console.log('%c And elem var is ', 'font-size: 16px; font-weight: bold; color: #770055;', elem[0], elem[1], elem[2]);
+    }
+
+  } else if(indexOfElem === true && textOfElem === false) {
+    console.log('%c index of element is ', 'font-size: 16px; font-weight: bold; color: #005577;', textOfElem);
+
+    return function(elem) {
+      elem = [];
+
+      elem.push(siteLists.first.link.selectedIndex);
+      elem.push(siteLists.second.link.selectedIndex);
+      elem.push(siteLists.third.link.selectedIndex);
+      console.log('%c And elem var is ', 'font-size: 16px; font-weight: bold; color: #005577;', elem[0], elem[1], elem[2]);
+      return elem;
+    }
+
+  } else {
+    console.log('%c index of element  and text of elem are ', 'font-size: 16px; font-weight: bold; color: #007755;', textOfElem, indexOfElem);
+
+    return function(elem1, elem2) {
+      elem1 = [];
+      elem2 = [];
+
+      elem1.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
+      elem1.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
+      elem1.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
+      console.log('%c And elem var is ', 'font-size: 16px; font-weight: bold; color: #007755;', elem1[0], elem1[1], elem1[2]);
+
+      elem2.push(siteLists.first.link.selectedIndex);
+      elem2.push(siteLists.second.link.selectedIndex);
+      elem2.push(siteLists.third.link.selectedIndex);
+      console.log('%c And elem var is ', 'font-size: 16px; font-weight: bold; color: #007755;', elem2[0], elem2[1], elem2[2]);
+
+      var elem3 = {
+        element1: elem1,
+        element2: elem2
+      }
+
+      return elem3;
+    }
+
+  }
 }
 
 
@@ -52,6 +122,9 @@ function grabInputValues(element, index) {
   console.log('Txt node', data.planets[index].title);
   console.log('Txt node', data.signos[index].title);
   console.log('Txt node', data.casas[index].title);
+
+  var elementArrays = elementIndexesAndTexts();
+  console.log('%c array elements in an object ', 'font-size: 25px; color: #770077;', elementArrays);
 
   for(key in data.planets){
     //console.log('data planet content: ', data.planets[key].title);
@@ -161,27 +234,21 @@ function addElementsToTemplate() {
 
   // Used in the function bellow
   klassAssigner = 'textBlockWrapper-' + textBlockCounter;
-
   idAssigner = 'textBlockWrapperId-' + textBlockCounter;
-
   selectedItemsArray.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
-
   selectedItemsArray.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
-
   selectedItemsArray.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
-
-  // console.log(selectedItemsArray[1]);
-
   templateArray = selectedItemsArray;
   indexCheckerVar = indexChecker();
 
-  // This works but I need to move it inside the followinf function in order to get a real output based on the value of template Array element. The way it is now, the textBlockContent will be printed out regardless of the content within it
+
   if (indexCheckerVar == true) {
-
     // Create a for loop to test if there's any textBlockWrapper already created and empty.If so, grab the empty guy and add the value to it.
+    criarEl('div', 'contentSpot', klassAssigner, idAssigner, null, '');
+    criarEl('div', 'textBlockWrapper-' + textBlockCounter, 'trashcan', 'trashcanId', null, 'x');
 
-    criarEl('DIV', 'contentSpot', klassAssigner, idAssigner, '');
     textBlockCounter++;
+
     console.log('The content of Content spot is: ', d.querySelector('.contentSpot'));
 
   } else {
@@ -201,9 +268,9 @@ function addElementsToTemplate() {
       return;
     } else {
       if(siteLists.third.link.selectedIndex) {
-        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', elemPlaceholder[z]);
+        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[z]);
       } else {
-        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', templateArray[z]);
+        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, templateArray[z]);
       }
     }
   }
@@ -243,7 +310,7 @@ function checkEmptyTextBlock(elem) {
 
 function fillFormIn(obj, listNumber) {
   for (key in obj) {
-    criarEl('option', 'listOfItems-' + listNumber, 'optionClass', 'optionId', obj[key].title);
+    criarEl('option', 'listOfItems-' + listNumber, 'optionClass', 'optionId', null, obj[key].title);
   }
 }
 
@@ -251,5 +318,6 @@ function fillFormIn(obj, listNumber) {
   fillFormIn(data.planets, 1);
   fillFormIn(data.signos, 2);
   fillFormIn(data.casas, 3);
-  submitBtn.addEventListener('click', addElementsToTemplate);
+  $submitBtn.addEventListener('click', addElementsToTemplate);
+
 };

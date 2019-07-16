@@ -95,7 +95,7 @@ section.contentWrapper {
   min-width: 100%;
   position: absolute;
 }
-div[class^="textBlockWrapper-"]:before {
+div[class^="textBlockWrapper-"] .trashcan {
   height: 20px;
   width: 20px;
   content: " ";
@@ -105,7 +105,7 @@ div[class^="textBlockWrapper-"]:before {
   border: 2px solid #5a6b7c;
 }
 
-.contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover:before {
+.contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover .trashcan {
   display: block;
   cursor: pointer;
 }
