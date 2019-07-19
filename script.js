@@ -35,13 +35,14 @@ const siteLists = {
 // The siteList defined will be based on this function. I also need to refactor other parts of the code in order
 // for this to work more concisely.
 // This function was mainly created for controlling with text should be printed from the data base.
-const elementIndexesAndTexts = defineSelectedIndexInAnArray(true, true);
+
+
 const $submitBtn = d.querySelector('#submitBtn');
 const $contentSpotElem = d.querySelector('#contentSpot');
 var textBlockCounter = 0;
 let i = 0;
 
-console.log('%c elementIndexesAndTexts ', 'font-size: 25px; color: #770077;', elementIndexesAndTexts);
+//console.log('%c elementIndexesAndTexts ', 'font-size: 25px; color: #770077;', elementIndexesAndTexts);
 
 
 function criarEl(elType, assignmentReference, klass, id, selectorElem, textEl, el) {
@@ -55,63 +56,65 @@ function criarEl(elType, assignmentReference, klass, id, selectorElem, textEl, e
   }
 }
 
+// 
+// Used st the currying function for index and/or text
+// ---------------------------------------
+const storeIndexOrText = (elem) => {
+  elems = [];
+  
+  elem.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
+  elem.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
+  elem.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
+  console.log('And elem var is ' + elem[0] + " " + elem[1] + " " + elem[2]);
+  return elems;
+};
+
+const storeIndexAndText = (elem1, elem2, elems) => {
+  elem1 = [];
+  elem2 = [];
+  elems = {};
+  
+  elem1.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
+  elem1.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
+  elem1.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
+  console.log('elem1 var is ' + elem1[0] + ' ' + elem1[1] + ' ' + elem1[2]);
+  
+  elem2.push(siteLists.first.link.selectedIndex);
+  elem2.push(siteLists.second.link.selectedIndex);
+  elem2.push(siteLists.third.link.selectedIndex);
+  console.log('elem2 var is ' + elem2[0] + ' ' + elem2[1] + ' ' + elem2[2]);
+  
+  elems = {
+    element1: elem1,
+    element2: elem2
+  };
+  
+  return elems;
+};
 
 //
 // Come back to this later
 // -------------------------------------------------------------------
 function defineSelectedIndexInAnArray(textOfElem, indexOfElem) {
+  let valueToReturn = "";
 
-  if(textOfElem === true && indexOfElem === false) {
-    console.log('%c text of element is ', 'font-size: 16px; font-weight: bold; color: #770055;', textOfElem);
-
-    return function(elem) {
-      elem = [];
-
-      elem.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
-      elem.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
-      elem.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
-      console.log('%c And elem var is ', 'font-size: 16px; font-weight: bold; color: #770055;', elem[0], elem[1], elem[2]);
-    }
-
-  } else if(indexOfElem === true && textOfElem === false) {
-    console.log('%c index of element is ', 'font-size: 16px; font-weight: bold; color: #005577;', textOfElem);
-
-    return function(elem) {
-      elem = [];
-
-      elem.push(siteLists.first.link.selectedIndex);
-      elem.push(siteLists.second.link.selectedIndex);
-      elem.push(siteLists.third.link.selectedIndex);
-      console.log('%c And elem var is ', 'font-size: 16px; font-weight: bold; color: #005577;', elem[0], elem[1], elem[2]);
-      return elem;
-    }
-
+  if(indexOfElem === true && textOfElem === true) {
+    console.log('Both args are true');
+    valueToReturn = storeIndexAndText();
+    console.log('$$$$$$$$$$$+++++++++$$$$$$$$$$+++++++++');
+    console.log(valueToReturn.elemement1);
+    console.log('$$$$$$$$$$$+++++++++$$$$$$$$$$+++++++++');
+    
+    return valueToReturn;
   } else {
-    console.log('%c index of element  and text of elem are ', 'font-size: 16px; font-weight: bold; color: #007755;', textOfElem, indexOfElem);
-
-    return function(elem1, elem2) {
-      elem1 = [];
-      elem2 = [];
-
-      elem1.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
-      elem1.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
-      elem1.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
-      console.log('%c And elem var is ', 'font-size: 16px; font-weight: bold; color: #007755;', elem1[0], elem1[1], elem1[2]);
-
-      elem2.push(siteLists.first.link.selectedIndex);
-      elem2.push(siteLists.second.link.selectedIndex);
-      elem2.push(siteLists.third.link.selectedIndex);
-      console.log('%c And elem var is ', 'font-size: 16px; font-weight: bold; color: #007755;', elem2[0], elem2[1], elem2[2]);
-
-      var elem3 = {
-        element1: elem1,
-        element2: elem2
-      }
-
-      return elem3;
-    }
-
+    console.log('one argument was not passed to the function');
+    valueToReturn = storeIndexAndText();
+    console.log('$$$$$$$$$$$+++++++++$$$$$$$$$$+++++++++2');
+    console.log(valueToReturn.element1.value);
+    console.log('$$$$$$$$$$$+++++++++$$$$$$$$$$+++++++++2');
+    return valueToReturn;
   }
+  return valueToReturn;
 }
 
 
@@ -123,14 +126,18 @@ function grabInputValues(element, index) {
   console.log('Txt node', data.signos[index].title);
   console.log('Txt node', data.casas[index].title);
 
-  var elementArrays = elementIndexesAndTexts();
-  console.log('%c array elements in an object ', 'font-size: 25px; color: #770077;', elementArrays);
+  let elementsIndexAndTexts = defineSelectedIndexInAnArray(true, true);
+  var elements = elementsIndexAndTexts;
+   console.log('+---------------------+');
+  console.log('+*+*+*+*' +  elements + '+*+*+*+*+*+');
+  console.log('+---------------------+');
+  b.innerHTML = elementsIndexAndTexts.elems;
 
   for(key in data.planets){
     //console.log('data planet content: ', data.planets[key].title);
     if (data.planets[key].title == element) {
       console.log('The title is: ', data.planets[key].title);
-      evaluatedValueToReturn.push(data.planets[key].title);
+      evaluatedValueToReturn.push(data.planets[key].title + siteLists.second.link.selectedIndex.value);
       console.log('Evaluated value to return: ', evaluatedValueToReturn);
       return evaluatedValueToReturn;
     } else {
