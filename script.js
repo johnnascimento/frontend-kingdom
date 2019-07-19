@@ -101,17 +101,10 @@ function defineSelectedIndexInAnArray(textOfElem, indexOfElem) {
   if(indexOfElem === true && textOfElem === true) {
     console.log('Both args are true');
     valueToReturn = storeIndexAndText();
-    console.log('$$$$$$$$$$$+++++++++$$$$$$$$$$+++++++++');
-    console.log(valueToReturn.elemement1);
-    console.log('$$$$$$$$$$$+++++++++$$$$$$$$$$+++++++++');
-    
     return valueToReturn;
   } else {
     console.log('one argument was not passed to the function');
     valueToReturn = storeIndexAndText();
-    console.log('$$$$$$$$$$$+++++++++$$$$$$$$$$+++++++++2');
-    console.log(valueToReturn.element1.value);
-    console.log('$$$$$$$$$$$+++++++++$$$$$$$$$$+++++++++2');
     return valueToReturn;
   }
   return valueToReturn;
@@ -127,17 +120,16 @@ function grabInputValues(element, index) {
   console.log('Txt node', data.casas[index].title);
 
   let elementsIndexAndTexts = defineSelectedIndexInAnArray(true, true);
-  var elements = elementsIndexAndTexts;
    console.log('+---------------------+');
-  console.log('+*+*+*+*' +  elements + '+*+*+*+*+*+');
+  console.log('+*+*+*+*' +  elementsIndexAndTexts.element1[i] + '+*+*+*+*+*+');
+  i++;
   console.log('+---------------------+');
-  b.innerHTML = elementsIndexAndTexts.elems;
 
   for(key in data.planets){
     //console.log('data planet content: ', data.planets[key].title);
     if (data.planets[key].title == element) {
       console.log('The title is: ', data.planets[key].title);
-      evaluatedValueToReturn.push(data.planets[key].title + siteLists.second.link.selectedIndex.value);
+      evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[1]);
       console.log('Evaluated value to return: ', evaluatedValueToReturn);
       return evaluatedValueToReturn;
     } else {
@@ -149,7 +141,7 @@ function grabInputValues(element, index) {
     //console.log('data planet content: ', data.planets[key].title);
     if (data.signos[key].title == element) {
       console.log('The title is: ', data.signos[key].title);
-      evaluatedValueToReturn.push(data.signos[key].title);
+      evaluatedValueToReturn.push(data.signos[key].text[elementsIndexAndTexts.element2[0] - 1]);
       console.log('Evaluated value to return: ', evaluatedValueToReturn);
       return evaluatedValueToReturn;
     } else {

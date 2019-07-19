@@ -69,7 +69,10 @@ var data = {
   ],
   signos: [{
     title: 'aries',
-    text: '1 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 aries',
+      'text 2 aries'
+      ]
   },
   {
     title: 'touro',
