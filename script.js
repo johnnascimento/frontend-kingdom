@@ -192,10 +192,10 @@ function indexChecker(){
   console.log('Selected index in Index Checker: ', elemReturned[1]);
 
   elemReturned.push(siteLists.third.link.selectedIndex);
-  console.log('Selected index in Index Checker: ', elemReturned[2]);
+ // console.log('Selected index in Index Checker: ', elemReturned[2]);
 
   elemReturned.reduce(function(a, b){
-     result = a === undefined ? result + b : result + a + b;
+     result = (a === undefined) ? result + b : result + a + b;
 
      console.log('%c A value is: ', 'font-size: 16px; color: #774400;', a);
      console.log('%c B value is: ', 'font-size: 16px; color: #774400;', b);
@@ -262,14 +262,18 @@ function addElementsToTemplate() {
   console.log('THIS IS THE ELEMENT PLACE HOLDER: ' + elemPlaceholder);
 
   for (var z = 0; z < templateArray.length; z++) {
-    if (siteLists.first.link.selectedIndex === 0 || siteLists.second.link.selectedIndex === 0 || siteLists.third.link.selectedIndex === 0) {
+    if (siteLists.first.link.selectedIndex === 0) {
       console.log('Element placeholder is Zero');
       return;
     } else {
-      if(siteLists.third.link.selectedIndex) {
-        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[z]);
+      if(siteLists.second.link.selectedIndex !== 0 && siteLists.third.link.selectedIndex === 0) {
+        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
+        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
+      } else if(siteLists.second.link.selectedIndex === 0 && siteLists.third.link.selectedIndex !== 0) {
+        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
+        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[2]);
       } else {
-        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, templateArray[z]);
+        console.log('$*$*$*$*$*$*$ else statemente. nothing\'ll be printed. ')
       }
     }
   }
