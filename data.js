@@ -1,171 +1,692 @@
 // 'Data' part
 // ------------------------------------------------------------------------
 var data = {
-  planets: [{
-    title: 'Sol em',
-    text: [
-      `Áries é um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida.
-
-      Qualidades: pioneirismo, entusiasmo, iniciativa, coragem, garra, espontaneidade, competitividade e energia. Áries quer desbravar, conquistar, caminhar sozinho, ser o senhor da sua vontade, ter autonomia e assumir o comando de seu destino.
-
-      O Sol se exalta em Áries e reforça suas qualidades, como a autoconfiança, a liderança, o poder e o espirito de liberdade. O Sol em Áries favorece a audácia e a impulsividade.
-
-      O Ariano tem necessidade de ir para além das suas possibilidades, buscar a sua emancipação a fim de poder realizar-se. O desejo de liberdade e de independência em relação à família é muito evidente. É difícil para um ariano admitir que outras pessoas venham meter o nariz nos seus assuntos.
-
-      Todavia, tem grande tenacidade, o que lhes permite muitas vezes levar a cabo projetos muito difíceis. É também sincero e inquieto. Outra dificuldade para o ariano é dar continuidade aos projetos e estudos, pois vencida a etapa inicial, têm tendência a perder o interesse.
-
-      Na saúde, as suas partes vulneráveis são: cérebro, nariz, cavidades sinuosas, orelhas, dentes e tudo o que engloba a cabeça no seu conjunto. É preciso prestar atenção particular à alimentação, pois podem ocorrer doenças alérgicas ou psicossomáticas, que são frequentemente resultado de um modo de vida anacrónico.
-
-      Deve estar atento à circulação sanguínea e vigiar os rins em particular: provavelmente se o seu regime de vida os maltrata. É recomendável a prática de esportes que exijam grande dispêndio de energia, o que lhe permite queimar as toxinas prejudiciais ao organismo e controlar a ansiedade.
-
-      Na via negativa, é preciso estar sempre atento à impaciência, à agressividade, à franqueza rude e desrespeitosa, à rivalidade e ao autoritarismo. O equilíbrio está no signo oposto, Libra, com suas qualidades de ponderação e equilíbrio.
-
-      O desafio é encontrar a harmonia, seja consigo mesmo ou em suas relações. Aprender a ceder quando necessário, dar lugar à vontade dos outros, ser mais manso e não ferir os demais.
-
-      Sendo mais ponderado, pode conseguir melhores resultados em seus projetos. Se o ariano consegue ir além de seu ego, transforma-se num herói, num guerreiro da Luz.`
-
-    ]
-  },
-  {
-    title: 'Lua',
-    text: 'Lua em '
-  },
-  {
-    title: 'Ascendente',
-    text: 'Ascebdente em'
-  },
-  {
-    title: 'Mercurio',
-    text: '1Marte text'
-  },
-  {
-    title: 'Terra',
-    text: '1Marte text'
-  },
-  {
-    title: 'Urano',
-    text: '1Marte text'
-  },
-  {
-    title: 'Netuno',
-    text: '1Marte text'
-  },
-  {
-    title: 'Plutao',
-    text: '1Marte text'
-  },
-  {
-    title: 'Saturno',
-    text: '1Marte text'
-  },
-  {
-    title: 'Marte 2',
-    text: '1Marte text'
-  },
-  {
-    title: 'Marte 3',
-    text: '1Marte text'
-  }
+  planets: [
+    {
+      title: 'Sol em',
+      id: 1
+    },
+    {
+      title: 'Netuno em',
+      id: 2
+    },
+    {
+      title: 'Plutão em',
+      id: 3
+    },
+    {
+      title: 'Nodos Lunares em',
+      id: 4
+    },
+    {
+      title: 'Parte da Fortuna em',
+      id: 5
+    },
+    {
+      title: 'Quíron em',
+      id: 6
+    },
+    {
+      title: 'Juno em',
+      id: 7
+    },
+    {
+      title: 'Lua em',
+      id: 8
+    },
+    {
+      title: 'Ascendente em',
+      id: 9
+    },
+    {
+      title: 'Mercúrio em',
+      id: 10
+    },
+    {
+      title: 'Vênus em',
+      id: 11
+    },
+    {
+      title: 'Marte em',
+      id: 12
+    },
+    {
+      title: 'Júpter em',
+      id: 13
+    },
+    {
+      title: 'Saturno em',
+      id: 14
+    },
+    {
+      title: 'Urano em',
+      id: 15
+    }
   ],
   signos: [{
     title: 'aries',
     text: [
-      'Text 1 aries',
-      'text 2 aries'
-      ]
+      'Text 1 Lorem ipsum',
+      'Text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'touro',
-    text: '2 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'gemeos',
-    text: '3 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'cancer',
-    text: '4 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'leao',
-    text: '5 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'virgem',
-    text: '6 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'lkra',
-    text: 'Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'escorpiao',
-    text: '7 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'sagitario',
-    text: '8 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'caprlornio',
-    text: '9 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'aquario',
-    text: '10 Lorem ipsum bla bla bla'
+    text: [
+      'Text 1 Lorem ipsum',
+      'text 2 Lorem ipsum',
+      'text 3 Lorem ipsum',
+      'text 4 Lorem ipsum',
+      'text 5 Lorem ipsum',
+      'text 6 Lorem ipsum',
+      'text 7 Lorem ipsum',
+      'text 8 Lorem ipsum',
+      'text 9 Lorem ipsum',
+      'text 10 Lorem ipsum',
+      'text 11 Lorem ipsum',
+      'text 12 Lorem ipsum',
+      'text 13 Lorem ipsum',
+      'text 14 Lorem ipsum',
+      'text 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'peixe',
-    text: '11 Lorem ipsum bla bla bla'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   }
   ],
   casas: [{
     title: 'Casa 1',
-    text: 'Casa 1 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 2',
-    text: 'Casa 2 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 3',
-    text: 'Casa 3 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 4',
-    text: 'Casa 4 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 5',
-    text: 'Casa 5 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 6',
-    text: 'Casa 6 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 7',
-    text: 'Casa 7 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 8',
-    text: 'Casa 8 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 9',
-    text: 'Casa 9 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 10',
-    text: 'Casa 10 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 11',
-    text: 'Casa 11 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   },
   {
     title: 'Casa 12',
-    text: 'Casa 12 text'
+    text: [
+      'Casa 1 Lorem ipsum',
+      'Casa 2 Lorem ipsum',
+      'Casa 3 Lorem ipsum',
+      'Casa 4 Lorem ipsum',
+      'Casa 5 Lorem ipsum',
+      'Casa 6 Lorem ipsum',
+      'Casa 7 Lorem ipsum',
+      'Casa 8 Lorem ipsum',
+      'Casa 9 Lorem ipsum',
+      'Casa 10 Lorem ipsum',
+      'Casa 11 Lorem ipsum',
+      'Casa 12 Lorem ipsum',
+      'Casa 13 Lorem ipsum',
+      'Casa 14 Lorem ipsum',
+      'Casa 15 Lorem ipsum'
+    ],
+    levels: [
+      'Nivel 1',
+      'Nivel 2',
+      'Nivel 3',
+      'Nivel 4',
+    ]
   }
   ]
 };
