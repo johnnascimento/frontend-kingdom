@@ -40,6 +40,7 @@ const siteLists = {
 const $submitBtn = d.querySelector('#submitBtn');
 const $contentSpotElem = d.querySelector('#contentSpot');
 const $inputSignoOrCasa = (elem) => { return d.querySelector(elem) };
+const $resetInput = (elem) => { return d.querySelector(elem) };
 var textBlockCounter = 0;
 let i = 0;
 
@@ -57,12 +58,12 @@ function criarEl(elType, assignmentReference, klass, id, selectorElem, textEl, e
   }
 }
 
-// 
+//
 // Used st the currying function for index and/or text
 // ---------------------------------------
 const storeIndexOrText = (elem) => {
   elems = [];
-  
+
   elem.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
   elem.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
   elem.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
@@ -74,22 +75,22 @@ const storeIndexAndText = (elem1, elem2, elems) => {
   elem1 = [];
   elem2 = [];
   elems = {};
-  
+
   elem1.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
   elem1.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
   elem1.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
   console.log('elem1 var is ' + elem1[0] + ' ' + elem1[1] + ' ' + elem1[2]);
-  
+
   elem2.push(siteLists.first.link.selectedIndex);
   elem2.push(siteLists.second.link.selectedIndex);
   elem2.push(siteLists.third.link.selectedIndex);
   console.log('elem2 var is ' + elem2[0] + ' ' + elem2[1] + ' ' + elem2[2]);
-  
+
   elems = {
     element1: elem1,
     element2: elem2
   };
-  
+
   return elems;
 };
 
@@ -105,7 +106,7 @@ function defineSelectedIndexInAnArray(textOfElem, indexOfElem) {
     return valueToReturn;
   } else {
     console.log('one argument was not passed to the function');
-    valueToReturn = storeIndexAndText();
+    valueToReturn = storeIndexOrText();
     return valueToReturn;
   }
   return valueToReturn;
@@ -159,8 +160,8 @@ function grabInputValues(element, index) {
     //console.log('data planet content: ', data.planets[key].title);
     if (data.casas[key].title == element) {
       console.log('The title is: ', data.casas[key].title);
-      evaluatedValueToReturn.push(data.casas[key].title);
-      console.log('Evaluated value to return: ', evaluatedValueToReturn);
+      evaluatedValueToReturn.push(data.casas[key].text[elementsIndexAndTexts.element2[0] - 1]);
+      console.log('%c Evaluated value to return: ', 'font-size: 30px; color: red; font-weight: bold;', evaluatedValueToReturn);
       return evaluatedValueToReturn;
     } else {
       console.log('It\'s not data planets');
@@ -236,6 +237,7 @@ function addElementsToTemplate() {
   var templateArray = [];
   var selectedItemsArray = [];
   var indexCheckerVar;
+  let getSelectedIndexInArray = defineSelectedIndexInAnArray(true, true);
 
   // Used in the function bellow
   klassAssigner = 'textBlockWrapper-' + textBlockCounter;
@@ -247,7 +249,7 @@ function addElementsToTemplate() {
   indexCheckerVar = indexChecker();
 
 
-  if (indexCheckerVar == true) {
+  if (getSelectedIndexInArray.element2[0] !== 0 && indexCheckerVar == true) {
     // Create a for loop to test if there's any textBlockWrapper already created and empty.If so, grab the empty guy and add the value to it.
     criarEl('div', 'contentSpot', klassAssigner, idAssigner, null, '');
     criarEl('div', 'textBlockWrapper-' + textBlockCounter, 'trashcan', 'trashcanId', null, 'x');
@@ -272,20 +274,16 @@ function addElementsToTemplate() {
       console.log('Element placeholder is Zero');
       return;
     } else {
-      if(siteLists.second.link.selectedIndex !== 0 && siteLists.third.link.selectedIndex === 0) {
+      if(siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex === 0 && siteLists.third.link.selectedIndex === 0) {
+
+        return;
+
+      } else if(siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex !== 0 || siteLists.third.link.selectedIndex !== 0) {
+
         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
         return;
-        
-      } else if(siteLists.second.link.selectedIndex === 0 && siteLists.third.link.selectedIndex !== 0) {
-        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
-        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[2]);
-        return;
-      } else if(siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex !== 0 && siteLists.third.link.selectedIndex !== 0) {
-        //criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[z]);
-        return;
-      } else {
-        console.log('$*$*$*$*$*$*$ else statemente. nothing\'ll be printed. ');
+
       }
     }
   }
@@ -334,26 +332,33 @@ function fillFormIn(obj, listNumber) {
   fillFormIn(data.signos, 2);
   fillFormIn(data.casas, 3);
   $submitBtn.addEventListener('click', addElementsToTemplate);
-  
+
+  // Control the buttons' behaviour
+  // ------------------------------------------------------------------------------------------
   $inputSignoOrCasa('.listOfItems-2').addEventListener('change', (ev) => {
     if(ev.target.selectedIndex !== 0) {
-      console.log('btn 2, changing 3 to disabled');
       return d.querySelector('.listOfItems-3').setAttribute('disabled', true);
     }
+
     if(ev.target.selectedIndex === 0) {
-      console.log('btn 2, changing 3 to enabled');
       return d.querySelector('.listOfItems-3').removeAttribute('disabled');
     }
   });
-  
+
   $inputSignoOrCasa('.listOfItems-3').addEventListener('change', (ev) => {
     if(ev.target.selectedIndex !== 0) {
-      console.log('btn 3, changing  to disabled');
       return d.querySelector('.listOfItems-2').setAttribute('disabled', true);
     }
+
     if(ev.target.selectedIndex === 0) {
-      console.log('btn 3, changing 2 to enabled');
       return d.querySelector('.listOfItems-2').removeAttribute('disabled');
     }
   });
+
+  console.log('RESET BTN',$resetInput('input[type=\"reset\"]'));
+  $resetInput('input[type=\"reset\"]').addEventListener('click', (ev) => {
+    d.querySelector('.listOfItems-2').removeAttribute('disabled');
+    d.querySelector('.listOfItems-3').removeAttribute('disabled');
+    return;
+  })
 };
