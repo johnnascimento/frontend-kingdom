@@ -39,6 +39,7 @@ const siteLists = {
 
 const $submitBtn = d.querySelector('#submitBtn');
 const $contentSpotElem = d.querySelector('#contentSpot');
+const $inputSignoOrCasa = (elem) => { return d.querySelector(elem) };
 var textBlockCounter = 0;
 let i = 0;
 
@@ -129,8 +130,13 @@ function grabInputValues(element, index) {
     //console.log('data planet content: ', data.planets[key].title);
     if (data.planets[key].title == element) {
       console.log('The title is: ', data.planets[key].title);
-      evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[1]);
-      console.log('Evaluated value to return: ', evaluatedValueToReturn);
+      if(elementsIndexAndTexts.element2[1] === 0 && elementsIndexAndTexts.element2[2] !== 0) {
+        evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[2]);
+        console.log('Evaluated value to return: ', evaluatedValueToReturn);
+      } else if(elementsIndexAndTexts.element2[1] !== 0 && elementsIndexAndTexts.element2[2] === 0) {
+        evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[1]);
+        console.log('Evaluated value to return: ', evaluatedValueToReturn);
+      }
       return evaluatedValueToReturn;
     } else {
       console.log('It\'s not data planets');
@@ -269,11 +275,17 @@ function addElementsToTemplate() {
       if(siteLists.second.link.selectedIndex !== 0 && siteLists.third.link.selectedIndex === 0) {
         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
+        return;
+        
       } else if(siteLists.second.link.selectedIndex === 0 && siteLists.third.link.selectedIndex !== 0) {
         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[2]);
+        return;
+      } else if(siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex !== 0 && siteLists.third.link.selectedIndex !== 0) {
+        //criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[z]);
+        return;
       } else {
-        console.log('$*$*$*$*$*$*$ else statemente. nothing\'ll be printed. ')
+        console.log('$*$*$*$*$*$*$ else statemente. nothing\'ll be printed. ');
       }
     }
   }
@@ -322,5 +334,26 @@ function fillFormIn(obj, listNumber) {
   fillFormIn(data.signos, 2);
   fillFormIn(data.casas, 3);
   $submitBtn.addEventListener('click', addElementsToTemplate);
-
+  
+  $inputSignoOrCasa('.listOfItems-2').addEventListener('change', (ev) => {
+    if(ev.target.selectedIndex !== 0) {
+      console.log('btn 2, changing 3 to disabled');
+      return d.querySelector('.listOfItems-3').setAttribute('disabled', true);
+    }
+    if(ev.target.selectedIndex === 0) {
+      console.log('btn 2, changing 3 to enabled');
+      return d.querySelector('.listOfItems-3').removeAttribute('disabled');
+    }
+  });
+  
+  $inputSignoOrCasa('.listOfItems-3').addEventListener('change', (ev) => {
+    if(ev.target.selectedIndex !== 0) {
+      console.log('btn 3, changing  to disabled');
+      return d.querySelector('.listOfItems-2').setAttribute('disabled', true);
+    }
+    if(ev.target.selectedIndex === 0) {
+      console.log('btn 3, changing 2 to enabled');
+      return d.querySelector('.listOfItems-2').removeAttribute('disabled');
+    }
+  });
 };
