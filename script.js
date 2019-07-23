@@ -224,6 +224,12 @@ function indexChecker(){
   }
 }
 
+function deleteTextBlock(ev) {
+  console.log('DeleteTextBlock is running sound!');
+  ev.parentNode.remove();
+  console.log('Ev.parentNode', ev.parentNode);
+}
+
 
 function addElementsToTemplate() {
   console.log('addElementsToTemplate is running sound');
@@ -249,10 +255,13 @@ function addElementsToTemplate() {
   indexCheckerVar = indexChecker();
 
 
-  if (getSelectedIndexInArray.element2[0] !== 0 && indexCheckerVar == true) {
+  if (getSelectedIndexInArray.element2[0] !== 0 && getSelectedIndexInArray.element2[1] !== 0 || getSelectedIndexInArray.element2[2] !== 0 && indexCheckerVar === true) {
     // Create a for loop to test if there's any textBlockWrapper already created and empty.If so, grab the empty guy and add the value to it.
     criarEl('div', 'contentSpot', klassAssigner, idAssigner, null, '');
-    criarEl('div', 'textBlockWrapper-' + textBlockCounter, 'trashcan', 'trashcanId', null, 'x');
+    criarEl('div', 'textBlockWrapper-' + textBlockCounter, 'trashcan-' + textBlockCounter, 'trashcanId', null, 'x');
+
+    let trashCanClass = docQuery('.trashcan-' + textBlockCounter);
+    trashCanClass.addEventListener('click', (ev) => { return deleteTextBlock(ev.target) });
 
     textBlockCounter++;
 
