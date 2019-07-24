@@ -396,10 +396,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -422,10 +422,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -448,10 +448,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -474,10 +474,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -500,10 +500,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -526,10 +526,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -552,10 +552,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -578,10 +578,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -604,10 +604,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -630,10 +630,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -656,10 +656,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   },
   {
@@ -682,10 +682,10 @@ var data = {
       'Casa 15 Lorem ipsum'
     ],
     levels: [
-      'Nivel 1',
-      'Nivel 2',
-      'Nivel 3',
-      'Nivel 4',
+      'Nível casa 1',
+      'Nível casa 2',
+      'Nível casa 3',
+      'Nível casa 4',
     ]
   }
   ]
