@@ -1,6 +1,8 @@
 // 'Data' part
 // ------------------------------------------------------------------------
-var data = {
+let lineBreaker = "<br />";
+
+const data = {
   planets: [
     {
       title: 'Sol em',
@@ -66,7 +68,8 @@ var data = {
   signos: [{
     title: 'aries',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+       Text lorem ipsum`,
       'Text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -92,7 +95,8 @@ var data = {
   {
     title: 'touro',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -118,7 +122,8 @@ var data = {
   {
     title: 'gemeos',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -144,7 +149,8 @@ var data = {
   {
     title: 'cancer',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -170,7 +176,8 @@ var data = {
   {
     title: 'leao',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -196,7 +203,8 @@ var data = {
   {
     title: 'virgem',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -222,7 +230,8 @@ var data = {
   {
     title: 'lkra',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -248,7 +257,8 @@ var data = {
   {
     title: 'escorpiao',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -274,7 +284,7 @@ var data = {
   {
     title: 'sagitario',
     text: [
-      'Text 1 Lorem ipsum',
+      'Text 1 lorem ipsum \n Text lorem ipsum',
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -300,7 +310,8 @@ var data = {
   {
     title: 'caprlornio',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
@@ -326,7 +337,8 @@ var data = {
   {
     title: 'aquario',
     text: [
-      'Text 1 Lorem ipsum',
+      `Text 1 lorem ipsum
+      Text lorem ipsum`,
       'text 2 Lorem ipsum',
       'text 3 Lorem ipsum',
       'text 4 Lorem ipsum',
