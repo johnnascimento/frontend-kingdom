@@ -51,11 +51,14 @@ window.onload = () => {
     const criarEl = (elType, assignmentReference, klass, id, selectorElem, textEl, el) => {
         el = d.createElement(elType);
         el.classList.add(klass);
+        el.id = id;
         el.appendChild(d.createTextNode(textEl));
         if (selectorElem === undefined || selectorElem === null) {
             docQuery('.' + assignmentReference).appendChild(el);
         } else {
-            docQuery(selectorElem + assignmentReference).appendChild(el);
+            setTimeout(function(){
+                docQuery(selectorElem + assignmentReference).appendChild(el);
+            }, 1000);
         }
     }
 
@@ -112,6 +115,7 @@ window.onload = () => {
     const grabInputValues = (element, index) => {
         console.log('Grab input values is running sound!');
         let elementsIndexAndTexts = defineSelectedIndexInAnArray(true, true);
+        level = [];
 
         for (key in data.planets) {
             if (data.planets[key].title == element) {
@@ -131,10 +135,10 @@ window.onload = () => {
             if (data.signos[key].title == element) {
                 evaluatedValueToReturn.push(data.signos[key].text[elementsIndexAndTexts.element2[0] - 1]);
 
-                levels = [];
+                arrayReferenceForLevels = data.signos[key].levels[elementsIndexAndTexts.element2[0] - 1];
 
-                for (let i = 0; i < data.signos[key].levels.length; i++) {
-                    levels.push(data.signos[key].levels[i]);
+                for (i = 0; i < arrayReferenceForLevels.length; i++) {
+                    levels.push(arrayReferenceForLevels[i]);
                 }
 
                 return evaluatedValueToReturn;
@@ -147,10 +151,10 @@ window.onload = () => {
             if (data.casas[key].title == element) {
                 evaluatedValueToReturn.push(data.casas[key].text[elementsIndexAndTexts.element2[0] - 1]);
 
-                levels = [];
+                arrayReferenceForLevels = data.casas[key].levels[elementsIndexAndTexts.element2[0] - 1];
 
-                for (let i = 0; i < data.signos[key].levels.length; i++) {
-                    levels.push(data.casas[key].levels[i]);
+                for (i = 0; i < arrayReferenceForLevels.length; i++) {
+                    levels.push(arrayReferenceForLevels[i]);
                 }
 
                 return evaluatedValueToReturn;
@@ -238,10 +242,12 @@ window.onload = () => {
 
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
+
+                    // This first element needs fixing
+                    criarEl('strong', 'levelsId-1', 'level-'+1, 'level-id-'+textBlockCounter, '#', 'TITLE TEST');
                     criarEl('p', klassAssigner, 'levelsClass', 'levelsId-1', null, levels[0]);
                     criarEl('p', klassAssigner, 'levelsClass', 'levelsId-2', null, levels[1]);
                     criarEl('p', klassAssigner, 'levelsClass', 'levelsId-3', null, levels[2]);
-                    criarEl('p', klassAssigner, 'levelsClass', 'levelsId-4', null, levels[3]);
                     return;
 
                 }
