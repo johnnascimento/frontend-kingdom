@@ -5,7 +5,7 @@
 /* css style sheet */
 body {
   font-family: Arial, Verdana, sans-serif;
-  font-size: 0.8em;
+  font-size: 62.5%;
   margin:  0;
 }
 
@@ -18,8 +18,9 @@ body {
   color:white;
 }
 input {
-  font-size: 16px;
+  font-size: 1.6rem;
 }
+
 nav, section, article {
   margin: 5px;
   padding: 5px;
@@ -38,7 +39,7 @@ header, footer {
 }
 
 header {
-  font-size: 26px;
+  font-size: 2.6rem;
   color: #454545;
   text-align: center;
 }
@@ -50,29 +51,32 @@ nav ul {
 }
 
 nav ul li {
-  display: inline;
+  display: inline-block;
   margin: 5px;
 }
 
 /* Body
 -----------------------------------*/
 
-section.contentWrapper {
+.contentWrapper {
   width: auto;
   position: relative;
   display: block;
   background-color: #FFF;
 }
-.contentSpotWrapper, .formSpot {
+
+.contentSpotWrapper,
+.formSpot {
   width:40%;
-  height: 300px;
+  min-height: 300px;
   display: inline-block;
   position: relative;
   background-color: #efefef;
   border: 2px solid #e8e8e8;
   margin: 0;
-  padding: 8px 8px;
+  padding: 8px;
 }
+
 .contentSpotWrapper {
   float:right;
   height: auto;
@@ -117,10 +121,10 @@ div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
 .formSpot form select {
   width: 100%;
   display: block;
-  height: 40px;
+  min-height: 60px;
   padding: 8px;
-  margin: 10px 0;
-  font-size: 16px;
+  margin: 16px 0;
+  font-size: 1.4rem;
 }
 
 .outputClass {
@@ -130,9 +134,68 @@ div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
 }
 
 div[class^="textBlockWrapper-"]:nth-child(odd) {
- background-color: #007733;
+  background-color: #007733;
 }
 
 div[class^="textBlockWrapper-"]:nth-child(even) {
   background-color: #773300;
+}
+
+@media only screen and (max-width: 768px) {
+  body .contentSpotWrapper,
+  body .formSpot {
+    width: 100%;
+    padding: 0;
+    margin: 8px 0;
+    display: block;
+    position: relative;
+    background-color: lightyellow;
+  }
+  
+  .formSpot .selectForm {
+    padding: 16px;
+    margin: 4px;
+  }
+  
+  body .pageTitle {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #E5255E;
+    text-align: center;
+    
+    padding: 4px 0;
+    margin: 4px auto;
+    display: block;
+    position: relative;
+  }
+  
+  body .contentSpot p {
+    font-size: 1.6rem;
+  }
+  
+  #mainForm1 {
+    height: auto;
+    width: 100%;
+    position: relative;
+  }
+  
+  input[type="button"],
+  input[type="reset"] {
+    width: 100%;
+    min-height: 50px; 
+    border: none;
+    box-shadow: none;
+    
+    margin: 8px 0;
+  }
+  
+  input[type="button"] {
+    background-color: lightgreen;
+  }
+  
+  input[type="reset"] {
+    background-color: transparent;
+    border: 1px solid lightgreen;
+    color: lightgreen;
+  }
 }
