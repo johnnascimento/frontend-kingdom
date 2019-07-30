@@ -109,7 +109,7 @@ window.onload = () => {
             return valueToReturn;
         }
         return valueToReturn;
-    }
+    };
 
 
     const grabInputValues = (element, index) => {
@@ -121,7 +121,7 @@ window.onload = () => {
             if (data.planets[key].title == element) {
                 if (elementsIndexAndTexts.element2[1] === 0 && elementsIndexAndTexts.element2[2] !== 0) {
                     evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[2]);
-                } else if (elementsIndexAndTexts.element2[1] !== 0 && elementsIndexAndTexts.element2[2] === 0) {
+                } else if (elementsIndexAndTexts.element1[0] !== 0 && elementsIndexAndTexts.element2[2] === 0) {
                     evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[1]);
                 }
 
@@ -137,9 +137,15 @@ window.onload = () => {
 
                 arrayReferenceForLevels = data.signos[key].levels[elementsIndexAndTexts.element2[0] - 1];
 
+              if(elementsIndexAndTexts.element2[0] === 1) {
+                console.log("&&&&&&&&&& IF in signos");
                 for (i = 0; i < arrayReferenceForLevels.length; i++) {
                     levels.push(arrayReferenceForLevels[i]);
                 }
+              } else {
+                console.log("***** Else in levels signos");
+                levels.push("");
+              }
 
                 return evaluatedValueToReturn;
             } else {
@@ -153,8 +159,14 @@ window.onload = () => {
 
                 arrayReferenceForLevels = data.casas[key].levels[elementsIndexAndTexts.element2[0] - 1];
 
-                for (i = 0; i < arrayReferenceForLevels.length; i++) {
+                if(elementsIndexAndTexts.element2[0] === 1) {
+                  console.log("&&&&&&&&&& IF in casas" + elementsIndexAndTexts.element2[0]);
+                  for (i = 0; i < arrayReferenceForLevels.length; i++) {
                     levels.push(arrayReferenceForLevels[i]);
+                  }
+                } else {
+                  console.log("***** Else in levels casas");
+                  levels.push("");
                 }
 
                 return evaluatedValueToReturn;
@@ -163,7 +175,7 @@ window.onload = () => {
             }
         }
         return evaluatedValueToReturn;
-    }
+    };
 
 
     const setUpTextForTemplate = (indexSelectedArray) => {
