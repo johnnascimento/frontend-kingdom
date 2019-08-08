@@ -254,12 +254,14 @@ window.onload = () => {
 
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
-
+                    
+                    if (siteLists.first.link.selectedIndex === 1){
                     // This first element needs fixing
-                    criarEl('strong', 'levelsId-1', 'level-'+1, 'level-id-'+textBlockCounter, '#', 'TITLE TEST');
+                    
                     criarEl('p', klassAssigner, 'levelsClass', 'levelsId-1', null, levels[0]);
                     criarEl('p', klassAssigner, 'levelsClass', 'levelsId-2', null, levels[1]);
                     criarEl('p', klassAssigner, 'levelsClass', 'levelsId-3', null, levels[2]);
+                    }
                     return;
 
                 }
