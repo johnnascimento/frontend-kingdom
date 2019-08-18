@@ -39,10 +39,10 @@ window.onload = () => {
     const $submitBtn = docQuery('#submitBtn');
     const $contentSpotElem = docQuery('#contentSpot');
     const $inputSignoOrCasa = (elem) => {
-        return docQuery(elem)
+        return docQuery(elem);
     };
     const $resetInput = (elem) => {
-        return docQuery(elem)
+        return docQuery(elem);
     };
     var textBlockCounter = 0;
     let i = 0;
@@ -60,7 +60,7 @@ window.onload = () => {
                 docQuery(selectorElem + assignmentReference).appendChild(el);
             }, 1000);
         }
-    }
+    };
 
     //
     // Used st the currying function for index and/or text
