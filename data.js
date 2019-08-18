@@ -112,7 +112,13 @@ const data = {
         
         Portanto, num relacionamento de longo prazo é necessário contar sempre com algo novo e excitante. Quem tem Vênus em Áries deve aprender a ser criativo no amor, deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura.
         `,
-      `text 6 Lorem ipsum`,
+      `Marte está domiciliado no signo de Áries, expressa aqui todo o seu potencial. Indica boa energia vital, entusiasmo, capacidade de conquista, impulsividade, audácia, gosto por aventura, ousadia, espírito empreendedor e pioneiro.
+        
+        Confere boa vitalidade e energia física e sexual. Boa fertilidade. A pessoa com esse Marte adora os esportes e adora competir, querendo chegar sempre em primeiro lugar. Tem necessidade de canalizar as energias de forma física.
+        
+        Impaciente e apressado pode passar por cima dos outros, por querer estar sempre um passo à frente. Na via negativa, é preciso trabalhar o descontrole nas ações e palavras.
+        
+        Tamanha energia pode ser geradora de violência, agressividade excessiva, impaciência que causa acidentes de todo tipo e principalmente perigo com armas, fogo, acidentes de carro e quedas. Também pode provocar dores de cabeça, ferimentos na cabeça ou no rosto.`,
       `text 7 Lorem ipsum`,
       `text 8 Lorem ipsum`,
       `text 9 Lorem ipsum`,
@@ -186,7 +192,13 @@ const data = {
         
         O amor é caloroso e sensual. Aprecia o luxo e pode gastar muito com seus cuidados pessoais, podendo até exceder no luxo para ostentar suas posses.`,
 
-      `text 6 Lorem ipsum`,
+      `Marte neste signo indica grande capacidade de trabalho e espírito de iniciativa relacionada com gestão de bens e geração de lucros. Indica também capacidade de decisão, firmeza de caráter e teimosia.
+        
+        O nativo age com determinação em busca de conforto e prazeres físicos para obter satisfação imediata. Suas ações e gestos serão lentos, mas determinados. Pode se expressar de forma plástica mesmo em atividades artísticas.
+        
+        Tem boa libido e boa expressão de sua sexualidade, que será mesclada com a sensualidade. Boa fertilidade. É preciso cuidado com a força bruta, com gastos impulsivos e excessivos em busca de prazer imediato.
+        
+        Pode cometer ações de violência para defender seus bens e agir com excessos por questões de dinheiro. Com a teimosia excessiva e o ciúme.`,
 
       `text 7 Lorem ipsum`,
 
@@ -272,7 +284,13 @@ const data = {
         
         Por outro lado, corre o risco de escapar de forma escorregadia em situações que precisam de enfrentamento. Se conseguir compreender que algumas situações devem ser encaradas, seu poder de negociação pode ajudá-lo a conseguir um bom desenlace.`,
 
-      `text 6 Lorem ipsum`,
+      `Essa posição de Marte indica uma pessoa cheia de recursos e expedientes, um espírito sempre pronto para a discussão. Possui ímpeto oratório e resposta sempre pronta.
+        
+        A boa atividade mental lhe confere capacidade para encontrar soluções engenhosas face às dificuldades eventuais. Canaliza as energias na forma intelectual, estando sempre disposto a aprender e a melhorar seus conhecimentos.
+        
+        Pode expressar-se na dança e em outras atividades onde o movimento se une à ação. Adora viajar. Tem espírito gozador e brincalhão. Poderá expressar sua sexualidade de forma instável, sem muito ímpeto, necessitando de estimulo variado e constante. Baixa fertilidade.
+        
+        É preciso atenção para não dissipar energia em ações inúteis e sem sentido. O espírito crítico pode levar a discussões ou brigas. É preciso cuidado também com irritações nas vias respiratórias.`,
 
       `text 7 Lorem ipsum`,
 
@@ -354,7 +372,21 @@ const data = {
         
         Porém, a sua fragilidade emocional exagerada pode causar estragos num relacionamento, especialmente quando o parceiro não perceber a fragilidade de seus sentimentos, magoando-os, sem demonstrações de afeto ou envolvimento emocional.`,
 
-      `text 6 Lorem ipsum`,
+      `:
+      Essa posição de Marte indica uma pessoa cujas iniciativas serão voltadas principalmente em prol da família e do larPossui senso de liderança e autoridade com a família e age com firmeza dentro do ambiente familiar.
+        
+        Pode ter profissões relacionadas com atividades públicas ou voltadas para o conforto do lar e da mulher. A emotividade torna essa pessoa suscetível às críticas, às quais pode reagir de maneira emocional.
+        
+        Esta posição do planeta não Essa posição de Marte indica uma pessoa cheia de recursos e expedientes, um espírito sempre pronto para a discussão. Possui ímpeto oratório e resposta sempre pronta.
+        
+        A boa atividade mental lhe confere capacidade para encontrar soluções engenhosas face às dificuldades eventuais. Canaliza as energias na forma intelectual, estando sempre disposto a aprender e a melhorar seus conhecimentos.
+        
+        Pode expressar-se na dança e em outras atividades onde o movimento se une à ação. Adora viajar. Tem espírito gozador e brincalhão. Poderá expressar sua sexualidade de forma instável, sem muito ímpeto, necessitando de estimulo variado e constante. Baixa fertilidade.
+        
+        É preciso atenção para não dissipar energia em ações inúteis e sem sentido. O espírito crítico pode levar a discussões ou brigas. É preciso cuidado também com irritações nas vias respiratórias.
+          é muito favorável à expressão da libido e por essa razão pode buscar prazeres e expressões mais emocionais e sentimentais. Tem boa fertilidade.
+          
+          É preciso cuidado com disputas domésticas, pois pode se expressar de forma autoritária com seus parentes e familiares. Existe o perigo de se envolver em acidentes domésticos. Cuidado também com problemas digestivos e dores de estômago.`,
 
       `text 7 Lorem ipsum`,
 
@@ -437,7 +469,13 @@ const data = {
         
         Quando está apaixonado, se entrega de corpo e alma. Pode dedicar um amor generoso e devotado e fiel, fazendo de tudo para oferecer o melhor de si ao seu parceiro.`,
 
-      `text 6 Lorem ipsum`,
+      `O nativo com essa posição de Marte expressa sua ação com honra e responsabilidade. Tem capacidade de liderança, espírito independente e audaz, entusiasmo, energia para tomar decisões e agir buscando alcançar seus objetivos.
+        
+        Esse Marte indica franqueza e lealdade de caráter sendo a expressão da liderança e do comando. Quem possui esse Marte pode viver amores intensos, onde o sexo será primordial. A libido é ótima e a fertilidade garantida.
+        
+        Gosta de esportes e precisa se exibir em atividades onde possa expressar sua posição de rei, recebendo elogios e honrarias. Poderá voltar-se também às atividades artísticas onde terá espírito de iniciativa e poder de liderança.
+        
+        É preciso cuidado com a tendência de impor sua vontade sobre os outros de forma arrogante. Pode envolver-se em disputas por amor, viver paixões violentas ou súbitas, onde poderá exigir exclusividade. Esse Marte desaconselha os investimentos de risco e as especulações.`,
 
       `text 7 Lorem ipsum`,
 
@@ -529,7 +567,12 @@ const data = {
         
         Necessita de rituais nos momentos mais íntimos, mas não tolera exageros.`,
 
-      `text 6 Lorem ipsum`,
+      `
+      O nativo com Marte em Virgem é eficiente, possui habilidade e engenhosidade manual e até mesmo mental. Poderá ter interesse por mecânica ou engenharia. A capacidade organizativa poderá se traduzir no bom andamento das tarefas rotineiras que executará com diligência.
+        
+        Esta colocação de Marte indica uma boa vitalidade e capacidade de recuperação rápida em caso de doença. A sua expressão sexual pode ser cautelosa, nos termos tradicionais, sem arroubos fogosos, mas é capaz de produzir um prazer duradouro. Mas essa posição de Marte indica pouca fertilidade.
+        
+        É preciso observar o caráter suscetível, que se aborrece por causa de pequenos detalhes. O descontentamento pode provocar disputas com subalternos e colegas. O espírito excessivamente crítico pode provocar seu envolvimento em discussões. Risco de inflamações ou cirurgias intestinais.`,
 
       `text 7 Lorem ipsum`,
 
@@ -623,7 +666,17 @@ const data = {
         
         Capazes de uma sedução sutil e diplomática atraem aquilo que desejam, sem se impor ao parceiro que escolheu.`,
 
-      `text 6 Lorem ipsum`,
+      `A pessoa com esse Marte pode focalizar suas iniciativas em favor da arte e da dança, principalmente. A qualidade do movimento e a expressão corporal são balanceadas pela necessidade de se expressar de forma plástica e bela.
+        
+        Poderá exibir ardor em matéria de amor podendo se casar precocemente, por paixão. Quem possui Marte nesse signo tem capacidade de afirmação em grupos ou sociedade e bom poder de liderança.
+        
+        Consegue alcançar suas metas sem se impor. Poderá agir como apaziguador em disputas, mesmo legais. Marte nesse signo indica pouca fertilidade.
+        
+        Mesmo com pouco poder de ação, por estar “exilado” em Libra, Marte poderá agir como catalisador, ou seja, a pessoa pode sofrer passivamente a agressividade dos outros.
+        
+        É preciso cuidado para não se envolver em conflitos conjugais, disputas e brigas com parceiros ou sócios. Nos grupos sociais terá tendência a promover-se individualmente.
+        
+        Aprendizado: agir com a aprovação do outro, agir em conjunto. Expressar a vontade própria sem se indispor. Tomar iniciativas com mais delicadeza, prudência, diplomacia. Pautar as ações com estratégia, ou invés de impor vontades. Ter jogo de cintura.`,
 
       `text 7 Lorem ipsum`,
 
@@ -717,7 +770,13 @@ const data = {
         
         A sua sensualidade irá se expressar de maneira tão intensa que poderá se exceder nos jogos eróticos mais proibidos. Para manter a chama desta Vênus sempre acesa é necessária muita imaginação, pois sem sexo não haverá relacionamento.`,
 
-      `text 6 Lorem ipsum`,
+      `Essa posição de Marte acrescenta ‘lenha na fogueira’. Marte é o antigo regente deste signo, podendo se expressar aqui com muita intensidade. Indica um grande poder de liderança e muita coragem e espírito de iniciativa.
+        
+        O nativo tem ambição para chegar a lugares de comando, de onde irá dirigir suas ações. Com a capacidade de estratégia de um verdadeiro ‘general’ quem possui este Marte pode ter inclinação pela política. Muitos psicanalistas e também muitos cirurgiões possuem Marte neste signo.
+        
+        Sujeito a paixões intensas e gosta de sexo erótico como ninguém, não se satisfazendo com amores mornos ou românticos. Tem grande fertilidade. É preciso cuidado com paixões violentas, excessos sexuais e expressões onde o sexo e a agressividade estão juntos.
+        
+        Cuidado também com disputas, para não impor sua vontade com violência. Indivíduos menos evoluídos podem ser manipuladores e maquiavélicos, com espírito vingativo e excessivamente ciumento. Ficam sujeitos a sofrer de todo tipo de violência, mesmo sexual.`,
 
       `text 7 Lorem ipsum`,
 
@@ -814,7 +873,18 @@ const data = {
         
         Caso contrário, a paixão se esvairá tão rapidamente como quando iniciou. As viagens e as aventuras em comum servirão como estímulo para manter a fogueira acesa.`,
 
-      `text 6 Lorem ipsum`,
+      `
+      O nativo com Marte nesse signo adora uma boa discussão. Pode se tornar ator, professor ou orador somente para expor sua opinião. Suas ações serão fortes e determinadas, demonstrando franqueza e força de caráter.
+        
+        Sente atração pelos esportes radicais, os exercícios físicos violentos e perigosos, amando as corridas de alta velocidade. Aventureiro, mesmo no amor, pode partir em busca de novas conquistas sempre que cansar da anterior.
+        
+        Com pressa de atingir o seu alvo, não poupará esforços para conseguir seus objetivos. Pode dirigir suas ações em atividades ligadas às leis, comercio exterior ou turismo.
+        
+        Espaçoso, quem possui Marte nessa posição dificilmente aceita imposições ou limitações. Ardente na expressão sexual pode ser um amante fogoso e eficiente. Tem boa fertilidade.
+        
+        É preciso ser cuidadoso ao fazer esportes radicais, pois fica exposto a sofrer acidentes. A imprudência e a temeridade podem fazê-lo cometer excessos na pressa de alcançar seus objetivos.
+        
+        Cético em relação à opinião dos outros, pode expressar suas ideias de forma arrogante e com ar de superioridade. Cuidado com a pressa para evitar acidentes em viagens.`,
 
       `text 7 Lorem ipsum`,
 
@@ -907,7 +977,13 @@ const data = {
         
         O nativo com essa Vênus não cai sob as flechas de Cupido, mas prefere um amor pragmático e prático, capaz de criar alicerces sólidos para o futuro, dentro dos moldes da família tradicional.`,
 
-      `text 6 Lorem ipsum`,
+      `Marte se encontra exaltado neste signo, indicando que quem possui essa característica tem um poder inato para se tornar líder. Com força de caráter e grande controle de si próprio, a pessoa age com tenacidade em busca de seus objetivos.
+        
+        Ambicioso, alcança o sucesso com determinação sólida e senso de responsabilidade. Possui muita força para exercer sua atividade profissional. Na expressão sexual é firme e sólido, mas dentro dos limites impostos pela moral.
+        
+        Quem possui esse tipo de Marte irá se expressar dificilmente num erotismo irracional ou passional. Esse Marte é moderadamente fértil. Disposto a se superar sempre, quem possui Marte aflito em Capricórnio deve há excesso de teimosia e obstinação.
+        
+        As suas ações tendem a ser por demais determinadas, podendo parecer impositivas e arrogantes. Disputas com colegas e superiores podem causar prejuízos à carreira.`,
 
       `text 7 Lorem ipsum`,
 
@@ -1010,7 +1086,16 @@ const data = {
         
         O amor pode sobreviver mesmo à distância, pela internet, morando em casas separadas ou se encontrando sem prévio aviso, aleatoriamente. Até mesmo sem sexo! Não que ele não ame o sexo, mas procura intelectualizá-lo, racionalizá-lo, analisá-lo demais`,
 
-      `text 6 Lorem ipsum`,
+      `
+      O nativo com Marte nesse signo expressa suas ações de forma calculada, mas determinada. Tem habilidade para exercer carreiras ligadas à eletroeletrônica ou à engenharia.
+        
+        Com espírito inventivo, alcançará seus objetivos através de ideias originais, que o tornarão pioneiro em muitos sentidos. Pode sentir atração por aviação, moto e alta velocidade.
+        
+        Quem tem esse Marte é mais intelectual que físico, porém, pode exercer atividades ligadas às expressões artísticas. Pode também exercer profissões ligadas a grandes corporações ou associações, ONGs ou sindicatos e tomará iniciativas humanitárias.
+        
+        No amor poderá parecer frio e distante, com pouca expressão ardente. Esse Marte é pouco fértil.
+        
+        É preciso observar se o espírito é por demais independente, rebelde ou brusco. Pode se expor demasiadamente em busca de novos objetivos de conquista e podem agir em passeatas, greves e ações públicas. Tenha atenção às disputas podem afastar os amigos.`,
 
       `text 7 Lorem ipsum`,
 
@@ -1112,7 +1197,13 @@ const data = {
         
         Essa Vênus inspira o amor universal, com nossos semelhantes e com Deus. O amor deve ser compreendido como uma libertação psíquica e espiritual, como uma troca consciente e equilibrada a ser construída com quem partilha os mesmos anseios filosóficos e espirituais.`,
 
-      `Signo 6 Lorem ipsum`,
+      `O nativo Marte com este signo tem habilidade para desenvolver trabalhos secretos ou isolados, fazer pesquisas, desvendar mistérios. Pode exercer profissões ligadas a hospitais ou à vida noturna.
+        
+        É idealista em suas ações e buscará satisfazer seus sonhos, se sentindo atraído por coisas sensacionais. Sente atração por cinema, fotografia, música e tudo o que for relacionado às atividades marítimas. Tem tendência a fumar ou a se drogar.
+        
+        Pode expressar sua sexualidade em paixões secretas e proibidas, com tendências muito românticas. Apaixonado pelo amor procurará amantes que satisfaçam suas fantasias. A fertilidade é ótima.
+        
+        Os indivíduos menos evoluídos podem desenvolver tendência para a criminalidade, sendo vítima de más influências. Negócios na clandestinidade, fraudes, máfia. Podem sofrer com roubos, sequestros, traições e todo tipo de ações ilícitas e clandestinas.`,
 
       `Signo 7 Lorem ipsum`,
 
