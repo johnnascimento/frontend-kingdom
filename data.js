@@ -96,7 +96,10 @@ const data = {
       Fisicamente, o Ascendente em Áries pode ter uma postura enérgica, viva, rápida e impaciente. Rosto vivo, olhar ágil, franco direto e intenso. Os movimentos são rápidos, repentinos, por vezes até bruscos e diretos.
       É como se a qualquer momento fosse mergulhar de cabeça em uma nova atividade, como que a dizer “saia da minha frente”. `,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio neste signo indica um tipo de raciocínio que tende a ser determinado, impulsivo e competitivo.Os nativos gostam de discutir e argumentar. Com frequência, possuem a habilidade de pensar rapidamente e podem criar muitas ideias originais.
+        Entretanto, podem ser imprudentes ao tomarem decisões e considerar as coisas a partir de um ponto de vista muito pessoal. Pode haver irritação e um temperamento irascível. No seu extremo, esta tendência pode resultar em egotismo intelectual e atitudes voluntariosas.
+        Os nativos tem dificuldade para tolerar demoras. Consequentemente, não gostam de se submeter a longos e demorados processos de decisão demorados, que se tornam frustrantes. A sua impulsividade significa que nem sempre concluem as ideias que iniciam.`,
+        
       `text 5 Lorem ipsum`,
       `text 6 Lorem ipsum`,
       `text 7 Lorem ipsum`,
@@ -114,62 +117,7 @@ const data = {
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `2 Aries levels`,
-        `2 Aries levels`,
-        `2 Aries levels`
-      ],
-      [
-        `3 Aries levels`,
-        `3 Aries levels`,
-        `3 Aries levels`
-      ],
-      [
-        `4 Aries levels`,
-        `4 Aries levels`,
-        `4 Aries levels`
-      ],
-      [
-        `5 Aries levels`,
-        `5 Aries levels`,
-        `5 Aries levels`
-      ],
-      [
-        `6 Aries levels`,
-        `6 Aries levels`,
-        `6 Aries levels`
-      ],
-      [
-        `7 Aries levels`,
-        `7 Aries levels`,
-        `7 Aries levels`
-      ],
-      [
-        `8 Aries levels`,
-        `8 Aries levels`,
-        `8 Aries levels`
-      ],
-      [
-        `9 Aries levels`,
-        `9 Aries levels`,
-        `9 Aries levels`
-      ],
-      [
-        `10 Aries levels`,
-        `10 Aries levels`,
-        `10 Aries levels`
-      ],
-      [
-        `11 Aries levels`,
-        `11 Aries levels`,
-        `11 Aries levels`
-      ],
-      [
-        `12 Aries levels`,
-        `12 Aries levels`,
-        `12 Aries levels`
-      ],
+      ]
     ]
   },
   {
@@ -209,7 +157,11 @@ const data = {
       Com a maturidade, a necessidade de segurança material e financeira pode ser gradualmente substituída pela segurança emocional e pela estabilidade interior.
       Assim o ascendente em Touro descobre a sua faceta mais espiritualizada, capaz de vislumbrar beleza e transcendência nas formas mais concretas.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio no signo de Touro indica o nativo cujo raciocínio e decisões são determinantes para tudo que possui uma aplicação prática e material. Embora possam não ter brilho ou originalidade, no tocante ao bom senso prático são muito habilidosos.
+        Assim, possuem mentes perspicazes para negócios e uma tendência natural para a administração. São lentos para formar opiniões, mas, assim que o fazem, relutam em modificá-las. Igualmente, não gostam de discussões e desarmonia.
+        Lutam somente para proteger a sua segurança e seus interesses financeiros. A habilidade desses nativos para considerarem somente coisas de interesse prático proporciona grande poder de concentração, tanto que podem ignorar perturbações externas como se estas não existissem.
+        Pode haver obstinação intelectual, opiniões dogmáticas, materialismo e avareza. Eles não percebem as coisas com as quais não desejam ser incomodados. No seu extremo, essa atitude os torna cegos para assuntos importantes, que deveriam perceber para seu próprio bem.
+        Isso explica muito da sua teimosia. Esta posição de Mercúrio também pode oferecer habilidade para as artes, a matemática e a ciência, devido à sua boa percepção das formas e estruturas.`,
 
       `text 5 Lorem ipsum`,
 
@@ -238,82 +190,7 @@ const data = {
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -338,7 +215,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       A comunicação tem lugar nobre na classificação das importâncias emocionais. A pessoa com a Lua em Gémeos tende a falar incessantemente, algumas vezes a ponto de incomodar os outros. Com frequência é nervosa e agitada. É o tipo de pessoa que nunca sai do telefone.
       As emoções ficam sujeitas à análise racional e algumas vezes não sabe o que realmente sente. Há muita inquietação, com frequentes mudanças de residência e muitas viagens curtas. Circular em ambientes variados, conhecer novas pessoas, experimentar emoções inexploradas... Tudo isso é importante para sua vida sentimental.
       Apreende com facilidade as informações, percebe com rapidez o que as outras pensam e quais suas necessidades afetivas. Com esta posição há tendência a querer abarcar o mundo com as pernas, a excitar-se momentaneamente com muitas ideias, sem segui-las até ao fim.
-      Pode haver indecisão, superficialidade e confusão, mas conta com capacidade de planejar soluções para problemas práticos e domésticos. É importante estabelecer objetivos para não dispersar sentimentos, nem se tornar uma pessoa ambígua ou superficial. `,
+      Pode haver indecisão, superficialidade e confusão, mas conta com capacidade de planejar soluções para problemas práticos e domésticos. É importante estabelecer objetivos para não dispersar sentimentos, nem se tornar uma pessoa ambígua ou superficial.`,
 
      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       A primeira abordagem da vida pelo ascendente em Gêmeos é feita através do elemento Ar: aprendizagem, comunicação e experimentação no plano mental. Vive de forma ligeira, curiosa e um tanto dispersa.
@@ -349,7 +226,18 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       Fisicamente apresenta aspecto ágil, flexível, mãos finas e habilidosas. Aliás, as mãos e braços podem estar em evidência, tanto pelo gesticular contínuo como pela sua elegância e delicadeza.
       A aparência tende a ser um tanto andrógina, pode manter o aspecto juvenil até muito tarde. O rosto pode ser vivo, móvel, expressivo e marcado por um ar de eterna adolescência.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio neste signo está em sua regência. Portanto, o raciocínio puro, lógico, pode ser levado à sua expressão mais elevada. O Mercúrio geminiano é versátil, sem preconceitos e impessoal na sua habilidade para perceber a verdade.
+        Está mais preocupado com fatos do que com atitudes e preferências pessoais. Os nativos com Mercúrio em Gêmeos podem ser capazes de um profundo pensamento científico.
+        Geralmente são bem educados, conhecedores de muitos assuntos e capazes de se comunicar com facilidade, rapidez e precisão, na fala e na escrita.
+        Geralmente possuem um excelente vocabulário, que é um dos segredos de sua eloquência e sua clareza de expressão. Possuem um sistema nervoso muito sensível a estímulos externos.
+        Todas as conversas e atividades no seu ambiente são registradas com intensidade e vivacidade em sua consciência, forçando‑as a lidar com muitos pensamentos e impressões ao mesmo tempo.
+        Essa é a base da sua mente ágil, que possui a capacidade de registrar duas impressões ou ter dois pensamentos quase que simultaneamente.
+        Contudo, se forem submetidos a ambientes movimentados e complexos durante muito tempo, seus nervos ficarão em frangalhos, podendo ocorrer fadiga, confusão e irritação.
+        Portanto, precisam de períodos de isolamento para se acalmar, meditar, relaxar e concentrar sua mente. Os nativos possuem intensa curiosidade, querem saber tudo a respeito de tudo. Mas correm o risco de querer aprender muitas coisas e dividir a sua atenção com muita frequência.
+        Podem não dar continuidade ao propósito de completar os projetos que assumem. Quando esta tendência é levada a extremos, cria o típico “homem dos sete instrumentos” (mas que não domina nenhum a fundo).
+        É possível considerar qualquer situação a partir de muitos pontos de vista. Por isso podem ter dificuldade para tomar decisões e mudam de ideia com muita frequência, confundindo os outros. Pode haver conversa incessante sobre assuntos triviais, o que é um aborrecimento para os outros.
+        É preciso estudar a desenvolver a educação para que possam utilizar melhor sua capacidade intelectual. As mentes inventivas dos nativos são competentes para descobrir novas e surpreendentes soluções para problemas e situações de emergência.
+        Esta posição é comum entre os profissionais; cientistas, matemáticos, peritos em computadores, secretárias, escritores, repórteres, jornalistas, publicitários, professores e oradores.`,
 
       `text 5 Lorem ipsum`,
 
@@ -378,82 +266,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -471,8 +284,8 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       Tudo para que não perca as referências de ordem e estabilidade nas tensões emocionais, na turbulência interior, nas questões afetivas.`,
 
      `A Lua representa a forma como vivemos as nossas emoções. É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional.
-      O que é que precisamos para nos sentirmos seguros? A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
-      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
+      O que é que precisamos para nos sentirmos seguros? A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
+      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
       As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
       A Lua em Câncer se encontra no signo de sua regência, indicando profundidade e intensidade de emoções. A sensibilidade encontra terra fértil nos relacionamentos mais íntimos. Pode haver fortes ligações com a mãe à família e o lar.
       O nativo com esta configuração pode ser bom cozinheiro ou boa dona de casa. A segurança e o casamento são importantes. É intuitivo para perceber as necessidades de quem ama, tem talento para cuidar.
@@ -491,7 +304,12 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       À medida que desenvolve certo grau de maturidade, pode desfrutar toda sensibilidade e riqueza emocional associada a este signo. Cresce em autoconhecimento quando desenvolve as qualidades de cuidar, alimentar, proteger, nutrir. Seja de uma pessoa, uma família, um negócio ou um ideal.
       O aspecto físico ligado a este ascendente é arredondado, agradável, suave e um pouco infantil. Um rosto redondo e um tronco desenvolvido são características comuns, com propensão a engordar e reter líquidos. Alguns, contudo, apresentam um rosto oblongo e uma figura esguia.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio no signo de Câncer indica uma mente influenciada por padrões emocionais profundamente arraigados. Os desejos inconscientes podem fazer com que a pessoa observe alguns fatos e ignore outros, o que pode resultar em preconceitos e interferência no raciocínio objetivo.
+      Às vezes podem ser falsos, sem o perceber conscientemente. Mercúrio neste signo pode indicar boa memória, devido à intensidade emocional associada aos pensamentos.
+        Há também tendência a absorver muita informação subliminarmente ou a aprender por osmose. Na realidade, grande parte do processo mental ocorre em um nível inconsciente, embora se manifeste como intenção consciente.
+        Como as pessoas com esta posição de Mercúrio são muito suscetíveis às atitudes e opiniões dos que as cercam, o seu pensamento pode ser influenciado por apelos emocionais, como o patriotismo.
+        Elas são muitos sensíveis, acreditam que tudo que é feito ou dito no seu ambiente é especificamente dirigido a elas. Grande parte do pensamento concentra-se no lar e na família.
+        Há uma considerável habilidade para os negócios, em assuntos relacionados a alimentos, produtos de consumo e domésticos e bens imobiliários.`,
 
       `text 5 Lorem ipsum`,
 
@@ -520,82 +338,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -632,7 +375,12 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       Assim, as manifestações pomposas e gratuitas dão lugar a uma atitude verdadeiramente generosa, desinteressada e vitalizante. Poderá irradiar calor generoso, cura e energia vital para aqueles que merecem. Leão é associado ao coração, ao centro do corpo, com grande potencial amoroso.
       O aspecto físico ligado a este ascendente e associado a uma atitude naturalmente altiva, quase régia, e a uma cabeleira bonita, volumosa, tipo "juba de leão". A atitude poderosa costuma chamar a atenção.  Os olhos são vivos e brilhantes.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio no signo de Leão indica uma mente que possui uma vontade forte e um propósito firme. Os nativos com esta posição são capazes de concentração dirigida, o que confere energia e força de vontade.
+        Gosta de ser considerado como uma autoridade nas áreas em que escolheu para atuar. São ajudados por uma forma de discurso dramática e convincente. Porém, se levada a extremos, essa inclinação pode criar um excessivo orgulho intelectual e arrogância.
+        A autoconfiança intelectual indicada por Mercúrio em Leão favorece uma atitude positiva para enfrentar e solucionar problemas. Contudo, pode haver uma tendência para lidar com as coisas em termos gerais, amplos, ignorando os detalhes.
+        Pode também existir tendência a ignorar as coisas que não se relacionam com o foco de interesse imediato. Como Leão é um signo fixo, as opiniões são formadas lentamente e modificadas com relutância.
+        Os nativos possuem continuidade de planejamento e propósitos, o que lhes oferece capacidade executiva. Há também habilidade para o ensino e o trabalho no desenvolvimento intelectual das crianças.
+        O teatro, investimentos, Bolsa de Valores, educação, entretenimento e atividades artísticas são prováveis áreas de interesse especial. Esta posição de Mercúrio também pode combinar viagens de passeio com viagens de trabalho.`,
 
       `text 5 Lorem ipsum`,
 
@@ -661,82 +409,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -777,7 +450,17 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
        Nessa altura, a tolerância e a compreensão começam a temperar o seu sentido crítico, levando-o a encarar todas as coisas (e a si mesmo) como manifestações terrenas e humanas do arquétipo da Perfeição.
        Um ar limpo, preciso e resistente, ao mesmo tempo aprumado, asseado e simples são qualidades típicas do Ascendente Virgem. O aspecto geral pode ser bastante juvenil, mantendo uma figura delgada e muita vivacidade.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio em Virgem está no signo de sua regência, uma posição que indica uma mente analítica, com grande habilidade de raciocínio prático. Estes nativos insistem numa precisão exata e apurada, que pode parecer trivial para outras pessoas.
+        
+        Exigem ambientes organizados, métodos e procedimentos eficientes, especialmente em sua área de trabalho. Esta é melhor posição de Mercúrio para a pesquisa científica detalhada.
+        
+        O nativo atinge o sucesso profissional e financeiro ao adquirir boa educação e habilidades especializadas. O interesse pela gramática e a competência nessa área podem torná-los eloquentes em seu discurso, em sua escrita e competente em idiomas.
+        
+        Via de regra, insistirão no uso adequado da gramática, da ortografia e da pontuação, motivo pelo qual são excelentes secretárias e correspondentes. Mercúrio em Virgem está principalmente interessado em ideias que possuam alguma aplicação prática para obter status e sucesso financeiro.
+        
+        O nativo com esta posição é voltado ao trabalho. Pode ser tímido e reservado, preferindo não perder tempo com conversas inúteis. Você pode perder de vista as questões amplas e principais devido à preocupação excessiva com os detalhes que assumem uma importância indevida.
+        
+        Medicina, dieta, higiene, matemática, trabalhos detalhados e precisos de todos os tipos atraem sua atenção.`,
 
       `text 5 Lorem ipsum`,
 
@@ -806,82 +489,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -918,7 +526,25 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         Quando aprende a equilibrar a sua necessidade de ouvir os outros e os seus próprios desejos e vontades, ganha a capacidade de harmonizar com ligeireza e desembaraço todas as polaridades da vida: eu/o outro, pessoal/social, formal/informal, mundano/sagrado, intuição/lógica, masculino/feminino.
         O tipo físico associado a este ascendente é bem proporcionado, naturalmente ágil e elegante. Conta com charme pessoal, apesar de um pouco roliço e com tendência a ganhar peso devido à preguiça. `,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio no signo de Balança indica uma mente principalmente preocupada com relações humanas e psicologia. Os nativos possuem intensa curiosidade a respeito dos padrões de pensamento e comportamento dos outros.
+        
+        Portanto, sente-se atraído pelas áreas de psicologia, astrologia, relações públicas, sociologia, diplomacia ou direito. Para eles, são essenciais uma boa comunicação e alegria nos relacionamentos.
+        
+        Preferem trabalhar em parceria intelectual com os outros e geralmente se comunicam com facilidade, devido ao interesse pelo que os outros pensam.
+        
+        Com forte senso de justiça, geralmente são honestos em suas relações e equilibrados nas negociações e em todos os contatos mentais. Gostam de considerar todos os lados de uma questão antes de tomar uma decisão.
+        
+        Mas se esse desejo for utilizado de forma errada, pode conduzir à indecisão e assim se perde a oportunidade de agir.
+        
+        Contudo, quando as decisões são tomadas, elas geralmente são justas e ponderadas. Esta posição de Mercúrio é boa para as profissões nas áreas legal, de aconselhamento, arbitragem e outros trabalhos de relações públicas, como vendas e negociações.
+        
+        Os nativos buscam se associar com pessoas de mentes requintadas, boas maneiras e reputação de honestidade. Modos deselegantes e motivações desonestas são considerados desagradáveis e evitados sempre que possível.
+        
+        São muito sensíveis aos odores, à estética, aparência pessoal e conduta dos outros. Consideram os trajes inadequados e o linguajar vulgar como afrontas sociais. Gentis e atenciosas em sua comunicação podem ser rígidos quando estão envolvidos princípios.
+        
+        Podem cometer o erro de esperar dos outros o mesmo grau de disciplina mental que exigem de si mesmas. Em tipos muito desenvolvidos, essa qualidade conduz à profundidade.
+        
+        Porém as pessoas superficiais com esta posição de Mercúrio podem não ter firmeza em suas convicções, porque tendem a concordar com seus companheiros, visando obter popularidade e aceitação.`,
 
       `text 5 Lorem ipsum`,
 
@@ -1065,7 +691,17 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
        Somente ao trazer seus inimigos interiores para a luz da consciência é que pode transcendê-los. É nessa altura que descobre em si recursos e capacidades que até então desconhecia. Deixa de ser um lutador e torna-se um guerreiro espiritual.
        Muitos artistas produziram suas melhores obras reestruturando suas paixões, iras e desacertos em alternativas criativas. Olhos penetrantes, de expressão intensa e profunda, sublinhados por sobrancelhas espessas e bonitas, são característicos deste ascendente.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio no signo de Escorpião proporciona uma mente intuitiva capaz de profundos insights. A percepção dos nativos pode levar ao exame crítico das motivações humanas. Eles consideram as coisas com precisão, mas não necessariamente com compaixão.
+        
+        É preciso cuidado para não utilizar uma linguagem agressiva, medir as palavras para não ofender os sentimentos dos outros. A tendência é dizer exatamente o que sente ou permanecer em silêncio.
+        
+        Fazer planos em segredo e os comunicar somente quando tem um propósito definido que está tentando realizar.
+        
+        Contudo, como pode ser influenciado por fortes fatores emocionais, é mais objetivo quando não está pessoalmente envolvido. Quem tem Mercúrio em Escorpião possui uma mente determinada e grande engenhosidade, pode vencer obstáculos que outros considerariam insuperáveis.
+        
+        As pessoas com Mercúrio neste signo gostam de vasculhar os porões da mente, são bons detectives, investigadores e pesquisadores. Pode também haver desconfiança dos outros.
+        
+        Em tipos muito desenvolvidos, há uma habilidade científica que se origina da sua curiosidade sobre os mecanismos interiores da energia responsável pela manifestação objetiva. Isso proporciona um insight dos processos fundamentais de transformação.`,
 
       `text 5 Lorem ipsum`,
 
@@ -1209,7 +845,21 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       Esta etapa é alcançada através do controle da fala e dos pensamentos, evitando exageros e indiscrições, encontrando as palavras certas para expressar os mais amplos conceitos.
       Assim pode trazer à sua vida o sentido e a Sabedoria que tanto procurou. Associa-se a este ascendente um aspecto descontraído, inquieto e jovial. Pode ter um rosto aberto, com um grande sorriso e cabelos encaracolados (às vezes arruivados), coxas fortes e tendência a aumentar de peso.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio neste signo indica uma mente preocupada com todas as codificações do pensamento social, seja na forma de espiritualidade, religião, filosofia, direito ou outros estudos relacionados com a educação superior. Pode haver maior preocupação pelas atitudes do que pelos fatos.
+        
+        O resultado muitas vezes é construtivo, proporcionando um insight da motivação social e dos acontecimentos subsequentes. Entretanto, os nativos podem não perceber a verdade se não prestarem suficiente atenção à informação factual detalhada, base de todo pensamento lógico.
+        
+        Os nativos com essa posição podem ter um insight profético, porque a sua preocupação com as atitudes lhes permite compreender as informações que serão importantes pela opinião pública. Isso conduz à revelação do destino coletivo e do carma.
+        
+        Esses nativos desejam ingressar em instituições públicas de aprendizado superior ou de controle social, como universidades, igrejas ou governo. O seu objetivo é obter autoridade intelectual e status, embora o preço possa ser a submissão a instituições corruptas e estagnadas.
+        
+        Gostam de se considerar exemplos da verdade. Podem tender a pregar sermões moralistas sobre coisas óbvias e se tornar pedantes. Às vezes, existe uma preocupação com metas distantes, ideais elevados, que podem levar os nativos a não perceberem o que está sob seus narizes.
+          
+          Pode resultar em tendências à desatenção. Essas pessoas têm um discurso direto e dirão exatamente aquilo que pensam. Exigem liberdade intelectual, porém as suas ideias raramente divergem dos conceitos tradicionais ou da moral social vigente.
+          
+          Assim, geralmente são respeitadas na comunidade. Mas se o conformismo social for levado muito longe, pode conduzir à hipocrisia, pois os seus padrões morais talvez não sejam melhores do que as normas socialmente aceitas.
+          
+          É preciso perceber que uma atitude não está necessariamente correta simplesmente porque é popular ou dominante.`,
 
       `text 5 Lorem ipsum`,
 
@@ -1350,7 +1000,24 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       Ao cultivar seu potencial para lidar com assuntos práticos e organizá-los, vive um sentido de realização e pode desfrutar de suas conquistas. Um aspecto magro, tenso e seco pode ser associado a este ascendente. As maçãs do rosto são marcadas.
       Algumas pessoas (principalmente as mulheres) têm uma beleza refinada, contam com equilíbrio de linhas e elegância da estrutura óssea.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio neste signo indica uma mente ambiciosa, perspicaz, prática, organizada e preocupada em obter status por intermédio de realizações materiais. As pessoas com Mercúrio em Capricórnio são capazes de grande concentração e boa organização.
+        
+        São metódicas nos pensamentos e atitudes, possuindo a habilidade de fazer uma coisa de cada vez.
+        O seu processo de raciocínio é meticuloso, porém não necessariamente original.
+        
+        A sua paciência e disciplina podem resultar em habilidade matemática, que pode ser utilizada nos negócios ou na ciência. Mercúrio neste signo também pode proporcionar boa capacidade administrativa.
+        
+        Muitos executivos bem sucedidos têm Mercúrio em Capricórnio. As pessoas com essa posição passarão por processos tradicionais de educação como um meio de atingir metas profissionais e melhorar seu status financeiro e social.
+        
+        As suas ideias políticas e sociais geralmente são conservadoras. Tendem a defender a ordem estabelecida. Respeitam as crenças que provaram a sua utilidade através do tempo.
+        
+        Como possuem uma percepção aguçada, poucas coisas de consequências práticas escapam à sua atenção. Contudo, há o perigo de que a sua seriedade e a sua disciplina mental as conduzam a uma atitude inflexível e falta de humor.
+        
+        A ambição material desmedida pode levar à avareza e à tendência de usar as pessoas para atingir objetivos materiais, sem considerar os valores humanos. O status material pode tornar‑se um fim em si mesmo, sobrepondo‑se aos valores humanos e a qualquer outra consideração.
+        
+        Uma vez que Capricórnio, como Virgem, é um signo de terra, Mercúrio neste signo considera importantes apenas às ideias que tiverem valor prático.
+        
+        Essas pessoas são mais realistas do que idealistas na abordagem de suas metas. Consideram as coisas pelo que são e não se iludem com falsos idealismos.`,
 
       `text 5 Lorem ipsum`,
 
@@ -1500,7 +1167,25 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       Descobre, então, que tem a capacidade de partilhar com toda a humanidade as suas ideias largas e globais, numa perspectiva de serviço, esperança e fraternidade. As utopias se tornam, então, ideias realizáveis.
       Fisicamente, este ascendente é associado a figuras grandes, altas e a rostos bem delineados, de expressão aberta. Em sua aura geralmente há uma carga elétrica ou magnética, que lhe confere um toque excêntrico.`,
 
-      `text 4 Lorem ipsum`,
+      `Mercúrio no signo de Aquário indica uma mente aberta às novas experiências. A capacidade de considerar os fatos à luz da verdade impessoal oferece uma mente confiável, não preconceituosa e objetiva.
+        
+        Para os nativos com esta posição, a verdade deve vir em primeiro lugar. Não se interessam muito por ideias tradicionais ou socialmente aceitas se essas forem incompatíveis com os fatos ou com experiências diretas.
+        
+        Aqui está o segredo da sua originalidade. Devido à sua objetividade impessoal, os nativos não se surpreendem facilmente com nada que possam ver ou experimentar. Assim, podem aceitar coisas que outros considerariam amedrontadoras ou incompreensíveis.
+        
+        Mercúrio em Aquário está em sua exaltação. Portanto, os nativos possuem a capacidade de saber que a razão existe como um padrão da Mente Universal, da qual a Mente Individual é apenas um submecanismo.
+        
+        Assim, a capacidade dos nativos para experimentar as coisas ultrapassa os cinco sentidos físicos. Mercúrio em Aquário manifesta as suas faculdades intuitivas mais elevadas mediante a comunicação com a Mente Universal mais ampla, transcendendo o ego individual.
+        
+        Como Aquário é um signo fixo, a energia mental é estabilizada e concentrada. Portanto, capaz de receber ideias das esferas arquetípicas da consciência. Alguns possuem a capacidade de perceber a própria mente como um campo de energia e o seu conteúdo como padrões desta energia.
+        
+        Podem ser excelentes telepatas ou canalizadores. A experiência direta de estados de energia mais elevados também oferece um insight científico sobre os mecanismos das manifestações materiais.
+        
+        Há boa organização mental e concentração, com frequência levando à habilidade matemática e inventiva, uma das razões pelas quais esta posição gera cientistas.
+        
+        As pessoas com esta posição de Mercúrio gostam de atuar com outras pessoas. Podem envolver-se em trabalhos de grupo ou de organizações. Buscam estímulo mental nas amizades.
+        
+        A capacidade de ver as coisas em termos amplos favorece o humanitarismo e a preocupação com o desenvolvimento espiritual da Humanidade. É uma excelente posição para a astrologia e todas as formas de estudos ocultos.`,
 
       `text 5 Lorem ipsum`,
 
@@ -1647,7 +1332,23 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
       Fisicamente, sua aparência é sonhadora, romântica, sedutora ou misteriosa. Um ar etéreo e um pouco "perdido" pode ser a marca deste signo ascendente. Os olhos costumam ser grandes e o corpo arredondado.
       Alguns conseguem moldar sua aparência em diversas imagens, refletindo e imitando tudo o que os impressiona.`,
 
-      `Signo 4 Lorem ipsum`,
+      `Mercúrio neste signo indica uma imaginação ativa e uma capacidade fotográfica para visualizar pensamentos e lembranças. Os nativos com esta posição são muito intuitivos e telepatas no nível inconsciente.
+        
+        Portanto, são facilmente influenciados por sugestões subliminares, uma vez que inconscientemente se sintonizam com os pensamentos e o estado de espírito das pessoas que os cercam.
+        
+        Chegam a conclusões não por meio do raciocínio lógico, mas baseados em percepções intuitivas que fluem da mente inconsciente. Aprendem mais por osmose do que pelo estudo disciplinado.
+        
+        A mente pode ser influenciada por padrões emocionais inconscientes baseados em experiências passadas. É preciso cuidado com o risco de ficar preso às lembranças, a ponto de distorcer a percepção da realidade presente.
+        
+        Em casos extremos, isso pode levar a imaginação mórbida, complexo de perseguição ou condições neuróticas. Devido à extrema sensibilidade e imaginação, muitas vezes manifestam aptidões poéticas e artísticas.
+        
+        São compreensivos, podem imaginar como é estar na situação de outra pessoa, porque já estiveram em situações semelhantes. Às vezes suas emoções são facilmente manipuladas.
+        
+        Peixes é um signo mutável e as emoções vacilantes podem provocar hesitação no raciocínio, nas decisões e na comunicação. Pode também haver tendência a sonhar acordado e devanear.
+        
+        O fato de os nativos gostarem de ser reservados e guardarem para si mesmos os seus pensamentos pode resultar em timidez e isolamento.
+        
+        O nativo talvez seja hipersensível e capaz de perceber uma crítica pessoal mesmo não intencional. É preciso cultivar mais impessoalidade em seu raciocínio e percepção da realidade.`,
 
       `Signo 5 Lorem ipsum`,
 
