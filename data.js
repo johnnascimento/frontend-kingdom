@@ -100,7 +100,18 @@ const data = {
         Entretanto, podem ser imprudentes ao tomarem decisões e considerar as coisas a partir de um ponto de vista muito pessoal. Pode haver irritação e um temperamento irascível. No seu extremo, esta tendência pode resultar em egotismo intelectual e atitudes voluntariosas.
         Os nativos tem dificuldade para tolerar demoras. Consequentemente, não gostam de se submeter a longos e demorados processos de decisão demorados, que se tornam frustrantes. A sua impulsividade significa que nem sempre concluem as ideias que iniciam.`,
         
-      `text 5 Lorem ipsum`,
+      `Quem possui Vênus nesse signo do zodíaco é ardente e impulsivo, podendo se apaixonar e desapaixonar de maneira quase instantânea. As paixões súbitas não duram muito, pois numa relação, a conquista é a parte mais estimulante para eles.
+        
+        Depois, quando o fogo da paixão começa a diminuir, eles podem perder o interesse. Quem tem Vênus em Áries tende a buscar o prazer de forma imediatista. É caprichoso e inconstante. Quando se interessa por alguém quer sexo no primeiro encontro.
+        
+        Incapaz de esperar, não dá muitas voltas para dizer o que quer: vai direto ao assunto, de maneira franca e aberta, sem rodeios. É pegar ou largar! Quem tem Vênus em Áries precisa se sentir livre, leve e solto. Gosta de brincar, dançar e mesmo que tenha seu par, é dono de si.
+        
+        Tem um jeito espontâneo de expressar afeto, gosta de ser paparicado, elogiado e valorizado no que faz. Mas se a graça estiver apenas na conquista, ela desaparece depois que o objetivo é alcançado.
+        
+        O cuidado deve ser para compras impulsivas, para a busca do prazer inconsequente. Quem se relaciona intimamente com alguém que tem essa característica astrológica não pode se queixar de falta de sexo. Mas é muito difícil manter a chama acesa durante muito tempo.
+        
+        Portanto, num relacionamento de longo prazo é necessário contar sempre com algo novo e excitante. Quem tem Vênus em Áries deve aprender a ser criativo no amor, deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura.
+        `,
       `text 6 Lorem ipsum`,
       `text 7 Lorem ipsum`,
       `text 8 Lorem ipsum`,
@@ -163,7 +174,17 @@ const data = {
         Pode haver obstinação intelectual, opiniões dogmáticas, materialismo e avareza. Eles não percebem as coisas com as quais não desejam ser incomodados. No seu extremo, essa atitude os torna cegos para assuntos importantes, que deveriam perceber para seu próprio bem.
         Isso explica muito da sua teimosia. Esta posição de Mercúrio também pode oferecer habilidade para as artes, a matemática e a ciência, devido à sua boa percepção das formas e estruturas.`,
 
-      `text 5 Lorem ipsum`,
+      `Quem possui Vênus neste signo alia o prazer e o conforto ao amor e aos sentimentos. Procura um amor seguro, de longo prazo, que seja aliado a um plano de vida comum.
+        
+        O nativo é naturalmente fiel. Além da amabilidade e da sensualidade, expressa seu amor proporcionando conforto e segurança. Necessita de demonstrações constantes de fidelidade.
+        
+        Gosta de realização e satisfação sensorial: uma boa comida, um bom perfume, o conforto de casa. Um bom vinho, uma boa massagem, tratamentos estéticos, o namoro, as artes e a vida cultural.
+        
+        Tudo o que envolve sensibilidade e prazer, tudo que estimule os sentidos merece investimento especial. Essa necessidade de segurança pode torná-lo excessivamente ciumento e possessivo.
+        
+        Por essa razão, o nativo costuma controlar cada passo do ser amado. Geralmente é belo, atraente, gosta de se vestir bem, com conforto e luxo.
+        
+        O amor é caloroso e sensual. Aprecia o luxo e pode gastar muito com seus cuidados pessoais, podendo até exceder no luxo para ostentar suas posses.`,
 
       `text 6 Lorem ipsum`,
 
@@ -239,7 +260,17 @@ const data = {
         É preciso estudar a desenvolver a educação para que possam utilizar melhor sua capacidade intelectual. As mentes inventivas dos nativos são competentes para descobrir novas e surpreendentes soluções para problemas e situações de emergência.
         Esta posição é comum entre os profissionais; cientistas, matemáticos, peritos em computadores, secretárias, escritores, repórteres, jornalistas, publicitários, professores e oradores.`,
 
-      `text 5 Lorem ipsum`,
+      `O nativo com Vênus em Gêmeos precisa de estimulo intelectual num relacionamento. Expressa seu amor de forma raciocinada, gosta de explicar constantemente aquilo que sente. Adora conversar com seu parceiro, manifestando curiosidade sobre emoções e sentimentos alheios.
+        
+        O amor geminiano é racional, mas não por isso é menos intenso. Caso sinta necessidade de expressar aquilo que sente, o faz com muita sinceridade, diretamente e sem rodeios e quer a mesma sinceridade de seu parceiro.
+        
+        Sua mente é refinada e artística. Por isso, perde o estimulo se o parceiro for do tipo caseiro, possessivo, ou (pior ainda) grosseiro.
+        
+        No amor não pode haver rotina. O relacionamento deve ser leve e divertido, recheado de passeios, teatro, cinema, viagens e mudanças na rotina. Isso pode manter acesa a chama da paixão. Caso contrário, ocorre o risco de perder o interesse pelo outro sem justificativas razoáveis.
+        
+        De qualquer forma, os envolvimentos fluem sem muitas complicações, pois é mais lógico, inteligente e, portanto, um bom negociador nas questões amorosas. É também um bom mediador, sabe evitar conflitos e possui mais jogo de cintura para lidar com impasses.
+        
+        Por outro lado, corre o risco de escapar de forma escorregadia em situações que precisam de enfrentamento. Se conseguir compreender que algumas situações devem ser encaradas, seu poder de negociação pode ajudá-lo a conseguir um bom desenlace.`,
 
       `text 6 Lorem ipsum`,
 
@@ -311,7 +342,17 @@ const data = {
         Elas são muitos sensíveis, acreditam que tudo que é feito ou dito no seu ambiente é especificamente dirigido a elas. Grande parte do pensamento concentra-se no lar e na família.
         Há uma considerável habilidade para os negócios, em assuntos relacionados a alimentos, produtos de consumo e domésticos e bens imobiliários.`,
 
-      `text 5 Lorem ipsum`,
+      `nativo com Vênus em Câncer é, antes de tudo, um cuidador. Sonha com uma casa aconchegante, cheia de filhos, mesa posta, comida farta.
+        
+        Quem possui essa característica tem necessidade de se sentir amparado e procura sempre o conforto de seu lar, pois é naturalmente tímido e sentimental, apegado às lembranças do passado.
+        
+        As relações amorosas podem não ser muito são muito fogosas, mas são românticas e podem proporcionar muito prazer quando estiverem envolvidos sentimentos sinceros. Existe certa carência afetiva (carência do útero materno) neste tipo de amor canceriano.
+        
+        Por causa disso, quem tem Vênus em Câncer nutre e cativa com pequenos cuidados maternais a pessoa amada, tornando-a dependente de seus cuidados.
+        
+        Tanto Câncer, quanto Vênus estão relacionados às qualidades femininas. Há sensibilidade, o uso da intuição e da imaginação, que podem enriquecer as trocas.
+        
+        Porém, a sua fragilidade emocional exagerada pode causar estragos num relacionamento, especialmente quando o parceiro não perceber a fragilidade de seus sentimentos, magoando-os, sem demonstrações de afeto ou envolvimento emocional.`,
 
       `text 6 Lorem ipsum`,
 
@@ -382,7 +423,19 @@ const data = {
         Os nativos possuem continuidade de planejamento e propósitos, o que lhes oferece capacidade executiva. Há também habilidade para o ensino e o trabalho no desenvolvimento intelectual das crianças.
         O teatro, investimentos, Bolsa de Valores, educação, entretenimento e atividades artísticas são prováveis áreas de interesse especial. Esta posição de Mercúrio também pode combinar viagens de passeio com viagens de trabalho.`,
 
-      `text 5 Lorem ipsum`,
+      `nativo com Vênus em Leão é muito ardente nas relações amorosas e precisa da admiração do seu parceiro para se sentir realmente amado. O seu afeto é sincero, mas requer uma atenção sem limite, mimos e presentes que o faça sentir exclusivo e único.
+        
+        Quem nasce com esse posicionamento no mapa gosta de brilhar. Possui magnetismo para encantar, elogiar, seduzir. É caloroso e vibrante. Pode iluminar também nossos parceiros e amigos, enaltecendo-os.
+        
+        Mas se seu parceiro brilha mais, o nativo dá um jeito de recuperar o lugar de protagonista na relação. É preciso cuidado com a necessidade de aprovação em todo momento, com a aversão às críticas. Eis aí sua vulnerabilidade.
+        
+        Essa Vênus de Fogo se inflama facilmente, mas também pode se apagar com a mesma rapidez se o outro não conseguir corresponder às altas expectativas. Quem possui essa Vênus sente atração pelo luxo e pelo belo. Apaixona-se por pessoas que demonstram força e autoridade.
+        
+        Não pode amar sem admirar. Pode demonstrar uma vaidade exagerada e gostar demais dos prazeres mundanos, parecendo frívolo e superficial. Exigente, rende-se somente àquele amor que se ajoelhar aos seus pés.
+        
+        Gostam sempre de manter o comando na relação e usam do seu magnetismo para fazer valer suas vontades. Feitas as ressalvas, sua disposição para apaixonar-se, amar e namorar é grande.
+        
+        Quando está apaixonado, se entrega de corpo e alma. Pode dedicar um amor generoso e devotado e fiel, fazendo de tudo para oferecer o melhor de si ao seu parceiro.`,
 
       `text 6 Lorem ipsum`,
 
@@ -462,7 +515,19 @@ const data = {
         
         Medicina, dieta, higiene, matemática, trabalhos detalhados e precisos de todos os tipos atraem sua atenção.`,
 
-      `text 5 Lorem ipsum`,
+      `nativo com Vênus neste signo é prestativo e devotado. Sente necessidade de relacionamentos estáveis e duradouros, onde a mútua compreensão e os pequenos cuidados diários são sinais de um amor racional e pragmático.
+        
+        O nativo gosta de cultivar a prestatividade e o capricho em seus serviços, gosta de demonstrar amor e afeto em atitudes práticas.
+        
+        A experiência amorosa ganha uma atmosfera mais funcional. Com bom senso, cada detalhe, cada palavra e cada gesto minucioso são observados.
+        
+        É preciso cuidado para não se tornar crítico demais. Não se deixar encantar por arroubos de afeto que sabe ser apenas fogo de palha.
+        
+        Cuida, alimenta, promove a segurança do parceiro e dele deseja fidelidade e sinceridade. Pode fazer qualquer sacrifício para melhorar a vida do casal, tendo prazer nas pequenas coisas do dia-a-dia.
+        
+        Seu afeto é sincero, mas pode parecer frio pela ausência de demonstrações passionais, mesmo se é capaz de se expressar nas pequenas coisas do cotidiano.
+        
+        Necessita de rituais nos momentos mais íntimos, mas não tolera exageros.`,
 
       `text 6 Lorem ipsum`,
 
@@ -546,7 +611,17 @@ const data = {
         
         Porém as pessoas superficiais com esta posição de Mercúrio podem não ter firmeza em suas convicções, porque tendem a concordar com seus companheiros, visando obter popularidade e aceitação.`,
 
-      `text 5 Lorem ipsum`,
+      `Vênus está associada ao prazer, a tudo o que nos é agradável, ao que amamos e valorizamos. Em Libra, o signo das parcerias, Vênus quer se apresentar da melhor forma possível para agradar e seduzir. Mas também espera reciprocidade!
+      
+      Vênus em Libra é discreta e refinada, não gosta de arroubos exacerbados, rudes e sexualmente primitivos. Ela quer estar junto de alguém para compartilhar a vida, deseja alguém que seja intelectual, igual, cúmplice e amigo.
+        
+        O amor deve ser esteticamente belo, doce e amável, cheio de pequenas atenções com o parceiro. Há necessidade de vivenciar um amor sofisticado e refinado. Adora receber aquelas atenções românticas que parecem tão fora de moda nos dias atuais.
+        
+        Muitas vezes, porém, cede aos caprichos do seu parceiro somente para não desagradar. Pode haver certo distanciamento afetivo na tentativa de evitar conflitos, agressões, grosserias e situações desagradáveis. É preciso atenção: isso pode encobrir questões mais profundas nas relações.
+        
+        Os nativos com Vênus em Libra são amantes da beleza e de qualquer demonstração artística. Possuem uma necessidade íntima instintiva que os impulsiona a procurar o par ideal, nem que isso resulte numa busca eterna.
+        
+        Capazes de uma sedução sutil e diplomática atraem aquilo que desejam, sem se impor ao parceiro que escolheu.`,
 
       `text 6 Lorem ipsum`,
 
@@ -573,82 +648,7 @@ const data = {
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -703,7 +703,19 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         
         Em tipos muito desenvolvidos, há uma habilidade científica que se origina da sua curiosidade sobre os mecanismos interiores da energia responsável pela manifestação objetiva. Isso proporciona um insight dos processos fundamentais de transformação.`,
 
-      `text 5 Lorem ipsum`,
+      `Em Escorpião, Vênus quer intensidade e sedução, quer viver emoções fortes. A sexualidade fica evidenciada. A vontade é de se conectar com o outro num nível mais profundo. Vênus rege o signo de Touro, oposto a Escorpião, na verdade ela não se sente muito bem nesse signo.
+        
+        O planeta do amor no signo da metamorfose pode causar estranhamento, provocação, ciúmes, desconfiança, disputas de controle e poder. Os nativos costumam controlar o parceiro, ameaçando e espantando qualquer rival, mesmo que este exista somente em sua imaginação.
+        
+        Vênus em Escorpião não gosta de coisas mornas. Vênus quer estabilidade e permanência, Escorpião denuncia a transitoriedade das coisas. Eis aí o conflito. O amor deve se transformar, se regenerar pra continuar existindo... E muita gente não gosta de sair da sua zona de conforto.
+        
+        O cuidado deve ser com as paixões cegas e as ilusões daquele que se esquece, de si mesmo e mergulha numa história, achando que o outro pode ser a tábua de salvação para suas vidas.
+        
+        De qualquer forma, o amor de quem tem essa Vênus em seu mapa é o mais quente do zodíaco. Passional, visceral, fogoso, enfim, é o amor paixão por excelência. Arrebatador, não conhece limites, nem na cama e nem fora!
+      
+      Ao se apaixonar, quem tem Vênus em Escorpião, requer absoluta dedicação de seu parceiro, já que sua paixão é tão profunda que não quer se arriscar a perder o objeto de seu desejo.
+        
+        A sua sensualidade irá se expressar de maneira tão intensa que poderá se exceder nos jogos eróticos mais proibidos. Para manter a chama desta Vênus sempre acesa é necessária muita imaginação, pois sem sexo não haverá relacionamento.`,
 
       `text 6 Lorem ipsum`,
 
@@ -730,82 +742,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -861,7 +798,21 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
           
           É preciso perceber que uma atitude não está necessariamente correta simplesmente porque é popular ou dominante.`,
 
-      `text 5 Lorem ipsum`,
+      `nativo com Vênus em Sagitário está sempre em busca de algo novo para conquistar e manterá acesa a chama do relacionamento somente se o parceiro não se deixar conquistar muito facilmente!
+      
+      O desafio é equilibrar o amor, que quer apego, com a seta sagitariana que aponta rumos distantes. Como a aventura é o ponto forte desta Vênus, o amor precisará também ser uma aventura, com desafios, obstáculos e conquistas diárias.
+        
+        Os parceiros devem partilhar o desejo de serem livres, devem seguir juntos para novas aventuras e conhecer o mundo para que a relação se fortaleça.
+        
+        Devem partilhar a cumplicidade e a sintonia em assuntos filosóficos, pois o mundo não precisar ser necessariamente uma divisa geográfica, mas também cultural, étnica e intelectual.
+        
+        O que atrai é a cultura do outro, sua inteligência, o que cada um tem a oferecer para a expansão da consciência.  Com a Vênus sagitariana, quando não há mais novidades no relacionamento, ou buscam novas experiências e aventuras juntos, ou a relação perde a potência.
+        
+        Esta Vênus detesta rotina e está sempre em busca de novas sensações, por essa razão o parceiro precisa ser interessante e cheio de recursos, físicos e intelectuais.
+        
+        O fogo que acende a paixão expressa nesta Vênus não se apagará se a vida dos dois for uma constante aventura, excitante e cheia de surpresas. O seu parceiro deverá se manter inatingível e até distante...
+        
+        Caso contrário, a paixão se esvairá tão rapidamente como quando iniciou. As viagens e as aventuras em comum servirão como estímulo para manter a fogueira acesa.`,
 
       `text 6 Lorem ipsum`,
 
@@ -888,82 +839,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -1019,7 +895,17 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         
         Essas pessoas são mais realistas do que idealistas na abordagem de suas metas. Consideram as coisas pelo que são e não se iludem com falsos idealismos.`,
 
-      `text 5 Lorem ipsum`,
+      `nativo com Vênus em Capricórnio ama de forma pragmática, pensada e realista. Pouco romântico e avesso a expressões sentimentais, se expressa através de avaliações e comparações, administrando seus relacionamentos e avaliando riscos, danos e perdas.
+        
+        Quanto mais tempo permanecer numa relação, tanto melhor saberá demonstrar seu afeto, sem grandes efusões. Vênus em Capricórnio dá um tom mais sério e maduro às questões do amor e das finanças.
+        
+        O nativo gosta de tomar providências objetivas, realistas e práticas em relação às parcerias profissionais e amorosas. O amor fica menos imaginativo, menos açucarado, é verdade.
+        
+        Mas em compensação, o nativo, parte em busca para a realização dos desejos. Procurando um comprometimento sério, dentro dos moldes tradicionais, não hesita em investir no relacionamento, mas suas demonstrações de afeto visam sempre pautar a seriedade de suas intenções.
+        
+        Acreditando que as relações se constroem no dia-a-dia, não cria ilusões inúteis e é capaz de investir no longo prazo, visando estabilidade e comprometimento, sempre em vista de conquistar objetivos comuns.
+        
+        O nativo com essa Vênus não cai sob as flechas de Cupido, mas prefere um amor pragmático e prático, capaz de criar alicerces sólidos para o futuro, dentro dos moldes da família tradicional.`,
 
       `text 6 Lorem ipsum`,
 
@@ -1046,82 +932,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -1187,7 +998,17 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         
         A capacidade de ver as coisas em termos amplos favorece o humanitarismo e a preocupação com o desenvolvimento espiritual da Humanidade. É uma excelente posição para a astrologia e todas as formas de estudos ocultos.`,
 
-      `text 5 Lorem ipsum`,
+      `O nativo com Vênus em Aquário acredita que o amor, antes de tudo, significa liberdade e amizade.
+        
+        Sincero nos relacionamentos acredita que quando se ama verdadeiramente alguém, é preciso respeitar a individualidade, sem demonstrar ciúme ou possessividade - atitudes que ela despreza profundamente.
+        
+        Esta posição de Vênus inspira a amar e buscar o diferente, a cultivar ousadia, originalidade e inventividade, a fugir da mesmice e do que já foi estabelecido pela sociedade tradicional. A romper com os padrões estabelecidos e olhar para o futuro.
+        
+        Pode amar alguém de outra classe social e até de outra cultura, ou até alguém do mesmo sexo, pois se sente estimulado ao desafiar o 'status quo', a sociedade tradicional. Avesso aos arroubos das paixões pode romper bruscamente os relacionamentos que procuram cercear sua liberdade.
+        
+        O nativo gosta de fugir de situações convencionais, de temperar o romance com situações insólitas e inesperadas. Aceitar as diferenças é também fundamental, sem tentar mudar o outro.
+        
+        O amor pode sobreviver mesmo à distância, pela internet, morando em casas separadas ou se encontrando sem prévio aviso, aleatoriamente. Até mesmo sem sexo! Não que ele não ame o sexo, mas procura intelectualizá-lo, racionalizá-lo, analisá-lo demais`,
 
       `text 6 Lorem ipsum`,
 
@@ -1214,82 +1035,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   },
   {
@@ -1350,7 +1096,21 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         
         O nativo talvez seja hipersensível e capaz de perceber uma crítica pessoal mesmo não intencional. É preciso cultivar mais impessoalidade em seu raciocínio e percepção da realidade.`,
 
-      `Signo 5 Lorem ipsum`,
+      `Essa é a posição de Vênus mais romântica e sonhadora do zodíaco. Vênus recebe de braços abertos as qualidades e toda a imensidão de Peixes: sensibilidade, inspiração, magia, encantamento, compaixão.
+        
+        A intimidade com o outro, as experiências que envolvem prazer e sensibilidade, ganham ares sagrados. Nada do que se refere ao amor fica pequeno. Quando se apaixona, o nativo se entrega totalmente, fundindo-se com o outro e colocando-se aos seus pés.
+        
+        A anulação da personalidade no intuito de agradar o parceiro pode ser uma armadilha no longo prazo. Tudo emerge das profundezas, o bom e o ruim também. Anjos e demônios, sonhos e pesadelos, felicidades paradisíacas e sofrimentos do tipo "meu mundo caiu".
+        
+        Com Vênus em Peixes é bom ter cuidado pra não idealizar o outro, ou o amor em si. Criar fantasias tão grandes que ninguém se torna capaz de satisfazê-las.  Ao ver o outro como uma tábua de salvação pra sua vida, pode se dar mal ao embarcar em ilusões.
+        
+        É preciso cuidado para não se envolver em paixões impossíveis e fadadas a causar dor e sofrimento! Idealizando demais o amor, o nativo pode sofrer decepções e frustrações assim que a rotina natural de uma relação duradoura se instalar.
+        
+        Os sonhos se desfazem e o príncipe voltará a ser um sapo ao amanhecer. A imaginação é fértil.
+        
+        O nativo precisa dar vazão às suas fantasias que são mais sensuais que sexuais. Precisa de uma união completa com o outro e irá fugir dos relacionamentos passionais que visam somente à satisfação sexual.
+        
+        Essa Vênus inspira o amor universal, com nossos semelhantes e com Deus. O amor deve ser compreendido como uma libertação psíquica e espiritual, como uma troca consciente e equilibrada a ser construída com quem partilha os mesmos anseios filosóficos e espirituais.`,
 
       `Signo 6 Lorem ipsum`,
 
@@ -1377,82 +1137,7 @@ Se o trabalho não expressa prazer que nasce da convicção de suas capacidades,
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
-      ],
-      [
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. `,
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. `,
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. `
-      ],
-      [
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. `,
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
-      ],
-      [
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. `
-      ],
-      [
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. `,
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
-      ],
-      [
-        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
-Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. `,
-        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
-        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
-        Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço. `
-      ],
-      [
-        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
-        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.
-        A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
-        O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
-        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
-        Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
-      ],
-      [
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
-      ],
-      [
-        `Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. `,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.`
-      ],
-      [
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros.
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. `,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. `,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
-      ],
-      [
-        `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
-        `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.
-        O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
-        `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.
-        Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
-        Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
-        Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
-      ],
-      [
-        `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
-        `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.
-        Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
-        `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.
-        E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
-
-      ],
+      ]
     ]
   }
   ],
