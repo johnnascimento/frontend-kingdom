@@ -1,7 +1,5 @@
 // `Data` part
 // ------------------------------------------------------------------------
-let lineBreaker = "<br />";
-
 const data = {
   planets: [
     {
@@ -119,7 +117,16 @@ const data = {
         Impaciente e apressado pode passar por cima dos outros, por querer estar sempre um passo à frente. Na via negativa, é preciso trabalhar o descontrole nas ações e palavras.
         
         Tamanha energia pode ser geradora de violência, agressividade excessiva, impaciência que causa acidentes de todo tipo e principalmente perigo com armas, fogo, acidentes de carro e quedas. Também pode provocar dores de cabeça, ferimentos na cabeça ou no rosto.`,
-      `text 7 Lorem ipsum`,
+        
+      `O nativo pode ganhar dinheiro através de seus méritos pessoais. Mas o excesso de otimismo pode provocar grandes perdas económicas se não tiver cuidado.
+        
+        Há forte inclinação para as ciências, a literatura, a religião, as viagens. É possível que se dedique a duas profissões em simultâneo, ou que estas mudem várias vezes.
+        
+        O nativo é, em certa medida, precursor, pioneiro ou inovador, mas a sua natureza não é conservadora. Geralmente é afortunado e respeitado.
+        
+        Tem habilidades especiais para a liderança, mantém sempre uma fé inquebrantável em si mesmo. Tende a tomar posições de responsabilidade, sobretudo em cargos públicos.
+        `,
+        
       `text 8 Lorem ipsum`,
       `text 9 Lorem ipsum`,
       `text 10 Lorem ipsum`,
@@ -200,7 +207,15 @@ const data = {
         
         Pode cometer ações de violência para defender seus bens e agir com excessos por questões de dinheiro. Com a teimosia excessiva e o ciúme.`,
 
-      `text 7 Lorem ipsum`,
+      `Neste signo Júpiter produz lucros e ganhos em ocupações que, de algum modo, estão relacionadas com a igreja, a religião, a filosofia, o saber e as viagens.
+        
+        Também a agricultura, os alimentos, os cavalos ou qualquer atividade relacionada com as terras. O nativo pode contar com uma grande intuição para os negócios e pode ser afortunado em questões monetárias.
+        
+        Com frequência recebe legados ou doações. Mas quando se excede no amor pelo dinheiro, este pode ser a sua perdição. Gosta dos prazeres da boa mesa e do conforto.
+        
+        Um dos seus passatempos preferidos é a cozinha. Tem tendência para a obesidade. É conservador, pouco dado a mudanças.
+        
+        É paciente e firme nos seus propósitos, digno de confiança. Ama a justiça, tem bom relacionamento e disposição tranquila.`,
 
       `text 8 Lorem ipsum`,
 
@@ -292,7 +307,15 @@ const data = {
         
         É preciso atenção para não dissipar energia em ações inúteis e sem sentido. O espírito crítico pode levar a discussões ou brigas. É preciso cuidado também com irritações nas vias respiratórias.`,
 
-      `text 7 Lorem ipsum`,
+      `nativo pode contar com capacidade para os estudos filosóficos e para as atividades educacionais. Muitos escritores têm esta posição de Júpiter.
+        
+        É provável que os ganhos provenham de atividades relacionadas com o ensino, as editoras e as agências de turismo.
+        
+        É inquieto, possui uma permanente atividade nervosa, um apetite insaciável pelas ideias inovadoras, sendo apaixonado por assistir a conferências ou cursos.
+        
+        Necessita conhecer um pouco de cada coisa e desenvolver a mente até um grau muito avançado. Pode ser demasiado loquaz, charlatão, difuso nas ideias e indiscreto.
+        
+        É preciso cuidado para não mentir ou falar demais. Se medir os seus comentários pode evitar grandes perdas de dinheiro ou de posição social.`,
 
       `text 8 Lorem ipsum`,
 
@@ -388,7 +411,19 @@ const data = {
           
           É preciso cuidado com disputas domésticas, pois pode se expressar de forma autoritária com seus parentes e familiares. Existe o perigo de se envolver em acidentes domésticos. Cuidado também com problemas digestivos e dores de estômago.`,
 
-      `text 7 Lorem ipsum`,
+      `O nativo pode contar com o bom humor. É sensível, religioso, complacente e com opiniões cambiantes.
+        
+        Pode se destacar em ocupações agrícolas ou em negócios imobiliários. Também nas atividades artísticas: poesia, música, belas artes ou na cozinha e na restauração.
+        
+        Essa posição de Júpiter indica riqueza, mas na última parte da vida, assim como a possibilidade de receber heranças.
+        
+        É preciso cuidado para não se deixar levar pela sensibilidade em questões monetárias. Desta forma, evita perder dinheiro.
+        
+        Um dos seus maiores passatempos é passar horas no seu lar com a família, ouvindo música ou descansando.
+        
+        Por vezes esta posição indica possuir uma casa grande, ampla, com muita gente. Pode ser um excelente anfitrião, aficionado pelas reuniões em lugares onde possa desfrutar da comida e da bebida.
+        
+        Gosta da vida social (restaurantes, bares, hotéis, etc.). Pode se beneficiar através da ajuda de parentes ou de associações com mulheres.`,
 
       `text 8 Lorem ipsum`,
 
@@ -477,7 +512,15 @@ const data = {
         
         É preciso cuidado com a tendência de impor sua vontade sobre os outros de forma arrogante. Pode envolver-se em disputas por amor, viver paixões violentas ou súbitas, onde poderá exigir exclusividade. Esse Marte desaconselha os investimentos de risco e as especulações.`,
 
-      `text 7 Lorem ipsum`,
+      `O nativo é ambicioso, desejoso de poder, liderança, dignidade, luxo e exibicionismo. Está capacitado para as atividades ou tarefas públicas. Serve para mandar ou dirigir.
+        
+        Pode se destacar como diretor, presidente, empresário, chefe ou capataz. As especulações ou investimentos e as atividades financeiras podem render-lhe bons dividendos.
+        
+        Chegará a fazer fortuna se controlar o seu orgulho e os seus excessivos anseios de poder.
+        
+        Gosta de utilizar seu tempo livre praticando esportes ou alguma atividade artística. Possui uma forte constituição física e uma grande vitalidade que inspira confiança e respeito.
+        
+        Atribui grande importância à posição social e às honrarias. No afeto, é profundo, sincero e honesto.`,
 
       `text 8 Lorem ipsum`,
 
@@ -574,7 +617,13 @@ const data = {
         
         É preciso observar o caráter suscetível, que se aborrece por causa de pequenos detalhes. O descontentamento pode provocar disputas com subalternos e colegas. O espírito excessivamente crítico pode provocar seu envolvimento em discussões. Risco de inflamações ou cirurgias intestinais.`,
 
-      `text 7 Lorem ipsum`,
+      `Com esta posição o nativo pode ser cético em questões religiosas, adotando uma postura intelectual e um tanto materialista das coisas, em vez de devocional e espiritual.
+        
+        Boa posição para um escritor, para um técnico no manejo de computadores. Também para um psicólogo, médico, enfermeiro, nutricionista, veterinário, contabilista e artesão.
+        
+        Tem muitíssimas aptidões, mas pode ter dificuldade em fazer fortuna, já que em muitas ocasiões sente insatisfação no que faz e assim perderá boas oportunidades.
+        
+        É perfeccionista em todos os sentidos. Considera a limpeza e a ordem como essenciais. Nutre grande interesse pela saúde física e mental, prestando por vezes serviços em hospitais ou instituições educacionais.`,
 
       `text 8 Lorem ipsum`,
 
@@ -678,7 +727,17 @@ const data = {
         
         Aprendizado: agir com a aprovação do outro, agir em conjunto. Expressar a vontade própria sem se indispor. Tomar iniciativas com mais delicadeza, prudência, diplomacia. Pautar as ações com estratégia, ou invés de impor vontades. Ter jogo de cintura.`,
 
-      `text 7 Lorem ipsum`,
+      `O nativo pode obter algum êxito social que lhe permitirá viver com despreocupação. Ganhos podem vir através do casamento ou de sociedades comerciais.
+        
+        Mas é preciso cuidado com o cumprimento de contratos, sejam profissionais, comerciais ou matrimoniais, para não perder dinheiro.
+        
+        Pode se destacar como advogado e obter benefícios através de pleitos ou litígios. Também como assessor, diplomata, designer, decorador, profissional da beleza ou estilista.
+        
+        As atividades culturais o agradam. Nos seus tempos livres gosta de dançar, ir ao cinema, ao teatro ou assistir a espetáculos. Gosta de estudar e viajar em boa companhia.
+        
+        Pode ter muitos amigos, contatos e habilidade no trato com o público. A sua grande capacidade para convencer as pessoas sobre certas ideias ou planos faz com que seja um excelente promotor.
+        
+        Não suporta brigas ou discussões conflituosas.`,
 
       `text 8 Lorem ipsum`,
 
@@ -778,7 +837,17 @@ const data = {
         
         Cuidado também com disputas, para não impor sua vontade com violência. Indivíduos menos evoluídos podem ser manipuladores e maquiavélicos, com espírito vingativo e excessivamente ciumento. Ficam sujeitos a sofrer de todo tipo de violência, mesmo sexual.`,
 
-      `text 7 Lorem ipsum`,
+      `O nativo pode contar com o instinto especial para os negócios e estes podem render-lhe largos dividendos.
+        
+        É muito provável que receba dinheiro por herança. Boa posição para o trabalho de investigação, pesquisa, engenharia ou medicina.
+        
+        Sente forte atração pelo ocultismo e pela filosofia. Gosta de passar seu tempo livre fazendo amor, meditando ou simplesmente descansando. Possui uma personalidade reservada e sutil.
+        
+        Seus discernimentos são sagazes e críticos. Por vezes, o nativo tem um magnetismo especial que atrai as massas, assim como poderes de cura.
+        
+        Mas pode ter problemas com amizades estranhas, baseadas em motivos ocultos. O nativo faria melhor se evitasse a sua participação em sociedades ou negócios ilegais ou duvidosos.
+        
+        Também deve evitar iniciar processos jurídicos, porque é mínima a possibilidade de ganhá-los.`,
 
       `text 8 Lorem ipsum`,
 
@@ -886,7 +955,18 @@ const data = {
         
         Cético em relação à opinião dos outros, pode expressar suas ideias de forma arrogante e com ar de superioridade. Cuidado com a pressa para evitar acidentes em viagens.`,
 
-      `text 7 Lorem ipsum`,
+      `Neste signo Júpiter está em seu domicílio, proporcionando boa fortuna e êxito em geral. Favorável para a literatura, as viagens, as operações com cavalos ou barcos.
+        
+        Para esportistas, professores, editores, tradutores ou políticos. Em regra, o nativo é religioso, ético e sincero. Sem dúvida pode utilizar as melhores condições da sua mente.
+        
+        Possui muito interesse pelas culturas estrangeiras, pela busca da sabedoria, pelas religiões ou conhecimentos sobre culturas e sistemas sociais diversos.
+        
+        É muito difícil que se aborreça: tem sempre alguma coisa para fazer, seja um passatempo, uma aventura ou uma atividade criativa.
+        
+        Agrada-lhe o ar livre e os esportes. Pode aprender muito através das viagens. A sua personalidade é alegre, extrovertida e optimista.
+        
+        O seu respeito pela liberdade e a sua conduta imparcial fará que seja admirado e respeitado por todos, até mesmo seus adversários.
+        `,
 
       `text 8 Lorem ipsum`,
 
@@ -985,7 +1065,43 @@ const data = {
         
         As suas ações tendem a ser por demais determinadas, podendo parecer impositivas e arrogantes. Disputas com colegas e superiores podem causar prejuízos à carreira.`,
 
-      `text 7 Lorem ipsum`,
+      `O nativo pode alcançar riqueza através da ambição, da perseverança, da paciência e da habilidade para administrar. Pode Neste signo Júpiter está em seu domicílio, proporcionando boa fortuna e êxito em geral. Favorável para a literatura, as viagens, as operações com cavalos ou barcos.
+        Neste signo Júpiter está em seu domicílio, proporcionando boa fortuna e êxito em geral. Favorável para a literatura, as viagens, as operações com cavalos ou barcos.
+        
+        Para esportistas, professores, editores, tradutores ou políticos. Em regra, o nativo é religioso, ético e sincero. Sem dúvida pode utilizar as melhores condições da sua mente.
+        
+        Possui muito interesse pelas culturas estrangeiras, pela busca da sabedoria, pelas religiões ou conhecimentos sobre culturas e sistemas sociais diversos.
+        
+        É muito difícil que se aborreça: tem sempre alguma coisa para fazer, seja um passatempo, uma aventura ou uma atividade criativa.
+        
+        Agrada-lhe o ar livre e os esportes. Pode aprender muito através das viagens. A sua personalidade é alegre, extrovertida e optimista.
+        
+        O seu respeito pela liberdade e a sua conduta imparcial fará que seja admirado e respeitado por todos, até mesmo seus adversários.
+        
+        
+        Para esportistas, professores, editores, tradutores ou políticos. Em regra, o nativo é religioso, ético e sincero. Sem dúvida pode utilizar as melhores condições da sua mente.
+        
+        Possui muito interesse pelas culturas estrangeiras, pela busca da sabedoria, pelas religiões ou conhecimentos sobre culturas e sistemas sociais diversos.
+        
+        É muito difícil que se aborreça: tem sempre alguma coisa para fazer, seja um passatempo, uma aventura ou uma atividade criativa.
+        
+        Agrada-lhe o ar livre e os esportes. Pode aprender muito através das viagens. A sua personalidade é alegre, extrovertida e optimista.
+        
+        O seu respeito pela liberdade e a sua conduta imparcial fará que seja admirado e respeitado por todos, até mesmo seus adversários.
+        
+        se destacar como político, engenheiro, empresário, na filosofia e na religião.
+        
+        Conta com grande prudência, cautela e um critério maduro, ainda que possa faltar-lhe criatividade e imaginação.
+        
+        Mas é necessária uma mudança na consciência e um alinhamento com seus reais propósitos para que aprenda a desfrutar de suas conquistas profissionais.
+        
+        Por estar tão embrenhado no seu trabalho e nas suas ambições, descuida de sua família e dos prazeres do lar.
+        
+        Deve aprender a desfrutar do seu tempo livre e deixar de lado, nesses momentos, as suas atividades profissionais.
+        
+        Pode demonstrar frieza e autoridade. Tem uma mente séria, reflexiva, responsável, engenhosa e com muita retidão.
+        
+        A sua paciência e a sua habilidade para administrar podem lhe proporcionar muita riqueza`,
 
       `text 8 Lorem ipsum`,
 
@@ -1097,7 +1213,16 @@ const data = {
         
         É preciso observar se o espírito é por demais independente, rebelde ou brusco. Pode se expor demasiadamente em busca de novos objetivos de conquista e podem agir em passeatas, greves e ações públicas. Tenha atenção às disputas podem afastar os amigos.`,
 
-      `text 7 Lorem ipsum`,
+      `A predisposição religiosa cede para dar lugar ao lado mais humanitário de Júpiter. O nativo pode contar com bom o humor e idealismo. Não estabelece distinções de classe social, raça ou religião.
+        
+        A posição de Júpiter neste signo indica bons diplomatas, especialistas em relações de trabalho, públicas e humanas.
+        
+        A fortuna pode chegar-lhe através de sociedades ou corporações. Seus momentos livres podem ser utilizados para estar junto de amigos e atividades em grupo.
+        
+        Sente grande atração pela sabedoria oculta, filosofia e astrologia. É um rebelde, de espírito científico e reformista. Agrada-lhe implantar novas ideias, por vezes demasiado extravagantes.
+        
+        É bom organizador e gosta de participar em associações com propósitos científicos e humanitários.
+        `,
 
       `text 8 Lorem ipsum`,
 
@@ -1205,7 +1330,15 @@ const data = {
         
         Os indivíduos menos evoluídos podem desenvolver tendência para a criminalidade, sendo vítima de más influências. Negócios na clandestinidade, fraudes, máfia. Podem sofrer com roubos, sequestros, traições e todo tipo de ações ilícitas e clandestinas.`,
 
-      `Signo 7 Lorem ipsum`,
+      `O nativo pode gozar de boa vida, mas é difícil que faça demasiada fortuna, uma vez que é pouco ambicioso e gosta da vida fácil. A indolência pode ser o seu pior defeito na área financeira e laboral.
+        
+        Poderá se destacar como detetive, polícia, advogado, escritor de novelas, artista, músico, psicólogo, terapeuta ou médico.
+        
+        Gosta de cultivar a fé e pode encontrar a felicidade e a paz no plano de evolução espiritual, mais do que no plano material.
+        
+        Encanta-o utilizar o tempo livre ouvindo música, desenhando ou em atividades artísticas em geral. A sua personalidade é intuitiva, imaginativa, emocional e compassiva.
+        
+        É muito sensível aos problemas dos outros e gosta de ajudar o próximo (especialmente os enfermos, os necessitados e as pessoas que sofrem).`,
 
       `Signo 8 Lorem ipsum`,
 
