@@ -258,12 +258,11 @@ window.onload = () => {
                     if (siteLists.first.link.selectedIndex === 1){
                     // This first element needs fixing
                     
-                    criarEl('p', klassAssigner, 'levelsClass', 'levelsId-1', null, levels[0]);
-                    criarEl('p', klassAssigner, 'levelsClass', 'levelsId-2', null, levels[1]);
-                    criarEl('p', klassAssigner, 'levelsClass', 'levelsId-3', null, levels[2]);
+                   for(var j = 0; j < 8; j++) { 
+                      criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+i, null, levels[i]);
                     }
+                    
                     return;
-
                 }
             }
         }

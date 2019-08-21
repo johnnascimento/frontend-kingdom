@@ -127,8 +127,29 @@ const data = {
         Tem habilidades especiais para a liderança, mantém sempre uma fé inquebrantável em si mesmo. Tende a tomar posições de responsabilidade, sobretudo em cargos públicos.
         `,
         
-      `text 8 Lorem ipsum`,
-      `text 9 Lorem ipsum`,
+      `Saturno no signo de Áries indica que o nativo é forçado pelas circunstâncias a adquirir iniciativa, paciência e autoconfiança para enfrentar as necessidades práticas da vida. Através da obrigação de desenvolver seus próprios recursos, passa a desenvolver sua vontade e força de carácter.
+        
+        Áries representa o impulso inicial de ação, enquanto Saturno representa a lei de causa e efeito que traz de volta as consequências de uma ação. Por isso fica mais difícil para o nativo com esta posição ver a si mesmas como os outros o veem.
+        
+        O nativo está iniciando um novo ciclo de experiências, de forma que não teve tempo para aprender as consequências de seus atos. Portanto, pode não ter consciência dos princípios de justiça social e dos direitos alheios.
+        
+        Mesmo assim, esta posição de Saturno oferece muitas habilidades. Os nativos são capazes de desenvolver novos métodos no seu trabalho.
+        
+        No caso de pessoas muito desenvolvidas, a disciplina associada à iniciativa conduz à criatividade mental e ao pioneirismo, que lhes permite criar novos conceitos nas áreas escolhidas.
+        
+        No seu pior, os nativos podem ser muito defensivos, sempre esperando oposição dos outros. Essa característica dificulta a compreensão, a colaboração e a comunicação com os outros. Também pode haver egocentrismo e o impulso de se autojustificar.
+        
+        Ao se preocuparem com a sua própria ambição e segurança, podem ignorar as necessidades e aspirações dos outros. Essa tendência de buscar exclusivamente objetivos pessoais pode impedi‑los de colaborar com os outros e, assim, limitar o seu sucesso.
+        
+        Portanto, é preciso observar se falta diplomacia. O nativo gosta de fazer tudo sozinho, cuidando assim, das suas próprias necessidades sem dar ou solicitar ajuda. Preferem ter os seus próprios negócios, mas isso nem sempre é possível com esta posição.`,
+      `Urano no signo de Áries indica um nativo cuja missão é indicar novos caminhos nas ciências e reforma social. Para ele a liberdade para agir à sua maneira é de extrema importância. Possui coragem, audácia, iniciativa e habilidades.
+        
+        O seu espírito de aventura é forte, o nativo precisa constantemente de novas experiências para se sentir feliz. Esta posição pode torná-los indelicados e francos. Exigem mudanças e recusam-se a viver no estilo dos seus pais ou das gerações precedentes.
+        
+        No seu pior, podem ser explosivamente impulsivos, politicamente fanáticos, agressivos e indiscriminados na sua rejeição do passado. Quando o individualismo é levado a extremos, torna as pessoas cegas para a estrutura social da qual dependem grandes empreendimentos.
+        
+        Impulsividade e mau génio são as armadilhas desta posição. Os nativos precisam aprender a ter mais consideração pelos outros e maior capacidade de colaboração.
+        `,
       `text 10 Lorem ipsum`,
       `text 11 Lorem ipsum`,
       `text 12 Lorem ipsum`,
@@ -217,9 +238,31 @@ const data = {
         
         É paciente e firme nos seus propósitos, digno de confiança. Ama a justiça, tem bom relacionamento e disposição tranquila.`,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Touro indica nativos que necessitam de disciplina e trabalho árduo se desejarem adquirir bens materiais. Sentem forte necessidade de segurança financeira e emocional, não conseguem ficar em paz se os assuntos práticos não estiverem em ordem.
+        
+        No seu melhor, serão as características como a paciência constante, a devoção inabalável aos princípios e a capacidade de administração de negócios.
+        
+        Quando estão com cerca de 29 anos de idade, os nativos procuram posições estáveis na carreira, que lhes assegure segurança financeira e doméstica, exigidas para o seu bem‑estar.
+        
+        Provavelmente são confiáveis e persistentes em sua profissão. Com frequência, seguem profissões relacionadas a transações bancárias, investimentos, seguros ou administração de empresas.
+        
+        Como tendem a ser moderados, geralmente compram objetos de valor duradouro, considerando principalmente as suas qualidades práticas. Guardam dinheiro para emergências futuras e segurança na velhice.
+        
+        Precisam desenvolver um senso de valor equilibrado dos recursos materiais. No seu pior, é possível haver obstinação e materialismo excessivo.
+        
+        Em casos extremos, o resultado é a avareza ou — inversamente — uma sobrecarga de bens materiais, que não permite que as coisas fluam para que as novas coisas possam chegar quando necessário.
+        `,
 
-      `text 9 Lorem ipsum`,
+      `Urano no signo de Touro indica uma geração de nativos com novas ideias sobre o uso do dinheiro e dos recursos materiais. Essas pessoas provavelmente buscam reformas nos negócios e na economia, áreas nas quais desejam aplicar princípios humanitários.
+        
+        O nativo deseja ser prático, de maneira única e original. Podem ter enorme determinação e firmeza de propósitos. Mas, no seu pior, pode haver teimosia obstinada.
+        
+        Urano está em queda no signo de Touro. Portanto, o desejo de liberdade e a expressão de ideias intuitivas são limitados por uma ligação a objetos ou bens materiais. Ou por dificuldades impostas pela tentativa de modificar as condições materiais muito depressa.
+        
+        A ligação ao lar e à família também pode refrear a expressão individual. Os impulsos espirituais também podem ser frustrados pela submissão a instituições conservadoras nos negócios e no governo, que refletem o materialismo da ordem social dominante.
+        
+        Urano em Touro pode proporcionar talentos artísticos e musicais incomuns, se for bem cultivado. Os nativos com frequência se interessam por modernas técnicas eletrônicas em administração, contabilidade e outros negócios.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -317,9 +360,31 @@ const data = {
         
         É preciso cuidado para não mentir ou falar demais. Se medir os seus comentários pode evitar grandes perdas de dinheiro ou de posição social.`,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Gêmeos indica uma mente prática, disciplinada, sistemática e lógica. Há capacidade de disciplina no pensamento, no raciocínio, na escrita e na solução de problemas de todos os tipos.
+        
+        As ideias são julgadas pela sua utilidade prática e pelos resultados obtidos na experiência direta.
+        
+        Essa disciplina em todas as formas de trabalho mental, especialmente matemática, ciência e execução concreta de ideias, geralmente permite que os nativos completem cursos formais de estudo.
+        
+        Os nativos gostam das coisas bem definidas, organizadas em detalhes e anotadas no papel. Preocupam‑se principalmente com a clareza em contratos e acordos. A honestidade na comunicação e a confiança são de extrema importância.
+        
+        Os nativos geralmente buscam argumentos sólidos para provar seus esforços. Saturno atua bem em todos os signos de ar, porque acrescenta disciplina, justiça e senso prático às funções intelectuais. Secretárias, estenógrafas, contadores, escritores, professores e pesquisadores possuem esta posição.
+        
+        Ela também favorece pessoas envolvidas em engenharia, ciências físicas e matemáticas. No seu pior, pode haver tendência a sentir e demonstrar muita dúvida, suspeita, timidez ou uma atitude crítica.
+        
+        Contudo, os nativos são suficientemente flexíveis para se adaptarem às necessidades práticas de qualquer situação, sendo habilidosos para encontrar soluções de problemas. Eles enxergam a vida com objetividade prática.
+        `,
 
-      `text 9 Lorem ipsum`,
+      `Urano no signo de Gémeos indica uma geração de pessoas destinadas a serem precursoras de uma nova maneira de pensar. Elas possuem mentes brilhantes, originais, intuitivas. Podem abrir novos conceitos em ciência, literatura, educação, electrónica e meios de comunicação.
+        
+        Os nativos com esta posição tendem à inquietação exagerada, podendo dificultar a realização de uma ideia até ao fim. Precisam desenvolver autodisciplina para que as suas ideias possam se concretizar.
+        
+        Devido à sua inquietação, geralmente viajam muito, procurando novos contatos sociais e a descoberta de novas ideias. Esta posição indica grande liberdade de pensamento.
+        
+        Uma vez que criamos o nosso destino com nossas mentes e nossas crenças, os nativos podem desenvolver a percepção de atividades e soluções alternativas, a capacidade para abandonar padrões de vida habituais.
+        
+        No seu pior, o raciocínio pode ser incoerente, excêntrico e pouco prático. Pode indicar confusão e imprevistos em viagens, bem como relações inconstantes com irmãos, irmãs e vizinhos.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -425,9 +490,33 @@ const data = {
         
         Gosta da vida social (restaurantes, bares, hotéis, etc.). Pode se beneficiar através da ajuda de parentes ou de associações com mulheres.`,
 
-      `text 8 Lorem ipsum`,
+      `Saturno em Câncer pode provocar inibições na manifestação das emoções, que provavelmente resultam em afastamento da família. Este isolamento emocional dentro do cenário doméstico pode conduzir algumas reações neuróticas.
+        
+        O ambiente familiar inicial e os relacionamentos com os pais algumas vezes são frios, austeros ou cercados de problemas. Os nativos podem ficar com cicatrizes emocionais e inibições. Podem ocultar seus sentimentos para preservar a sua dignidade.
+          
+          Saturno em Câncer pode indicar dificuldades na estabilidade e na segurança da vida familiar. Embora estas pessoas lutem para ter o seu próprio lar e propriedades, podem passar por dificuldades financeiras e tensão no lar.
+          
+          A sensibilidade emocional e a necessidade de aprovação algumas vezes à força a construir uma couraça ao redor de si mesma, o que pode inibir a manifestação do verdadeiro calor nos relacionamentos pessoais.
+          
+          É preciso observar se há má digestão dos alimentos ou um lento metabolismo corporal, que podem provocar excesso de peso e retenção de água nos tecidos.
+          
+          Em outros casos, pode haver subnutrição, resultando em uma aparência ossuda. É preciso cuidado também com a hipersensibilidade emocional, atitudes defensivas ou ligações muito fortes aos bens materiais.
+          
+          As pessoas com Saturno em Câncer, apesar disso, levam muito a sério as responsabilidades familiares. A necessidade de respeito ao indivíduo e sua família é sentida profundamente.
+          `,
 
-      `text 9 Lorem ipsum`,
+      `Urano no signo de Câncer indica uma geração de pessoas que buscam liberdade e excitação por intermédio da expressão emocional. Elas terão ideias avançadas a respeito do lar e da vida familiar. Procuram independência de uma autoridade parental rígida, preferem ser amigos dos seus pais.
+        
+        Mas, quando deixam o lar, certificam‑se de que podem voltar se o novo território que estão explorando for insustentável.
+        
+        Muitos dos nascidos entre Junho de 1949 e Junho de 1956, que têm Urano em Câncer, deixaram os seus lares para terem mais liberdade do que a permitida na vida familiar.
+        
+        Os nativos com Urano em Câncer administram os seus lares de maneira incomum. Gostam de arquitetura moderna ou construções de estilo diferente. Seus lares podem ter muitos aparelhos eletrônicos e uma decoração admirável.
+        
+        Gostam de usar sua casa como local de encontro de amigos e atividades em grupo. Também podem se interessar por tipos de vida comunitária ou arranjos familiares fora da tradicional família nuclear. Em muitos casos, os seus amigos se tornam membros da família.
+        
+        Com Urano em Câncer, há uma considerável sensibilidade psíquica. É provável que atividades ocultas façam parte do cenário doméstico. No seu pior, pode haver um temperamento excêntrico e súbitas mudanças de humor.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -522,9 +611,31 @@ const data = {
         
         Atribui grande importância à posição social e às honrarias. No afeto, é profundo, sincero e honesto.`,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Leão oferece aos nativos uma necessidade de se sentirem importantes e reconhecidos. Há também um forte desejo de controlar o ambiente. Assim, procuram atingir posições de poder e liderança.
+        
+        Pode haver interesse profissional na educação e na administração das áreas de diversão, negócios e investimentos especulativos.
+        
+        No seu pior, há o perigo de desenvolver atitudes autoritárias ou dogmáticas. A necessidade de defender o ego pode resultar em teimosia e rigidez. Buscando segurança por meio da autoridade autocrática pessoal, eles exigem muita atenção e respeito dos outros.
+        
+        Os pais com esta posição de Saturno geralmente são severos e disciplinadores rigorosos com seus filhos. Pode haver desilusões no amor ou problemas com os filhos, bem como perdas por intermédio de especulações financeiras.
+        
+        Saturno rege o senso prático, a valorização das leis universais, os princípios de responsabilidade social e de justiça. Essas leis não devem ser distorcidas pelo egoísmo e pelo desejo de poder.
+        
+        Portanto, esta posição pode indicar nativos que precisam desenvolver um conjunto de valores adequado para lidar com o amor, o romance, a generosidade, as crianças e a expressão criativa.
+        `,
 
-      `text 9 Lorem ipsum`,
+      `Urano no signo de Leão indica uma geração de pessoas que procuram liberdade no amor e no romance. As suas ideias sobre namoro e sexo podem desviar-se dos padrões morais tradicionais, e provavelmente acreditam no amor livre.
+        
+        Urano em Leão proporciona muita força de vontade e criatividade nas artes e nas ciências, bem como o potencial para tipos originais de liderança.
+        
+        Os nativos com esta posição procuram criar um tipo original de expressão para se destacarem em seus esforços. Podem desenvolver novos conceitos em arte, música e teatro.
+        
+        Ao invés de se ajustarem aos padrões da sociedade em que vivem, preferem criar os seus próprios padrões. Mas existe o perigo de vaidade com esta posição, pois Urano está em detrimento no signo de Leão.
+        
+        Portanto, os nativos deveriam se envolver mais em questões de interesse social ou universal, em detrimento de questões pessoais.
+        
+        Os nativos podem ser teimosos, têm dificuldade para se comprometer ou colaborar com os outros. No seu pior, insistirão em fazer as coisas à sua maneira, a ponto de se recusarem a colaborar.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -625,9 +736,31 @@ const data = {
         
         É perfeccionista em todos os sentidos. Considera a limpeza e a ordem como essenciais. Nutre grande interesse pela saúde física e mental, prestando por vezes serviços em hospitais ou instituições educacionais.`,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Virgem indica pessoas práticas, exigentes e trabalhadoras. Elas preocupam-se com detalhes, precisão e eficiência, especialmente no trabalho.
+        
+        Com frequência trabalham em áreas de medicina, pesquisa relacionada à saúde e ciência, ou em atividades como contabilistas ou bibliotecários. Exercitam a sua paciência e precisão em experiências científicas e análise de resultados experimentais.
+        
+        No seu pior, o perfeccionismo pode manifestar-se nas relações com colaboradores, empregados e patrões. Como os nativos são meticulosos a respeito de regras e regulamentos isso pode dificultar os relacionamentos.
+        
+        Eles tendem a sobrecarregar os outros e a si mesmos com excesso de trabalho, enquanto ignoram assuntos maiores e mais importantes devido à excessiva preocupação com detalhes.
+        
+        Esta posição com frequência indica pessoas austeras, que podem se tornar melancólicas ou deprimidas devido ao excessivo peso do trabalho e da responsabilidade.
+        
+        Elas necessitam tirar uma folga de vez em quando e desenvolver o senso de humor. A preocupação e o excesso de trabalho podem levar à má saúde, problemas de digestão e ansiedade.
+        `,
 
-      `text 9 Lorem ipsum`,
+      `Urano no signo de Virgem indica pessoas que têm ideias originais e práticas ao mesmo tempo com relação a métodos de trabalho, especialmente em áreas de saúde, ciência e tecnologia.
+        
+        Enquanto Urano se encontrava em Virgem — o signo regido por Mercúrio, o planeta mental, científico — Foram criadas muitas invenções eletrônicas, incluindo os computadores, que revolucionaram os negócios e a indústria.
+        
+        A geração que possui Urano em Virgem apresenta abordagens singulares e engenhosas na indústria, ciência, tecnologia, relações de trabalho, ecologia e saúde. Os nascidos entre 1964 e 1968, quando Urano formava conjunção com Plutão em Virgem, podem exercer uma influência revolucionária nessas áreas.
+        
+        Esta geração pode suportar o impacto do árduo trabalho necessário para a regeneração da civilização humana, preparando‑a para a nova era de Aquário, regida por Urano.
+        
+        Os nativos possuem talento incomum para os negócios e enorme habilidade prática para o trabalho. Contudo, podem passar por muitas mudanças e rompimentos no emprego.
+        
+        No seu pior, Urano nesse signo pode causar problemas de saúde. Os nativos podem então se interessar pelos efeitos curativos da dieta correta, pelas terapias alternativas e pelo controle mental das funções corporais.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -739,9 +872,34 @@ const data = {
         
         Não suporta brigas ou discussões conflituosas.`,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Libra traz a percepção de que para se conseguir qualquer coisa de valor duradouro, ou mesmo tornar a vida possível, é necessária a colaboração humana.
+        
+        Essa colaboração deve ser contínua para ser eficaz. Mas a colaboração contínua só é possível quando todas as partes de um projeto são tratadas com justiça, e a justiça exige regras de conduta e compromisso de todos.
+        
+        Cada pessoa deve lutar para completar o seu trabalho e deve ser responsável pelo todo. A disciplina e a responsabilidade nascem da compreensão de que as relações humanas impõem compromisso mútuo, como no casamento, nas sociedades e nas amizades íntimas.
+        
+        Graças ao senso de responsabilidade nos relacionamentos, os nativos com esta posição de Saturno lidam bem com acordos em negócios, planejamento de organizações, formulação de contratos legais e divisão cooperativa de trabalho. Com frequência se tornam advogados, juízes e mediadores.
+        
+        Os contratos conjugais com frequência são de natureza cármica, surgem das interações com pessoas que contraíram responsabilidades e dívidas morais em vidas passadas.
+        
+        Saturno em Libra também pode indicar casamentos tardios ou com pessoas sérias, com pesadas obrigações comerciais ou profissionais. O casamento com frequência está sujeito a obrigações, trabalho árduo e paciência.
+        
+        Esta é uma poderosa posição para Saturno, oferece muita consciência e responsabilidade sociais. No seu melhor, os nativos com frequência atingem posições de honra e riqueza graças à sua habilidade para trabalhar com outros. Uma habilidade que inclui receptividade, tato, confiabilidade e boa organização.
+        
+        No seu pior, o nativo pode demonstrar atitudes exigentes com as pessoas e a tendência de forçá‑las a trabalhar. Pode não haver amor, perdão e senso de responsabilidade nos seus relacionamentos.
+        
+        Os nativos tendem a aplicar a lei rigorosamente, em vez de compreender a justiça que está implícita em sua essência. O conceito de justiça que executam tão rigorosamente é dissimulado por sua opinião.
+        
+        É preciso cuidado para não assumir compromissos demais, que só podem cumprir à custa do excesso de trabalho. Em alguns casos, os nativos não conseguem cumpri‑lo, e o ressentimento que isso provoca, nos outros só resulta em sua própria queda de status.`,
 
-      `text 9 Lorem ipsum`,
+      `Urano em Libra indica uma geração de pessoas com novas ideias sobre casamento, sociedades e conduta social. Procuram liberdade no casamento e consideram o relacionamento mais importante do que o contrato legal.
+        
+        Com Urano em Libra, os nativos podem viver experiências com formas alternativas de vida, como a vida comunitária e outras inovações sociais. Podem cultivar novos conceitos de justiça e tentarão modificar e modernizar os códigos legais existentes.
+          
+          Essas pessoas possuem um insight aguçado sobre todos os tipos de relações humanas. Podem até mesmo desenvolver um conhecimento intuitivo ou telepático das motivações de outras pessoas.
+          
+          É preciso trabalhar a tendência para a rebeldia nas questões relativas ao casamento, parcerias ou sociedades. Trabalhar a inquietação e o desejo de liberdade em relacionamentos que exijam responsabilidade mútua.
+          `,
 
       `text 10 Lorem ipsum`,
 
@@ -849,9 +1007,35 @@ const data = {
         
         Também deve evitar iniciar processos jurídicos, porque é mínima a possibilidade de ganhá-los.`,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Escorpião indica responsabilidade em assuntos financeiros, recursos corporativos, finanças conjuntas, impostos, heranças, seguros e questões relativas a propriedades alheias.
+        
+        Os nativos geralmente são perfeccionistas no trabalho. Estão sempre tentando melhorar a estrutura da sociedade. Se esta tendência for levada a extremos, podem adquirir a reputação de chefes muito duros.
+        
+        Como têm pouca paciência com atitudes que demonstram preguiça ou má vontade no trabalho, não aceitam a falta de perseverança nos outros, bem como em si mesmos. Utilizam muita energia e força de vontade em realizações práticas.
+        
+        Meticulosidade, persistência e determinação são comuns, proporcionando um impulso para o sucesso. Os nativos desejam autoridade e costumam lutar muito para realizar as suas ambições.
+        
+        Os nativos aceitam as responsabilidades com intensidade emocional. Isso com frequência as sobrecarrega. Precisam aprender a lidar com elas de maneira calma e eficiente na medida em que surgem.
+        
+        São capazes de nutrir ressentimento quando sentem que foram tratadas injustamente. Também podem ter uma devoção quase fanática pelos princípios éticos e morais. Os nativos podem atingir as alturas da espiritualidade ou as profundezas do materialismo e do egoísmo.
+        
+        No seu pior, podem ocorrer conflitos a respeito de heranças, impostos e finanças conjuntas, que, com frequência, provocam batalhas legais e perdas através de litígios. Pode também existir tendência a intrigas e conspirações.
+        
+        É preciso cuidado com o desejo de vingança e a incapacidade para esquecer ofensas passadas.
+        `,
 
-      `text 9 Lorem ipsum`,
+      `Urano no signo de Escorpião está na sua exaltação. Como Urano é o planeta das revoluções e das mudanças drásticas, ele é mais potente em Escorpião, o signo da morte e da regeneração.
+        
+        Os nascidos com esta posição de Urano precisam se adaptar às fortes mudanças das instituições, pré-requisito necessário ao nascimento de um novo tipo de civilização.
+        
+        Muitas pessoas com Urano em Escorpião vivenciaram a Primeira Guerra Mundial, que levou a era vitoriana a um fim drástico e iniciou um período de rápidas mudanças.
+        
+        Os nativos com Urano em Escorpião possuem emoções muito fortes. Acreditam na ação decisiva, não podem tolerar inatividade ou preguiça.
+        
+        No seu pior, os nativos podem desenvolver um pensamento violento e uma feroz determinação de realizar mudanças, mesmo destrutivas.
+        
+        Os nativos podem ser muito habilidosos e possuir grande engenhosidade científica e mecânica. Podem ter tendências ocultas, como conhecimento da vida após a morte e percepção das dimensões suprafísicas de energia.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -968,9 +1152,31 @@ const data = {
         O seu respeito pela liberdade e a sua conduta imparcial fará que seja admirado e respeitado por todos, até mesmo seus adversários.
         `,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Sagitário indica pessoas sérias e responsáveis na busca da filosofia, religião e educação superior. Elas geralmente desenvolvem códigos morais rígidos ou uma devoção inabalável a sistemas religiosos e filosóficos.
+        
+        Defendem preceitos morais e se comportarão de acordo com princípios de justiça. Procuram a verdade e valores construtivos em sua atitude pessoal. Saturno dá ao sagitariano intelectualismo, disciplina, meticulosidade e profundidade de concentração.
+        
+        Tudo o que eles aprendem é totalmente absorvido e pode ser colocado em prática. Quando atingem honra ou distinção, sentem que a obtiveram pelo esforço perseverante.
+        
+        O desejo de poder e liderança pode se manifestar na vontade de ser considerada uma autoridade em algum dos aspectos nas áreas como da educação superior, da religião, do direito ou da filosofia.
+        
+        Há uma profunda necessidade de realização intelectual, filosófica ou espiritual que traga distinção. Esta posição traz a tendência de um intenso orgulho intelectual. Os nativos temem a desaprovação e a censura e ficam indignados quando outros pensam ou falam deles injustamente.
+        
+        A sua reputação pessoal é de extrema importância. É preciso cuidado para não se tornar presunçoso, tentar impor o seu sistema filosófico ou religioso aos outros. Se levada a extremos, esta prática resulta em presunção intelectual e espiritual.
+        `,
 
-      `text 9 Lorem ipsum`,
+      `Urano no signo de Sagitário inspira novos conceitos em espiritualidade, religião, filosofia e educação.
+        
+        Os nativos com esta posição de Urano podem criar novas formas de religião e educação, com o desejo de revolucionar todos os conceitos religiosos.
+        
+        Possuem um forte desejo de incorporar na religião ou espiritualidade os princípios da ciência e do ocultismo, como a reencarnação, a astrologia e a telepatia.
+        
+        Podem até se interessar por religiões excêntricas, filosofias sociais ou adotar religiões e filosofias novas ou estrangeiras.
+        
+        Urano em Sagitário oferece ao nativo, muita curiosidade sobre culturas estrangeiras. Pode viajar repentinamente, fazendo longas viagens por causa do espírito de aventura.
+        
+        Pode viver muitas experiências singulares em países estrangeiros ou com pessoas estrangeiras.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -1103,9 +1309,50 @@ const data = {
         
         A sua paciência e a sua habilidade para administrar podem lhe proporcionar muita riqueza`,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Capricórnio indica forte ambição de poder, status e autoridade, geralmente manifestada nos negócios, na ciência ou na política.
+        
+        Os nativos sentem grande necessidade de realizar coisas importantes em sua carreira. Não fazem nenhum esforço sem ter em mente os objetivos práticos e estratégicos.
+        
+        São bons organizadores. Alternam‑se entre favorecer as suas ambições e proteger a sua segurança, conseguindo desse modo obter destaque sem correr riscos. Possuem uma aura de dignidade e seriedade que pode lhes dar uma aparência de austeridade e frieza.
+        
+        Os nativos devem evitar a rigidez em suas atitudes e crenças. São capazes de aceitar ordens de autoridades e quando atingem as suas próprias posições de autoridade, esperam a mesma obediência dos outros.
+        
+        Assim, são conservadores nos negócios e na política. Sentem que a estrutura tradicional do poder tem as suas razões, que não deveriam ser questionadas por aqueles que não possuem experiência prática no trato com essas grandes responsabilidades.
+        
+        A luta para adquirir segurança e autossuficiência no início da vida ajuda a formar estas atitudes práticas e conservadoras. Sabem que tudo tem o seu preço e que todos precisam contribuir para o funcionamento do mundo.
+        
+        Acham que todos deveriam obter as coisas pelos seus próprios esforços. Assim, quando chegam ao topo, procuram ajudar os outros a ajudarem a si mesmos.
+        
+        Contudo, mais tarde na vida, tendem a esquecer das duras lutas da juventude e as dificuldades de enfrentar a vida sem dinheiro, ferramentas ou recursos. Levada a extremos, essa tendência pode fazer com que os nativos usem o poder, a riqueza e os bens materiais obtidos para controlar os outros.
+        
+        Geralmente cultivam forte sentimento de orgulho e honra familiar. Com frequência os nativos vêm de famílias respeitadas na comunidade.
+        
+        Entretanto, os que nasceram de famílias ricas e socialmente importantes correm o risco de se tornarem extremamente insensíveis aos valores humanos, porque não passaram pela experiência do esforço pessoal sem recursos.
+        
+        É provável que considerem as pessoas social e economicamente inferiores como mercadorias manipuláveis, e não como seres humanos sensíveis. Essa tendência pode ser compensada se houver compreensão espiritual e compaixão.
+        
+        Se houver uma infância de pobreza e desgraça familiar, esta posição proporciona o impulso necessário para superar as dificuldades e atingir destaque e poder. Para essas pessoas, a vida é sempre um assunto sério e uma luta.
+        
+        Algumas vezes, não possuem sensibilidade estética, julgando as coisas somente por seu preço ou reputação. Se o desejo de status for levado a extremos, pode tornar-se um fim em si mesmo e não um meio de contribuir para a ordem social.
+        
+        Precisam desenvolver o senso de humor e a compreensão de outros valores além do materialismo e do status. Os nativos podem atingir as alturas da espiritualidade ou as profundezas do materialismo e do egoísmo.
+        
+        Como e quando o poder e a autoridade serão obtidos, irá depender do nível de consciência e do grau de espiritualidade do nativo. No seu melhor, há honestidade e integridade em todos os negócios, contatos profissionais e políticos.
+        
+        É preciso cuidado para que não usem meios inescrupulosos para adquirir riqueza e poder. Pode haver uma tendência a usar interpretações literais da lei visando vantagens desonestas.
+        
+        Contudo, se esses meios inescrupulosos forem usados, com frequência provocam inversão na sorte, desgraça pública e perda do poder.`,
 
-      `text 9 Lorem ipsum`,
+      `Urano no signo de Capricórnio indica uma geração de pessoas que podem realizar importantes mudanças nas estruturas de poder governamental e comercial.
+        
+        Os nativos desejam mudar o status quo para garantir maior segurança no futuro. Mas precisam ter cuidado para fazê‑lo de maneira prática, construindo o novo, porém baseando-se no antigo.
+        
+        Elas procuram mudanças construtivas, embora relutem em abandonar completamente o passado. Essas pessoas são muito ambiciosas e desejam o sucesso.
+        
+        Na ciência e nos negócios, possuem ideias originais que utilizam para favorecer as suas carreiras ou melhorar o seu status. Também são capazes de desenvolver velhas ideias de maneira nova ou incomum.
+        
+        Os nativos tendem a se expandir na procura do progresso profissional. No seu pior, pode haver ambição desmedida.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -1121,9 +1368,24 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:
+        Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abragente com a vida e com os outros.`,
+          
+          `Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado.`,
+          
+          `Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares.`,
+          
+          `2º nível de evolução:
+        Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum.`,
+          
+          `3º nível de evolução:
+        Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. Aceita incondicionalmente Ser quem pode Vir a ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida.`,
+          
+          `Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.`,
+          
+          `Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
       ]
     ]
   },
@@ -1224,9 +1486,39 @@ const data = {
         É bom organizador e gosta de participar em associações com propósitos científicos e humanitários.
         `,
 
-      `text 8 Lorem ipsum`,
+      `Saturno no signo de Aquário indica boa capacidade de concentração mental. A mente é impessoal e científica, a preocupação com a verdade imparcial é muito valorizada.
+        
+        Os nativos muito evoluídos são capazes de esquecer o ego e enxergar todas as questões (sociais ou científicas) à luz da lei universal, imparcial.
+        
+        A capacidade de acalmar a mente e fixar a atenção é o pré‑requisito necessário ao desenvolvimento das faculdades intuitivas. Saturno nesta posição proporciona a firmeza de atenção necessária a este desenvolvimento.
+        
+        Os nativos com esta posição são mentalmente ambiciosos e com frequência trabalham muito para realizar descobertas científicas ou novas aplicações do conhecimento científico, que lhes trarão status e destaque.
+        
+        Saturno em Aquário oferece também a capacidade de visualizar formas e estruturas, muitas vezes de natureza geométrica, e confere habilidades matemáticas.
+        
+        No seu melhor, Saturno em Aquário oferece senso de justiça e responsabilidade nos relacionamentos. Os nativos com esta posição são leais e responsáveis com amigos e grupos nos quais se envolvem.
+        
+        Geralmente se comprometem com organizações fraternais altamente estruturadas, como a maçonaria. Os nativos são sensatos, podem bons conselhos que se baseiam em leis universais.
+        
+        No seu pior, os nativos podem se tornar egoístas e autoritários, esperando que os outros joguem de acordo com suas regras e sirvam a seus interesses pessoais.
+        
+        Pode haver tendência à frieza e insensibilidade emocional nas relações pessoais. O indivíduo pode ter atitudes formais, exclusivistas e intelectuais, sem demonstrar sentimento. Há também o perigo do orgulho intelectual.
+        `,
 
-      `text 9 Lorem ipsum`,
+      `Urano em Aquário está em seu próprio signo. Portanto fica bastante poderoso. As pessoas com esta posição podem ter insights intuitivos sobre as verdades científicas e ocultas.
+        
+        Possuem talento inventivo. Em pessoas muito desenvolvidas, existe a capacidade de compreender as energias espirituais e conceitos religiosos num contexto científico.
+        
+        Esta posição de Urano proporciona muita força de vontade e independência mental. Os nativos insistem em tomar as suas próprias decisões e tirar as suas conclusões. Suas mentes são intelectuais, independentes, empenham-se em descobrir a verdade imparcial.
+        
+        Os nativos rejeitam as ideias e métodos antigos se estes não puderem ser cientificamente comprovados ou se não se ajustarem aos fatos. A experiência direta é seu teste final da determinação da verdade sobre qualquer assunto.
+        
+        A sua capacidade para experiências e observações diretas pode se expandir para dimensões mais elevadas através da revelação das suas faculdades de clarividência. Os nativos se preocupam com a coletividade, com as soluções para a humanidade como um todo.
+        
+        Acreditam na fraternidade humana e na dignidade do homem. A sua receptividade e abertura para novas ideias é uma manifestação das suas tendências humanitárias. Desejam reformar a sociedade e gostam de trabalhar em grupos e organizações.
+        
+        No seu pior, pode haver excentricidade e licenciosidade ao invés de liberdade, com uma teimosia irracional nada prática. Pode haver relutância em seguir qualquer rotina, regra ou disciplina.
+        `,
 
       `text 10 Lorem ipsum`,
 
@@ -1242,9 +1534,24 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:
+        Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
+          
+          `2º nível de evolução:
+        Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.`,
+          
+          `O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
+          
+          `3º nível de evolução:
+        É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.`,
+          
+          `Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.`,
+          
+          `Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.`,
+          
+          `Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
       ]
     ]
   },
@@ -1340,9 +1647,34 @@ const data = {
         
         É muito sensível aos problemas dos outros e gosta de ajudar o próximo (especialmente os enfermos, os necessitados e as pessoas que sofrem).`,
 
-      `Signo 8 Lorem ipsum`,
+      `Saturno no signo de Peixes indica nativos que podem se tornar presos às lembranças do passado. Uma imaginação hiperativa, extraordinária, pode gerar todos os tipos de ansiedades e neuroses.
+        
+        Consequentemente, fica difícil lidar de modo eficaz com as exigências do presente. Em casos extremos, a imaginação cria defeitos pessoais e problemas que na realidade não existem.
+        
+        No lado positivo, Saturno em Peixes pode proporcionar aos nativos, compreensão emocional, humildade e vontade de trabalhar pelos menos favorecidos. Pode também haver empatia e insight psicológico sobre os outros.
+        
+        Saturno pode ajudar na meditação, que firma a psique e possibilita profunda compreensão espiritual. O trabalho pode ser realizado nos bastidores de amplas instituições — hospitais, asilos, universidades ou órgãos governamentais.
+        
+        No seu pior, essa posição de Saturno pode resultar em paranoia, preocupação excessiva, agitação, arrependimento por erros e contratempos passados. Quando levadas a extremos, estas reações podem levar a tendências neuróticas e psicóticas.
+          
+          É necessário cultivar tranquilidade e solidão para penetrarem em seus profundos recursos interiores. Os nativos devem se responsabilizar pelo amadurecimento de sua sensibilidade.
+            
+            Também deveriam passar algum tempo participando ativamente das questões mundiais, evitando o mau humor e excesso de introversão. É importante que se esforcem para evitar a autopiedade.
+            
+            Lamentações inúteis sobre o passado podem destruir a felicidade, a criatividade, a dedicação a si e aos outros.
+            
+            Essa posição pede autoanálise objetiva e crítica, para que os nativos possam descobrir seu valor e as suas aptidões pessoais (bem como seus defeitos) e encontrar uma saída para suas dificuldades.
+            
+            Devem aprender a esquecer do passado e agir construtivamente no presente. O desenvolvimento espiritual faz parte de suas responsabilidades.`,
 
-      `Signo 9 Lorem ipsum`,
+      `Urano no signo de Peixes indica habilidades intuitivas e uma curiosidade científica sobre a atuação do inconsciente.
+        
+        Os nativos podem se atrair pelos mistérios e pelo misticismo, desenvolver interesse pela meditação ou por temas ligados à espiritualidade, com filosofias orientais ou ioga, por exemplo. Eles recebem ideias através de sonhos e intuições.
+        
+        A principal motivação de Urano em Peixes é se libertar da influência mental e emocional do passado. Há uma luta espiritual para superar as tendências materialistas do passado, associada à procura de uma identidade espiritual mais elevada.
+        
+        No seu pior, pode haver um idealismo pouco prático, bem como irresponsabilidade e insinceridade com amigos. Pode também existir a tendência de não enfrentar situações desagradáveis.
+        `,
 
       `Signo 10 Lorem ipsum`,
 
@@ -1358,9 +1690,20 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:
+        É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior.`,
+          
+          `2º nível de evolução:
+        Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade.`,
+          
+          `Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo.`,
+          
+          `3º nível de evolução:
+        É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.`,
+          
+          `E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
       ]
     ]
   }
