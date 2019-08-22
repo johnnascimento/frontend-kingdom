@@ -159,8 +159,18 @@ const data = {
     ],
     levels: [
       [
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:`,
+        
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
+          
+          `2º nível de evolução:`,
+          
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
+          
+          `3º nível de evolução:`,
+          
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
       ]
     ]
@@ -278,9 +288,19 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:`,
+        
+        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual.`,
+          
+         ` 2º nível de evolução:`,
+         
+        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço.`,
+          
+         ` 3º nível de evolução: `,
+         
+        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete.`
       ]
     ]
   },
@@ -400,9 +420,20 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:`,
+        
+        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
+          
+          `2º nível de evolução:`,
+          
+        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
+          Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão.`,
+          
+          `3º nível de evolução:`,
+          
+        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
       ]
     ]
   },
@@ -532,9 +563,19 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:`,
+        
+        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
+          
+          `2º nível de evolução:`,
+          
+        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
+          
+          `3º nível de evolução:`,
+          
+        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas.`
       ]
     ]
   },
@@ -651,9 +692,19 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está)`,
+        
+        `1º nível de evolução:`,
+        
+        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade.`,
+          
+          `2º nível de evolução:`,
+          
+        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. A criatividade se manifesta quando busca sua identidade na transformação da matéria.`,
+          
+          `3º nível de evolução:`,
+          
+        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
       ]
     ]
   },
@@ -776,9 +827,22 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:`,
+        
+        `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades.
+          Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta.`,
+          
+          `2º nível de evolução:`,
+          
+        `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição.`,
+          
+          `3º nível de evolução:`,
+          
+        `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
+          
+          Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço.`
       ]
     ]
   },
@@ -915,9 +979,25 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:`,
+        
+        `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica.`,
+          
+          `2º nível de evolução:`,
+          
+        `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. Há que quebrar o espelho e aceitar uma dolorosa recuperação emocional.`,
+          
+          `A maturidade amorosa consiste em digerir este processo. Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade.
+          
+          O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana.`,
+          
+          `3º nível de evolução:`,
+          
+        `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
+          
+          Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
       ]
     ]
   },
@@ -1051,9 +1131,22 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+     
+        `1º nível de evolução:`,
+        
+        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade.`,
+          
+          `2º nível de evolução:`,
+          
+        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade.`,
+          
+          `3º nível de evolução:`,
+          
+        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
+          
+          Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
       ]
     ]
   },
@@ -1192,9 +1285,26 @@ const data = {
     ],
     levels: [
       [
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        
+        `1º nível de evolução:`,
+        
+       ` Experimenta viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra.
+          
+          Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza.`,
+          
+          
+          `2º nível de evolução:`,
+          
+        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores.`,
+     
+          
+          `3º nível de evolução:`,
+          
+        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar.
+          
+          Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.
+          `,
       ]
     ]
   },
