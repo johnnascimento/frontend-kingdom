@@ -1646,22 +1646,25 @@ const data = {
       [
         `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
         
-        `1º nível de evolução:
-        Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
+        `1º nível de evolução:`,
+        
+      `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação.`,
           
-          `2º nível de evolução:
-        Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.`,
+          `2º nível de evolução:`,
+          
+       `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós.`,
           
           `O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro.`,
           
-          `3º nível de evolução:
-        É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.`,
+          `3º nível de evolução:`,
           
-          `Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.`,
+       ` É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão.`,
           
-          `Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.`,
+          `Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu.
           
-          `Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
+          Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
+          
+          Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
       ]
     ]
   },
