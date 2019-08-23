@@ -254,15 +254,17 @@ window.onload = () => {
 
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
-                    
-                    if (siteLists.first.link.selectedIndex === 1){
+
+                    if (siteLists.first.link.selectedIndex === 1) {
                     // This first element needs fixing
-                    
-                   for(var j = 0; j < 8; j++) { 
-                      criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+i, null, levels[i]);
+
+                       for(var j = 0; j < 16; j++) {
+                        console.log('RUNNING 1,2,3.....', data.signos.levels[i]);
+                          criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+i, null, levels);
+                        }
+
+                        return;
                     }
-                    
-                    return;
                 }
             }
         }
