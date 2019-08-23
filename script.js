@@ -115,7 +115,6 @@ window.onload = () => {
     const grabInputValues = (element, index) => {
         console.log('Grab input values is running sound!');
         let elementsIndexAndTexts = defineSelectedIndexInAnArray(true, true);
-        level = [];
 
         for (key in data.planets) {
             if (data.planets[key].title == element) {
@@ -135,13 +134,13 @@ window.onload = () => {
             if (data.signos[key].title == element) {
                 evaluatedValueToReturn.push(data.signos[key].text[elementsIndexAndTexts.element2[0] - 1]);
 
-                arrayReferenceForLevels = data.signos[key].levels[elementsIndexAndTexts.element2[0] - 1];
-
               if(elementsIndexAndTexts.element2[0] === 1) {
                 console.log("&&&&&&&&&& IF in signos");
-                for (i = 0; i < arrayReferenceForLevels.length; i++) {
-                    levels.push(arrayReferenceForLevels[i]);
+                for(i = 0; i < data.signos[key].levels.length; i++) {
+                  levels.push(data.signos[key].levels[i]);
                 }
+                
+                console.log('Leveld in setting up function', levels);
               } else {
                 console.log("***** Else in levels signos");
                 levels.push("");
@@ -157,17 +156,18 @@ window.onload = () => {
             if (data.casas[key].title == element) {
                 evaluatedValueToReturn.push(data.casas[key].text[elementsIndexAndTexts.element2[0] - 1]);
 
-                arrayReferenceForLevels = data.casas[key].levels[elementsIndexAndTexts.element2[0] - 1];
+               /*arrayReferenceForLevels = data.casas[key].levels[elementsIndexAndTexts.element2[0] - 1];
 
                 if(elementsIndexAndTexts.element2[0] === 1) {
                   console.log("&&&&&&&&&& IF in casas" + elementsIndexAndTexts.element2[0]);
+                  
                   for (i = 0; i < arrayReferenceForLevels.length; i++) {
                     levels.push(arrayReferenceForLevels[i]);
-                  }
+                  } 
                 } else {
                   console.log("***** Else in levels casas");
                   levels.push("");
-                }
+                } */
 
                 return evaluatedValueToReturn;
             } else {
@@ -241,7 +241,7 @@ window.onload = () => {
         } else {
             checkEmptyTextBlock('contentSpot');
         }
-
+        levels = [];
         elemPlaceholder = setUpTextForTemplate(templateArray);
 
         for (var z = 0; z < templateArray.length; z++) {
@@ -258,12 +258,14 @@ window.onload = () => {
                     if (siteLists.first.link.selectedIndex === 1) {
                     // This first element needs fixing
 
-                       for(var j = 0; j < 16; j++) {
-                        console.log('RUNNING 1,2,3.....', data.signos.levels[i]);
-                          criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+i, null, levels);
+                       for(var j = 0; j < levels.length; j++) {
+                        console.log('RUNNING 1,2,3.....', levels[i]);
+                          criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+i, null, levels[j]);
                         }
 
                         return;
+                    } else {
+                      return;
                     }
                 }
             }
