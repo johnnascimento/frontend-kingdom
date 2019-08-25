@@ -368,7 +368,11 @@ const data = {
         Urano em Touro pode proporcionar talentos artísticos e musicais incomuns, se for bem cultivado. Os nativos com frequência se interessam por modernas técnicas eletrônicas em administração, contabilidade e outros negócios.
         `,
 
-      `text 10 Lorem ipsum`,
+      `Esta geração procurava aplicações práticas para os seus sonhos visionários. Mostra um período histórico de muito idealismo no que respeita ao uso do dinheiro e suas fontes.
+        ll
+        No mapa de uma pessoa indica interesse e capacidade para as artes em geral, gosto estético e um inato sentido comercial. É uma boa posição para a especulação e para os negócios.
+        
+        Mas os maus aspectos podem induzir a enganos ou fraudes, ou ao descuido no uso do dinheiro.`,
 
       `text 11 Lorem ipsum`,
 
