@@ -155,20 +155,6 @@ window.onload = () => {
         for (key in data.casas) {
             if (data.casas[key].title == element) {
                 evaluatedValueToReturn.push(data.casas[key].text[elementsIndexAndTexts.element2[0] - 1]);
-
-               /*arrayReferenceForLevels = data.casas[key].levels[elementsIndexAndTexts.element2[0] - 1];
-
-                if(elementsIndexAndTexts.element2[0] === 1) {
-                  console.log("&&&&&&&&&& IF in casas" + elementsIndexAndTexts.element2[0]);
-                  
-                  for (i = 0; i < arrayReferenceForLevels.length; i++) {
-                    levels.push(arrayReferenceForLevels[i]);
-                  } 
-                } else {
-                  console.log("***** Else in levels casas");
-                  levels.push("");
-                } */
-
                 return evaluatedValueToReturn;
             } else {
                 console.log('It\'s not data casas');
@@ -190,13 +176,13 @@ window.onload = () => {
             indexSelectedArray.forEach(grabInputValues);
             return evaluatedValueToReturn;
         }
-    }
+    };
 
 
     const deleteTextBlock = (ev) => {
         console.log('DeleteTextBlock is running sound!');
         ev.parentNode.remove();
-    }
+    };
 
     // Include a callback function that will be run after all the
     // content has been printed out. This callback function will
