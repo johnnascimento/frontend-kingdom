@@ -197,7 +197,7 @@ window.onload = () => {
 
         // Use the criarEl method to create this one
         // ------------------------------------------------------
-        var textBlockWrapper = "";
+        var textBlockWrapper = '';
         var klassAssigner = '';
         var templateArray = [];
         var selectedItemsArray = [];
