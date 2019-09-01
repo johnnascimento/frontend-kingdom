@@ -240,6 +240,10 @@ window.onload = () => {
 
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
+                    
+                    if(siteLists.first.link.selectedIndex === 12) {
+                      console.log('********************Selected index is 12********************');
+                    }
 
                     if (siteLists.first.link.selectedIndex === 1) {
                     // This first element needs fixing
@@ -248,7 +252,6 @@ window.onload = () => {
                         console.log('RUNNING 1,2,3.....', levels[i]);
                           criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+i, null, levels[j]);
                         }
-
                         return;
                     } else {
                       return;

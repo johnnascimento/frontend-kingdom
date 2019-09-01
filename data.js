@@ -16,51 +16,51 @@ const data = {
     },
     {
       title: `Mercúrio em`,
-      id: 10
-    },
-    {
-      title: `Vênus em`,
-      id: 11
-    },
-    {
-      title: `Marte em`,
-      id: 12
-    },
-    {
-      title: `Júpter em`,
-      id: 13
-    },
-    {
-      title: `Saturno em`,
-      id: 14
-    },
-    {
-      title: `Urano em`,
-      id: 15
-    },
-    {
-      title: `Netuno em`,
-      id: 8
-    },
-    {
-      title: `Plutão em`,
-      id: 9
-    },
-    {
-      title: `Nodos Lunares em`,
       id: 4
     },
     {
-      title: `Parte da Fortuna em`,
+      title: `Vênus em`,
       id: 5
     },
     {
-      title: `Quíron em`,
+      title: `Marte em`,
       id: 6
     },
     {
-      title: `Juno em`,
+      title: `Júpter em`,
       id: 7
+    },
+    {
+      title: `Saturno em`,
+      id: 8
+    },
+    {
+      title: `Urano em`,
+      id: 9
+    },
+    {
+      title: `Netuno em`,
+      id: 10
+    },
+    {
+      title: `Plutão em`,
+      id:11
+    },
+    {
+      title: `Nodos Lunares em`,
+      id:12
+    },
+    {
+      title: `Parte da Fortuna em`,
+      id: 13
+    },
+    {
+      title: `Quíron em`,
+      id: 14
+    },
+    {
+      title: `Juno em`,
+      id: 15
     }
   ],
   signos: [{
@@ -267,6 +267,12 @@ const data = {
           `3º nível de evolução:`,
 
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
