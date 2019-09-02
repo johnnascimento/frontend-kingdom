@@ -11,6 +11,7 @@ window.onload = () => {
     let key = '';
     let selectedItemsArray = [];
     let evaluatedValueToReturn = [];
+    let nodosFortuna = '';
 
     contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
 
@@ -141,9 +142,25 @@ window.onload = () => {
                 }
                 
                 console.log('Leveld in setting up function', levels);
+               
+                
               } else {
                 console.log("***** Else in levels signos");
                 levels.push("");
+              }
+              
+              if(elementsIndexAndTexts.element2[0] === 12) {
+                console.log('&&&&&&&&&& FORTUNFORTUNA OR NODOS IN SIGNOS ');
+                
+                nodosFortuna = data.signos[key].nodosLunares;
+                console.log('Nodos fortuna *****+++++£££££&&&&&: ' + data.signos[key].nodosLunares);
+              } 
+              
+              if(elementsIndexAndTexts.element2[0] === 13) {
+                console.log('&&&&&&&&&& FORTUNFORTUNA OR NODOS IN SIGNOS ');
+                
+                nodosFortuna = data.signos[key].parteFortuna;
+                console.log('Nodos fortuna *****+++++£££££&&&&&: ' + data.signos[key].parteFortuna);
               }
 
                 return evaluatedValueToReturn;
@@ -237,7 +254,11 @@ window.onload = () => {
                 if (siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex === 0 && siteLists.third.link.selectedIndex === 0) {
                     return;
                 } else if (siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex !== 0 || siteLists.third.link.selectedIndex !== 0) {
-
+                  
+                  if(siteLists.first.link.selectedIndex === 12) {
+                    criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, nodosFortuna);
+                  }
+                  
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
                     
