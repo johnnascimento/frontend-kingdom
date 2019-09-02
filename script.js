@@ -12,6 +12,7 @@ window.onload = () => {
     let selectedItemsArray = [];
     let evaluatedValueToReturn = [];
     let nodosFortuna = '';
+    let breakLineIdentifier = /\\break/gmi;
 
     contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
 
@@ -136,31 +137,36 @@ window.onload = () => {
                 evaluatedValueToReturn.push(data.signos[key].text[elementsIndexAndTexts.element2[0] - 1]);
 
               if(elementsIndexAndTexts.element2[0] === 1) {
-                console.log("&&&&&&&&&& IF in signos");
+                console.log("***** ElementsIndexAndTexts.element2[0] is equal 1");
+
                 for(i = 0; i < data.signos[key].levels.length; i++) {
                   levels.push(data.signos[key].levels[i]);
                 }
-                
+
                 console.log('Leveld in setting up function', levels);
-               
-                
-              } else {
-                console.log("***** Else in levels signos");
-                levels.push("");
-              }
-              
-              if(elementsIndexAndTexts.element2[0] === 12) {
-                console.log('&&&&&&&&&& FORTUNFORTUNA OR NODOS IN SIGNOS ');
-                
+
+
+              } else if(elementsIndexAndTexts.element2[0] === 12) {
+
+                console.log('%c NODOS IN SIGNOS', 'font-size: 16px; color: #2499f9;');
+                console.log('%c The current index is: ', 'font-size: 16px; color: #f99929;', elementsIndexAndTexts.element2[0]);
+
                 nodosFortuna = data.signos[key].nodosLunares;
-                console.log('Nodos fortuna *****+++++£££££&&&&&: ' + data.signos[key].nodosLunares);
-              } 
-              
-              if(elementsIndexAndTexts.element2[0] === 13) {
-                console.log('&&&&&&&&&& FORTUNFORTUNA OR NODOS IN SIGNOS ');
-                
+                console.log('%c NODOS IN SIGNOS IS: ', 'font-size: 14px; color: #2499f9;', nodosFortuna);
+                console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
+
+              } else if(elementsIndexAndTexts.element2[0] === 13) {
+
+                console.log('%c PARTE DA FAORTUNA IN SIGNOS', 'font-size: 16px; color: #2499f9;');
+                console.log('%c The current index is: ', 'font-size: 16px; color: #f99929;', elementsIndexAndTexts.element2[0]);
+
                 nodosFortuna = data.signos[key].parteFortuna;
-                console.log('Nodos fortuna *****+++++£££££&&&&&: ' + data.signos[key].parteFortuna);
+                console.log('%c PARTE DA FAORTUNA IN SIGNOS IS: ', 'font-size: 14px; color: #2499f9;', nodosFortuna);
+                console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
+
+              } else {
+                console.log("***** Other than 1, 12 or 13 indeces was choosen *****");
+                levels.push("");
               }
 
                 return evaluatedValueToReturn;
@@ -172,6 +178,30 @@ window.onload = () => {
         for (key in data.casas) {
             if (data.casas[key].title == element) {
                 evaluatedValueToReturn.push(data.casas[key].text[elementsIndexAndTexts.element2[0] - 1]);
+
+                if(elementsIndexAndTexts.element2[0] === 12) {
+
+                    console.log('%c NODOS IN Casas', 'font-size: 16px; color: #2499f9;');
+                    console.log('%c The current index is: ', 'font-size: 16px; color: #f99929;', elementsIndexAndTexts.element2[0]);
+
+                    nodosFortuna = data.casas[key].nodosLunares;
+                    console.log('%c NODOS IN Casas IS: ', 'font-size: 14px; color: #2499f9;', nodosFortuna);
+                    console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
+
+                } else if(elementsIndexAndTexts.element2[0] === 13) {
+
+                    console.log('%c PARTE DA FAORTUNA IN Casas', 'font-size: 16px; color: #2499f9;');
+                    console.log('%c The current index is: ', 'font-size: 16px; color: #f99929;', elementsIndexAndTexts.element2[0]);
+
+                    nodosFortuna = data.casas[key].parteFortuna;
+                    console.log('%c PARTE DA FAORTUNA IN Casas IS: ', 'font-size: 14px; color: #2499f9;', nodosFortuna);
+                    console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
+
+                } else {
+                    console.log("***** Other than 1, 12 or 13 indeces was choosen *****");
+                    levels.push("");
+                }
+
                 return evaluatedValueToReturn;
             } else {
                 console.log('It\'s not data casas');
@@ -254,14 +284,14 @@ window.onload = () => {
                 if (siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex === 0 && siteLists.third.link.selectedIndex === 0) {
                     return;
                 } else if (siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex !== 0 || siteLists.third.link.selectedIndex !== 0) {
-                  
+
                   if(siteLists.first.link.selectedIndex === 12) {
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, nodosFortuna);
                   }
-                  
+
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
-                    
+
                     if(siteLists.first.link.selectedIndex === 12) {
                       console.log('********************Selected index is 12********************');
                     }

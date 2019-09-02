@@ -151,106 +151,106 @@ const data = {
         Impulsividade e mau génio são as armadilhas desta posição. Os nativos precisam aprender a ter mais consideração pelos outros e maior capacidade de colaboração.
         `,
       `As pessoas nascidas com Netuno em Áries mostram muita iniciativa para a criatividade espiritual, experimentando a sensação de terem de cumprir uma missão.
-        
+
         São pioneiros em novos conceitos religiosos e filosóficos. A expressão negativa de Netuno é o falso orgulho, o egoísmo e o desejo de se sobressair ou se destacar.
-        
+
         Com a entrada de Netuno em Áries no século passado, inicia-se uma época de investigação no campo psíquico, bem como o desenvolvimento do espiritualismo.`,
       `Esta geração caracterizou-se pelo espírito revolucionário. Teve de vencer sérios obstáculos e viver momentos de muita dureza a fim de conseguir liberdade e uma nova forma de vida, tal como a conquista do Oeste americano.
-        
+
         Pioneiros, reformadores, líderes de qualquer causa obcecados pelo valor pessoal. Sempre dispostos a destruir qualquer obstáculo à sua vontade, que não reconhece limites.
-        
+
         Plutão em Áries se manifesta de forma individualista. A necessidade de mudar todo o precedente se traduz numa urgência pela transformação pessoal.
-        
+
         Põe a descoberto o que deixou de nos servir no ciclo anterior e propicia a procura de novos valores.`,
-        
+
       `Os Nodos Lunares Norte e Sul (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-        
+
         O eixo Cauda / Cabeça do Dragão (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-        
+
         A Cauda do Dragão (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-        
+
         A Cabeça do Dragão (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
-        
+
         É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-        
+
         O objetivo é equilibrar os dois: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-        
+
         Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. Aprender a cooperar, a formar parcerias sem perder a sua identidade:
-      
+
       Quem tem o Nodo Sul (Cauda do Dragão) em Áries traz experiências de um espírito independente, muitas vezes egoísta.  É muito voltado para si próprio e seus próprios interesses.
-        
+
         Reativo, impulsivo e impaciente, tem dificuldade de tolerar o tempo e o espaço dos outros. Explodem facilmente, pode até mesmo ter comportamento agressivo, violento ou brusco.
-        
+
         Traz também capacidade de liderança, coragem, assertividade. Memórias de guerras, batalhas, confrontos e violência. De independência, liberdade, autonomia, autoritarismo. Não aparenta ou transmite sensibilidade, mas tem um coração puro.
-        
+
         Age impulsivamente e sem pensar. Por causa disso, muitas vezes se arrepende depois.  Tem dificuldade nos relacionamentos, pois não leva o outro em consideração devido ao excesso de autonomia.
-        
+
         Mas com o Nodo Norte (Cabeça do Dragão) no signo de Libra, veio aprender a considerar mais as pessoas com quem se relaciona. Aprender a cultivar paciência, saber ouvir e esperar.  Valorizar cada vez mais as parcerias, as alianças, as habilidades sociais e a interação com o outro.
-        
+
         A missão é de conciliar o seu Eu com o Eu do outro.  Aprender a partilhar uma vida em comum, a deixar-se guiar quando necessário, a ser cuidado pelo outro.
-        
+
         Aprender a reconhecer sua fragilidade, seus pontos fracos e suas incapacidades.  Cultivar mais ponderação e prudência, consciente de que toda ação ações gera consequências.
-        
+
         Com o tempo e a experiência de vida pode desativar sua violência, ganhar humildade e respeito pela sensibilidade e necessidades dos outros.  Aprender a arte do relacionamento, do compromisso, da harmonia do equilíbrio com o outro.
-        
+
         Ou seja, o equilíbrio só é possível se aprender a ceder e se ajustar às necessidades das pessoas com quem conviver`,
-        
+
        `A facilidade de funcionamento e a felicidade vêm com o exercício do poder de iniciativa e com um confiante mergulho na experiência.
-        
+
         O indivíduo deverá deixar-se guiar pela intuição e deverá ver-se como um ativador de novos impulsos sociais e culturais, tendendo a identificar a sua personalidade com tal impulso criativo, ou então se sentirá frustrado e infeliz se for impedido de agir assim.
-        
+
         Exemplos: Francis Bacon, George Washington, Clara Barton, Isaac Newton, Louis Pasteur, Albert Einstein, Frederic Chopin, Will Levington Comfort.`,
-      
+
       `Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir.
-        
+
         Parece que você só se sente vivo quando refletido em alguém. Você só tem motivação para defender alguma causa quando o benefício é dos outros, como se tivesse capacidade de luta, mas pouca vontade própria.
-        
+
         Com medo de ser impelido a entrar num ciclo repetitivo de tentativas inúteis e autodestrutivas, e para compensar a dor, você pode se limitar a fazer demonstrações de sua força e espírito de luta, sem entrar para valer na luta.
-        
+
         Você é propenso a agir de modo precipitado, descarregando de uma vez sua tensão emocional e transformando-a em ação. Você pode ser muito cruel consigo próprio em consequência de um senso de autossuficiência exagerado, por achar que deve caminhar sozinho, sem pedir ajuda.
-        
+
         Internamente, pode surgir um sentimento de desespero e desejo de morrer, além de um temor profundo de fazer algo que possa exprimir o que realmente deseja. Suas expressões espontâneas de paixão, de ser, ou de vontade podem ter sido esmagadas na sua infância de uma forma sutil ou forma declarada.
-        
+
         Métodos repressivos de educação como alimentação em hora certa, privação de contato físico, treinamento sistemático prematuro das necessidades fisiológicas, podem ter sido seus primeiros sofrimentos.
-        
+
         Se a interferência em seus ritmos naturais de vida e a sua negação foram intensas, provocarão sentimentos de que você não tem direito ao querer ou desejar, e você acaba não se esforçando para satisfazer seus desejos e acha que é inaceitável como é.
-        
+
         É claro que essa impotência diante da vida acarreta uma raiva profunda e quase sempre despropositada. Na vida adulta pode ter medo de externar seus desejos e eles serem sistematicamente destruídos.
-        
+
         O ambiente de sua infância pode ter sido hostil e repleto de agressividade encoberta ou declarada, produzindo sentimentos de timidez e falta de autoestima e de direito próprio. Viver, então, passa a equivaler a aprender como agradar e aplacar terceiros, viver tentando preencher as falhas de outras pessoas, ficando anônimo.
-        
+
         Por outro lado, você pode ser o tipo que compensou esse início de vida, sendo agora um pioneiro, uma pessoa cheia de força de vontade, impulso, energia e entusiasmo.
-        
+
         Mas é importante compreender que essa é uma máscara que pode cair, e quando isso acontece você pode entrar num estado lastimável de sofrimento e insegurança, chegando a ter desejo de morrer.
-        
+
         A vontade de morrer pode ser causada por: resposta à raiva, à frustração ou à falta de controle diante de algum problema; pode representar o desejo de recuperar o poder ou uma reação ao sentimento de incapacidade de tomar decisões próprias.
-        
+
         Pode haver um sentimento de que se morrer ninguém notará sua falta, nada mais vai restar de você. Ás vezes, iniciar qualquer coisa é tão difícil que você entra em colapso, desiste, na soleira daquilo que lhe parece ser uma nova e emocionante fase de sua vida.
-        
+
         Isso pode ser causado por ter tido uma experiência traumatizante no nascimento físico, por isso, qualquer novo inicio de vida pode ser encarado com confusão, medo e resistência.
-        
+
         Você pode empenhar-se em encontrar algo que possa fazer e que lhe traga o senso de identidade de que precisa, pode se impor a tarefas quase impossíveis para provar a si mesmo que existe e tem um lugar no mundo. Para algumas pessoas, essa luta é válida e dá resultado, para outras é inútil.
-        
+
         Você pode projetar no seu corpo seu sentimento de vergonha e constrangimento por existir, achando certos detalhes de seu corpo deformados ou feios, e as outras pessoas nem percebem, ou nem se importam com o que para você é tão importante.
-        
+
         É necessário rever essa programação interna, pois agora você é um adulto, as circunstâncias são outras e exigem reações diferentes daquelas aprendidas na infância. Você tem capacidade de ser um curador ou um terapeuta e tratar pessoas que viveram uma infância difícil.
-        
+
         Você pode desenvolver a capacidade de instruir outras pessoas e dar-lhes poderes ao perceber a sua própria impotência diante do Universo. Você passa a imagem de ser uma pessoa solitária, mesmo quando casado.
-        
+
         Você busca um senso de identidade, mas talvez só descubra que, quando desistiu dessa busca e passou a aceitar sua insignificância, e que conquistou uma tremenda vitalidade, bem como a sensação de ser compreendido.
-        
+
         Quase sempre você tem facilidade de agir intuitivamente no momento oportuno e agarrar a ocasião que se apresenta. Você tem a capacidade de aliar a compaixão à ação adequada, bem como de ser altamente inovador e tomar iniciativas, sobretudo quando o bem-estar de outros está em jogo.
-        
+
         Você adquire força na luta, mas deve aprender a ser um nobre rival diante daqueles com os quais compete. Se for capaz de superar a sua agressividade passiva, sua tendência a agir dissimuladamente, sentirá a vida fluir em suas veias.
-        
+
         Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você.`,
-      
+
       `O parceiro ideal é aquele que tenha interesse em esportes e atividades dinâmicas e seja ativo, assertivo, o tipo que está sempre em busca de novas emoções e aventuras.
-        
+
         Podem ser pessoas muito ativas, vibrantes, dinâmicas. O que conta é o desafio e a coragem, porque Áries não aprecia as coisas fáceis. Quanto mais difícil, mais desperta o interesse.
-        
+
         De alguma forma são parcerias desafiantes. Mas também podem ser pessoas impulsivas, violentas ou conquistadoras que apreciam apenas a conquista e formam relacionamentos de curta duração.
-        
+
         Representa a busca de uma parceria dinâmica e ativa, marciana. Sua evolução passa pelo esforço de construir uma relação durável e sólida, na qual a individualidade é respeitada.`
     ],
     levels: [
@@ -377,7 +377,7 @@ const data = {
       `Esta geração procurava aplicações práticas para os seus sonhos visionários. Mostra um período histórico de muito idealismo no que respeita ao uso do dinheiro e suas fontes.
         ll
         No mapa de uma pessoa indica interesse e capacidade para as artes em geral, gosto estético e um inato sentido comercial. É uma boa posição para a especulação e para os negócios.
-        
+
         Mas os maus aspectos podem induzir a enganos ou fraudes, ou ao descuido no uso do dinheiro.`,
 
       `text 11 Lorem ipsum`,
@@ -404,6 +404,12 @@ const data = {
          ` 3º nível de evolução: `,
 
         `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -535,6 +541,12 @@ const data = {
           `3º nível de evolução:`,
 
         `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -675,6 +687,12 @@ const data = {
           `3º nível de evolução:`,
 
         `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -802,6 +820,12 @@ const data = {
           `3º nível de evolução:`,
 
         `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -938,6 +962,12 @@ const data = {
         `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta.
 
           Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. Vivencia a missão de vida, o Serviço.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -1091,6 +1121,12 @@ const data = {
         `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. A tensão amorosa é a força atuante para o crescimento e a consciência.
 
           Compreende que só o Amor nos liberta da prisão interior, do separatismo solitário. Só o Amor liberta da divisão do mundo. Por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -1238,6 +1274,12 @@ const data = {
         `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. É uma morte psíquica. Dá-se quando a vida o obriga a largar o que julgava ser sua força, sua obscura segurança, seu poder.
 
           Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -1394,6 +1436,12 @@ const data = {
 
           Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. É a Via dos Mestres, a expressão da Sabedoria.
           `,
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -1583,6 +1631,12 @@ const data = {
           `Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável.`,
 
           `Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. Nesta fase pode criar novas estruturas.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -1750,6 +1804,12 @@ const data = {
           Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte.
 
           Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -1900,6 +1960,12 @@ const data = {
         É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração.`,
 
           `E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno.`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   }
   ],
@@ -1947,6 +2013,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text Aries`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -1994,6 +2066,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2040,6 +2118,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2087,6 +2171,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2132,6 +2222,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2177,6 +2273,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2222,6 +2324,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2267,6 +2375,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2313,6 +2427,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2361,6 +2481,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2408,6 +2534,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   },
   {
@@ -2456,6 +2588,12 @@ const data = {
     ],
     levels: [
       `...`
+    ],
+    nodosLunares: [
+      `Nodos lunares\' extra text`
+    ],
+    parteFortuna: [
+      `Parte da fortuna\'s extra text`
     ]
   }
   ]
