@@ -13,7 +13,8 @@ window.onload = () => {
     let evaluatedValueToReturn = [];
     let nodosFortuna = '';
     let breakLineIdentifier = /\\break/gmi;
-
+    let lineBreaks = '';
+    
     contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
 
     const siteLists = {
@@ -293,8 +294,16 @@ window.onload = () => {
                     criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
 
                     if(siteLists.first.link.selectedIndex === 12) {
-                      console.log('********************Selected index is 12********************');
+                      console.log('********************Selected index is 12******************** ' + elemPlaceholder[1].substring(0, 100));
                     }
+                    
+                    myText = elemPlaceholder[1];
+                    console.log(myText);
+                    
+                    lineBreaks = myText.match(/\-break/gmi, '');
+                    console.log('#################### line breaks ################### '+ lineBreaks.length);
+                    let index1 = Math.round(lineBreaks/)
+
 
                     if (siteLists.first.link.selectedIndex === 1) {
                     // This first element needs fixing
