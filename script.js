@@ -14,7 +14,7 @@ window.onload = () => {
     let nodosFortuna = '';
     let breakLineIdentifier = /\\break/gmi;
     let lineBreaks = '';
-    
+
     contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
 
     const siteLists = {
@@ -199,8 +199,8 @@ window.onload = () => {
                     console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
 
                 } else {
-                    console.log("***** Other than 1, 12 or 13 indeces was choosen *****");
-                    levels.push("");
+                    console.log('***** Other than 1, 12 or 13 indeces was choosen *****');
+                    levels.push('');
                 }
 
                 return evaluatedValueToReturn;
@@ -296,13 +296,13 @@ window.onload = () => {
                     if(siteLists.first.link.selectedIndex === 12) {
                       console.log('********************Selected index is 12******************** ' + elemPlaceholder[1].substring(0, 100));
                     }
-                    
+
                     myText = elemPlaceholder[1];
                     console.log(myText);
-                    
+
                     lineBreaks = myText.match(/\-break/gmi, '');
                     console.log('#################### line breaks ################### '+ lineBreaks.length);
-                    let index1 = Math.round(lineBreaks/)
+                    let index1 = Math.round(lineBreaks/);
 
 
                     if (siteLists.first.link.selectedIndex === 1) {
