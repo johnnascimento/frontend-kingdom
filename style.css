@@ -193,7 +193,8 @@ div[class^="textBlockWrapper-"]:nth-child(even) {
   }
   
   input[type="button"],
-  input[type="reset"] {
+  input[type="reset"],
+  button[type="print"] {
     width: 100%;
     min-height: 50px; 
     border: none;
@@ -212,9 +213,19 @@ div[class^="textBlockWrapper-"]:nth-child(even) {
     color: lightgreen;
   }
   
+  button[type="print"] {
+    background-color: lightgreen;
+  }
+  
   .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
     display: inline-block;
     font-size: 20px;
     color: white;
+  }
+}
+
+@media only print and (max-width: 768px) {
+  body {
+    background: blue !important;
   }
 }
