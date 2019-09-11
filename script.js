@@ -297,12 +297,12 @@ window.onload = () => {
                       console.log('********************Selected index is 12******************** ' + elemPlaceholder[1].substring(0, 100));
                     }
                     
-                    myText = elemPlaceholder[1];
+                   /* myText = elemPlaceholder[1];
                     console.log(myText);
                     
                     lineBreaks = myText.match(/\-break/gmi, '');
                     console.log('#################### line breaks ################### '+ lineBreaks.length);
-                    let index1 = Math.round(lineBreaks/)
+                    let index1 = Math.round(lineBreaks);*/
 
 
                     if (siteLists.first.link.selectedIndex === 1) {
