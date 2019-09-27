@@ -2,6 +2,10 @@
   --gutter: 16px;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 /* css style sheet */
 body {
   font-family: Arial, Verdana, sans-serif;
@@ -14,16 +18,17 @@ body {
   width: 75px;
   background-color: green;
   display: block;
-  font-size:20px;
+  font-size: 20px;
   color:white;
 }
+
 input {
   font-size: 1.6rem;
 }
 
 nav, section, article {
-  margin: 5px;
-  padding: 5px;
+  margin: calc(var(--gutter)/4);
+  padding: calc(var(--gutter)/4);
   background-color: #F1F1F1;
 }
 
@@ -34,7 +39,7 @@ nav, section, article {
 header, footer {
   background-color: #F1F1F1;
   color: white;
-  padding: 16px 0;
+  padding: var(--gutter) 0;
   margin:  0;
 }
 
@@ -52,9 +57,18 @@ nav ul {
 
 nav ul li {
   display: inline-block;
-  margin: 5px;
+  margin: calc(var(--gutter)/4);
 }
 
+footer {
+  text-align: center;
+}
+
+footer > p {
+  font-size: 16px;
+  color: #797979;
+  pointer-events: none;
+}
 /* Body
 -----------------------------------*/
 
@@ -63,25 +77,75 @@ nav ul li {
   position: relative;
   display: block;
   background-color: #FFF;
+  font-size: 0;
 }
 
 .contentSpotWrapper,
 .formSpot {
-  width:40%;
+  width: calc((100% - calc(var(--gutter)/2))/2);
+  -webkit-width: calc((100% - calc(var(--gutter)/2))/2);
+  -moz-width: calc((100% - calc(var(--gutter)/2))/2);
+  -ms-width: calc((100% - calc(var(--gutter)/2))/2);
+  -o-width: calc((100% - calc(var(--gutter)/2))/2);
   min-height: 300px;
   display: inline-block;
   position: relative;
   background-color: #efefef;
-  border: 2px solid #e8e8e8;
-  margin: 0;
-  padding: 8px;
+  border: 1px solid #e8e8e8;
+  margin:  0;
+  padding: calc(var(--gutter)/2);
+  vertical-align: top;
 }
 
 .contentSpotWrapper {
-  float:right;
+  float: none;
   height: auto;
   overflow: hidden;
   text-align:Center;
+  margin-left: calc(var(--gutter)/4);
+}
+
+.formSpot {
+  float: none;
+  margin-right: calc(var(--gutter)/4);
+}
+
+.formSpot .selectForm .mainForm1 {
+  text-align: left;
+}
+
+.formSpot .selectForm #mainForm1 > input {
+  width: calc(50% - calc(var(--gutter)/4));
+  min-height: 50px;
+  border: none;
+  background: lightgrey;
+  color: #333;
+  font-weight: bold;
+  letter-spacing: 1px;
+  transition: 300ms;
+}
+
+.formSpot .selectForm #mainForm1 > input:nth-child(even) {
+  margin-left: 0;
+  background: #227900;
+  color: #f2f2f2;
+}
+
+.formSpot .selectForm #mainForm1 > input:nth-child(even):hover {
+  margin-left: 0;
+  background: #22a900;
+  color: #f2f2f2;
+}
+
+.formSpot .selectForm #mainForm1 > input:nth-child(odd) {
+  margin-right: 0;
+  background: lightcoral;
+  color: #fff;
+}
+
+.formSpot .selectForm #mainForm1 > input:nth-child(odd):hover {
+  background: coral;
+  color: #fff;
 }
 
 .contentSpotWrapper .contentSpot {
@@ -99,22 +163,37 @@ nav ul li {
   min-width: 100%;
   position: absolute;
 }
+
+div[class^="textBlockWrapper-"] {
+  font-size: 16px;
+  position: relative;
+}
+
 div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
-  height: 20px;
-  width: 20px;
+  min-height: 20px;
+  min-width: 20px;
   content: " ";
   display: none;
   position: absolute;
-  background-color: #a5b6c7;
-  border: 2px solid #5a6b7c;
+  padding: calc(var(--gutter)/2);
+  left: 0;
+  top: 0;
+  background-color: #333;
+  border: 1px solid #454545;
+  font-size: 0;
 }
 
-.contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover div[class*="trashcan-"] {
-  display: block;
-  cursor: pointer;
+div[class*="trashcan-"]:before {
+    content: "\2716";
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    color: #f2f2f2;
+    font-size: 18px;
 }
 
-.formSpot { float:left; }
 .resetFloat {
   clear: both;
 }
@@ -122,8 +201,8 @@ div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
   width: 100%;
   display: block;
   min-height: 60px;
-  padding: 8px;
-  margin: 16px 0;
+  padding: calc(var(--gutter)/2);
+  margin: var(--gutter) auto;
   font-size: 1.4rem;
 }
 
@@ -141,61 +220,145 @@ div[class^="textBlockWrapper-"]:nth-child(even) {
   background-color: #773300;
 }
 
+input[type="button"],
+input[type="reset"] {
+  margin: calc(var(--gutter)/4);
+}
+
+@media only screen and (min-width: 768px) {
+  .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover div[class*="trashcan-"] {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+  }
+}
+
 @media only screen and (max-width: 768px) {
   body .contentSpotWrapper,
   body .formSpot {
     width: 100%;
     padding: 0;
-    margin: 8px 0;
+    margin: calc(var(--gutter)/2) 0;
     display: block;
     position: relative;
     background-color: lightyellow;
   }
-  
+
   .formSpot .selectForm {
-    padding: 16px;
-    margin: 4px;
+    padding: var(--gutter);
+    margin: calc(var(--gutter)/4);
   }
-  
+
   body .pageTitle {
     font-size: 2.8rem;
     font-weight: 700;
     color: #E5255E;
     text-align: center;
-    
-    padding: 4px 0;
-    margin: 4px auto;
+
+    padding: calc(var(--gutter)/4) 0;
+    margin: calc(var(--gutter)/4) auto;
     display: block;
     position: relative;
   }
-  
+
   body .contentSpot p {
     font-size: 1.6rem;
   }
-  
+
   #mainForm1 {
     height: auto;
     width: 100%;
     position: relative;
   }
-  
+
   input[type="button"],
   input[type="reset"] {
     width: 100%;
-    min-height: 50px; 
+    min-height: 50px;
     border: none;
     box-shadow: none;
-    
-    margin: 8px 0;
+
+    margin: calc(var(--gutter)/2) 0;
   }
-  
+
   input[type="button"] {
     background-color: lightgreen;
   }
-  
+
   input[type="reset"] {
     background-color: transparent;
     border: 1px solid lightgreen;
     color: lightgreen;
+  }
+
+  .printDocument {
+    background-color: lightgreen;
+  }
+
+  .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
+    display: inline-block;
+    font-size: 18px;
+    color: white;
+    font-size: 0;
+  }
+
+  .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover div[class*="trashcan-"] {
+    display: inline-block;
+    font-size: 18px;
+    color: white;
+    font-size: 0;
+  }
+
+
+  div[class*="trashcan-"]:before {
+    font-size: 18px;
+  }
+}
+
+@media print and (max-width: 768px) {
+  header,
+  footer,
+  aside,
+  nav,
+  form,
+  iframe,
+  .menu,
+  .hero,
+  .adslot,
+  .formSpot {
+    display: none;
+  }
+
+  html,
+  body,
+  p {
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, Georgia, Palatino;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .contentSpotWrapper {
+    display: block;
+    min-width: 100%;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    margin-top: -128px;
+    margin: 0;
+
+  }
+  div[class^="textBlockWrapper-"] {
+    page-break-after: auto;
+    break-after: always;
+    page-break-inside: auto;
+    break-inside: auto;
   }
 }
