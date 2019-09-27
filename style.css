@@ -99,19 +99,32 @@ nav ul li {
   min-width: 100%;
   position: absolute;
 }
+
+div[class^="textBlockWrapper-"] {
+  position: relative;
+}
+
 div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
-  height: 20px;
-  width: 20px;
+  min-height: 20px;
+  min-width: 20px;
   content: " ";
   display: none;
   position: absolute;
+  left: 0;
+  top: 0;
   background-color: #a5b6c7;
   border: 2px solid #5a6b7c;
+  font-size: 16px;
 }
 
 .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover div[class*="trashcan-"] {
-  display: block;
+  display: inline-block;
+  padding: 8px;
+  vertical-align: middle;
+  margin: 0;
   cursor: pointer;
+  font-weight: bold;
+  text-align: center;
 }
 
 .formSpot { float:left; }
@@ -180,7 +193,8 @@ div[class^="textBlockWrapper-"]:nth-child(even) {
   }
   
   input[type="button"],
-  input[type="reset"] {
+  input[type="reset"],
+  button[type="print"] {
     width: 100%;
     min-height: 50px; 
     border: none;
@@ -197,5 +211,21 @@ div[class^="textBlockWrapper-"]:nth-child(even) {
     background-color: transparent;
     border: 1px solid lightgreen;
     color: lightgreen;
+  }
+  
+  button[type="print"] {
+    background-color: lightgreen;
+  }
+  
+  .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+  }
+}
+
+@media only print and (max-width: 768px) {
+  body {
+    background: blue !important;
   }
 }
