@@ -16,19 +16,29 @@ class lineBreaker {
   }
   
   grabValue() {
-    this._textBlock = this.contentSpot;
-    this._self = this;
+    let _textBlock = this.contentSpot;
+    let _self = this;
     let $domTextBlock = '';
     const grabValueFromDom = () => {
-      $domTextBlock = document.querySelector(_self._textBlock);
+      $domTextBlock = document.querySelector(_textBlock);
+      console.log('_textBlock within grabValue nested function', _textBlock);
       return $domTextBlock;
     };
     
-    return $domTextBlock;
+    return grabValueFromDom();
   }
   
   show(_selector) {
-    document.querySelector(_selector).innerHTML = 'Working!';
+    let _domTextBlock = this.grabValue();
+    console.log('domTextBlock', _domTextBlock);
+    
+    setTimeout(function() {
+      if(_selector === null || _selector === undefined) {
+        document.querySelector('.contentSpotWrapper').appendChild(_domTextBlock);
+      } else {
+        document.querySelector(_selector).appendChild(_domTextBlock);
+      }
+    }, 2000);
   }
   
   performTreatment() {
@@ -45,10 +55,10 @@ class lineBreaker {
   }
 }
   
-myObject = new lineBreaker('.contentSpot');
+myObject = new lineBreaker('#submitBtn');
 let grabbed = myObject.grabValues;
 myObject.treatValue;
 
 console.log(myObject.contentSpot);
-console.log(myObject.grabValue().grabValueFromDom);
-//console.log(myObject.show('body'));
+console.log(myObject.grabValue());
+console.log(myObject.show('.contentSpot'));
