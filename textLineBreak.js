@@ -9,24 +9,34 @@ console.log('Text line break is running sound!');
 // All this project must be done using OOP concept
 
 class lineBreaker {
-  constructor(blockOfText) {
+  cconstructor(textBlock){
     this.breakRegExp = /\-break/gmi;
     this.indexes = [];
-    this.contentSpot = blockOfText;
+    this.contentSpot = textBlock;
   }
   
-  grabValues() {
-    this.contentClass = this.contentSpot;
-    this.textBlock = document.querySelector(contentClass);
-    return textBlock;
+  grabValue() {
+    this._textBlock = this.contentSpot;
+    
+    const grabValueFromDom = () => {
+      let $domTextBlock = document.querySelector(this._textBlock);
+      return $domTextBlock;
+    }.bind(this);
+    
+    return $domTextBlock;
   }
   
-  treatValue() {
-    let grabbedValue = grabValues.textBlock;
-    grabbedValue.forEach(function(elem, idx) {
-      this.indexes.push(elem);
+  performTreatment() {
+    this.textBlockChildren = $domTextBlock.children;
+    let treatedTestArray = [];
+    
+    this.textBlockChildren.forEach(function(elem, idx) {
+      treatedTestArray.push(elem);
+      
+      return treatedTestArray;
     }.bind(this));
-    return this.indexes;
+    
+    return treatedTestArray;
   }
 }
   
