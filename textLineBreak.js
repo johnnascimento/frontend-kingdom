@@ -9,7 +9,7 @@ console.log('Text line break is running sound!');
 // All this project must be done using OOP concept
 
 class lineBreaker {
-  cconstructor(textBlock){
+  constructor(textBlock){
     this.breakRegExp = /\-break/gmi;
     this.indexes = [];
     this.contentSpot = textBlock;
@@ -17,13 +17,18 @@ class lineBreaker {
   
   grabValue() {
     this._textBlock = this.contentSpot;
-    
+    this._self = this;
+    let $domTextBlock = '';
     const grabValueFromDom = () => {
-      let $domTextBlock = document.querySelector(this._textBlock);
+      $domTextBlock = document.querySelector(_self._textBlock);
       return $domTextBlock;
-    }.bind(this);
+    };
     
     return $domTextBlock;
+  }
+  
+  show(_selector) {
+    document.querySelector(_selector).innerHTML = 'Working!';
   }
   
   performTreatment() {
@@ -41,9 +46,9 @@ class lineBreaker {
 }
   
 myObject = new lineBreaker('.contentSpot');
-myObject.grabValues;
+let grabbed = myObject.grabValues;
 myObject.treatValue;
 
-console.log(myObject.breakRegExp);
-console.log(myObject.textBlock);
-console.log(myObject.indexes);
+console.log(myObject.contentSpot);
+console.log(myObject.grabValue().grabValueFromDom);
+//console.log(myObject.show('body'));
