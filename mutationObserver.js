@@ -1,6 +1,5 @@
 console.log('MutationObserver is working sound!!!');
 
-
 // Select the node that will be observed for mutations
 const targetNode = document.querySelector('.contentSpot');
 
@@ -29,7 +28,7 @@ const callback = function(mutationsList, observer) {
 const observer = new MutationObserver(callback);
 
 // Start observing the target node for configured mutations
-observer.observe(targetNode, config);
+//observer.observe(targetNode, config);
 
 // Later, you can stop observing
 //observer.disconnect();
