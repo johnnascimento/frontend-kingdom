@@ -17,6 +17,20 @@ window.onload = () => {
 
     contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
 
+    const $submitBtn = docQuery('#submitBtn');
+    const $contentSpotElem = docQuery('#contentSpot');
+    const $inputSignoOrCasa = (elem) => {
+        return docQuery(elem);
+    };
+
+    const $resetInput = (elem) => {
+        return docQuery(elem);
+    };
+
+    const $printButton = (elem) => {
+        return docQuery(elem);
+    }
+
     const siteLists = {
         first: {
             link: docQuery('.listOfItems-1'),
@@ -38,15 +52,6 @@ window.onload = () => {
     };
 
 
-
-    const $submitBtn = docQuery('#submitBtn');
-    const $contentSpotElem = docQuery('#contentSpot');
-    const $inputSignoOrCasa = (elem) => {
-        return docQuery(elem);
-    };
-    const $resetInput = (elem) => {
-        return docQuery(elem);
-    };
     var textBlockCounter = 0;
     let i = 0;
     let levels = [];
@@ -66,8 +71,8 @@ window.onload = () => {
     };
 
     //
-    // Used st the currying function for index and/or text
-    // ---------------------------------------
+    // Used st the currying function for indeces and/or text
+    // ---------------------------------------------------
     const storeIndexOrText = (elem) => {
         elems = [];
 
@@ -264,7 +269,6 @@ window.onload = () => {
                       console.log('********************Selected index is 12******************** ' + elemPlaceholder[1].substring(0, 100));
                     }
 
-
                     if (siteLists.first.link.selectedIndex === 1) {
                     // This first element needs fixing
 
@@ -338,6 +342,11 @@ window.onload = () => {
     $resetInput('input[type=\"reset\"]').addEventListener('click', (ev) => {
         docQuery('.listOfItems-2').removeAttribute('disabled');
         docQuery('.listOfItems-3').removeAttribute('disabled');
+        return;
+    });
+
+    $printButton('#printDocument').addEventListener('click', function(ev) {
+        window.print();
         return;
     });
 
