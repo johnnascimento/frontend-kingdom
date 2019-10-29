@@ -85,8 +85,16 @@ class lineBreaker {
         }
 
         console.log(`current indices are: ${indicesArray}`);
-        console.log(`Text from 129 plus 6 ${textToSearchInto.substring(indicesArray[0], (indicesArray[0]+6))}`);
-    
+        console.log(`Text from 129 plus 6
+                    ${textToSearchInto.substring(indicesArray[0], (indicesArray[0]+6))}
+                    ${textToSearchInto.substring(indicesArray[1], (indicesArray[1]+6))}
+                    ${textToSearchInto.substring(indicesArray[2], (indicesArray[2]+6))}
+                    ${textToSearchInto.substring(indicesArray[3], (indicesArray[3]+6))}
+                    ${textToSearchInto.substring(indicesArray[4], (indicesArray[4]+6))}
+                    ${textToSearchInto.substring(indicesArray[5], (indicesArray[5]+6))}`);
+
+    return indicesArray;
+
       return indicesArray;
     }
   }
