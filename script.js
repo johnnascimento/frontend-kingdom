@@ -131,10 +131,7 @@ window.onload = () => {
                 } else if (elementsIndexAndTexts.element1[0] !== 0 && elementsIndexAndTexts.element2[2] === 0) {
                     evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[1]);
                 }
-
                 return evaluatedValueToReturn;
-            } else {
-                console.log('It\'s not data planets');
             }
         }
 
@@ -143,41 +140,24 @@ window.onload = () => {
                 evaluatedValueToReturn.push(data.signos[key].text[elementsIndexAndTexts.element2[0] - 1]);
 
               if(elementsIndexAndTexts.element2[0] === 1) {
-                console.log("***** ElementsIndexAndTexts.element2[0] is equal 1");
 
                 for(i = 0; i < data.signos[key].levels.length; i++) {
                   levels.push(data.signos[key].levels[i]);
                 }
 
-                console.log('Leveld in setting up function', levels);
-
-
               } else if(elementsIndexAndTexts.element2[0] === 12) {
 
-                console.log('%c NODOS IN SIGNOS', 'font-size: 16px; color: #2499f9;');
-                console.log('%c The current index is: ', 'font-size: 16px; color: #f99929;', elementsIndexAndTexts.element2[0]);
-
                 nodosFortuna = data.signos[key].nodosLunares;
-                console.log('%c NODOS IN SIGNOS IS: ', 'font-size: 14px; color: #2499f9;', nodosFortuna);
-                console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
 
               } else if(elementsIndexAndTexts.element2[0] === 13) {
 
-                console.log('%c PARTE DA FAORTUNA IN SIGNOS', 'font-size: 16px; color: #2499f9;');
-                console.log('%c The current index is: ', 'font-size: 16px; color: #f99929;', elementsIndexAndTexts.element2[0]);
-
                 nodosFortuna = data.signos[key].parteFortuna;
-                console.log('%c PARTE DA FAORTUNA IN SIGNOS IS: ', 'font-size: 14px; color: #2499f9;', nodosFortuna);
-                console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
 
               } else {
-                console.log("***** Other than 1, 12 or 13 indeces was choosen *****");
                 levels.push("");
               }
 
                 return evaluatedValueToReturn;
-            } else {
-                console.log('It\'s not data signos');
             }
         }
 
@@ -187,30 +167,17 @@ window.onload = () => {
 
                 if(elementsIndexAndTexts.element2[0] === 12) {
 
-                    console.log('%c NODOS IN Casas', 'font-size: 16px; color: #2499f9;');
-                    console.log('%c The current index is: ', 'font-size: 16px; color: #f99929;', elementsIndexAndTexts.element2[0]);
-
                     nodosFortuna = data.casas[key].nodosLunares;
-                    console.log('%c NODOS IN Casas IS: ', 'font-size: 14px; color: #2499f9;', nodosFortuna);
-                    console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
 
                 } else if(elementsIndexAndTexts.element2[0] === 13) {
 
-                    console.log('%c PARTE DA FAORTUNA IN Casas', 'font-size: 16px; color: #2499f9;');
-                    console.log('%c The current index is: ', 'font-size: 16px; color: #f99929;', elementsIndexAndTexts.element2[0]);
-
                     nodosFortuna = data.casas[key].parteFortuna;
-                    console.log('%c PARTE DA FAORTUNA IN Casas IS: ', 'font-size: 14px; color: #2499f9;', nodosFortuna);
-                    console.log('%c The current index is: ', 'font-size: 14px; color: #f99929;', elementsIndexAndTexts.element2[0]);
 
                 } else {
-                    console.log('***** Other than 1, 12 or 13 indeces was choosen *****');
-                    levels.push('');
+                    levels.push("");
                 }
 
                 return evaluatedValueToReturn;
-            } else {
-                console.log('It\'s not data casas');
             }
         }
         return evaluatedValueToReturn;
@@ -302,19 +269,11 @@ window.onload = () => {
                       console.log('********************Selected index is 12******************** ' + elemPlaceholder[1].substring(0, 100));
                     }
 
-                   /* myText = elemPlaceholder[1];
-                    console.log(myText);
-
-                    lineBreaks = myText.match(/\-break/gmi, '');
-                    console.log('#################### line breaks ################### '+ lineBreaks.length);
-                    let index1 = Math.round(lineBreaks); */
-
-
                     if (siteLists.first.link.selectedIndex === 1) {
                     // This first element needs fixing
 
                        for(var j = 0; j < levels.length; j++) {
-                        console.log('RUNNING 1,2,3.....', levels[i]);
+                        console.log('RUNNING 1,2,3.....', levels[j]);
                           criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+i, null, levels[j]);
                         }
                         return;
@@ -392,7 +351,7 @@ window.onload = () => {
     });
 
     setInterval(() => {
-        console.log(`Every 60 second we run a function to clean any empty block in the contentSpot tag`);
+        console.log(`Every 60 second we run a function to clean up any empty block in the contentSpot tag`);
         checkEmptyTextBlock('contentSpot');
     }, 60000);
 };

@@ -66,9 +66,9 @@ const data = {
   signos: [{
     title: `aries`,
     text: [
-      `Áries é um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida.
-      Qualidades: pioneirismo, entusiasmo, iniciativa, coragem, garra, espontaneidade, competitividade e energia. Áries quer desbravar, conquistar, caminhar sozinho, ser o senhor da sua vontade, ter autonomia e assumir o comando de seu destino. -break
-      O Sol se exalta em Áries e reforça suas qualidades, como a autoconfiança, a liderança, o poder e o espirito de liberdade. O Sol em Áries favorece a audácia e a impulsividade.
+      `Áries é um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida. -break
+      Qualidades: pioneirismo, entusiasmo, iniciativa, coragem, garra, espontaneidade, competitividade e energia. -break Áries quer desbravar, conquistar, caminhar sozinho, ser o senhor da sua vontade, ter autonomia e assumir o comando de seu destino. -break
+      O Sol se exalta em Áries e reforça suas qualidades, como a autoconfiança, a liderança, o poder e o espirito de liberdade. O Sol em Áries favorece a audácia e a impulsividade. -break
       O Ariano tem necessidade de ir para além das suas possibilidades, buscar a sua emancipação a fim de poder realizar-se. O desejo de liberdade e de independência em relação à família é muito evidente. É difícil para um ariano admitir que outras pessoas venham meter o nariz nos seus assuntos. -break
       Todavia, tem grande tenacidade, o que lhes permite muitas vezes levar a cabo projetos muito difíceis. É também sincero e inquieto. Outra dificuldade para o ariano é dar continuidade aos projetos e estudos, pois vencida a etapa inicial, têm tendência a perder o interesse.
       Na saúde, as suas partes vulneráveis são: cérebro, nariz, cavidades sinuosas, orelhas, dentes e tudo o que engloba a cabeça no seu conjunto. É preciso prestar atenção particular à alimentação, pois podem ocorrer doenças alérgicas ou psicossomáticas, que são frequentemente resultado de um modo de vida anacrónico. -break
