@@ -77,16 +77,25 @@ class lineBreaker {
                 current index is: ${i}`);
         } else {
             if((textToSearchInto[i] + textToSearchInto[i+1] + textToSearchInto[i+2]) === undefined || (textToSearchInto[i] + textToSearchInto[i+1] + textToSearchInto[i+2]) === null || (textToSearchInto[i] + textToSearchInto[i+1] + textToSearchInto[i+2]) === NaN) {
-                console.log(`Probably it\'s the end of the text, that\'s why it\'s returning undefined`);
+                // console.log(`Probably it\'s the end of the text, that\'s why it\'s returning undefined`);
             } else {
-                console.log(`There was no match on this loop ${i+4}
-                           ${textToSearchInto[i] + textToSearchInto[i+1] + textToSearchInto[i+2]}`);
+                // console.log(`There was no match on this loop ${i+4}
+                           // ${textToSearchInto[i] + textToSearchInto[i+1] + textToSearchInto[i+2]}`);
             }
         }
 
         console.log(`current indices are: ${indicesArray}`);
-        console.log(`Text from 129 plus 6 ${textToSearchInto.substring(indicesArray[0], (indicesArray[0]+6))}`);
     }
+
+    console.log(`Text from 129 plus 6
+                    ${textToSearchInto.substring(indicesArray[0], (indicesArray[0]+6))}
+                    ${textToSearchInto.substring(indicesArray[1], (indicesArray[1]+6))}
+                    ${textToSearchInto.substring(indicesArray[2], (indicesArray[2]+6))}
+                    ${textToSearchInto.substring(indicesArray[3], (indicesArray[3]+6))}
+                    ${textToSearchInto.substring(indicesArray[4], (indicesArray[4]+6))}
+                    ${textToSearchInto.substring(indicesArray[5], (indicesArray[5]+6))}`);
+
+    return indicesArray;
   }
 
 
