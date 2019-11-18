@@ -6,7 +6,7 @@
 
 class lineBreaker {
   constructor(textBlock){
-    this.breakRegExp = /-break/gmi;
+    this.breakRegExp = /-break|-endofline/gmi;
     this.indexes = [];
     this.contentSpot = textBlock;
 
@@ -14,23 +14,46 @@ class lineBreaker {
     this.domObserver();
   }
 
-  grabValue() {
+  cl(textToexhibit, elem) {
+    if(elem === undefined || elem === null || elem === '') {
+      return function(textToexhibit) {
+        return console.log('%c ' + textToexhibit, 'font-size: 16px; font-weight: bold; color: lightcoral;');
+      }
+    }
+
+    return console.log('%c ' + textToexhibit, 'font-size: 16px; font-weight: bold; color: lightseagreen;', elem);
+  }
+
+  grabValue(referenceElem) {
     let _textBlock = this.contentSpot;
     console.log('_textBlock within grabValue() ', _textBlock);
 
     let _self = this;
     let $domTextBlock = '';
+    let domTextBlockVerifier = '';
 
     const grabValueFromDom = () => {
-      $domTextBlock = document.querySelector(_textBlock);
-      console.log('_textBlock within grabValue nested function', _textBlock);
-
-      if($domTextBlock.children.length) {
-        $domTextBlock = $domTextBlock.lastChild.textContent;
-        console.log('$domTextBlock IF ', $domTextBlock.classList);
+      if(referenceElem === undefined || referenceElem === null) {
+        $domTextBlock = document.querySelector(_textBlock);
+        console.log('_textBlock within grabValue nested function', _textBlock);
       } else {
-        $domTextBlock = $domTextBlock;
-        console.log('$domTextBlock else ', $domTextBlock.classList);
+        $domTextBlock = document.querySelectorAll(referenceElem);
+        console.log('_textBlock within grabValue nested function referenceElem', _textBlock);
+      }
+
+      domTextBlockVerifier = $domTextBlock.children;
+      console.log('domText ', domTextBlockVerifier);
+
+      if(domTextBlockVerifier != undefined || domTextBlockVerifier != null) {
+        if($domTextBlock.children.length) {
+          $domTextBlock = $domTextBlock.lastChild.textContent;
+          console.log('$domTextBlock IF ', $domTextBlock.classList);
+        } else {
+          $domTextBlock = $domTextBlock;
+          console.log('$domTextBlock else ', $domTextBlock.classList);
+        }
+      } else {
+        this.cl()('Doesn\'t have children');
       }
 
       return $domTextBlock;
@@ -41,16 +64,19 @@ class lineBreaker {
 
   performTreatment(onlyTextFromBlock) {
     this.textBlockChildren = onlyTextFromBlock;
+    this.textTreatedCompletely = '';
 
     this.treatedTestArray = [];
-    let indicesFound;
     console.log('textblockchildren ************************** ', this.textBlockChildren.substring(0,15));
 
     if(this.textBlockChildren.length) {
       console.log('****************************** text block children: ', this.textBlockChildren.substring(0,50));
 
-    indicesFound = this.breakFinder(this.textBlockChildren);
-    console.log('@+@+@+@+@+@+@+@+@+@+@+@+@+@ Value returned: ', indicesFound, '@+@+@+@+@+@+@+@+@+@+@+@');
+      this.treatedTestArray = this.indicesFinder(this.textBlockChildren);
+      console.log('@+@+@+@+@+@+@+@+@+@+@+@+@+@ Value returned: ', this.treatedTestArray, '@+@+@+@+@+@+@+@+@+@+@+@');
+
+      this.textTreatedCompletely = this.treatTextCompletely(this.treatedTestArray, this.textBlockChildren);
+      this.cl('this.textTreatedCompletely', this.textTreatedCompletely);
     } else {
       console.log('$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ textBlockChildren.length is less than 0: ', this.textBlockChildren.length);
     }
@@ -59,19 +85,75 @@ class lineBreaker {
   }
 
 
-  breakFinder(textToSearchInto) {
-    console.log(`BreakFinder was invoked`);
+  treatTextCompletely(indices, textTotreat) {
+    this.cl()('treatTextCompletely method was just invoked');
+    this.indexMarker = 0;
+    this.textToRender = {
+      tagOpenedUsed: '<div class="line-treated">',
+      tagClosedUsed: '</div>',
+      lines: []
+    }
+
+    for(let i = 0; i < indices.length; i++) {
+      this.cl('indexMarker\'s value ', this.indexMarker);
+      this.cl('i value ', i);
+      this.cl('indices\'s length ', indices.length);
+      this.cl('indices\'s value ', indices[i]);
+      this.cl('Text to be treated based on index ', textTotreat.substring(this.indexMarker, (indices[i])));
+
+      this.textToRender.lines.push(this.textToRender.tagOpenedUsed.trim() + textTotreat.substring(this.indexMarker, (indices[i])).trim() + this.textToRender.tagClosedUsed.trim());
+      this.cl('textToRender.line ' + i, this.textToRender.lines[i]);
+      this.cl('textToRender.line ', this.textToRender.lines);
+
+      this.indexMarker = indices[i]+6;
+      this.cl('indexMarker\'s value AFTER assignemnt', this.indexMarker);
+    }
+
+    return this.render(this.textToRender);
+  }
+
+
+  /// Still needs changes
+  render(elemToRender) {
+    this.cl()('render was invoked');
+    this.contentThatWilChange = this.grabValue('.arrayKlass');
+
+    this.cl('contentThatWilChange BEFORE ', this.contentThatWilChange);
+
+    this.contentThatWilChange = this.contentThatWilChange[1];
+    this.elemToRenderLSize = elemToRender.lines.length;
+    this.contentThatWilChange.innerHTML = '';
+
+    this.cl('contentThatWilChange BEFORE ', this.contentThatWilChange);
+    this.cl('elemToRender ', elemToRender);
+    this.cl('this.elemToRenderLSize ', this.elemToRenderLSize);
+
+    for(let i = 0; i < this.elemToRenderLSize; i++){
+      this.cl('i value ', i);
+      this.cl('this.contentThatWilChange.innerHTML ', this.contentThatWilChange.innerHTML);
+      this.cl('this.contentThatWilChange.innerHTML ', this.contentThatWilChange.innerHTML);
+
+      this.contentThatWilChange.innerHTML = this.contentThatWilChange.innerHTML + elemToRender.lines[i];
+    }
+
+    return this.observer.disconnect();
+  }
+
+  indicesFinder(textToSearchInto) {
+    console.log(`indicesFinder was invoked`);
 
     let indexOf = 0;
     let loopingTimes = textToSearchInto.match(this.breakRegExp).slice(',');
     let indicesArray = [];
     let textArray = [];
+    let _self = this;
 
     console.log('textToSearchInto ', textToSearchInto.substring(0, 20));
 
     // Looping test #1
     for(let i = 0; i < textToSearchInto.length; i++) {
-        if((textToSearchInto[i] + textToSearchInto[i+1] + textToSearchInto[i+2]) == '-br') {
+    _self.cl('Text to search into\'s length ', textToSearchInto.length);
+        if((textToSearchInto[i] + textToSearchInto[i+1] + textToSearchInto[i+2]) == '-br' || (textToSearchInto[i] + textToSearchInto[i+1] + textToSearchInto[i+2] + textToSearchInto[i+3]) == '-end') {
             indicesArray.push(i);
             console.log(`indices of textToSearchInto ${indicesArray}
                 current index is: ${i}`);
@@ -93,10 +175,8 @@ class lineBreaker {
                     ${textToSearchInto.substring(indicesArray[4], (indicesArray[4]+6))}
                     ${textToSearchInto.substring(indicesArray[5], (indicesArray[5]+6))}`);
 
-    return indicesArray;
-
-      return indicesArray;
     }
+      return indicesArray;
   }
 
 
