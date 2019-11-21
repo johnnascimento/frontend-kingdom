@@ -6,12 +6,18 @@
 
 class lineBreaker {
   constructor(textBlock){
+    let _self = this;
+
     this.breakRegExp = /-break|-endofline/gmi;
     this.indexes = [];
     this.contentSpot = textBlock;
+    this.buttonToAttachEvent = document.getElementById('formatText');
 
-    // Inititate the execution of observer
-    this.domObserver();
+    this.cl('this.buttonToAttachEvent ', this.buttonToAttachEvent);
+
+    this.buttonToAttachEvent.addEventListener('click', function(ev) {
+      _self.initiateFormatting();
+    });
   }
 
   cl(textToexhibit, elem) {
@@ -36,21 +42,33 @@ class lineBreaker {
       if(referenceElem === undefined || referenceElem === null) {
         $domTextBlock = document.querySelector(_textBlock);
         console.log('_textBlock within grabValue nested function', _textBlock);
+        this.cl('$domTextBlock ', $domTextBlock);
       } else {
         $domTextBlock = document.querySelectorAll(referenceElem);
+        this.cl()('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+        this.cl()('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+        this.cl('$domTextBlock ELSE ', $domTextBlock);
+        this.cl()('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+        this.cl()('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
         console.log('_textBlock within grabValue nested function referenceElem', _textBlock);
       }
 
-      domTextBlockVerifier = $domTextBlock.children;
+      this.cl()('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@');
+      domTextBlockVerifier = ($domTextBlock.children) ? $domTextBlock.lastChild : $domTextBlock;
       console.log('domText ', domTextBlockVerifier);
 
-      if(domTextBlockVerifier != undefined || domTextBlockVerifier != null) {
-        if($domTextBlock.children.length) {
+      if(domTextBlockVerifier != undefined || domTextBlockVerifier != null || domTextBlockVerifier.length) {
+        this.cl('$domTextBlock.children ', $domTextBlock);
+
+        if($domTextBlock.children) {
+          console.log('**********************************************$domTextBlock IF ', $domTextBlock.classList);
+          this.cl('$domTextBlock LAST CHILD IF BEFORE', $domTextBlock.lastChild);
           $domTextBlock = $domTextBlock.lastChild.textContent;
-          console.log('$domTextBlock IF ', $domTextBlock.classList);
+          console.log('$domTextBlock IF AFTER', $domTextBlock);
         } else {
+          console.log('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$domTextBlock else ', $domTextBlock.classList);
           $domTextBlock = $domTextBlock;
-          console.log('$domTextBlock else ', $domTextBlock.classList);
+          console.log('$domTextBlock else AFTER', $domTextBlock);
         }
       } else {
         this.cl()('Doesn\'t have children');
@@ -116,7 +134,8 @@ class lineBreaker {
   /// Still needs changes
   render(elemToRender) {
     this.cl()('render was invoked');
-    this.contentThatWilChange = this.grabValue('.arrayKlass');
+    this.cl()(this.contentSpot + ' ' + 'div[class^=\"textBlockWrapper-\"]:last-child .arrayKlass');
+    this.contentThatWilChange = this.grabValue(this.contentSpot + ' ' + 'div[class^=\"textBlockWrapper-\"]:last-child .arrayKlass');
 
     this.cl('contentThatWilChange BEFORE ', this.contentThatWilChange);
 
@@ -136,7 +155,7 @@ class lineBreaker {
       this.contentThatWilChange.innerHTML = this.contentThatWilChange.innerHTML + elemToRender.lines[i];
     }
 
-    return this.observer.disconnect();
+    return this;
   }
 
   indicesFinder(textToSearchInto) {
@@ -179,7 +198,29 @@ class lineBreaker {
       return indicesArray;
   }
 
+  initiateFormatting() {
+    console.log('initiateFormatting() was invoked ');
 
+    let _self = this;
+    let onlyTextFromBlock;
+    let _selector = this.contentSpot;
+
+    this.contentToAnalyse = this.grabValue();
+    this.cl('this.contentToAnalyse ', this.contentToAnalyse);
+
+    onlyTextFromBlock = (_self.contentToAnalyse.textContent === undefined || _self.contentToAnalyse.textContent === null) ? _self.contentToAnalyse : _self.contentToAnalyse.textContent.trim();
+    this.cl('onlyTextFromBlock ', onlyTextFromBlock);
+
+    if(onlyTextFromBlock == '') {
+      this.cl()('onlyTextFromBlock IF');
+      return;
+    } else {
+      this.cl()('onlyTextFromBlock ELSE');
+      _self.performTreatment(onlyTextFromBlock);
+    }
+  }
+
+  // Not using anymore
   domObserver(_selector) {
     console.log('MutationObserver is working sound!!!');
     let _self = this;
@@ -221,13 +262,10 @@ class lineBreaker {
     };
 
     // Create an observer instance linked to the callback function
-    this.observer = new MutationObserver(callback);
+    //this.observer = new MutationObserver(callback);
 
     // Start observing the target node for configured mutations
-    this.observer.observe(this.targetNode, this.config);
-
-    // Later, you can stop observing
-    //observer.disconnect();
+    //this.observer.observe(this.targetNode, this.config);
   }
 }
 
