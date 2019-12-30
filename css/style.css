@@ -240,6 +240,30 @@ input[type="reset"] {
   margin: calc(var(--gutter)/4);
 }
 
+.line-treated {
+  color: #f5f5f5;
+  display: inline;
+}
+
+.inline {
+  display: inline-block;
+  padding: 0 4px;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.break
+
 @media only screen and (min-width: 768px) {
   .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover div[class*="trashcan-"] {
     display: inline-block;
@@ -376,17 +400,17 @@ input[type="reset"] {
     break-after: always;
     page-break-inside: auto;
     break-inside: auto;
-  
-  
+
+
   button[type="print"] {
     background-color: lightgreen;
   }
-  
+
   .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
     display: inline-block;
     font-size: 20px;
     color: white;
   }
-    
+
   }
 }

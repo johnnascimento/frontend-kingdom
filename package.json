@@ -1,0 +1,40 @@
+{
+  "name": "sign-stars",
+  "version": "1.0.0",
+  "description": "Sign stars project in which we have a better way to improve my brother-s work",
+  "main": "app",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "grunt": "^1.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-qunit": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "grunt-strip-debug": "^2.0.0",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnascimento/frontend-kingdom.git"
+  },
+  "keywords": [
+    "sign-stars",
+    "signos",
+    "john-s-projects",
+    "iko-s-projects",
+    "js-studies"
+  ],
+  "author": "John Lenon Nascimento da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnascimento/frontend-kingdom/issues"
+  },
+  "homepage": "https://github.com/johnnascimento/frontend-kingdom#readme"
+}
