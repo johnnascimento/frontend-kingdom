@@ -23,7 +23,8 @@ module.exports = function(grunt) {
 
       dist: {
         files: {
-          'build/css/style.css': 'css/style.scss'
+          'build/css/assets/colors.css': 'css/assets/colors.scss',
+          'build/css/style.css': 'css/style.scss',
         }
       }
     },
