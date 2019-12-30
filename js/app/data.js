@@ -61,210 +61,295 @@ const data = {
     {
       title: `Juno em`,
       id: 15
+    },
+    {
+      title: `Mercúrio retrógado em`,
+      id: 16
+    },
+    {
+      title: `Vênus retrógado em`,
+      id: 17
+    },
+    {
+      title: `Marte retrógado em`,
+      id: 18
+    },
+    {
+      title: `Júpter retrógado em`,
+      id: 19
+    },
+    {
+      title: `Saturno retrógado em`,
+      id: 20
+    },
+    {
+      title: `Urano retrógado em`,
+      id: 21
+    },
+    {
+      title: `Netuno retrógado em`,
+      id: 22
+    },
+    {
+      title: `Plutão retrógado em`,
+      id: 23
+    },
+    {
+      title: `Quíron retrógado em`,
+      id: 24
+    },
+    {
+      title: `Juno retrógado em`,
+      id: 25
     }
   ],
   signos: [{
     title: `aries`,
     text: [
-      `Áries é um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida. -break
-      Qualidades: pioneirismo, entusiasmo, iniciativa, coragem, garra, espontaneidade, competitividade e energia. -break Áries quer desbravar, conquistar, caminhar sozinho, ser o senhor da sua vontade, ter autonomia e assumir o comando de seu destino. -break
-      O Sol se exalta em Áries e reforça suas qualidades, como a autoconfiança, a liderança, o poder e o espirito de liberdade. O Sol em Áries favorece a audácia e a impulsividade. -break
-      O Ariano tem necessidade de ir para além das suas possibilidades, buscar a sua emancipação a fim de poder realizar-se. O desejo de liberdade e de independência em relação à família é muito evidente. É difícil para um ariano admitir que outras pessoas venham meter o nariz nos seus assuntos. -break
-      Todavia, tem grande tenacidade, o que lhes permite muitas vezes levar a cabo projetos muito difíceis. -stron É também sincero e inquieto /stron. Outra dificuldade para o ariano é dar continuidade aos projetos e estudos, pois vencida a etapa inicial, têm tendência a perder o interesse. -break
-      Na saúde, as suas partes vulneráveis são: cérebro, nariz, cavidades sinuosas, orelhas, dentes e tudo o que engloba a cabeça no seu conjunto. É preciso prestar atenção particular à alimentação, pois podem ocorrer doenças alérgicas ou psicossomáticas, que são frequentemente resultado de um modo de vida anacrónico. -break
-      Deve estar atento à circulação sanguínea e vigiar os rins em particular: provavelmente se o seu regime de vida os -itali maltrata /itali. É recomendável a prática de esportes que exijam grande dispêndio de energia, o que lhe permite queimar as toxinas prejudiciais ao organismo e controlar a ansiedade. -break
-      Na via -itali negativa, é preciso estar sempre atento à impaciência, à /itali agressividade, à franqueza rude e desrespeitosa, à rivalidade e ao autoritarismo. O equilíbrio está no signo oposto, Libra, com suas qualidades de ponderação e equilíbrio. -break
-      -under O desafio é encontrar a harmonia, seja consigo mesmo /under ou em suas relações. Aprender a ceder quando necessário, dar lugar à vontade dos outros, ser mais manso e não ferir os demais. -break
-      Sendo mais ponderado, pode conseguir -stron melhores resultados em seus /stron projetos. Se o ariano consegue ir além de seu ego, transforma-se num herói, num guerreiro da Luz.-endofline`,
+      `Áries é um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida.
+      Qualidades: pioneirismo, entusiasmo, iniciativa, coragem, garra, espontaneidade, competitividade e energia.
+      Áries quer desbravar, conquistar, caminhar sozinho, ser o senhor da sua vontade, ter autonomia e assumir o comando de seu destino.
+      O Sol se exalta em Áries e reforça suas qualidades, como a autoconfiança, a liderança, o poder e o espirito de liberdade. O Sol em Áries favorece a audácia e a impulsividade.
+      O Ariano tem necessidade de ir para além das suas possibilidades, buscar a sua emancipação a fim de poder realizar-se.
+      O desejo de liberdade e de independência em relação à família é muito evidente. É difícil para um ariano admitir que outras pessoas venham meter o nariz nos seus assuntos.
+      Todavia, tem grande tenacidade, o que lhes permite muitas vezes levar a cabo projetos muito difíceis. É também sincero e inquieto.
+      Outra dificuldade para o ariano é dar continuidade aos projetos e estudos, pois vencida a etapa inicial, têm tendência a perder o interesse.
+      Na saúde, as suas partes vulneráveis são: cérebro, nariz, cavidades sinuosas, orelhas, dentes e tudo o que engloba a cabeça no seu conjunto.
+      É preciso prestar atenção particular à alimentação, pois podem ocorrer doenças alérgicas ou psicossomáticas, que são frequentemente resultado de um modo de vida anacrônico.
+      Deve estar atento à circulação sanguínea e vigiar os rins em particular: provavelmente se o seu regime de vida os maltrata.
+      É recomendável a prática de esportes que exijam grande dispêndio de energia, o que lhe permite queimar as toxinas prejudiciais ao organismo e controlar a ansiedade.
+      Na via negativa, é preciso estar sempre atento à impaciência, à agressividade, à franqueza rude e desrespeitosa, à rivalidade e ao autoritarismo.
+      O equilíbrio está no signo oposto, Libra, com suas qualidades de ponderação e equilíbrio.
+      O desafio é encontrar a harmonia, seja consigo mesmo ou em suas relações. Aprender a ceder quando necessário, dar lugar à vontade dos outros, ser mais manso e não ferir os demais.
+      Sendo mais ponderado, pode conseguir melhores resultados em seus projetos. Se o ariano consegue ir além de seu ego, transforma-se num herói, num guerreiro da Luz.`,
 
-      `A Lua representa a forma como vivemos as nossas emoções. É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros? -break
-      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente? -break
-      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro. As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. -break
-      Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar. A Lua em Áries predispõe o nativo a uma natureza volátil, emocionalmente enérgica e impulsiva. -break
-      Muitas vezes comporta-se de maneira precipitada ou agressiva, sem levar em consideração as consequências de seus atos. Pode ter súbitos acessos de raiva que, no entanto, são passageiros e logo esquecidos. Sente urgência em tudo. -break
-      A pessoa com esta posição da Lua prefere a autonomia e é muito independente. Insiste em seguir o seu próprio curso de ação, certo ou errado. Não tolera a interferência dos outros e costuma reagir mal quando depende de alguém para alguma coisa. -break
-      Tende a considerar a reação dos outros de maneira pessoal e a dominar os outros emocionalmente. Num relacionamento, o que lhe interessa é a conquista. Por tudo isso, é importante aprender a equilibrar suas imposições com mais ternura, cordialidade e suavidade. -endofline`,
+      `A Lua representa a forma como vivemos as nossas emoções.
+      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
+      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
+      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas.
+      Já o Sol representa o futuro. As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua.
+      Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar. A Lua em Áries predispõe o nativo a uma natureza volátil, emocionalmente enérgica e impulsiva.
+      Muitas vezes comporta-se de maneira precipitada ou agressiva, sem levar em consideração as consequências de seus atos.
+      Pode ter súbitos acessos de raiva que, no entanto, são passageiros e logo esquecidos. Sente urgência em tudo.
+      A pessoa com esta posição da Lua prefere a autonomia e é muito independente. Insiste em seguir o seu próprio curso de ação, certo ou errado.
+      Não costuma tolerar a interferência dos outros e costuma reagir mal quando depende de alguém para alguma coisa.
+      Tende a considerar a reação dos outros de maneira pessoal e a dominar os outros emocionalmente. Num relacionamento, o que lhe interessa é a conquista.
+      Por tudo isso, é importante aprender a equilibrar suas imposições com mais ternura, cordialidade e suavidade.`,
 
-     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-      Quem tem Ascendente em Áries entra na vida como quem entra num desafio: com impulsividade, pioneirismo, ousadia, impaciência. Há necessidade de ser decidido, de agir e ter o poder de criar a própria vida. O aprendizado é encarar a vida de maneira direta e enérgica.
-      Cultivar uma expressão é ativa, espontânea, competitiva e assertiva. Quem tem este ascendente tende a acreditar que o caminho mais curto entre dois pontos é uma reta e a colocar isso em prática em todas as circunstâncias da vida.
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
+      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      Quem tem Ascendente em Áries entra na vida como quem entra num desafio: com impulsividade, pioneirismo, ousadia, impaciência.
+      Há necessidade de ser mais decidido, de agir e despertar o seu poder para criar a sua própria vida.
+      -stron O aprendizado é encarar a vida de maneira direta e enérgica. Cultivar uma expressão bem ativa, espontânea, competitiva na via positiva e assertiva./stron
+      Quem tem este ascendente tende a acreditar que o caminho mais curto entre dois pontos é uma reta e a colocar isso em prática em todas as circunstâncias da vida.
       Muitas vezes com grandes ganhos de tempo e benefícios, outras vezes com consequências menos felizes. Na verdade, só tem a sensação de existir, de estar vivo, se estiver a fazer alguma coisa.
       Se a expressão do ascendente em Áries é contida ou negada, a frustração acumulada pode explodir e se manifestar como ataques de raiva, ansiedade, explosões agressivas.
-      Quando aprender a agir com autoestima, por vontade e escolha própria, em vez de reagir continuamente à necessidade de se afirmar, poderá vivenciar plenamente as qualidades de ação, assertividade e decisão associadas ao seu signo ascendente.
-      Fisicamente, o Ascendente em Áries pode ter uma postura enérgica, viva, rápida e impaciente. Rosto vivo, olhar ágil, franco direto e intenso. Os movimentos são rápidos, repentinos, por vezes até bruscos e diretos.
-      É como se a qualquer momento fosse mergulhar de cabeça em uma nova atividade, como que a dizer “saia da minha frente”. `,
+      -stron Quando aprender a agir com autoestima, por vontade e escolha própria, em vez de reagir continuamente à necessidade de se afirmar, poderá vivenciar plenamente as qualidades de ação, assertividade e decisão associadas ao seu signo ascendente./stron
+      Fisicamente, o Ascendente em Áries pode ter uma postura enérgica, viva, rápida e impaciente. Rosto vivo, olhar ágil, franco, direto e intenso.
+      Os movimentos são rápidos, repentinos e por vezes até bruscos e diretos. É como se a qualquer momento fosse mergulhar de cabeça em uma nova atividade.
+      Observe-se para não agir sem pensar como, por exemplo: até querer dizer “saia da minha frente”.`,
 
-      `Mercúrio neste signo indica um tipo de raciocínio que tende a ser determinado, impulsivo e competitivo.Os nativos gostam de discutir e argumentar. Com frequência, possuem a habilidade de pensar rapidamente e podem criar muitas ideias originais.
-        Entretanto, podem ser imprudentes ao tomarem decisões e considerar as coisas a partir de um ponto de vista muito pessoal. Pode haver irritação e um temperamento irascível. No seu extremo, esta tendência pode resultar em egotismo intelectual e atitudes voluntariosas.
-        Os nativos tem dificuldade para tolerar demoras. Consequentemente, não gostam de se submeter a longos e demorados processos de decisão demorados, que se tornam frustrantes. A sua impulsividade significa que nem sempre concluem as ideias que iniciam.`,
+      `Mercúrio neste signo indica um tipo de raciocínio que tende a ser determinado, impulsivo e competitivo.
+      Os nativos gostam de discutir e argumentar. Com frequência, possuem a habilidade de pensar rapidamente e podem criar muitas ideias originais.
+      Entretanto, podem ser imprudentes ao tomarem decisões e considerar as coisas a partir de um ponto de vista muito pessoal.
+      Pode haver irritação e um temperamento irascível. No seu extremo, esta tendência pode resultar em egotismo intelectual e atitudes voluntariosas.
+      Os nativos tem dificuldade para tolerar demoras. Consequentemente, não gostam de se submeter a longos e demorados processos de decisão demorados, que se tornam frustrantes.
+      A sua impulsividade significa que nem sempre concluem as ideias que iniciam.`,
 
-      `Quem possui Vênus nesse signo do zodíaco é ardente e impulsivo, podendo se apaixonar e desapaixonar de maneira quase instantânea. As paixões súbitas não duram muito, pois numa relação, a conquista é a parte mais estimulante para eles.
+      `Quem possui Vênus nesse signo do zodíaco é ardente e impulsivo, podendo se apaixonar e desapaixonar de maneira quase instantânea.
+      As paixões súbitas não duram muito, pois numa relação, a conquista é a parte mais estimulante para eles. Depois, quando o fogo da paixão começa a diminuir, eles podem perder o interesse.
+      Quem tem Vênus em Áries tende a buscar o prazer de forma imediatista. É caprichoso e inconstante. Quando se interessa por alguém quer sexo no primeiro encontro.
+      Incapaz de esperar, não dá muitas voltas para dizer o que quer: vai direto ao assunto, de maneira franca e aberta, sem rodeios. É pegar ou largar!
+      Quem tem Vênus em Áries precisa se sentir livre, leve e solto. Gosta de brincar, dançar e mesmo que tenha seu par, é dono de si.
+      Tem um jeito espontâneo de expressar afeto, gosta de ser paparicado, elogiado e valorizado no que faz. Mas se a graça estiver apenas na conquista, ela desaparece depois que o objetivo é alcançado.
+      O cuidado deve ser para compras impulsivas e pela busca do prazer inconsequente.
+      Quem se relaciona intimamente com alguém que tem essa característica astrológica não pode se queixar de falta de sexo. Mas é muito difícil manter a chama acesa durante muito tempo.
+      Portanto, num relacionamento de longo prazo é necessário contar sempre com algo novo e excitante.
+      Quem tem Vênus em Áries deve aprender a ser criativo no amor, deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura.`,
 
-        Depois, quando o fogo da paixão começa a diminuir, eles podem perder o interesse. Quem tem Vênus em Áries tende a buscar o prazer de forma imediatista. É caprichoso e inconstante. Quando se interessa por alguém quer sexo no primeiro encontro.
-
-        Incapaz de esperar, não dá muitas voltas para dizer o que quer: vai direto ao assunto, de maneira franca e aberta, sem rodeios. É pegar ou largar! Quem tem Vênus em Áries precisa se sentir livre, leve e solto. Gosta de brincar, dançar e mesmo que tenha seu par, é dono de si.
-
-        Tem um jeito espontâneo de expressar afeto, gosta de ser paparicado, elogiado e valorizado no que faz. Mas se a graça estiver apenas na conquista, ela desaparece depois que o objetivo é alcançado.
-
-        O cuidado deve ser para compras impulsivas, para a busca do prazer inconsequente. Quem se relaciona intimamente com alguém que tem essa característica astrológica não pode se queixar de falta de sexo. Mas é muito difícil manter a chama acesa durante muito tempo.
-
-        Portanto, num relacionamento de longo prazo é necessário contar sempre com algo novo e excitante. Quem tem Vênus em Áries deve aprender a ser criativo no amor, deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura.
-        `,
       `Marte está domiciliado no signo de Áries, expressa aqui todo o seu potencial. Indica boa energia vital, entusiasmo, capacidade de conquista, impulsividade, audácia, gosto por aventura, ousadia, espírito empreendedor e pioneiro.
-
-        Confere boa vitalidade e energia física e sexual. Boa fertilidade. A pessoa com esse Marte adora os esportes e adora competir, querendo chegar sempre em primeiro lugar. Tem necessidade de canalizar as energias de forma física.
-
-        Impaciente e apressado pode passar por cima dos outros, por querer estar sempre um passo à frente. Na via negativa, é preciso trabalhar o descontrole nas ações e palavras.
-
-        Tamanha energia pode ser geradora de violência, agressividade excessiva, impaciência que causa acidentes de todo tipo e principalmente perigo com armas, fogo, acidentes de carro e quedas. Também pode provocar dores de cabeça, ferimentos na cabeça ou no rosto.`,
+      Confere boa vitalidade e energia física e sexual. Boa fertilidade. A pessoa com esse Marte adora os esportes e adora competir, querendo chegar sempre em primeiro lugar.
+      Tem uma necessidade de canalizar as suas energias de forma física.
+      Impaciente e apressado pode passar por cima dos outros, por querer estar sempre um passo à frente. Na via negativa, é preciso trabalhar o descontrole nas ações e palavras.
+      Tamanha energia pode ser geradora de violência, agressividade excessiva, impaciência que causa acidentes de todo tipo e principalmente perigo com armas, fogo, acidentes de carro e quedas.
+      Essa energia também pode provocar dores de cabeça, ferimentos na cabeça ou no rosto.`,
 
       `O nativo pode ganhar dinheiro através de seus méritos pessoais. Mas o excesso de otimismo pode provocar grandes perdas económicas se não tiver cuidado.
+      Há forte inclinação para as ciências, a literatura, a religião, as viagens. É possível que se dedique a duas profissões em simultâneo, ou que estas mudem várias vezes.
+      O nativo é, em certa medida, precursor, pioneiro ou inovador, mas a sua natureza não é conservadora. Geralmente é afortunado e respeitado.
+      Tem habilidades especiais para a liderança, mantém sempre uma fé inquebrantável em si mesmo. Tende a tomar posições de responsabilidade, sobretudo em cargos públicos.`,
 
-        Há forte inclinação para as ciências, a literatura, a religião, as viagens. É possível que se dedique a duas profissões em simultâneo, ou que estas mudem várias vezes.
+      `Saturno no signo de Áries indica que o nativo é forçado pelas circunstâncias a adquirir iniciativa, paciência e autoconfiança para enfrentar as necessidades práticas da vida.
+      Através da obrigação de desenvolver seus próprios recursos, passa a desenvolver sua vontade e força de carácter.
+      Áries representa o impulso inicial de ação, enquanto Saturno representa a lei de causa e efeito que traz de volta as consequências de uma ação.
+      Por isso fica mais difícil para o nativo com esta posição ver a si mesmas como os outros o veem.
+      O nativo está iniciando um novo ciclo de experiências, de forma que não teve tempo para aprender as consequências de seus atos. Portanto, pode não ter consciência dos princípios de justiça social e dos direitos alheios.
+      Mesmo assim, esta posição de Saturno oferece muitas habilidades. Os nativos são capazes de desenvolver novos métodos no seu trabalho.
+      No caso de pessoas muito desenvolvidas, a disciplina associada à iniciativa conduz à criatividade mental e ao pioneirismo, que lhes permite criar novos conceitos nas áreas escolhidas.
+      No seu pior, os nativos podem ser muito defensivos sempre esperando a oposição dos outros.
+      Essa característica dificulta a compreensão, a colaboração e a comunicação com os outros. Também pode haver egocentrismo e o impulso de se autojustificar.
+      Ao se preocuparem com a sua própria ambição e segurança, podem ignorar as necessidades e aspirações dos outros.
+      Essa tendência de buscar exclusivamente objetivos pessoais pode impedi los de colaborar com os outros e, assim, limitar o seu sucesso. Portanto, é preciso observar se falta diplomacia.
+      O nativo gosta de fazer tudo sozinho, cuidando das suas próprias necessidades sem dar ou solicitar ajuda. Preferem ter os seus próprios negócios, mas isso nem sempre é possível com esta posição.`,
 
-        O nativo é, em certa medida, precursor, pioneiro ou inovador, mas a sua natureza não é conservadora. Geralmente é afortunado e respeitado.
+      `Urano no signo de Áries indica um nativo cuja missão é indicar novos caminhos nas ciências e reforma social.
+      Para ele a liberdade para agir à sua maneira é de extrema importância. Possui coragem, audácia, iniciativa e habilidades.
+      O seu espírito de aventura é forte, o nativo precisa constantemente de novas experiências para se sentir feliz.
+      Esta posição pode torná-los indelicados e francos. Exigem mudanças e recusam-se a viver no estilo dos seus pais ou das gerações precedentes.
+      No seu pior, podem ser explosivamente impulsivos, politicamente fanáticos, agressivos e indiscriminados na sua rejeição do passado.
+      Quando o individualismo é levado a extremos, torna as pessoas cegas para a estrutura social da qual dependem grandes empreendimentos.
+      Impulsividade e mau génio são as armadilhas desta posição. Os nativos precisam aprender a ter mais consideração pelos outros e maior capacidade de colaboração.`,
 
-        Tem habilidades especiais para a liderança, mantém sempre uma fé inquebrantável em si mesmo. Tende a tomar posições de responsabilidade, sobretudo em cargos públicos.
-        `,
-
-      `Saturno no signo de Áries indica que o nativo é forçado pelas circunstâncias a adquirir iniciativa, paciência e autoconfiança para enfrentar as necessidades práticas da vida. Através da obrigação de desenvolver seus próprios recursos, passa a desenvolver sua vontade e força de carácter.
-
-        Áries representa o impulso inicial de ação, enquanto Saturno representa a lei de causa e efeito que traz de volta as consequências de uma ação. Por isso fica mais difícil para o nativo com esta posição ver a si mesmas como os outros o veem.
-
-        O nativo está iniciando um novo ciclo de experiências, de forma que não teve tempo para aprender as consequências de seus atos. Portanto, pode não ter consciência dos princípios de justiça social e dos direitos alheios.
-
-        Mesmo assim, esta posição de Saturno oferece muitas habilidades. Os nativos são capazes de desenvolver novos métodos no seu trabalho.
-
-        No caso de pessoas muito desenvolvidas, a disciplina associada à iniciativa conduz à criatividade mental e ao pioneirismo, que lhes permite criar novos conceitos nas áreas escolhidas.
-
-        No seu pior, os nativos podem ser muito defensivos, sempre esperando oposição dos outros. Essa característica dificulta a compreensão, a colaboração e a comunicação com os outros. Também pode haver egocentrismo e o impulso de se autojustificar.
-
-        Ao se preocuparem com a sua própria ambição e segurança, podem ignorar as necessidades e aspirações dos outros. Essa tendência de buscar exclusivamente objetivos pessoais pode impedi‑los de colaborar com os outros e, assim, limitar o seu sucesso.
-
-        Portanto, é preciso observar se falta diplomacia. O nativo gosta de fazer tudo sozinho, cuidando assim, das suas próprias necessidades sem dar ou solicitar ajuda. Preferem ter os seus próprios negócios, mas isso nem sempre é possível com esta posição.`,
-      `Urano no signo de Áries indica um nativo cuja missão é indicar novos caminhos nas ciências e reforma social. Para ele a liberdade para agir à sua maneira é de extrema importância. Possui coragem, audácia, iniciativa e habilidades.
-
-        O seu espírito de aventura é forte, o nativo precisa constantemente de novas experiências para se sentir feliz. Esta posição pode torná-los indelicados e francos. Exigem mudanças e recusam-se a viver no estilo dos seus pais ou das gerações precedentes.
-
-        No seu pior, podem ser explosivamente impulsivos, politicamente fanáticos, agressivos e indiscriminados na sua rejeição do passado. Quando o individualismo é levado a extremos, torna as pessoas cegas para a estrutura social da qual dependem grandes empreendimentos.
-
-        Impulsividade e mau génio são as armadilhas desta posição. Os nativos precisam aprender a ter mais consideração pelos outros e maior capacidade de colaboração.
-        `,
       `As pessoas nascidas com Netuno em Áries mostram muita iniciativa para a criatividade espiritual, experimentando a sensação de terem de cumprir uma missão.
+      São pioneiros em novos conceitos religiosos e filosóficos. A expressão negativa de Netuno é o falso orgulho, o egoísmo e o desejo de se sobressair ou se destacar.
+      Com a entrada de Netuno em Áries no século passado, inicia-se uma época de investigação no campo psíquico, bem como o desenvolvimento do espiritualismo.`,
 
-        São pioneiros em novos conceitos religiosos e filosóficos. A expressão negativa de Netuno é o falso orgulho, o egoísmo e o desejo de se sobressair ou se destacar.
+      `Esta geração caracterizou-se pelo espírito revolucionário. Teve de vencer sérios obstáculos e viver momentos de muita dureza a fim de conseguir liberdade e uma nova forma de vida, tal como a conquista do Oeste americano.
+      Pioneiros, reformadores, líderes de qualquer causa obcecados pelo valor pessoal. Sempre dispostos a destruir qualquer obstáculo à sua vontade, que não reconhece limites.
+      Plutão em Áries se manifesta de forma individualista. A necessidade de mudar todo o precedente se traduz numa urgência pela transformação pessoal.
+      Põe a descoberto o que deixou de nos servir no ciclo anterior e propicia a procura de novos valores.`,
 
-        Com a entrada de Netuno em Áries no século passado, inicia-se uma época de investigação no campo psíquico, bem como o desenvolvimento do espiritualismo.`,
-      `Esta geração caracterizou-se pelo espírito revolucionário. Teve de vencer sérios obstáculos e viver momentos de muita dureza a fim de conseguir liberdade e uma nova forma de vida, tal como a conquista do Oeste americano.
-
-        Pioneiros, reformadores, líderes de qualquer causa obcecados pelo valor pessoal. Sempre dispostos a destruir qualquer obstáculo à sua vontade, que não reconhece limites.
-
-        Plutão em Áries se manifesta de forma individualista. A necessidade de mudar todo o precedente se traduz numa urgência pela transformação pessoal.
-
-        Põe a descoberto o que deixou de nos servir no ciclo anterior e propicia a procura de novos valores.`,
-
-      `Os Nodos Lunares Norte e Sul (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-
-        O eixo Cauda / Cabeça do Dragão (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-
-        A Cauda do Dragão (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-
-        A Cabeça do Dragão (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
-
-        É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-
-        O objetivo é equilibrar os dois: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-
-        Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. Aprender a cooperar, a formar parcerias sem perder a sua identidade:
-
+      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+      -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+      -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+      -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+      É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
+      -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a cooperar, a formar parcerias sem perder a sua identidade:/stron
       Quem tem o Nodo Sul (Cauda do Dragão) em Áries traz experiências de um espírito independente, muitas vezes egoísta.  É muito voltado para si próprio e seus próprios interesses.
+      Reativo, impulsivo e impaciente, tem dificuldade de tolerar o tempo e o espaço dos outros. Explodem facilmente, pode até mesmo ter comportamento agressivo, violento ou brusco.
+      Traz também capacidade de liderança, coragem, assertividade. Memórias de guerras, batalhas, confrontos e violência. De independência, liberdade, autonomia, autoritarismo. Não aparenta ou transmite sensibilidade, mas tem um coração puro.
+      Age impulsivamente e sem pensar. Por causa disso, muitas vezes se arrepende depois.  Tem dificuldade nos relacionamentos, pois não leva o outro em consideração devido ao excesso de autonomia.
+      Mas com o Nodo Norte (Cabeça do Dragão) no signo de Libra, veio aprender a considerar mais as pessoas com quem se relaciona. Aprender a cultivar paciência, saber ouvir e esperar.  Valorizar cada vez mais as parcerias, as alianças, as habilidades sociais e a interação com o outro.
+      A missão é de conciliar o seu Eu com o Eu do outro.  Aprender a partilhar uma vida em comum, a deixar-se guiar quando necessário, a ser cuidado pelo outro.
+      Aprender a reconhecer sua fragilidade, seus pontos fracos e suas incapacidades.  Cultivar mais ponderação e prudência, consciente de que toda ação ações gera consequências.
+      Com o tempo e a experiência de vida pode desativar sua violência, ganhar humildade e respeito pela sensibilidade e necessidades dos outros.  Aprender a arte do relacionamento, do compromisso, da harmonia do equilíbrio com o outro.
+      Ou seja, o equilíbrio só é possível se aprender a ceder e se ajustar às necessidades das pessoas com quem conviver.`,
 
-        Reativo, impulsivo e impaciente, tem dificuldade de tolerar o tempo e o espaço dos outros. Explodem facilmente, pode até mesmo ter comportamento agressivo, violento ou brusco.
-
-        Traz também capacidade de liderança, coragem, assertividade. Memórias de guerras, batalhas, confrontos e violência. De independência, liberdade, autonomia, autoritarismo. Não aparenta ou transmite sensibilidade, mas tem um coração puro.
-
-        Age impulsivamente e sem pensar. Por causa disso, muitas vezes se arrepende depois.  Tem dificuldade nos relacionamentos, pois não leva o outro em consideração devido ao excesso de autonomia.
-
-        Mas com o Nodo Norte (Cabeça do Dragão) no signo de Libra, veio aprender a considerar mais as pessoas com quem se relaciona. Aprender a cultivar paciência, saber ouvir e esperar.  Valorizar cada vez mais as parcerias, as alianças, as habilidades sociais e a interação com o outro.
-
-        A missão é de conciliar o seu Eu com o Eu do outro.  Aprender a partilhar uma vida em comum, a deixar-se guiar quando necessário, a ser cuidado pelo outro.
-
-        Aprender a reconhecer sua fragilidade, seus pontos fracos e suas incapacidades.  Cultivar mais ponderação e prudência, consciente de que toda ação ações gera consequências.
-
-        Com o tempo e a experiência de vida pode desativar sua violência, ganhar humildade e respeito pela sensibilidade e necessidades dos outros.  Aprender a arte do relacionamento, do compromisso, da harmonia do equilíbrio com o outro.
-
-        Ou seja, o equilíbrio só é possível se aprender a ceder e se ajustar às necessidades das pessoas com quem conviver`,
-
-       `A facilidade de funcionamento e a felicidade vêm com o exercício do poder de iniciativa e com um confiante mergulho na experiência.
-
-        O indivíduo deverá deixar-se guiar pela intuição e deverá ver-se como um ativador de novos impulsos sociais e culturais, tendendo a identificar a sua personalidade com tal impulso criativo, ou então se sentirá frustrado e infeliz se for impedido de agir assim.
-
-        Exemplos: Francis Bacon, George Washington, Clara Barton, Isaac Newton, Louis Pasteur, Albert Einstein, Frederic Chopin, Will Levington Comfort.`,
+      `A facilidade de funcionamento e a felicidade vêm com o exercício do poder de iniciativa e com um confiante mergulho na experiência.
+      O indivíduo deverá deixar-se guiar pela intuição e deverá ver-se como um ativador de novos impulsos sociais e culturais, tendendo a identificar a sua personalidade com tal impulso criativo, ou então se sentirá frustrado e infeliz se for impedido de agir assim.
+      Exemplos: Francis Bacon, George Washington, Clara Barton, Isaac Newton, Louis Pasteur, Albert Einstein, Frederic Chopin, Will Levington Comfort.`,
 
       `Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir.
-
-        Parece que você só se sente vivo quando refletido em alguém. Você só tem motivação para defender alguma causa quando o benefício é dos outros, como se tivesse capacidade de luta, mas pouca vontade própria.
-
-        Com medo de ser impelido a entrar num ciclo repetitivo de tentativas inúteis e autodestrutivas, e para compensar a dor, você pode se limitar a fazer demonstrações de sua força e espírito de luta, sem entrar para valer na luta.
-
-        Você é propenso a agir de modo precipitado, descarregando de uma vez sua tensão emocional e transformando-a em ação. Você pode ser muito cruel consigo próprio em consequência de um senso de autossuficiência exagerado, por achar que deve caminhar sozinho, sem pedir ajuda.
-
-        Internamente, pode surgir um sentimento de desespero e desejo de morrer, além de um temor profundo de fazer algo que possa exprimir o que realmente deseja. Suas expressões espontâneas de paixão, de ser, ou de vontade podem ter sido esmagadas na sua infância de uma forma sutil ou forma declarada.
-
-        Métodos repressivos de educação como alimentação em hora certa, privação de contato físico, treinamento sistemático prematuro das necessidades fisiológicas, podem ter sido seus primeiros sofrimentos.
-
-        Se a interferência em seus ritmos naturais de vida e a sua negação foram intensas, provocarão sentimentos de que você não tem direito ao querer ou desejar, e você acaba não se esforçando para satisfazer seus desejos e acha que é inaceitável como é.
-
-        É claro que essa impotência diante da vida acarreta uma raiva profunda e quase sempre despropositada. Na vida adulta pode ter medo de externar seus desejos e eles serem sistematicamente destruídos.
-
-        O ambiente de sua infância pode ter sido hostil e repleto de agressividade encoberta ou declarada, produzindo sentimentos de timidez e falta de autoestima e de direito próprio. Viver, então, passa a equivaler a aprender como agradar e aplacar terceiros, viver tentando preencher as falhas de outras pessoas, ficando anônimo.
-
-        Por outro lado, você pode ser o tipo que compensou esse início de vida, sendo agora um pioneiro, uma pessoa cheia de força de vontade, impulso, energia e entusiasmo.
-
-        Mas é importante compreender que essa é uma máscara que pode cair, e quando isso acontece você pode entrar num estado lastimável de sofrimento e insegurança, chegando a ter desejo de morrer.
-
-        A vontade de morrer pode ser causada por: resposta à raiva, à frustração ou à falta de controle diante de algum problema; pode representar o desejo de recuperar o poder ou uma reação ao sentimento de incapacidade de tomar decisões próprias.
-
-        Pode haver um sentimento de que se morrer ninguém notará sua falta, nada mais vai restar de você. Ás vezes, iniciar qualquer coisa é tão difícil que você entra em colapso, desiste, na soleira daquilo que lhe parece ser uma nova e emocionante fase de sua vida.
-
-        Isso pode ser causado por ter tido uma experiência traumatizante no nascimento físico, por isso, qualquer novo inicio de vida pode ser encarado com confusão, medo e resistência.
-
-        Você pode empenhar-se em encontrar algo que possa fazer e que lhe traga o senso de identidade de que precisa, pode se impor a tarefas quase impossíveis para provar a si mesmo que existe e tem um lugar no mundo. Para algumas pessoas, essa luta é válida e dá resultado, para outras é inútil.
-
-        Você pode projetar no seu corpo seu sentimento de vergonha e constrangimento por existir, achando certos detalhes de seu corpo deformados ou feios, e as outras pessoas nem percebem, ou nem se importam com o que para você é tão importante.
-
-        É necessário rever essa programação interna, pois agora você é um adulto, as circunstâncias são outras e exigem reações diferentes daquelas aprendidas na infância. Você tem capacidade de ser um curador ou um terapeuta e tratar pessoas que viveram uma infância difícil.
-
-        Você pode desenvolver a capacidade de instruir outras pessoas e dar-lhes poderes ao perceber a sua própria impotência diante do Universo. Você passa a imagem de ser uma pessoa solitária, mesmo quando casado.
-
-        Você busca um senso de identidade, mas talvez só descubra que, quando desistiu dessa busca e passou a aceitar sua insignificância, e que conquistou uma tremenda vitalidade, bem como a sensação de ser compreendido.
-
-        Quase sempre você tem facilidade de agir intuitivamente no momento oportuno e agarrar a ocasião que se apresenta. Você tem a capacidade de aliar a compaixão à ação adequada, bem como de ser altamente inovador e tomar iniciativas, sobretudo quando o bem-estar de outros está em jogo.
-
-        Você adquire força na luta, mas deve aprender a ser um nobre rival diante daqueles com os quais compete. Se for capaz de superar a sua agressividade passiva, sua tendência a agir dissimuladamente, sentirá a vida fluir em suas veias.
-
-        Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você.`,
+      Parece que você só se sente vivo quando refletido em alguém. Você só tem motivação para defender alguma causa quando o benefício é dos outros, como se tivesse capacidade de luta, mas pouca vontade própria.
+      Com medo de ser impelido a entrar num ciclo repetitivo de tentativas inúteis e autodestrutivas, e para compensar a dor, você pode se limitar a fazer demonstrações de sua força e espírito de luta, sem entrar para valer na luta.
+      Você é propenso a agir de modo precipitado, descarregando de uma vez sua tensão emocional e transformando-a em ação.
+      Você pode ser muito cruel consigo próprio em consequência de um senso de autossuficiência exagerado, por achar que deve caminhar sozinho, sem pedir ajuda.
+      Internamente, pode surgir um sentimento de desespero e desejo de morrer, além de um temor profundo de fazer algo que possa exprimir o que realmente deseja.
+      Suas expressões espontâneas de paixão, de ser, ou de vontade podem ter sido esmagadas na sua infância de uma forma sutil ou forma declarada.
+      Métodos repressivos de educação como alimentação em hora certa, privação de contato físico, treinamento sistemático prematuro das necessidades fisiológicas, podem ter sido seus primeiros sofrimentos.
+      Se a interferência em seus ritmos naturais de vida e a sua negação foram intensas, provocarão sentimentos de que você não tem direito ao querer ou desejar, e você acaba não se esforçando para satisfazer seus desejos e acha que é inaceitável como é.
+      É claro que essa impotência diante da vida acarreta uma raiva profunda e quase sempre despropositada. Na vida adulta pode ter medo de externar seus desejos e eles serem sistematicamente destruídos.
+      O ambiente de sua infância pode ter sido hostil e repleto de agressividade encoberta ou declarada, produzindo sentimentos de timidez e falta de autoestima e de direito próprio.
+      Viver, então, passa a equivaler a aprender como agradar e aplacar terceiros, viver tentando preencher as falhas de outras pessoas, ficando anônimo.
+      Por outro lado, você pode ser o tipo que compensou esse início de vida, sendo agora um pioneiro, uma pessoa cheia de força de vontade, impulso, energia e entusiasmo.
+      Mas é importante compreender que essa é uma máscara que pode cair, e quando isso acontece você pode entrar num estado lastimável de sofrimento e insegurança, chegando a ter desejo de morrer.
+      A vontade de morrer pode ser causada por: resposta à raiva, à frustração ou à falta de controle diante de algum problema; pode representar o desejo de recuperar o poder ou uma reação ao sentimento de incapacidade de tomar decisões próprias.
+      Pode haver um sentimento de que se morrer ninguém notará sua falta, nada mais vai restar de você. Ás vezes, iniciar qualquer coisa é tão difícil que você entra em colapso, desiste, na soleira daquilo que lhe parece ser uma nova e emocionante fase de sua vida.
+      Isso pode ser causado por ter tido uma experiência traumatizante no nascimento físico, por isso, qualquer novo inicio de vida pode ser encarado com confusão, medo e resistência.
+      Você pode empenhar-se em encontrar algo que possa fazer e que lhe traga o senso de identidade de que precisa, pode se impor a tarefas quase impossíveis para provar a si mesmo que existe e tem um lugar no mundo. Para algumas pessoas, essa luta é válida e dá resultado, para outras é inútil.
+      Você pode projetar no seu corpo seu sentimento de vergonha e constrangimento por existir, achando certos detalhes de seu corpo deformados ou feios, e as outras pessoas nem percebem, ou nem se importam com o que para você é tão importante.
+      É necessário rever essa programação interna, pois agora você é um adulto, as circunstâncias são outras e exigem reações diferentes daquelas aprendidas na infância. Você tem capacidade de ser um curador ou um terapeuta e tratar pessoas que viveram uma infância difícil.
+      Você pode desenvolver a capacidade de instruir outras pessoas e dar-lhes poderes ao perceber a sua própria impotência diante do Universo. Você passa a imagem de ser uma pessoa solitária, mesmo quando casado.
+      Você busca um senso de identidade, mas talvez só descubra que, quando desistiu dessa busca e passou a aceitar sua insignificância, e que conquistou uma tremenda vitalidade, bem como a sensação de ser compreendido.
+      Quase sempre você tem facilidade de agir intuitivamente no momento oportuno e agarrar a ocasião que se apresenta. Você tem a capacidade de aliar a compaixão à ação adequada, bem como de ser altamente inovador e tomar iniciativas, sobretudo quando o bem-estar de outros está em jogo.
+      Você adquire força na luta, mas deve aprender a ser um nobre rival diante daqueles com os quais compete. Se for capaz de superar a sua agressividade passiva, sua tendência a agir dissimuladamente, sentirá a vida fluir em suas veias.
+      Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você.`,
 
       `O parceiro ideal é aquele que tenha interesse em esportes e atividades dinâmicas e seja ativo, assertivo, o tipo que está sempre em busca de novas emoções e aventuras.
+      Podem ser pessoas muito ativas, vibrantes, dinâmicas. O que conta é o desafio e a coragem, porque Áries não aprecia as coisas fáceis. Quanto mais difícil, mais desperta o interesse.
+      De alguma forma são parcerias desafiantes. Mas também podem ser pessoas impulsivas, violentas ou conquistadoras que apreciam apenas a conquista e formam relacionamentos de curta duração.
+      Representa a busca de uma parceria dinâmica e ativa, marciana. Sua evolução passa pelo esforço de construir uma relação durável e sólida, na qual a individualidade é respeitada.`,
 
-        Podem ser pessoas muito ativas, vibrantes, dinâmicas. O que conta é o desafio e a coragem, porque Áries não aprecia as coisas fáceis. Quanto mais difícil, mais desperta o interesse.
+      `Em suas vidas passadas o nativo pode ter sido um comerciante e como tal, agia de forma agressiva, impaciente ou intolerante.
+      Faltava-lhe paciência nas suas negociações, chegando até a insultar os seus parceiros. Se foi um estudante ou intelectual, tinha uma tendência infantil a se vangloriar do seu desempenho intelectual.
+      Talvez também tivesse professado opiniões militaristas extremistas que haviam incitado as pessoas a lutarem entre si.
+      Uma coisa é certa: o nativo deve transformar seu discurso impulsivo e agressivo, com o qual feriu muita gente. Deve aprender a ouvir, a se comunicar com mais maturidade e compaixão.`,
 
-        De alguma forma são parcerias desafiantes. Mas também podem ser pessoas impulsivas, violentas ou conquistadoras que apreciam apenas a conquista e formam relacionamentos de curta duração.
+      `O nativo desconfia dos outros: tem dificuldade em assumir o casamento, em virtude de uma grande desconfiança em relação ao amor.
+      Ficará feliz quando compreender as virtudes do diálogo: ouvir mais, deixar o ser amado se expressar, sem lhe impor sempre uma direção ou um comando.
+      Essa Vênus imediatista, impulsiva, autoritária e exigente deve aprender a paciência. Deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura.`,
 
-        Representa a busca de uma parceria dinâmica e ativa, marciana. Sua evolução passa pelo esforço de construir uma relação durável e sólida, na qual a individualidade é respeitada.`
+      `O enorme sentimento de insegurança que o nativo experimenta é na verdade, herdado de vidas passadas.
+      Foi pouco consciente do mundo que o cerca: impulsivo, imaturo, imprudente, imediatista, impaciente, apaixonado e violento. Faltou-lhe objetividade.
+      Nesta vida deve buscar o autoconhecimento. Pode se libertar ao tomar consciência de suas próprias tendências negativas.
+      Ao invés de se voltar contra os outros, deve olhar para si mesmo, com mais ponderação. Exercitar as virtudes da tolerância, da diplomacia, da gentileza e da paciência.`,
+
+      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+      Com Júpiter retrógrado em Áries, é preciso cuidado com as ideias preconcebidas! A pessoa tende a ser um tanto sincero e direto demais, é preciso cultivar flexibilidade em face das circunstâncias da vida.
+      Há tendência para julgar os indivíduos segundo critérios pouco realistas e categorias demasiado estanques ou dogmáticas.
+      A vida conjugal é um grande aprendizado, por causa da sua possível vaidade, acrescida, por vezes, de uma surpreendente ingenuidade.
+      Também por causa de sua sede inextinguível de novas experiências! Lição cármica desta posição planetária: ser honesto consigo mesmo, desenvolver o autoconhecimento e a autoestima.`,
+
+      `Em vidas passadas o nativo já viveu a experiência do poder pessoal. Foi muito independente, teve enorme liberdade pessoal.
+      Sabe dirigir toda a sua energia para um só objetivo. Saturno indica uma perseverança e uma determinação que não são da natureza de Áries.
+      Por outro lado, o nativo pode ter sido forçado também por circunstâncias muito duras (guerra, fome ou limitações) a contar apenas consigo mesmo.
+      É, portanto, capaz de se assumir com autonomia. Pode utilizar nesta vida presente as forças adquiridas outrora, à custa de um duríssimo esforço.`,
+
+      `Ninguém consegue dominá-lo! Em permanente revolta contra tudo o que lhe parece ultrapassado, salta alegremente por cima das barreiras e convenções.
+      Traz de vidas passadas um cérebro consumido pelo fogo, difícil de ser domesticado numa parceria ou num casamento.
+      Original e muito corajoso, o seu carma é desbravar o desconhecido, ousar aventurar-se nos lugares onde ninguém ainda pôs os pés com pioneirismo, arrastando os menos corajosos atrás dele.
+      Esse Kamikaze deve evitar a tentação da violência. Mas às vezes faz-se o campeão generoso das causas perdidas e dos combates de retaguarda.
+      Antes de se inflamar por uma causa nobre, é bom que se pergunte se esta é realmente justa.`,
+
+      `Indica pessoas que partilhavam com toda a sua geração uma certa ideologia da guerra justa e necessária. Nessa geração, havia muito poucos antimilitaristas ou contestadores de consciência:
+      Netuno (os ideais) associado a Áries (a guerra) conduzia os homens de então a uma ideologia guerreira.
+      Mas aqueles que tinham Netuno retrógrado viveram com um carma de desilusões muito doloroso: assistir ao desmoronamento dos valores aos quais haviam dedi¬cado sua vida.
+      A fé e a espiritualidade podem tê-los ajudado a tomar certa distância com relação às ideologias militaristas. Esses nativos eram também artistas.`,
+
+      `A posição parece indicar uma violência inconsciente mal canalizada. O nativo, ao mesmo tempo em que tem uma sede intensa de justiça, tem reações primitivas e além da justa medida.
+      É assim que a personagem de Villiers de Isle – Adam exala essa surda violência que os conduz ao assassinato; é assim também que os na¬zistas reivindicam a influência de Nietzsche.
+      Em quem encontraram uma ideologia do super-homem, uma apologia da virilidade, do "machismo", inteiramente na linha de Plutão retrógrado em Áries, que marcou esses dois autores.`,
+
+      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. O Dom de cura com as mãos.
+      A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
+      Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir.
+      Parece que você só se sente vivo quando refletido em alguém. Você só tem motivação para defender alguma causa quando o benefício é dos outros, como se tivesse capacidade de luta, mas pouca vontade própria.
+      Com medo de ser impelido a entrar num ciclo repetitivo de tentativas inúteis e autodestrutivas, e para compensar a dor, você pode se limitar a fazer demonstrações de sua força e espírito de luta, sem entrar para valer na luta.
+      Você é propenso a agir de modo precipitado, descarregando de uma vez sua tensão emocional e transformando-a em ação.
+      Você pode ser muito cruel consigo próprio em consequência de um senso de autossuficiência exagerado, por achar que deve caminhar sozinho, sem pedir ajuda.
+      Internamente, pode surgir um sentimento de desespero e desejo de morrer, além de um temor profundo de fazer algo que possa exprimir o que realmente deseja.
+      Suas expressões espontâneas de paixão, de ser, ou vontade podem ter sido esmagadas na infância de uma forma sutil ou até declarada.
+      Métodos repressivos de educação como alimentação em hora certa, privação de contato físico, treinamento sistemático prematuro das necessidades fisiológicas, podem ter sido seus primeiros sofrimentos.
+      Se a interferência em seus ritmos naturais de vida e a sua negação foram intensas, provocarão sentimentos de que você não tem direito ao querer ou desejar, e você acaba não se esforçando para satisfazer seus desejos e acha que é inaceitável como é.
+      É claro que essa impotência diante da vida acarreta uma raiva profunda e quase sempre despropositada. Na vida adulta pode ter medo de externar seus desejos e eles serem sistematicamente destruídos.
+      O ambiente de sua infância pode ter sido hostil e repleto de agressividade encoberta ou declarada, produzindo sentimentos de timidez e falta de autoestima e de direito próprio.
+      Viver, então, passa a equivaler a aprender como agradar e aplacar terceiros, viver tentando preencher as falhas de outras pessoas, ficando anônimo.
+      Por outro lado, você pode ser o tipo que compensou esse início de vida, sendo agora um pioneiro, uma pessoa cheia de força de vontade, impulso, energia e entusiasmo.
+      Mas é importante compreender que essa é uma máscara que pode cair, e quando isso acontece você pode entrar num estado lastimável de sofrimento e insegurança, chegando a ter desejo de morrer.
+      A vontade de morrer pode ser causada por: resposta à raiva, à frustração ou à falta de controle diante de algum problema; pode representar o desejo de recuperar o poder ou uma reação ao sentimento de incapacidade de tomar decisões próprias.
+      Pode haver um sentimento de que se morrer ninguém notará sua falta, nada mais vai restar de você. Ás vezes, iniciar qualquer coisa é tão difícil que você entra em colapso, desiste, na soleira daquilo que lhe parece ser uma nova e emocionante fase de sua vida.
+      Isso pode ser causado por ter tido uma experiência traumatizante no nascimento físico, por isso, qualquer novo inicio de vida pode ser encarado com confusão, medo e resistência.
+      Você pode empenhar-se em encontrar algo que possa fazer e que lhe traga o senso de identidade de que você precisa e também pode impor-se a tarefas quase impossíveis para provar a si mesmo que existe e tem um lugar no mundo.
+      Para algumas pessoas essa luta é totalmente válida e dá resultado, para outras será inútil tentar.
+      Você pode projetar no seu corpo seu sentimento de vergonha e constrangimento por existir, achando certos detalhes de seu corpo deformados ou feios, e as outras pessoas nem percebem, ou nem se importam com o que para você é tão importante.
+      É necessário rever essa programação interna, pois agora você é um adulto, as circunstâncias são outras e exigem reações diferentes daquelas aprendidas na infância. Você tem capacidade de ser um curador ou um terapeuta e tratar pessoas que viveram uma infância difícil.
+      Você pode desenvolver a capacidade de instruir outras pessoas e dar-lhes poderes ao perceber a sua própria impotência diante do Universo. Você passa a imagem de ser uma pessoa solitária, mesmo quando casado.
+      Você busca um senso de identidade, mas talvez só descubra que, quando desistiu dessa busca e passou a aceitar sua insignificância, e que conquistou uma tremenda vitalidade, bem como a sensação de ser compreendido.
+      Quase sempre você tem facilidade de agir intuitivamente no momento oportuno e agarrar a ocasião que se apresenta. Você tem a capacidade de aliar a compaixão à ação adequada, bem como de ser altamente inovador e tomar iniciativas, sobretudo quando o bem-estar de outros está em jogo.
+      Você adquire força na luta, mas deve aprender a ser um nobre rival diante daqueles com os quais compete. Se for capaz de superar a sua agressividade passiva, sua tendência a agir dissimuladamente, sentirá a vida fluir em suas veias.
+      Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você.`,
+
+      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
+      É importante cultivar estabilidade vida afetiva através da capacidade de um viver partilhado com alguém.
+      Juno nesse setor ou signo mostra uma necessidade de ser valorizada e procurará escolher um parceiro ou parceiros/as que lhe permita isto.
+      Aliás, a procura por um parceiro ideal é uma das suas principais preocupações. Para um homem a busca de uma parceira ativa, marciana.
+      Sua evolução passa pelo esforço de construir uma relação durável e sólida. Se o casamento ou as parcerias não vão bem, impacto sobre a saúde da pessoa.
+      Em alguns casos, vemos uma pessoa que é capaz de “se casar consigo mesma”.
+      Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, e que podem ser boas ou ruins para a própria parceria.`,
     ],
     levels: [
-        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está):`,
 
-        `1º nível de evolução:`,
+        `-stron 1º nível de evolução: /stron`,
 
         `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
 
-          `2º nível de evolução:`,
+        `-stron 2º nível de evolução: /stron`,
 
         `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
 
-          `3º nível de evolução:`,
+        `-stron 3º nível de evolução: /stron`,
 
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
     ],
@@ -278,132 +363,258 @@ const data = {
   {
     title: `touro`,
     text: [
-     `Touro é estabilidade, conforto e bem estar material. É o primeiro signo do elemento Terra. Representa a vontade de firmar os desejos, de dar continuidade, persistir, realizar, concretizar. Inspira a necessidade de segurança, pois é o signo da preservação.
-      É sensual, perseverante, doce e trabalhador.  Vênus é o planeta regente de Touro, que por isso é ligado ao prazer, à beleza, ao bom gosto, à alegria, ao prazer de encantar e seduzir.
+      `Touro é estabilidade, conforto e bem estar material. É o primeiro signo do elemento Terra.
+      Representa a vontade de firmar os desejos, de dar continuidade, persistir, realizar, concretizar. Inspira a necessidade de segurança, pois é o signo da preservação.
+      É sensual, perseverante, doce e trabalhador. Vênus é o planeta regente de Touro, que por isso é ligado ao prazer, à beleza, ao bom gosto, à alegria, ao prazer de encantar e seduzir.
       Por isso, o taurino traz esse sentimento de valorização e amor próprio. Considerado o signo da sensualidade, também representa o gosto pelo conforto e a capacidade de saber aproveitar a vida.
-      O Sol em Touro estimula apetites poderosos em todos os domínios em geral, mais particularmente no plano material. O aumento dos ganhos ou do capital é feito geralmente através do contato com uma clientela ou um público. Inspira grande vivacidade de espírito e um carácter simpático.
-      A sabedoria de Touro está em utilizar seus dons e os recursos da terra para manifestar abundância. Na saúde, deve cuidar do pescoço, da garganta, da boca, das vértebras cervicais, das orelhas e da tiroide.
-      Na medida em que for envelhecendo precisa cuidar mais da sua alimentação, que geralmente é rica demasiado rica em açúcar.
-      Isso ocasiona uma tendência muito grande para a corpulência e também para a hipoglicemia, que se repercute na tiroide, o que pode provocar uma queda importante da energia e favorecer acessos de mau humor. O sono, o descanso e a calma são os melhores reconstituintes para o Taurino.
-      O lado negativo do taurino é o ciúme e a lentidão. Um taurino não suporta mudanças, por isso, se conseguirem uma vida estável, podem se acostumar e ficar na mesmice para sempre. O cuidado deve ser, portanto, com a teimosia e o comodismo.
-      É preciso cuidado também com o sentimento exagerado de posse, o ciúme, à avidez e ao materialismo exacerbado. Deve aprender a superar o fantasma da perda para evitar danos em sua vida profissional e afetiva.
-      O equilíbrio está no signo oposto, Escorpião, que traz lições de desapego, transformação e a compreensão de que um dia tudo acaba. Ciente disso pode preservar o que é seu sem se tonar escravo de seus temores.`,
+      O Sol em Touro estimula apetites poderosos em todos os domínios em geral, mais particularmente no plano material.
+      O aumento dos ganhos ou do capital é feito geralmente através do contato com uma clientela ou um público. Inspira grande vivacidade de espírito e um carácter simpático.
+      A sabedoria de Touro está em utilizar seus dons e os recursos da terra para manifestar abundância.
+      Na saúde, deve cuidar do pescoço, da garganta, da boca, das vértebras cervicais, das orelhas e da tiroide.
+      Na medida em que for envelhecendo precisa cuidar mais da sua alimentação, que geralmente é rica demais, rica em açúcar.
+      Isso ocasiona uma tendência muito grande para a corpulência e também para a hipoglicemia, que se repercute na tiroide, o que pode provocar uma queda importante da energia e favorecer acessos de mau humor.
+      O sono, o descanso e a calma são os melhores reconstituintes para o Taurino. O lado negativo do taurino é o ciúme e a lentidão.
+      Um taurino não suporta mudanças, por isso, se conseguirem uma vida estável, podem se acostumar e ficar na mesmice para sempre. O cuidado deve ser, portanto, com a teimosia e o comodismo.
+      É preciso cuidado também com o sentimento exagerado de posse, o ciúme, à avidez e ao materialismo exacerbado.
+      Deve aprender a superar o fantasma da perda para evitar danos em sua vida profissional e afetiva.
+      O equilíbrio está no signo oposto, Escorpião, que traz lições de desapego, transformação e a compreensão de que um dia tudo acaba.
+      Ciente disso você pode preservar o que é seu sem se tonar escravo de seus próprios temores.`,
 
-     `A Lua representa a forma como vivemos as nossas emoções. É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
+      `A Lua representa a forma como vivemos as nossas emoções.
+      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
       A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
       Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
       As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
-      A Lua no signo de Touro indica necessidade de segurança financeira e material para conseguir bem‑estar emocional. A Lua em Touro é fértil e muito forte, porque está no signo da sua exaltação. As emoções tendem a ser firmes e tranquilas.
-      Esta posição atrai riqueza e as boas coisas da vida. Os nativos apreciam a boa comida e buscam conforto material. Uma situação doméstica estável é importante para a sua segurança emocional. Quem tem a Lua em Touro conta com bom senso na administração de assuntos financeiros e domésticos.
-      Esta posição exige o estímulo de outras pessoas para iniciar novos projetos, que, no entanto, uma vez iniciados, são levados até o fim com muita perseverança e persistência. Geralmente não inicia novos empreendimentos até que os anteriores estejam totalmente completos.
+      A Lua no signo de Touro indica necessidade de segurança financeira e material para conseguir bem‑estar emocional.
+      A Lua em Touro é fértil e muito forte, porque está no signo da sua exaltação. As emoções tendem a ser firmes e tranquilas.
+      Esta posição atrai riqueza e as boas coisas da vida. Os nativos apreciam a boa comida e buscam conforto material.
+      Uma situação doméstica estável é importante para a sua segurança emocional. Quem tem a Lua em Touro conta com bom senso na administração de assuntos financeiros e domésticos.
+      Esta posição exige o estímulo de outras pessoas para iniciar novos projetos, que, no entanto, uma vez iniciados, são levados até o fim com muita perseverança e persistência.
+      Geralmente não inicia novos empreendimentos até que os anteriores estejam totalmente completos.
       Em termos de afetividade, é capaz de associar paciência e mansidão e com determinação e firmeza. Prefere preservar os relacionamentos ao invés de se meter em aventuras arriscadas.
       Tem senso estético apurado, costuma ser doce e sedutor, mas também duro e teimoso quando não se sente à vontade.
-      É resistente às mudanças e se apega facilmente. Precisa ter cuidado com a possessividade e o ciúme. Pode haver relutância em modificar atitudes emocionais estabelecidas, com tendência à preguiça e um apego excessivo aos confortos materiais.
+      É resistente às mudanças da vida e se apega facilmente. Precisa ter cuidado com a possessividade e o ciúme.
+      Pode haver relutância em modificar atitudes emocionais estabelecidas, com tendência à preguiça e um apego excessivo aos confortos materiais.
       Acomodar-se emocionalmente é um risco que deve ser equilibrado com o aprendizado do desapego, aceitando as transformações da vida como algo natural e renovador.`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-      A primeira impressão do ascendente em Touro é vivenciada através do elemento Terra: segurança e continuidade na concretização de objetivos. Deve encarar a vida com calma, ponderação e segurança.  Estruturar, planejar, trabalhar de modo sistemático para alcançar suas metas.
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
+      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      A primeira impressão do ascendente em Touro é vivenciada através do elemento Terra: segurança e continuidade na concretização de objetivos.
+      Deve encarar a vida com calma, ponderação e segurança.  Estruturar, planejar, trabalhar de modo sistemático para alcançar suas metas.
       Há que avançar sem pressa, experimentar bem o terreno e medir cada passo. O avanço pode ser mais lento, porém é mais seguro: uma vez conquistado o terreno, raramente se dá um recuo.
       Pode contar com uma habilidade natural em lidar com os recursos materiais, tendo em vista estabilidade e a abundância material. A abordagem é prática, física e sensorial.
-      Pode haver uma sensualidade forte, simples e desinibida, com tendência à gula e, em geral, uma grande capacidade de apreciar os confortos e prazeres da vida. O perigo consiste em ficar preguiçoso, indolente e resistente às mudanças.
-      Ciúmes e possessividade também devem ser trabalhados, pois podem ser a fonte de muitos problemas. É preciso olhar para dentro de si mesmo, enfrentar, examinar e desenvolver maior domínio sobre as emoções ao se relacionar. Aprender quando segurar e quando soltar.
-      Limpar e eliminar o que tem guardado dentro de si, modificando assim velhos padrões de comportamento que não servem mais. O senso estético, que está quase sempre presente, pode ser também simples e um pouco rústico, com preferência ao que é natural, duradouro e confortável.
-      O tipo físico pode ser de constituição sólida, terrestre, pesada, uma aparência saudável, o pescoço grosso típico do taurino, com tendência a aumentar de peso. Ou pode apresentar uma aparência mais delicada, elegante e fina, enfatizando o lado estético e feminino de Vênus, regente do signo.
+      Pode haver uma sensualidade forte, simples e desinibida, com tendência à gula e, em geral, uma grande capacidade de apreciar os confortos e prazeres da vida.
+      O perigo consiste em ficar preguiçoso indolente e ou resistente às mudanças necessárias da vida.
+      Ciúmes e possessividade também devem ser trabalhados, pois podem ser a fonte de muitos problemas.
+      -stron É preciso olhar para dentro de si mesmo, enfrentar, examinar e desenvolver maior domínio sobre as emoções ao se relacionar. Aprender quando segurar e quando soltar.
+      Limpar e eliminar o que tem guardado dentro de si, modificando assim velhos padrões de comportamento que não servem mais./stron
+      O senso estético, que está quase sempre presente, pode ser também simples e um pouco rústico, com preferência ao que é natural, duradouro e confortável.
+      O tipo físico pode ser de constituição sólida, terrestre, pesada, uma aparência saudável, o pescoço grosso típico do taurino, com tendência a aumentar de peso.
+      Ou pode apresentar uma aparência mais delicada, elegante e fina, enfatizando o lado estético e feminino de Vênus, regente do signo.
       Com a maturidade, a necessidade de segurança material e financeira pode ser gradualmente substituída pela segurança emocional e pela estabilidade interior.
       Assim o ascendente em Touro descobre a sua faceta mais espiritualizada, capaz de vislumbrar beleza e transcendência nas formas mais concretas.`,
 
-      `Mercúrio no signo de Touro indica o nativo cujo raciocínio e decisões são determinantes para tudo que possui uma aplicação prática e material. Embora possam não ter brilho ou originalidade, no tocante ao bom senso prático são muito habilidosos.
-        Assim, possuem mentes perspicazes para negócios e uma tendência natural para a administração. São lentos para formar opiniões, mas, assim que o fazem, relutam em modificá-las. Igualmente, não gostam de discussões e desarmonia.
-        Lutam somente para proteger a sua segurança e seus interesses financeiros. A habilidade desses nativos para considerarem somente coisas de interesse prático proporciona grande poder de concentração, tanto que podem ignorar perturbações externas como se estas não existissem.
-        Pode haver obstinação intelectual, opiniões dogmáticas, materialismo e avareza. Eles não percebem as coisas com as quais não desejam ser incomodados. No seu extremo, essa atitude os torna cegos para assuntos importantes, que deveriam perceber para seu próprio bem.
-        Isso explica muito da sua teimosia. Esta posição de Mercúrio também pode oferecer habilidade para as artes, a matemática e a ciência, devido à sua boa percepção das formas e estruturas.`,
+      `Mercúrio no signo de Touro indica o nativo cujo raciocínio e decisões são determinantes para tudo que possui uma aplicação prática e material.
+      Embora possam não ter brilho ou originalidade, no tocante ao bom senso prático são muito habilidosos.
+      Assim, possuem mentes perspicazes para negócios e uma tendência natural para a administração. São lentos para formar opiniões, mas, assim que o fazem, relutam em modificá-las.
+      Igualmente, não gostam de discussões e desarmonia. Lutam somente para proteger a sua segurança e seus interesses financeiros.
+      A habilidade desses nativos para considerarem somente coisas de interesse prático proporciona grande poder de concentração, tanto que podem ignorar perturbações externas como se estas não existissem.
+      Pode haver obstinação intelectual, opiniões dogmáticas, materialismo e avareza. Eles não percebem as coisas com as quais não desejam ser incomodados.
+      No seu extremo, essa atitude os torna cegos para assuntos importantes, que deveriam perceber para seu próprio bem.
+      Isso explica muito da sua teimosia. Esta posição de Mercúrio também pode oferecer habilidade para as artes, a matemática e a ciência, devido à sua boa percepção das formas e estruturas.`,
 
       `Quem possui Vênus neste signo alia o prazer e o conforto ao amor e aos sentimentos. Procura um amor seguro, de longo prazo, que seja aliado a um plano de vida comum.
+      O nativo é naturalmente fiel. Além da amabilidade e da sensualidade, expressa seu amor proporcionando conforto e segurança. Necessita de demonstrações constantes de fidelidade.
+      Gosta de realização e satisfação sensorial: uma boa comida, um bom perfume, o conforto de casa. Um bom vinho, uma boa massagem, tratamentos estéticos, o namoro, as artes e a vida cultural.
+      Tudo o que envolve sensibilidade e prazer, tudo que estimule os sentidos merece investimento especial. Essa necessidade de segurança pode torná-lo excessivamente ciumento e possessivo.
+      Por essa razão, o nativo costuma controlar cada passo do ser amado. Geralmente é belo, atraente, gosta de se vestir bem, com conforto e luxo.
+      O amor é caloroso e sensual. Aprecia o luxo e pode gastar muito com seus cuidados pessoais, podendo até exceder no luxo para ostentar suas posses.`,
 
-        O nativo é naturalmente fiel. Além da amabilidade e da sensualidade, expressa seu amor proporcionando conforto e segurança. Necessita de demonstrações constantes de fidelidade.
-
-        Gosta de realização e satisfação sensorial: uma boa comida, um bom perfume, o conforto de casa. Um bom vinho, uma boa massagem, tratamentos estéticos, o namoro, as artes e a vida cultural.
-
-        Tudo o que envolve sensibilidade e prazer, tudo que estimule os sentidos merece investimento especial. Essa necessidade de segurança pode torná-lo excessivamente ciumento e possessivo.
-
-        Por essa razão, o nativo costuma controlar cada passo do ser amado. Geralmente é belo, atraente, gosta de se vestir bem, com conforto e luxo.
-
-        O amor é caloroso e sensual. Aprecia o luxo e pode gastar muito com seus cuidados pessoais, podendo até exceder no luxo para ostentar suas posses.`,
-
-      `Marte neste signo indica grande capacidade de trabalho e espírito de iniciativa relacionada com gestão de bens e geração de lucros. Indica também capacidade de decisão, firmeza de caráter e teimosia.
-
-        O nativo age com determinação em busca de conforto e prazeres físicos para obter satisfação imediata. Suas ações e gestos serão lentos, mas determinados. Pode se expressar de forma plástica mesmo em atividades artísticas.
-
-        Tem boa libido e boa expressão de sua sexualidade, que será mesclada com a sensualidade. Boa fertilidade. É preciso cuidado com a força bruta, com gastos impulsivos e excessivos em busca de prazer imediato.
-
-        Pode cometer ações de violência para defender seus bens e agir com excessos por questões de dinheiro. Com a teimosia excessiva e o ciúme.`,
+      `MMarte neste signo indica grande capacidade de trabalho e espírito de iniciativa relacionada com gestão de bens e geração de lucros.
+      Indica também capacidade de decisão, firmeza de caráter e teimosia. O nativo age com determinação em busca de conforto e prazeres físicos para obter satisfação imediata.
+      Suas ações e gestos serão lentos, mas determinados. Pode se expressar de forma plástica mesmo em atividades artísticas.
+      Tem boa libido e boa expressão de sua sexualidade, que será mesclada com a sensualidade. Boa fertilidade.
+      É preciso cuidado com a força bruta, com gastos impulsivos e excessivos em busca de prazer imediato.
+      Pode cometer ações de violência para defender seus bens e agir com excessos por questões de dinheiro. Com a teimosia excessiva e o ciúme.`,
 
       `Neste signo Júpiter produz lucros e ganhos em ocupações que, de algum modo, estão relacionadas com a igreja, a religião, a filosofia, o saber e as viagens.
+      Também a agricultura, os alimentos, os cavalos ou qualquer atividade relacionada com as terras. O nativo pode contar com uma grande intuição para os negócios e pode ser afortunado em questões monetárias.
+      Com frequência recebe legados ou doações. Mas quando se excede no amor pelo dinheiro, este pode ser a sua perdição. Gosta dos prazeres da boa mesa e do conforto.
+      Um dos seus passatempos preferidos é a cozinha. Tem tendência para a obesidade. É conservador, pouco dado a mudanças.
+      É paciente e firme nos seus propósitos, digno de confiança. Ama a justiça, tem bom relacionamento e disposição tranquila.`,
 
-        Também a agricultura, os alimentos, os cavalos ou qualquer atividade relacionada com as terras. O nativo pode contar com uma grande intuição para os negócios e pode ser afortunado em questões monetárias.
+      `Saturno no signo de Touro indica nativos que necessitam de disciplina e trabalho árduo se desejarem adquirir bens materiais.
+      Sentem forte necessidade de segurança financeira e emocional, não conseguem ficar em paz se os assuntos práticos não estiverem em ordem.
+      No seu melhor, serão as características como a paciência constante, a devoção inabalável aos princípios e a capacidade de administração de negócios.
+      Quando estão com cerca de 29 anos de idade, os nativos procuram posições estáveis na carreira, que lhes assegure segurança financeira e doméstica, exigidas para o seu bem estar.
+      Provavelmente são confiáveis e persistentes em sua profissão. Com frequência, seguem profissões relacionadas a transações bancárias, investimentos, seguros ou administração de empresas.
+      Como tendem a ser moderados, geralmente compram objetos de valor duradouro, considerando principalmente as suas qualidades práticas. Guardam dinheiro para emergências futuras e segurança na velhice.
+      Precisam desenvolver um senso de valor equilibrado dos recursos materiais. No seu pior, é possível haver obstinação e materialismo excessivo.
+      Em casos extremos, o resultado é a avareza ou — inversamente — uma sobrecarga de bens materiais, que não permite que as coisas fluam para que as novas coisas possam chegar quando necessário.`,
 
-        Com frequência recebe legados ou doações. Mas quando se excede no amor pelo dinheiro, este pode ser a sua perdição. Gosta dos prazeres da boa mesa e do conforto.
-
-        Um dos seus passatempos preferidos é a cozinha. Tem tendência para a obesidade. É conservador, pouco dado a mudanças.
-
-        É paciente e firme nos seus propósitos, digno de confiança. Ama a justiça, tem bom relacionamento e disposição tranquila.`,
-
-      `Saturno no signo de Touro indica nativos que necessitam de disciplina e trabalho árduo se desejarem adquirir bens materiais. Sentem forte necessidade de segurança financeira e emocional, não conseguem ficar em paz se os assuntos práticos não estiverem em ordem.
-
-        No seu melhor, serão as características como a paciência constante, a devoção inabalável aos princípios e a capacidade de administração de negócios.
-
-        Quando estão com cerca de 29 anos de idade, os nativos procuram posições estáveis na carreira, que lhes assegure segurança financeira e doméstica, exigidas para o seu bem‑estar.
-
-        Provavelmente são confiáveis e persistentes em sua profissão. Com frequência, seguem profissões relacionadas a transações bancárias, investimentos, seguros ou administração de empresas.
-
-        Como tendem a ser moderados, geralmente compram objetos de valor duradouro, considerando principalmente as suas qualidades práticas. Guardam dinheiro para emergências futuras e segurança na velhice.
-
-        Precisam desenvolver um senso de valor equilibrado dos recursos materiais. No seu pior, é possível haver obstinação e materialismo excessivo.
-
-        Em casos extremos, o resultado é a avareza ou — inversamente — uma sobrecarga de bens materiais, que não permite que as coisas fluam para que as novas coisas possam chegar quando necessário.
-        `,
-
-      `Urano no signo de Touro indica uma geração de nativos com novas ideias sobre o uso do dinheiro e dos recursos materiais. Essas pessoas provavelmente buscam reformas nos negócios e na economia, áreas nas quais desejam aplicar princípios humanitários.
-
-        O nativo deseja ser prático, de maneira única e original. Podem ter enorme determinação e firmeza de propósitos. Mas, no seu pior, pode haver teimosia obstinada.
-
-        Urano está em queda no signo de Touro. Portanto, o desejo de liberdade e a expressão de ideias intuitivas são limitados por uma ligação a objetos ou bens materiais. Ou por dificuldades impostas pela tentativa de modificar as condições materiais muito depressa.
-
-        A ligação ao lar e à família também pode refrear a expressão individual. Os impulsos espirituais também podem ser frustrados pela submissão a instituições conservadoras nos negócios e no governo, que refletem o materialismo da ordem social dominante.
-
-        Urano em Touro pode proporcionar talentos artísticos e musicais incomuns, se for bem cultivado. Os nativos com frequência se interessam por modernas técnicas eletrônicas em administração, contabilidade e outros negócios.
-        `,
+      `Urano no signo de Touro indica uma geração de nativos com novas ideias sobre o uso do dinheiro e dos recursos materiais.
+      Essas pessoas provavelmente buscam reformas nos negócios e na economia, áreas nas quais desejam aplicar princípios humanitários.
+      O nativo deseja ser prático, de maneira única e original. Podem ter enorme determinação e firmeza de propósitos. Mas, no seu pior, pode haver teimosia obstinada.
+      Urano está em queda no signo de Touro. Portanto, o desejo de liberdade e a expressão de ideias intuitivas são limitados por uma ligação a objetos ou bens materiais.
+      Ou por dificuldades impostas pela tentativa de modificar as condições materiais muito depressa. A ligação ao lar e à família também pode refrear a expressão individual.
+      Os impulsos espirituais também podem ser frustrados pela submissão a instituições conservadoras nos negócios e no governo, que refletem o materialismo da ordem social dominante.
+      Urano em Touro pode proporcionar talentos artísticos e musicais incomuns, se for bem cultivado.
+      Os nativos com frequência se interessam por modernas técnicas eletrônicas em administração, contabilidade e outros negócios.`,
 
       `Esta geração procurava aplicações práticas para os seus sonhos visionários. Mostra um período histórico de muito idealismo no que respeita ao uso do dinheiro e suas fontes.
-        ll
-        No mapa de uma pessoa indica interesse e capacidade para as artes em geral, gosto estético e um inato sentido comercial. É uma boa posição para a especulação e para os negócios.
+      No mapa de uma pessoa indica interesse e capacidade para as artes em geral, gosto estético e um inato sentido comercial. É uma boa posição para a especulação e para os negócios.
+      Mas os maus aspectos podem induzir a enganos ou fraudes, ou ao descuido no uso do dinheiro.`,
 
-        Mas os maus aspectos podem induzir a enganos ou fraudes, ou ao descuido no uso do dinheiro.`,
+      `Com Plutão em Touro, tudo o que está oculto por debaixo da terra tende a sair para o exterior.
+      Tanto o que gera riqueza (agricultura, petróleo, minas e escavações), como o que produz destruição (terramotos, erupções súbitas).
+      É um período de realizações práticas, de utilitarismo e cientificismo materialista. O esforço e a capacidade criativa são canalizados para o concreto, o plano do tangível.
+      Predomina a tendência para garantir o bem-estar e a segurança, para acumular poder pessoal. É a geração dos poderosos industriais e financeiros.
+      Marcou um período de grande expansão econômica, sobretudo na indústria, com a construção de grandes fábricas e a produção de maquinarias. Consolidou-se a reforma agrária e a exploração comercial em grande escala.`,
 
-      `text 11 Lorem ipsum`,
+      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+      -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+      -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+      -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+      É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
+      -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a cultivar o desapego, a atribuir valor ao mundo das emoções e ao invisível:/stron
+      Quem tem o Nodo Sul (Cauda do Dragão) em Touro traz identificação excessiva com o mundo material. É inflexível, acomodado, apegado às suas posses e à sua rotina. Tem dificuldade para promover mudanças. É lento, materialista, prático, com uma visão muito básica e limitada da vida.
+      Pode até ser cético, por causa de sua pouca abertura a tudo o que não é palpável e comprovado cientificamente. Preso aos seus prazeres e desejos, curte mais o corpo do que o espírito.
+      Depende de suas posses para sua segurança e felicidade. Procura por elevado status social e económicos. Pode ser ciumento, possessivo e pode até mesmo ter abusado fisicamente do outro em vidas passadas.
+      Mas com o Nodo Norte (Cabeça do Dragão) no signo de Escorpião, deve aprender a valorizar cada vez mais o sentir, as emoções e a intuição. Quanto mais de apegar às coisas, a vida pode trazer lições de desapego através de perdas.
+      O aprendizado é ouvir a sua voz interior, render-se a uma Ordem Superior. Deixar ir os apegos materiais e trabalhar mais a sensibilidade. Enxergar além da superfície, interagir com os outros num nível mais profundo.
+      Permitir-se sentir todas as emoções sem fugir delas.  Despir-se das tradições do passado, compartilhar seus bens, questionar o que já não faz sentido.
+      Para tanto, deve valorizar todos os estados de espírito como oportunidades de transformação. Deve reconhecer suas paixões, aprender administrar os assuntos financeiros sem apego.
+      Sair dos limites quadrados e práticos para aventurar-se no mundo do oculto, pesquisar sobre a vida após a morte e desenvolver a fé.`,
 
-      `text 12 Lorem ipsum`,
+      `As características ardentes da primavera também são encontradas aqui, mas o indivíduo tem um tipo de personalidade firme, autoconfiante e até mesmo obstinada, adorando, conscientemente ou não, lidar com o poder oculto, social ou coletivo, e tendo que ver resultados materiais definidos para poder ser feliz.
+      O desejo fundamental é trazer qualquer coisa, que tenha existido no passado, para um novo nível de evolução em resposta as necessidades da época. É tornar-se um agente de forças de evolução ou, poderíamos dizer, a “mãe” do amanhã.
+      Exemplos: Martinho Lutero, Goethe, Thomas Paine, Benjamin Franklin, Príncipe Bismarck, Leon Trotsky.`,
 
-      `text 13 Lorem ipsum`,
+      `Quíron neste signo indica tendência de se sentir inseguro e vulnerável, porque tem dificuldade de se atribuir o seu devido valor.
+      Os efeitos da repressão dos instintos físicos na infância só serão superados quando aprender a aceitar sua natureza sensual e a confiar na sabedoria instintiva do próprio corpo.
+      Pode sofrer ao reconhecer sua falta de criatividade, em algumas áreas, mas tem o dom de incentivar a concretização dos dotes criativos dos outros, sem sentir inveja.
+      Entende naturalmente a escala de valores e as coisas do mundo. Possui sensualidade natural. Pode ter sido ferido por supostamente não ter algo, como beleza ou outro atributo.
+      Precisa, por isso, aprender a curar a ferida em seu senso de autovalor. Pode ter problemas com o seu corpo e sua autoestima. E também com a alimentação.
+      Procura obter sua segurança através dos bens materiais. Mas, bem lá no fundo, você sabe que isso não o ajuda, pois por mais que você se agarre aos bens e às pessoas, não consegue a sensação perdida de solidez.
+      Você pode perceber seu próprio corpo como inconsistente, defeituoso ou ferido, pode ter alguma lesão real ou ter sofrido algum trauma físico.
+      Você pode temer seu próprio corpo e controlá-lo rigidamente, pois através dele percebe poderosos instintos sexuais e territoriais inaceitáveis. Provavelmente você possui muito magnetismo sexual.
+      É preciso ter a capacidade de estabelecer uma relação saudável com sua natureza fortemente sensual e instintiva, do contrário poderá ser dominado por esses sentimentos ou terá que gastar muita energia tentando reprimi-los e seu corpo pode desenvolver sintomas dessa repressão.
+      Você conseguirá superar estes problemas quando aceitar e confiar na sabedoria instintiva de seu corpo. Deve aprender a ouvi-lo, comendo o que o corpo pede, dormindo quando tem necessidade, fazendo massagem e praticando exercícios agradáveis, sem submeter-se a esquemas rígidos, bem como tendo o prazer de se produzir visualmente.
+      Você pode se recusar a ficar preso às próprias posses, relutar em possuir bens. Neste caso, provavelmente você adotou uma posição de revolta contra valores impostos durante sua infância.
+      Seus pais podem ter dado mais importância aos bens materiais que aos seus sentimentos. Verifique se agora você não boicota seus próprios esforços quando tenta construir alguma segurança material.
+      Você pode ter que administrar grandes riquezas e se sente incapaz de aceitar essa responsabilidade. Por outro lado, você pode ter um verdadeiro desejo de partilhar seus bens com outros.
+      Do lado negativo, você pode controlar obsessivamente suas necessidades instintivas e os impulsos sexuais, ou pode tornar-se um controlador dos outros. Pode indicar pobreza material, que fere e humilha, e isso faz com que você dê importância exagerada aos bens materiais.
+      Do lado positivo, pode tornar-se um excelente administrador dos recursos alheios, pode ganhar fortuna, pode ser dotado de um fantástico senso financeiro aliado talvez, a certa dificuldade em administrar suas próprias finanças.
+      Você pode ser incapaz de interpretar as coisas simbolicamente e tomar tudo ao pé-da-letra. Pode achar difícil ter que tomar uma decisão ou fazer opções.
+      Se é este o seu caso, se você se sente bloqueado por um problema a resolver, deixe-o de lado um pouco, dê tempo para seu cérebro resolver calmamente, então, vá fazer um trabalho de rotina como regar o jardim.
+      É difícil para você aceitar a tabela de valores que seus pais ou a sociedade lhe ensinaram, e você precisa se esforçar para descobrir o que realmente é importante para você mesmo.
+      Você pode se ver obrigado a aceitar privações financeiras para defender seus próprios valores, e se isso é assustador, também é certo que lhe dará a sensação de força interior.
+      Você pode achar que não é criativo e até invejar as pessoas que o são, mas você subestima sua criatividade. Talvez você não consiga expressar essa criatividade por si mesmo, mas ao participar de um processo criativo de outras pessoas, a sua criatividade irá fluir.
+      Tenha sempre em mente que você tem um grande potencial de ajudar pessoas criativas, orientando-as e incentivando-as em seu trabalho.
+      Procure desenvolver atividades profissionais que levam conforto físico ou emocional às pessoas, como construir ou projetar moradias, parques ou jardins, casas de repouso ou locais de descanso e lazer junto à natureza, ou trabalhar em atividades com objetivo de proteger as pessoas e melhorar a autoestima, dando à elas um valor não só pessoal como social. Você pode ser um bom professor, instrutor, zelador, construtor e atividades afins.`,
 
-      `text 14 Lorem ipsum`,
+      `O parceiro ideal é aquele que tenha interesse na estabilidade financeira, agricultura ou plantações, seja estável e confiável, que aprecie o conforto.
+      Podem ser pessoas financeiramente estáveis, que visam a construção de um patrimônio. Casamento entre pessoas leais e carinhosas, adiposas e bem humoradas.
+      Mas também podem ser pessoas que visam apenas interesses financeiros, avarentas, apegadas.
+      Com Juno neste signo, uma vez que o nativo se associa ou se une a alguém, não o faz pela metade ou por brincadeira. Pode encarar suas parcerias e seu casamento como algo que traz a oportunidade de construir algo.
+      Mas também indica tendência a ser muito possessivo. As tendências possessivas vão ser mais fortes caso não exista nada de concreto que a pessoa, que tem Juno aí, possa construir com seu parceiro.
+      Juno indica melhora de situação social e financeira que advém de uma união. São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras.`,
 
-      `text 15 Lorem ipsum`
+      `Em suas vidas passadas, não importa qual fosse a sua profissão, o nativo só pensava no dinheiro. Tinha o espírito lento, calculador, obcecado por uma ideia fixa: o lucro!
+      O seu medo de passar necessidade, absolutamente patológico, está sujeito a se manifestar de novo nesta vida. Temia mudar de ideia ou de opinião.
+      Muito materialista, só contavam, a seus olhos, o dinheiro, os bens possuídos, a boa mesa e o sexo. Qualquer motivação desinteressada lhe era completamente estranha.
+      No entanto, o nativo por vezes apresentava extraordinários dons artísticos, bom gosto e o sentido da qualidade de vida.
+      Agora, para quitar essa dívida cármica, deve abrir seu espírito, buscar ensinamentos edificantes e cultivar valores mais elevados.`,
+
+      `Esta situação planetária evoca uma ligação amorosa que não pudera desabrochar numa vida passada.
+      O nativo pode reencontrar atualmente esse amor. Amar alguém que já conhece há várias vidas lhe dará um extraordinário sentimento de segurança.
+      Entretanto, o nativo deve evitar ser obsessivamente possessivo, o que o impedira outrora de ser feliz. Deve aprender a não exigir dos seres mais do que podem dar.`,
+
+      `O nativo nem sempre consegue exteriorizar sua agressividade à primeira vista. Morde o freio, cultiva cóleras reprimidas e se vinga ao longo prazo.
+      Homem de tradição e de hábitos, busca a segurança e tem medo de atividades novas.
+      Nesta vida deve liberar sua energia reprimida, aplicando-a em muito movimento, aos esportes na natureza e às artes em geral.`,
+
+      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+      O nativo muito rico em vidas passadas. Disso ainda lhe fica, inconscientemente, uma grande vaidade. Esse estado de coisas se reproduz nesta vida.
+      Vem daí uma permanente autossuficiência, que o impede de se abrir às ideias dos outros. Repete com frequência: "Façam como eu."
+      Seus recursos atuais podem vir de atividades artísticas ou artesanais, muitas vezes antigas e tradicionais.
+      A sua lição cármica desta posição jupiteriana é a de cultivar a simplicidade, o desapego e a honestidade.`,
+
+      `Em vidas passadas o nativo se tornou muito apegado aos lugares e às pessoas que conheceu. Adquiriu hábitos reincidentes, só se sente em segurança dentro do que já é ou já é conhecido.
+      Na verdade, esse comportamento o impele a complicar a vida, talvez até trabalhar mais do que é necessário. O nativo pode até se enervar achando que os outros têm a vida mais fácil.
+      Agora é preciso coragem para enfrentar as mudanças, cultivar desapego e sair de sua zona de conforto.
+      Acabará por compreender que pode avançar, sem se encarregar de tantos compromissos e pesadas obrigações.
+      Nesta vida pode também promover uma revisão de sua filosofia e de seus valores. Tudo pode fluir melhor se consentir em desligar-se interiormente de tudo o que possui.
+      Até o dia em que aprende a encontrar a segurança dentro de si mesmo, em seu coração e em valores espirituais mais elevados.`,
+
+      `Defende bravamente o seu ganho, mas quando o conquista, serra o galho no qual está sentado. A sua segurança é precária, mas estará mesmo preocupado em garanti-la?
+      O nativo é contraditório: ama ao mesmo tempo a permanência e a novidade. Fica apegado a certas tradições, ao mesmo tempo em que se demonstra extremamente vanguardista.
+      Pode-se dizer que tem bastante dificuldade em se coordenar e ao mesmo tempo gosta do conforto e da aventura.
+      Do ponto de vista cármico, vive um período de transição no qual tenta se libertar de um comportamento materialista que o aprisionou mentalmente durante várias vidas passadas.
+      Seria preciso inventar para o nativo uma fórmula especial de casamento, que possa conciliar a liberdade total e a segurança afetiva. Precisa sobre tudo de um trabalho onde seja seu próprio patrão.`,
+
+      `Os nativos contavam com intuição financeira para ganhar dinheiro. Devem ter tirado disso uma fortuna (signo de Touro).
+      Amargas desilusões foram à consequência disso. Os enganos e as perdas financeiras são provas cármicas. Ninguém, atualmente, nasce com Netuno em Touro.
+      Mas esta posição, quando o planeta está retrógrado, indica uma série de decepções financeiras. O objetivo é esclarecer o nativo sobre a verdadeira significação do dinheiro.`,
+
+      `O Touro Plutoniano é o Minotauro: sempre tentado a transbordar seus demónios interiores.
+      É dotado de uma grande potência sexual. A sede de viver que faz dele uma espécie de camicase obstinado: é um extremista.
+      É o caso de Picasso - aliás, o Touro mitológico, meio homem, meio animal, retoma frequentemente nos seus desenhos!
+      Sob esta configuração encontramos ainda Henri de Monfreid, ilustre exemplo de aventureiro que, na ânsia de ir mais longe, corta todas as possibilidades de retomo.
+      Bemanos, o homem que escandaliza ao denunciar injustiças gritantes - o que é muito Plutoniano. Enfim, Winston Churchill, que simbolizou para todo um povo a resistência obstinada do touro: “Nós não cederemos jamais”!`,
+
+      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
+      Tem uma certa tendência a se sentir insegura e vulnerável, porque tem dificuldade de se atribuir o seu devido valor. Os efeitos da repressão dos instintos físicos na infância só serão superados quando aprender a aceitar sua natureza sensual e a confiar na sabedoria instintiva do próprio corpo.
+      Pode sofrer ao reconhecer sua falta de criatividade, em algumas áreas, mas tem o dom de incentivar a concretização dos dotes criativos dos outros, sem sentir inveja.
+      Entende naturalmente a escala de valores e as coisas do mundo. Possui sensualidade natural. Pode ter sido ferido por supostamente não ter algo, como beleza ou outro atributo.
+      Precisa, por isso, aprender a curar a ferida em seu senso de autovalor. Pode ter problemas com o seu corpo e sua autoestima. E também com a alimentação.
+      Você tem autoestima baixa e é incapaz de atribuir-se o seu devido valor, por isso se sente inseguro e frágil, e tenta obter sua segurança através dos bens materiais.
+      Mas, bem lá no fundo você sabe que isso não o ajuda, pois por mais que você se agarre aos bens e às pessoas, não consegue a sensação perdida de solidez.
+      Você pode perceber seu próprio corpo como inconsistente, defeituoso ou ferido, você pode ter alguma lesão real ou ter sofrido algum trauma físico.
+      Você pode temer seu próprio corpo e controlá-lo rigidamente, pois através dele percebe poderosos instintos sexuais e territoriais inaceitáveis. Provavelmente você possui muito magnetismo sexual.
+      É preciso ter a capacidade de estabelecer uma relação saudável com sua própria natureza fortemente sensual e instintiva, do contrário poderá ser dominado por esses sentimentos ou terá que gastar muita energia tentando reprimi-los, e seu corpo vai desenvolver sintomas dessa repressão.
+      Você conseguirá superar estes problemas quando aceitar e confiar na sabedoria instintiva de seu corpo.
+      Deve aprender a ouvi-lo, comendo o que o corpo pede, dormindo quando tem necessidade, fazendo massagem e praticando exercícios agradáveis, sem submeter-se a esquemas rígidos, bem como tendo o prazer de se produzir visualmente.
+      Você pode se recusar a ficar preso às próprias posses, relutar em possuir bens. Neste caso, provavelmente você adotou uma posição de revolta contra valores impostos durante sua infância.
+      Seus pais podem ter dado mais importância aos bens materiais que aos seus sentimentos. Verifique se agora você não boicota seus próprios esforços quando tenta construir alguma segurança material.
+      Você pode ter que administrar grandes riquezas e se sente incapaz de aceitar essa responsabilidade. Por outro lado, você pode ter um verdadeiro desejo de partilhar seus bens com outros.
+      Do lado negativo, você pode controlar obsessivamente suas necessidades instintivas e os impulsos sexuais, ou pode tornar-se um controlador dos outros.
+      Pode indicar pobreza material, que fere e humilha, e isso faz com que você dê importância exagerada aos bens materiais.
+      Do lado positivo, pode tornar-se um excelente administrador dos recursos alheios, pode ganhar fortuna, pode ser dotado de um fantástico senso financeiro aliado talvez, a certa dificuldade em administrar suas próprias finanças.
+      Você pode ser incapaz de interpretar as coisas simbolicamente e tomar tudo ao pé-da-letra. Você pode achar difícil ter que tomar uma decisão ou fazer opções.
+      Se é este o seu caso, se você se sente bloqueado por um problema a resolver, deixe-o de lado um pouco, dê tempo para seu cérebro resolver calmamente, então, vá fazer um trabalho de rotina como regar o jardim.
+      É difícil para você aceitar a tabela de valores que seus pais ou a sociedade lhe ensinaram, e você precisa se esforçar para descobrir o que realmente é importante para você mesmo.
+      Você pode se ver obrigado a aceitar privações financeiras para defender seus próprios valores, e se isso é assustador, também é certo que lhe dará a sensação de força interior.
+      Você pode achar que não é criativo e até invejar as pessoas que o são, mas você subestima sua criatividade. Talvez você não consiga expressar essa criatividade por si mesmo, mas ao participar de um processo criativo de outras pessoas, a sua criatividade irá fluir.
+      Tenha sempre em mente que você tem um grande potencial de ajudar pessoas criativas, orientando-as e incentivando-as em seu trabalho.
+      Procure desenvolver atividades profissionais que levam conforto físico ou emocional às pessoas, como construir ou projetar moradias, parques ou jardins, casas de repouso ou locais de descanso e lazer junto à natureza, ou trabalhar em atividades com objetivo de proteger as pessoas e melhorar a autoestima, dando à elas um valor não só pessoal como social.
+      Você pode ser um bom professor, instrutor, zelador, construtor e outras atividades afins.`,
+
+      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
+      É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém. Juno nesse setor ou signo, uma vez que se associa ou se une a alguém não o faz pela metade ou por brincadeira.
+      Ela encarará suas parcerias e seu casamento como algo que lhe dará oportunidade de construir algo, mas remos alguém com tendências a ser muito possessiva (mapa feminino), como esposa (se estiver num mapa masculino).
+      As tendências possessivas vão ser mais fortes caso não exista nada de concreto que a pessoa, que tem Juno aí, possa construir com seu parceiro.
+      Melhora de situação social e financeira que advém de uma união. Uma parte do orçamento desta pessoa estará consagrada ao cuidado com sua estética, com festas presentes, etc...
+      São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras. Este é o tipo de esposa de um homem com Juno em Touro ou na segunda casa.`,
     ],
     levels: [
-        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está):`,
 
-        `1º nível de evolução:`,
+        `-stron 1º nível de evolução: /stron`,
 
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual.`,
+        `Amar a obscuridade da Matéria significa levar o Espírito ao seu lado Oposto. -break
+        O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual.`,
 
-         ` 2º nível de evolução:`,
+        `-stron 2º nível de evolução: /stron`,
 
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço.`,
+        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. -break
+        Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço.`,
 
-         ` 3º nível de evolução: `,
+        `-stron 3º nível de evolução: /stron`,
 
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete.`
+        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. -break
+        Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete.`
     ],
     nodosLunares: [
       `Nodos lunares\' extra text`
@@ -415,132 +626,282 @@ const data = {
   {
     title: `gemeos`,
     text: [
-     `Quando o Sol ingressa no signo de Gêmeos, a natureza começa a mudar, a entrar em mutação. No hemisfério norte, a primavera dá passagem para o verão, que chega em Câncer. No hemisfério sul, o outono vai recebendo o inverno. Por isso Gêmeos é um signo mutável.
-      Gêmeos é o primeiro signo do elemento Ar. É regido pelo planeta Mercúrio, o deus mensageiro com asinhas nos pés, do comércio, das estradas e do movimento. Gêmeos representa a comunicação, a capacidade de transitar no universo dos relacionamentos e da linguagem.
-      Sua natureza é mais do que dual, é plural. Para o geminiano, viver é experimentar o dia e a noite, a luz e a sombra, a alegria e a dor. O Sol em Gêmeos inspira uma grande atividade mental e uma percepção intelectual muito viva.
+      `Quando o Sol ingressa no signo de Gêmeos, a natureza começa a mudar e a entrar em mutação.
+      No hemisfério norte, a primavera dá passagem para o verão, que chega em Câncer. No hemisfério sul, o outono vai recebendo o inverno. Por isso Gêmeos é um signo mutável.
+      Gêmeos é o primeiro signo do elemento Ar. É regido pelo planeta Mercúrio, o deus mensageiro com asinhas nos pés, do comércio, das estradas e do movimento.
+      Gêmeos representa a comunicação, a capacidade de transitar no universo dos relacionamentos e da linguagem. Sua natureza é mais do que dual, é plural.
+      Para o geminiano, viver é experimentar o dia e a noite, a luz e a sombra, a alegria e a dor. O Sol em Gêmeos inspira uma grande atividade mental e uma percepção intelectual muito viva.
       O geminiano é malandro, versátil, bem humorado, brinca com as palavras e faz graça de tudo. É curioso e tem a mente aberta, adora uma novidade. Gosta do contato com as pessoas ou com o público.
       Circula em todas as rodas. Gosta de conversar e muitas das vezes, acaba falando pelos cotovelos. O geminiano veio aprender a interagir, trocar, dialogar e negociar. A cultivar flexibilidade e malícia.
-      A buscar respostas para os questionamentos da vida, a usar a comunicação como matéria-prima para saciar a sede de conhecimento. Na saúde, as partes vulneráveis são: mãos, membros superiores, ombros, pulmões, brônquios e nervos, que tem o mau hábito de maltratar.
+      Em busca de respostas para os questionamentos da vida e a usar a comunicação como matéria-prima para saciar a sede de conhecimento.
+      Na saúde, as partes vulneráveis são: mãos, membros superiores, ombros, pulmões, brônquios e nervos, que tem o mau hábito de maltratar.
       Com a idade, pode desenvolver reumatismos nos membros superiores, alergias e enxaquecas, que são o resultado de uma crise do fígado ou de uma assimilação difícil dos alimentos.
-      Com um regime de vida adequado, estes males desaparecem como por milagre. Deve praticar esportes com muito movimento, que correspondem melhor à sua natureza. Praticar também exercícios respiratórios ao ar livre, o mais longe possível da poluição.
-      O geminiano é jovial e facilmente se adapta ao ambiente imediato. Por isso, também são muito influenciáveis. O perigo é se tornar dispersivo demais, volúvel e hesitante demais, viver dividido, sem foco e sem objetivos.
-      É preciso cuidado para evitar mentiras, falsidades, fraudes, plágios e enganações em geral. Sagitário é o signo oposto e lá está a solução: a flecha apontada para o alto, que mostra o caminho, a direção, a necessidade de cultivar ética e fixar os pensamentos para um alvo com metas mais elevadas.`,
+      Com um regime de vida adequado, estes males desaparecem como por milagre.
+      Deve praticar esportes com muito movimento, que correspondem melhor à sua natureza. Praticar também exercícios respiratórios ao ar livre, o mais longe possível da poluição.
+      O geminiano é jovial e facilmente se adapta ao ambiente imediato. Por isso, também são pessoas  muito influenciáveis.
+      O perigo é se tornar dispersivo demais, volúvel e hesitante demais, viver dividido, sem foco e sem objetivos. É preciso cuidado para evitar mentiras, falsidades, fraudes, plágios e enganações em geral.
+      Sagitário é o signo oposto e lá está a solução: a flecha apontada para o alto, que mostra o caminho, a direção, a necessidade de cultivar ética e fixar os pensamentos para um alvo com metas mais elevadas.`,
 
-     `A Lua representa a forma como vivemos as nossas emoções. É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional.
-      O que é que precisamos para nos sentirmos seguros? A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
+      `A Lua representa a forma como vivemos as nossas emoções.
+      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
+      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
       Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
       As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
       A Lua no signo de Gémeos indica uma natureza emocional hesitante, embora também estejam presentes a vivacidade, a flexibilidade e a engenhosidade. É uma oscilação emocional resultante da curiosidade.
-      A comunicação tem lugar nobre na classificação das importâncias emocionais. A pessoa com a Lua em Gémeos tende a falar incessantemente, algumas vezes a ponto de incomodar os outros. Com frequência é nervosa e agitada. É o tipo de pessoa que nunca sai do telefone.
-      As emoções ficam sujeitas à análise racional e algumas vezes não sabe o que realmente sente. Há muita inquietação, com frequentes mudanças de residência e muitas viagens curtas. Circular em ambientes variados, conhecer novas pessoas, experimentar emoções inexploradas... Tudo isso é importante para sua vida sentimental.
-      Apreende com facilidade as informações, percebe com rapidez o que as outras pensam e quais suas necessidades afetivas. Com esta posição há tendência a querer abarcar o mundo com as pernas, a excitar-se momentaneamente com muitas ideias, sem segui-las até ao fim.
-      Pode haver indecisão, superficialidade e confusão, mas conta com capacidade de planejar soluções para problemas práticos e domésticos. É importante estabelecer objetivos para não dispersar sentimentos, nem se tornar uma pessoa ambígua ou superficial.`,
+      A comunicação tem lugar nobre na classificação das importâncias emocionais. A pessoa com a Lua em Gémeos tende a falar incessantemente, algumas vezes a ponto de incomodar os outros.
+      Com frequência é nervosa e agitada. É o tipo de pessoa que nunca sai do telefone.
+      As emoções ficam sujeitas à análise racional e algumas vezes não sabe o que realmente sente. Há muita inquietação, com frequentes mudanças de residência e muitas viagens curtas.
+      Circular em ambientes variados, conhecer novas pessoas, experimentar emoções inexploradas... Tudo isso é importante para sua vida sentimental.
+      Apreende com facilidade as informações, percebe com rapidez o que as outras pensam e quais suas necessidades afetivas.
+      Com esta posição há tendência a querer abarcar o mundo com as pernas, a excitar-se momentaneamente com muitas ideias, sem segui-las até ao fim.
+      Pode haver indecisão, superficialidade e confusão, mas conta com capacidade de planejar soluções para problemas práticos e domésticos.
+      É importante estabelecer objetivos para não dispersar sentimentos, nem se tornar uma pessoa ambígua ou superficial.`,
 
-     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
+      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       A primeira abordagem da vida pelo ascendente em Gêmeos é feita através do elemento Ar: aprendizagem, comunicação e experimentação no plano mental. Vive de forma ligeira, curiosa e um tanto dispersa.
-      Há forte necessidade de compreender as coisas mentalmente e de apreender todas as faces da realidade com versatilidade e adaptabilidade. A diversidade da vida diária, com todos os seus pequenos e variados acontecimentos, é um elemento-chave para a expressão imediata da individualidade.
-      A comunicação é também uma importante via de expressão pessoal e de impacto junto ao meio ambiente. Há tendência natural para se identificar com as ideias ("sou aquilo que penso"), embora estas possam estar continuamente em mudança.
-      O perigo é se perder numa teia de superficialidade, inconstância e inconsequências.
-      Quando aprende a seguir um rumo de pensamento, entre a multiplicidade dos seus apelos mentais, o ascendente Gêmeos começa a manifestar o que de mais elevado existe no signo: a capacidade de relativizar e de compreender, no plano mental, todas as faces de um assunto ou situação.
+      -stron Há forte necessidade de compreender as coisas mentalmente e de apreender todas as faces da realidade com versatilidade e adaptabilidade./stron
+      A diversidade da vida diária, com todos os seus pequenos e variados acontecimentos, é um elemento-chave para a expressão imediata da individualidade.
+      A comunicação é também uma importante via de expressão pessoal e de impacto junto ao meio ambiente.
+      Há tendência natural para se identificar com as ideias ("sou aquilo que penso"), embora estas possam estar continuamente em mudança.
+      -stron O perigo é se perder numa teia de superficialidade, inconstância e inconsequências./stron
+      Quando aprende a seguir um rumo de pensamento, entre a multiplicidade dos seus apelos mentais, o ascendente em Gêmeos começa a manifestar o que de mais elevado existe no signo.
+      Ou seja, a capacidade de relativizar e de compreender, no plano mental, todas as faces de um assunto ou situação.
       Fisicamente apresenta aspecto ágil, flexível, mãos finas e habilidosas. Aliás, as mãos e braços podem estar em evidência, tanto pelo gesticular contínuo como pela sua elegância e delicadeza.
       A aparência tende a ser um tanto andrógina, pode manter o aspecto juvenil até muito tarde. O rosto pode ser vivo, móvel, expressivo e marcado por um ar de eterna adolescência.`,
 
-      `Mercúrio neste signo está em sua regência. Portanto, o raciocínio puro, lógico, pode ser levado à sua expressão mais elevada. O Mercúrio geminiano é versátil, sem preconceitos e impessoal na sua habilidade para perceber a verdade.
-        Está mais preocupado com fatos do que com atitudes e preferências pessoais. Os nativos com Mercúrio em Gêmeos podem ser capazes de um profundo pensamento científico.
-        Geralmente são bem educados, conhecedores de muitos assuntos e capazes de se comunicar com facilidade, rapidez e precisão, na fala e na escrita.
-        Geralmente possuem um excelente vocabulário, que é um dos segredos de sua eloquência e sua clareza de expressão. Possuem um sistema nervoso muito sensível a estímulos externos.
-        Todas as conversas e atividades no seu ambiente são registradas com intensidade e vivacidade em sua consciência, forçando‑as a lidar com muitos pensamentos e impressões ao mesmo tempo.
-        Essa é a base da sua mente ágil, que possui a capacidade de registrar duas impressões ou ter dois pensamentos quase que simultaneamente.
-        Contudo, se forem submetidos a ambientes movimentados e complexos durante muito tempo, seus nervos ficarão em frangalhos, podendo ocorrer fadiga, confusão e irritação.
-        Portanto, precisam de períodos de isolamento para se acalmar, meditar, relaxar e concentrar sua mente. Os nativos possuem intensa curiosidade, querem saber tudo a respeito de tudo. Mas correm o risco de querer aprender muitas coisas e dividir a sua atenção com muita frequência.
-        Podem não dar continuidade ao propósito de completar os projetos que assumem. Quando esta tendência é levada a extremos, cria o típico “homem dos sete instrumentos” (mas que não domina nenhum a fundo).
-        É possível considerar qualquer situação a partir de muitos pontos de vista. Por isso podem ter dificuldade para tomar decisões e mudam de ideia com muita frequência, confundindo os outros. Pode haver conversa incessante sobre assuntos triviais, o que é um aborrecimento para os outros.
-        É preciso estudar a desenvolver a educação para que possam utilizar melhor sua capacidade intelectual. As mentes inventivas dos nativos são competentes para descobrir novas e surpreendentes soluções para problemas e situações de emergência.
-        Esta posição é comum entre os profissionais; cientistas, matemáticos, peritos em computadores, secretárias, escritores, repórteres, jornalistas, publicitários, professores e oradores.`,
+      `Mercúrio neste signo está em sua regência. Portanto, o raciocínio puro, lógico, pode ser levado à sua expressão mais elevada.
+      O Mercúrio geminiano é versátil, sem preconceitos e impessoal na sua habilidade para perceber a verdade. Está mais preocupado com fatos do que com atitudes e preferências pessoais.
+      Os nativos com Mercúrio em Gêmeos podem ser capazes de um profundo pensamento científico.
+      Geralmente são bem educados, conhecedores de muitos assuntos e capazes de se comunicar com facilidade, rapidez e precisão, na fala e na escrita.
+      Geralmente possuem um excelente vocabulário, que é um dos segredos de sua eloquência e sua clareza de expressão. Possuem um sistema nervoso muito sensível a estímulos externos.
+      Todas as conversas e atividades no seu ambiente são registradas com intensidade e vivacidade em sua consciência, forçando as a lidar com muitos pensamentos e impressões ao mesmo tempo.
+      Essa é a base da sua mente ágil, que possui a capacidade de registrar duas impressões ou ter dois pensamentos quase que simultaneamente.
+      Contudo, se forem submetidos a ambientes movimentados e complexos durante muito tempo, seus nervos ficarão em frangalhos, podendo ocorrer fadiga, confusão e irritação.
+      Portanto, precisam de períodos de isolamento para se acalmar, meditar, relaxar e concentrar sua mente. Os nativos possuem intensa curiosidade, querem saber tudo a respeito de tudo.
+      Mas correm o risco de querer aprender muitas coisas e dividir a sua atenção com muita frequência. Podem não dar continuidade ao propósito de completar os projetos que assumem.
+      Quando esta tendência é levada a extremo, cria o típico “homem dos sete instrumentos” (mas que não domina nenhum a fundo).
+      É possível considerar qualquer situação a partir de muitos pontos de vista. Por isso podem ter dificuldade para tomar decisões e mudam de ideia com muita frequência, confundindo os outros.
+      Pode haver conversa incessante sobre assuntos triviais, o que é um aborrecimento para os outros. É preciso estudar e desenvolver a educação para que possam utilizar melhor a capacidade intelectual.
+      As mentes inventivas dos nativos são competentes para descobrir novas e surpreendentes soluções para problemas e situações de emergência.
+      Esta posição é comum entre os profissionais; cientistas, matemáticos, peritos em computadores, secretárias, escritores, repórteres, jornalistas, publicitários, professores e oradores.`,
 
-      `O nativo com Vênus em Gêmeos precisa de estimulo intelectual num relacionamento. Expressa seu amor de forma raciocinada, gosta de explicar constantemente aquilo que sente. Adora conversar com seu parceiro, manifestando curiosidade sobre emoções e sentimentos alheios.
-
-        O amor geminiano é racional, mas não por isso é menos intenso. Caso sinta necessidade de expressar aquilo que sente, o faz com muita sinceridade, diretamente e sem rodeios e quer a mesma sinceridade de seu parceiro.
-
-        Sua mente é refinada e artística. Por isso, perde o estimulo se o parceiro for do tipo caseiro, possessivo, ou (pior ainda) grosseiro.
-
-        No amor não pode haver rotina. O relacionamento deve ser leve e divertido, recheado de passeios, teatro, cinema, viagens e mudanças na rotina. Isso pode manter acesa a chama da paixão. Caso contrário, ocorre o risco de perder o interesse pelo outro sem justificativas razoáveis.
-
-        De qualquer forma, os envolvimentos fluem sem muitas complicações, pois é mais lógico, inteligente e, portanto, um bom negociador nas questões amorosas. É também um bom mediador, sabe evitar conflitos e possui mais jogo de cintura para lidar com impasses.
-
-        Por outro lado, corre o risco de escapar de forma escorregadia em situações que precisam de enfrentamento. Se conseguir compreender que algumas situações devem ser encaradas, seu poder de negociação pode ajudá-lo a conseguir um bom desenlace.`,
+      `O nativo com Vênus em Gêmeos precisa de estimulo intelectual num relacionamento. Expressa seu amor de forma raciocinada, gosta de explicar constantemente aquilo que sente.
+      Adora conversar com seu parceiro, manifestando curiosidade sobre emoções e sentimentos alheios. O amor geminiano é racional, mas não por isso é menos intenso.
+      Caso sinta necessidade de expressar aquilo que sente, o faz com muita sinceridade, diretamente e sem rodeios e quer a mesma sinceridade de seu parceiro.
+      Sua mente é refinada e artística. Por isso, perde o estimulo se o parceiro for do tipo caseiro, possessivo, ou (pior ainda) grosseiro.
+      No amor não pode haver rotina. O relacionamento deve ser leve e divertido, recheado de passeios, teatro, cinema, viagens e mudanças na rotina.
+      Isso pode manter acesa a chama da paixão. Caso contrário, ocorre o risco de perder o interesse pelo outro sem justificativas razoáveis.
+      De qualquer forma, os envolvimentos fluem sem muitas complicações, pois é mais lógico, inteligente e, portanto, um bom negociador nas questões amorosas.
+      É também um bom mediador, sabe evitar conflitos e possui mais jogo de cintura para lidar com impasses. Por outro lado, corre o risco de escapar de forma escorregadia em situações que precisam de enfrentamento.
+      Se conseguir compreender que algumas situações devem ser encaradas, seu poder de negociação pode ajudá-lo a conseguir um bom desenlace.`,
 
       `Essa posição de Marte indica uma pessoa cheia de recursos e expedientes, um espírito sempre pronto para a discussão. Possui ímpeto oratório e resposta sempre pronta.
+      A boa atividade mental lhe confere capacidade para encontrar soluções engenhosas face às dificuldades eventuais.
+      Canaliza as energias na forma intelectual, estando sempre disposto a aprender e a melhorar seus conhecimentos.
+      Pode expressar-se na dança e em outras atividades onde o movimento se une à ação. Adora viajar. Tem espírito gozador e brincalhão.
+      Poderá expressar sua sexualidade de forma instável, sem muito ímpeto, necessitando de estimulo variado e constante. Baixa fertilidade.
+      É preciso atenção para não dissipar energia em ações inúteis e sem sentido. O espírito crítico pode levar a discussões ou brigas. É preciso cuidado também com irritações nas vias respiratórias.`,
 
-        A boa atividade mental lhe confere capacidade para encontrar soluções engenhosas face às dificuldades eventuais. Canaliza as energias na forma intelectual, estando sempre disposto a aprender e a melhorar seus conhecimentos.
-
-        Pode expressar-se na dança e em outras atividades onde o movimento se une à ação. Adora viajar. Tem espírito gozador e brincalhão. Poderá expressar sua sexualidade de forma instável, sem muito ímpeto, necessitando de estimulo variado e constante. Baixa fertilidade.
-
-        É preciso atenção para não dissipar energia em ações inúteis e sem sentido. O espírito crítico pode levar a discussões ou brigas. É preciso cuidado também com irritações nas vias respiratórias.`,
-
-      `nativo pode contar com capacidade para os estudos filosóficos e para as atividades educacionais. Muitos escritores têm esta posição de Júpiter.
-
-        É provável que os ganhos provenham de atividades relacionadas com o ensino, as editoras e as agências de turismo.
-
-        É inquieto, possui uma permanente atividade nervosa, um apetite insaciável pelas ideias inovadoras, sendo apaixonado por assistir a conferências ou cursos.
-
-        Necessita conhecer um pouco de cada coisa e desenvolver a mente até um grau muito avançado. Pode ser demasiado loquaz, charlatão, difuso nas ideias e indiscreto.
-
-        É preciso cuidado para não mentir ou falar demais. Se medir os seus comentários pode evitar grandes perdas de dinheiro ou de posição social.`,
+      `O nativo pode contar com capacidade para os estudos filosóficos e para as atividades educacionais. Muitos escritores têm esta posição de Júpiter.
+      É provável que os ganhos provenham de atividades relacionadas com o ensino, as editoras e as agências de turismo.
+      É inquieto, possui uma permanente atividade nervosa, um apetite insaciável pelas ideias inovadoras, sendo apaixonado por assistir a conferências ou cursos.
+      Necessita conhecer um pouco de cada coisa e desenvolver a mente até um grau muito avançado. Pode ser demasiado loquaz, charlatão, difuso nas ideias e indiscreto.
+      É preciso cuidado para não mentir ou falar demais. Se medir os seus comentários pode evitar grandes perdas de dinheiro ou de posição social.`,
 
       `Saturno no signo de Gêmeos indica uma mente prática, disciplinada, sistemática e lógica. Há capacidade de disciplina no pensamento, no raciocínio, na escrita e na solução de problemas de todos os tipos.
+      As ideias são julgadas pela sua utilidade prática e pelos resultados obtidos na experiência direta.
+      Essa disciplina em todas as formas de trabalho mental, especialmente matemática, ciência e execução concreta de ideias, geralmente permite que os nativos completem cursos formais de estudo.
+      Os nativos gostam das coisas bem definidas, organizadas em detalhes e anotadas no papel.
+      Preocupam se principalmente com a clareza em contratos e acordos. A honestidade na comunicação e a confiança são de extrema importância.
+      Os nativos geralmente buscam argumentos sólidos para provar os seus esforços.
+      Saturno atua bem em todos os signos de ar, porque acrescenta disciplina, justiça e senso prático às funções intelectuais.
+      Secretárias, estenógrafas, contadores, escri¬tores, professores e pesquisadores possuem esta posição. Ela também favorece pessoas envolvidas em engenharia, ciências físicas e matemáticas.
+      No seu pior, pode haver tendência a sentir e demonstrar muita dúvida, suspeita, timidez ou uma atitude crítica.
+      Contudo, os nativos são suficientemente flexíveis para se adaptarem às necessidades práticas de qualquer situação.
+      Sendo assim, são habilidosos para encontrar soluções de problemas. Eles enxergam a vida com objetividade prática.`,
 
-        As ideias são julgadas pela sua utilidade prática e pelos resultados obtidos na experiência direta.
+      `Urano no signo de Gémeos indica uma geração de pessoas destinadas a serem precursoras de uma nova maneira de pensar.
+      Elas possuem mentes brilhantes, originais, intuitivas. Podem abrir novos conceitos em ciência, literatura, educação, electrónica e meios de comunicação.
+      Os nativos com esta posição tendem à inquietação exagerada, podendo dificultar a realização de uma ideia até ao fim. Precisam desenvolver autodisciplina para que as suas ideias possam se concretizar.
+      Devido à sua inquietação, geralmente viajam muito, procurando novos contatos sociais e a descoberta de novas ideias. Esta posição indica grande liberdade de pensamento.
+      Uma vez que criamos o nosso destino com nossas mentes e nossas crenças, os nativos podem desenvolver a percepção de atividades e soluções alternativas, a capacidade para abandonar padrões de vida habituais.
+      No seu pior, o raciocínio pode ser incoerente, excêntrico e pouco prático. Pode indicar confusão e imprevistos em viagens, bem como relações inconstantes com irmãos, irmãs e vizinhos.`,
 
-        Essa disciplina em todas as formas de trabalho mental, especialmente matemática, ciência e execução concreta de ideias, geralmente permite que os nativos completem cursos formais de estudo.
+      `Netuno em Gêmeos indica uma geração que desenvolveu as faculdades criativas e intuitivas da mente através da literatura e da poesia. Pessoas com a imaginação ativa e versátil.
+      Muitas vezes inquietas e com facilidade para se ligarem telepaticamente, possui habilidade para canalizar ideias através de imagens.
+      Novas ideias a respeito de viagens, do comércio e das comunicações.
+      A expressão negativa de Netuno neste signo é a confusão em assuntos práticos e na forma de comunicação, assim como susceptibilidade e preocupação com valores superficiais.`,
 
-        Os nativos gostam das coisas bem definidas, organizadas em detalhes e anotadas no papel. Preocupam‑se principalmente com a clareza em contratos e acordos. A honestidade na comunicação e a confiança são de extrema importância.
+      `Plutão em Gêmeos enfatiza a comunicação. Os meios de comunicação (jornais, transportes, aviação) e as novas ideias se expandem aceleradamente.
+      Este desenvolvimento da comunicação divulga rapidamente em todo o mundo os inventos e as descobertas. Esta época termina com o isolamento dos povos e das diferentes culturas.
+      Foi à época em que apareceu o automóvel, o avião, o telefone, o fonógrafo, etc. A oportunidade que brinda Plutão em Gêmeos é a de regenerar a mente, convertendo-a num poderoso instrumento capaz da visão mais aguda e penetrante.`,
 
-        Os nativos geralmente buscam argumentos sólidos para provar seus esforços. Saturno atua bem em todos os signos de ar, porque acrescenta disciplina, justiça e senso prático às funções intelectuais. Secretárias, estenógrafas, contadores, escritores, professores e pesquisadores possuem esta posição.
+      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+      -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+      -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+      -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+      É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
+      -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a ganhar sabedoria sem perder a simplicidade e humildade:/stron
+      Quem tem o Nodo Sul (Cauda do Dragão) em Gêmeos traz experiências de dispersão mental, curiosidade excessiva e necessidade constante de informação.
+      É mais mental do que emocional e um tanto dispersivo, desligado do mundo físico. Que saber de tudo um pouco, mas não se aprofunda em nada. Isso gera superficialidade.
+      Traz tendência de ver o mundo sob uma perspectiva racional e exterior. Deslumbrado com todo o tipo de informação fica preso na mente inferior e concreta.
+      Assim, não vivencia a realidade no seu lado mais sutil e abstrato. Questiona tudo e usa sua flexibilidade mental para realizar várias tarefas ao mesmo tempo.
+      Traz tendência também para a fofoca, a mentira, e para conversas que não acrescentam nada. Pode usar as informações com o intuito de esperteza, de levar vantagem e manipular o outro, inconsciente das suas consequências cármicas.
+      Sente-se desconfortável com assuntos sérios, pode usar a mente de forma imatura ou infantil. É um ágil comunicador, mas tem dificuldade para colocar as ideias em prática e manter o foco. Sente-se confortável na pequenez, na rotina, no dia a dia.
+      Mas com o Nodo Norte (Cabeça do Dragão) no signo de Sagitário, veio aprender a sair no mundo das palavras e a entrar no mundo das ideias. Deve compensar a dispersão com o compromisso com um objetivo mais sólido, mais profundo.
+      Veio descobrir que a vida não é só conhecimento prático. É preciso buscar a sabedoria, a filosofia e o mundo espiritual.
+      Cultivar a expansão da consciência, passar da mente inferior e concreta para a mente superior e abstrata. Aprender a cultivar o silêncio, o contato com a Natureza para ouvir a sua voz interior, encontrar o seu canal para a verdade universal.
+      Para tanto, é preciso resistir a alimentar conversas que não alimentam a alma. Sair da pequenez do seu bairro para o mundo, viajar, aventurar-se, interagir com outras culturas, crenças, religiões, tradições e raças.
+      Sair dos esquemas mentais alimentados pela dúvida ou pelo medo para abraçar uma verdade sagrada. Meditação, viagens e estudos superiores fazem parte do seu percurso evolutivo.`,
 
-        Ela também favorece pessoas envolvidas em engenharia, ciências físicas e matemáticas. No seu pior, pode haver tendência a sentir e demonstrar muita dúvida, suspeita, timidez ou uma atitude crítica.
+      `A mente aprende rapidamente e é ávida de conhecimentos. A felicidade resulta da capacidade que o indivíduo tem de se expandir e entrar em contato com tudo.
+      A iluminação mais profunda vem através de estudos filosóficos ou religiosos, ou por meio da identificação com uma causa grandiosa ou com uma organização social.
+      A infelicidade resulta principalmente de uma sensação de confinamento e de confusão intelectual. Exemplos: Rainha Vitoria, a Duquesa de Windsor, Rudolph Steiner, Henry Wallace, Dmitri Shostakovich.`,
 
-        Contudo, os nativos são suficientemente flexíveis para se adaptarem às necessidades práticas de qualquer situação, sendo habilidosos para encontrar soluções de problemas. Eles enxergam a vida com objetividade prática.
-        `,
+      `Mágoas trazidas da infância o levam a ter pensamentos derrotistas e a não confiar plenamente em suas próprias ideias. Pode ter havido dificuldades de adaptação nos primeiros anos de escola ou ter dificuldades de aprendizado ou de fala.
+      Em alguns casos, quem têm Quíron neste signo, pode ter irmãos ou irmãs doentes ou angustiados (aflitos) por alguma coisa. Seus anos de formação foram marcados pela necessidade de serem sensíveis à condição dos irmãos.
+      Em geral, tem grande dificuldade de expressar seus sentimentos mais profundos, mas tende a exprimir com clareza temas polêmicos. Tendência para desenvolver temas mediúnicos, proféticos e paranormais, que englobam experiências de outras dimensões e a capacidade de transmitir energias curadoras.
+      Compreende a comunicação e as relações diárias. Pode ter sido ferido em sua inteligência ou não ter tido a oportunidade de estudar como gostaria.
+      Precisa desenvolver a confiança na sua inteligência instintiva, às vezes muito mais complexa e rica do que a ‘inteligência formal’. Também pode ter ouvido palavras agressivas e hoje deve buscar um uso mais construtivo para a palavra.
+      Você pode absorver indiscriminadamente todo tipo de ideias das mais variadas origens, na tentativa desordenada de entender o que está acontecendo. Tem dificuldade de acreditar nas suas próprias ideias. Devido à preocupação em saber se são certas ou erradas, você recorre às ideias dos outros.
+      Você chega a ser obsessivo na busca de entender todas as coisas. Pode ficar nervoso e estressado quando fica confuso ou dissociado.
+      Mas, se você for capaz de desenvolver segurança pessoal e maturidade, sua mente se mostrará receptiva a energias transpessoais criativas e curadoras, tornando-se profética e mediúnica, num sentido positivo.
+      É provável que você tenha originalidade e brilho pessoal. Sua incansável necessidade de perscrutar e questionar o conduz a regiões que outros não se atreveriam a explorar. Esta característica pode levá-lo a ser um inovador na sua área de trabalho.
+      Pode ser que você adquira consciência de padrões de pensamentos destrutivos e derrotistas. Eles têm origem em mágoas da infância.
+      Representam atitudes e crenças não verbalizadas, herdadas do ambiente em que viveu quando criança. Você pode ter tomado decisões na infância que perduram até hoje e que foram baseadas em algum sofrimento daquele momento.
+      Só descobrindo estes padrões de pensamentos (por ex.: se seu pai ou sua mãe era intelectual e frio, você pode ter decidido que nunca seria um intelectual e negar até hoje sua capacidade mental) você conseguirá tomar novo rumo na vida, desenvolver o que foi bloqueado naquela época.
+      Você pode se esforçar para expressar com clareza suas ideias e depois julgar não ter revelado aquilo que tinha em mente, ficando irritado e frustrado.
+      Todavia, acabará descobrindo através dos outros que foi muito conciso na forma de se exprimir, chegando a ser admirado por sua habilidade de transmitir pensamentos e sentimentos em palavras, o que o deixará mais confuso ainda.
+      Ou pode ocorrer exatamente o contrário: você pensar que está se expressando muito bem e as pessoas acharem que você foi confuso, contraditório. Isto ocorre porque você não faz uma ideia exata de como se comunica.
+      É possível que na infância seus pais não tenham abordado assuntos que eram realmente importantes, tais como sentimentos pessoais, sexo, doença, morte, etc., na tentativa errônea de evitar o sofrimento dos filhos.
+      Daí, você pode ter dificuldade de falar de coisas realmente importantes, como sua vida emocional. Pode saber se explicar muito bem em outras áreas, mas quando tenta falar de sentimentos íntimos, fica bloqueado.
+      Sua mente prefere funcionar através da intuição, ou analisando o todo, sem se prender em partes. Isso pode ter provocado problemas no aprendizado na escola.
+      Mas esse problema quase sempre advém de alguma incompatibilidade entre o modo natural de você pensar e o método de ensino.
+      Na vida adulta, você deve aprender a dar valor a sua maneira de pensar. A se expressar através de imagens e de outras formas não verbais de expressão.
+      É importante para você ler alguns lançamentos mais recentes que vinculam as descobertas da nova física com os vários estados de consciência, a fim de compreender melhor suas próprias percepções mentais, que diferem das da maioria das pessoas.
+      Você deve tomar cuidado para não fazer do conhecimento, do seu intelecto, o seu Deus. Nem deve desprezar aqueles que não cultuam o conhecimento. É importante você entender que nunca saberá tudo, pois isso só cabe a Deus.
+      Também não deve ir ao extremo oposto de ignorar a mente e só valorizar os sentimentos e intuições. É preciso encontrar um equilíbrio saudável. Você deve entender que todo ser humano vive conflitos.
+      Se você fica deprimido ao fazer qualquer escolha, porque uma parte de você ficou satisfeita e a outra não, é tempo de ter compaixão de si próprio e dos outros e se conscientizar que essa é a sua limitação.
+      Você pode passar a vida procurando a sua "alma gêmea", causando relacionamentos obsessivos, ou com pessoas em tudo opostas a você. É necessário um trabalho pessoal muito grande para superar esta tendência e tirar o melhor, um crescimento pessoal, dessa relação.
+      Você pode ter irmãos doentes, com deformidade ou retardamento mental, ou por alguma razão serem importantes para sua vida.
+      Pode haver hostilidade ou rivalidade, você pode achar que seu irmão ou irmã foi favorecido, ou pode ter ocorrido de você ter sido o favorecido e agora se sentir culpado por isso.
+      Pode ocorrer de seu irmão ser uma pessoa importante em sua vida, que lhe serve de guia e mentor. Ou ainda não ter irmãos e isso dar a você uma sensação de isolamento.
+      Quando criança pode ter sido sempre atormentado pelos colegas, ter sempre buscado um amigo verdadeiro. Pode ocorrer de buscar companheirismo através da mídia, buscando estímulos e integração com os demais seres.
+      O que ocorre é que você é muito estimulável por esse tipo de comunicação e pode ser influenciado pelo que vê ou lê. Deve então analisar friamente a qualidade do material que tem na mídia para educá-lo e diverti-lo, sob o risco de aceitar tudo que recebe do mundo exterior.
+      Atividades como professor, editor, orador, jornal, rádio e TV, monitor para grupos de estudo ou viagens de qualquer natureza são produtivas para você.
+      A comunicação é sua via de cura, tanto para si mesmo, quanto para os outros. Procure sempre ser o companheiro fiel dos que convivem com você e receberá em troca a sensação de integração que tanto necessita.`,
 
-      `Urano no signo de Gémeos indica uma geração de pessoas destinadas a serem precursoras de uma nova maneira de pensar. Elas possuem mentes brilhantes, originais, intuitivas. Podem abrir novos conceitos em ciência, literatura, educação, electrónica e meios de comunicação.
+      `O parceiro ideal é aquele que tenha curiosidade e interesse em aprender, transmitir e que tenha interesses variados, goste de viagens e seja comunicativo, descolado, esperto, versátil e flexível.
+      Juno neste signo indica a importância de haver trocas mentais e intelectuais numa parceria.
+      Pode formar um casal muito inteligente ou que esteja sempre aprendendo. Bons oradores, em constantes viagens e mudanças.
+      Mas também podem ser pessoas enganosas, mentirosas, incrivelmente dispersas ou que estejam envolvidas em constantes discussões e polêmicas.
+      Possível sucesso em carreiras de comunicação ou no comércio. A parceria deve ser espontânea, esperta, curiosa e viva.
+      O casal tende a se comportar sempre de forma muito jovial e tentará preservar os seus comportamentos de juventude.`,
 
-        Os nativos com esta posição tendem à inquietação exagerada, podendo dificultar a realização de uma ideia até ao fim. Precisam desenvolver autodisciplina para que as suas ideias possam se concretizar.
+      `Em suas vidas passadas o nativo tinha o espírito vivo e flexível. Tão flexível, que pouco ligava para a lealdade. Essa posição de Mercúrio indica um comerciante desonesto numa vida passada.
+      Ou ainda, um homem de letras mais brilhante do que sério. Em todo caso, fez mal uso de sua viva inteligência e de seu talento para se expressar, tanto por escrito como oralmente.
+      Sua aptidão manual e artística também era notável. Essas qualidades persistem na atual encarnação, mas esse gênio "faz-tudo" deve tomar cuidado para não perder o foco e se dispersar.
+      Deve agora negociar e se comunicar com integridade. Pode ter também uma dívida cármica a ser regatada com irmãos ou primos. `,
 
-        Devido à sua inquietação, geralmente viajam muito, procurando novos contatos sociais e a descoberta de novas ideias. Esta posição indica grande liberdade de pensamento.
+      `Quando Vênus está retrógrado neste signo evidencia-se a adolescência, em que o ser ainda não atingiu a sua polaridade sexual.
+      Pode indicar uma instabilidade afetiva nas existências anteriores, nas quais a pessoa vivia o amor como um jogo leviano da vida.
+      O nativo deve agora aprender a se comprometer seriamente cultivando a responsabilidade e a sua integridade.
+      Resistindo assim, à tentação da inconstância, à tendência de falar demais e de jogar seus parceiros um contra o outro com fofocas ou intrigas.`,
 
-        Uma vez que criamos o nosso destino com nossas mentes e nossas crenças, os nativos podem desenvolver a percepção de atividades e soluções alternativas, a capacidade para abandonar padrões de vida habituais.
+      `O nativo com tem grande curiosidade intelectual. Mas a lição cármica aqui escolhida é a de aprender a dosar sua energia (e sua agressividade) nas relações humanas.
+      Bastante instável, inquieto, inconstante e facilmente ansioso, pode fazer estudos de psicologia: aprenderá a se conhecer através dos outros.
+      Nesta vida deve cultivar o hábito de refletir antes de agir. Deve promover intercâmbios e negociações com mais ponderação.
+      Deve também cultivar mais foco em suas prioridades. Pode ir muito longe do que imagina em busca do conhecimento.`,
 
-        No seu pior, o raciocínio pode ser incoerente, excêntrico e pouco prático. Pode indicar confusão e imprevistos em viagens, bem como relações inconstantes com irmãos, irmãs e vizinhos.
-        `,
+      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+      Nas vidas passadas, o nativo alinhava a sua filosofia com a dos que o cercavam. Não tinha nenhuma ideia pessoal: era sempre da mesma opinião do último que ouviu.
+      Incapaz de filtrar as informações recebidas segundo um critério pessoal, falava demais. Inclinava-se a contar qualquer coisa a qualquer um, sem nenhum discernimento. E, além do mais, nada tolerante.
+      Nesta vida deve aprender a deixar falar e a se calar. Cultivar para si uma filosofia mais prática, objetiva, focada e humana. Cultivar mais integridade no uso da palavra.`,
 
-      `text 10 Lorem ipsum`,
+      `A natureza pesada de Saturno não se combina muito bem com a natureza viva e inquieta de Gêmeos.
+      A boa comunicação, o intercâmbio verbal e intelectual com os outros não foram cultivados em vidas passadas.
+      O nativo sabe bem o que gostaria de dizer, mas não sabe como se expressar. Não sabe transmitir uma mensagem com clareza e competência para o público.
+      O nativo pode não estar muito certo das suas ideias e busca por todo lado, acumulando informações que não fazem mais que acentuar suas incertezas.
+      Graças a isso, pode ao menos se livrar das ideias prontas adquiridas nas vidas passadas. Seu trabalho cármico é desaprender. Cultivar inteligência, curiosidade e flexibilidade nos intercâmbios.`,
 
-      `text 11 Lorem ipsum`,
+      `O dom da réplica, o humor, a adaptação rápida às palavras e às circunstâncias revelam uma mente muito ativa.
+      Muito curioso, constantemente em movimento, é às vezes cansativo por sua inquietação e por seu nervosismo.
+      Tende a dispersar-se com facilidade, a borboletear de uma ideia à outra, sem nada aprofundar. Deixa-se influenciar pelo último que chega.
+      Essa instabilidade, herdada de vidas passadas, é a consequência de um comportamento no qual o nativo nunca conseguia assumir as decisões.
+      Esvoaçando como uma pluma ao vento, não fazia nenhum progresso. Quem vai ao vento, perde o assento.
+      É preciso, portanto, que desenvolva foco e prioridades. Que escolha uma atividade e se obrigue a aprofundá-la.`,
 
-      `text 12 Lorem ipsum`,
+      `Netuno em Gêmeos indica grande habilidade manual acrescida de uma viva atividade mental. A imaginação era muito desenvolvida entre os nativos.
+      Escritores brilhantes Henry Miller (nascido em 1891), ou Drieu La Rochelle (1893) utilizaram assim seu senso agudo da palavra e da resposta pronta.
+      Mas seu humor, muitas vezes corrosivo, lhes acarretavam aborrecimen¬tos. Netuno em Gêmeos é também o senso dos negócios, mas a retrogradação de Netuno indica que foram enganadores.
+      Podem ter sido até mesmo criminosos. A extrema habilidade, a imaginação viva, a mente ágil e ativa foram empregadas de maneira principalmente negativa.`,
 
-      `text 13 Lorem ipsum`,
+      `O período coincidiu com um extraordinário boom tecnológico nos meios de comunicação, particularmente a aviação (já que Gêmeos é signo de Ar). O "Avião" de Clément Ader nasceu em 1897.
+      Os grandes pioneiros: Didier Daurat e Jean Mermoz têm Plutão retrógrado em Gêmeos. Exatamente como Enzo Ferrari, o famoso construtor de carros.
+      Aliás, a primeira corrida de automóveis do mundo, a famosa "Paris-BordéusParis", ocorreu em 1895. Enfim, rádio e cinema vão florescer.
+      O triunfo científico proclama um tanto exageradamente que "não se para o progresso". Gêmeos é o reino de Mercúrio, símbolo ao mesmo tempo dos conhecimentos teóricos e das suas aplicações práticas: a tecnologia.
+      Os nativos de Plutão retrógrado em Gêmeos têm por vezes uma surpreen¬dente aptidão para jogar com as palavras: Henry Miller, Raymond Queneau, Jean Genet, Eugène lonesco, Papillon, Jacques Prévert.
+      O verbo é, para eles, um instrumento de poder político. A sedução das palavras, o jogo duplo, por vezes. Esses nativos já aprenderam, em várias vidas passadas, a manejar o verbo (escrito ou falado).
+      Terão eles sido escribas desonestos? Escritores que haviam propagado ideias nefastas? Colegiais vadios, como no tempo de Villon? Seu carma deve levá-los a uma reflexão sobre os meios de comunicação. Seu programa: não abusar das pessoas jogando com as palavras.`,
 
-      `text 14 Lorem ipsum`,
+      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
+      Mágoas trazidas da infância levam à ter pensamentos derrotistas e a não confiar plenamente em suas próprias ideias. Podem ter dificuldades de adaptação nos primeiros anos de escola ou ter dificuldades de aprendizado ou de fala.
+      Em alguns casos, quem têm Quíron neste signo, pode ter irmãos ou irmãs doentes ou angustiados (aflitos) por alguma coisa, e seus anos de formação foram marcados pela necessidade de serem sensíveis à condição de irmãos.
+      Em geral, tem grande dificuldade de expressar seus sentimentos mais profundos, mas tende a exprimir com clareza temas polêmicos. Tendência para desenvolver temas mediúnicos, proféticos e paranormais, que englobam experiências de outras dimensões e a capacidade de transmitir energias curadoras.
+      Compreende a comunicação e as relações diárias. Pode ter sido ferido em sua inteligência ou não ter tido a oportunidade de estudar como gostaria.
+      Precisa desenvolver a confiança na sua inteligência instintiva, às vezes muito mais complexa e rica do que a ‘inteligência formal’. Também pode ter ouvido palavras agressivas, e hoje deve buscar um uso mais construtivo para a palavra.
+      Você pode absorver indiscriminadamente todo tipo de ideias das mais variadas origens, na tentativa desordenada de entender o que está acontecendo.
+      Tem dificuldade de acreditar nas suas próprias ideias. Devido à preocupação em saber se são certas ou erradas, você recorre às ideias dos outros.
+      Você chega a ser obsessivo na busca de entender todas as coisas. Pode ficar nervoso e estressado quando fica confuso ou dissociado.
+      Mas, se você for capaz de desenvolver segurança pessoal e maturidade, sua mente se mostrará receptiva a energias transpessoais criativas e curadoras, tornando-se profética e mediúnica, num sentido positivo.
+      É provável que você tenha originalidade e brilho pessoal. Sua incansável necessidade de perscrutar e questionar o conduz a regiões que outros não se atreveriam a explorar. Esta característica pode levá-lo a ser um inovador na sua área de trabalho.
+      Pode ser que você adquira uma consciência de padrões de pensamentos destrutivos e derrotistas, que têm sua origem em mágoas da infância ou que representam atitudes e crenças não verbalizadas, herdadas do ambiente em que viveu quando criança.
+      Você pode ter tomado decisões na infância que perduram até hoje e que foram baseadas em algum sofrimento daquele momento.
+      Só descobrindo estes padrões de pensamentos (por ex.: se seu pai ou sua mãe era intelectual e fria, você pode ter decidido que nunca seria um intelectual e negar até hoje sua capacidade mental) você conseguirá tomar novo rumo na vida, desenvolver o que foi bloqueado naquela época.
+      Você pode se esforçar para expressar com clareza suas ideias e depois julgar não ter revelado aquilo que tinha em mente, ficando irritado e frustrado.
+      Todavia, acabará descobrindo através dos outros que foi muito conciso na forma de se exprimir, chegando a ser admirado por sua habilidade de transmitir pensamentos e sentimentos em palavras, o que o deixará mais confuso ainda.
+      Ou pode ocorrer exatamente o contrário: você pensar que está se expressando muito bem e as pessoas acharem que você foi confuso, contraditório. Isto ocorre porque você não faz uma ideia exata de como se comunica.
+      É possível que na infância seus pais não tenham abordado assuntos que eram realmente importantes, tais como sentimentos pessoais, sexo, doença, morte, etc.
+      Na tentativa errônea de evitar o sofrimento dos filhos. Daí, você tem dificuldade de falar de coisas realmente importantes, como sua vida emocional. Pode saber se explicar muito bem em outras áreas, mas quando tenta falar de sentimentos íntimos, fica bloqueado.
+      Sua mente prefere funcionar através da intuição, ou analisando o todo, sem se prender em partes. Isso pode ter provocado problemas no aprendizado na escola. Mas esse problema quase sempre advém de alguma incompatibilidade entre o modo natural de você pensar e o método de ensino.
+      Na vida adulta, você deve aprender a dar valor a sua maneira de pensar, e a se exprimir através de imagens e de outras formas não verbais de expressão.
+      É importante para você ler alguns lançamentos mais recentes que vinculam as descobertas da nova física com os vários estados de consciência, a fim de compreender melhor suas próprias percepções mentais, que diferem das da maioria das pessoas.
+      Você deve tomar cuidado para não fazer do conhecimento, do seu intelecto o seu Deus, nem deve desprezar aqueles que não cultuam o conhecimento.
+      É importante você entender que nunca saberá tudo, pois isso só cabe a Deus. Também não deve ir ao extremo oposto de ignorar a mente e só valorizar os sentimentos e intuições.
+      É preciso encontrar um equilíbrio saudável. Você deve entender que todo ser humano vive conflitos.
+      Se você fica deprimido ao fazer qualquer escolha, porque uma parte de você ficou satisfeita e a outra não, é tempo de ter compaixão de si próprio e dos outros e se conscientizar que essa é a sua limitação.
+      Você pode passar a vida procurando a sua "alma gêmea", causando relacionamentos obsessivos, ou com pessoas em tudo opostas a você. É necessário um trabalho pessoal muito grande para superar esta tendência e tirar o melhor, um crescimento pessoal, dessa relação.
+      Você pode ter irmãos doentes, com deformidade ou retardamento mental, ou por alguma razão serem importantes para sua vida.
+      Pode haver hostilidade ou rivalidade, você pode achar que seu irmão ou irmã foi favorecido, ou pode ter ocorrido de você ter sido o favorecido e agora se sentir culpado por isso.
+      Pode ocorrer de seu irmão ser uma pessoa importante em sua vida, que lhe serve de guia e mentor. Ou ainda não ter irmãos e isso dar a você uma sensação de isolamento. Pode ter ocorrido de quando criança ter sido sempre atormentado pelos colegas, ter sempre buscado um amigo verdadeiro.
+      Pode ocorrer de buscar companheirismo através da mídia, buscando estímulos e integração com os demais seres. O que ocorre é que você é muito estimulável por esse tipo de comunicação, e pode ser influenciado pelo que vê ou lê.
+      Deve então analisar friamente a qualidade do material que tem na mídia para educá-lo e diverti-lo, sob o risco de aceitar tudo que recebe do mundo exterior.
+      Atividades como professor, editor, orador, jornal, rádio e TV, monitor para grupos de estudo ou viagens de qualquer natureza são produtivas para você. A comunicação é sua via de cura, tanto para si mesmo, quanto para os outros.
+      Procure sempre ser o companheiro fiel dos que convivem com você e receberá em troca a sensação de integração que tanto necessita.`,
 
-      `text 15 Lorem ipsum`
+      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
+      É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
+      Se você ocupar uma posição de destaque e brilho na sua profissão é possível vivenciar o sucesso na carreira atuando nas áreas de comunicação ou comércio. Importância de trocas mentais e intelectuais numa parceria.
+      No mapa de um homem mostra uma esposa/parceira, espontânea e esperta, viva. Também no casamento essa mulher se comportará sempre de forma muito jovial, e tentará preservar seus comportamentos de juventude.`,
     ],
     levels: [
-        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está):`,
 
-        `1º nível de evolução:`,
+        `-stron 1º nível de evolução: /stron`,
 
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima, a forma como responde aos encontros casuais.`,
+        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima e a forma como responde aos encontros casuais.`,
 
-          `2º nível de evolução:`,
+        `-stron 2º nível de evolução: /stron`,
 
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário.
-          Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão.`,
+        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário. -break
+        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão.`,
 
-          `3º nível de evolução:`,
+        `-stron 3º nível de evolução: /stron`,
 
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. Desenvolve o poder mental e a confiança que os estudos podem despertar.`
+        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. -break
+        Desenvolve também o poder mental e a confiança que os estudos podem despertar em si mesmo.`
     ],
     nodosLunares: [
       `Nodos lunares\' extra text`
@@ -552,139 +913,268 @@ const data = {
   {
     title: `cancer`,
     text: [
-     `Câncer é o primeiro signo do elemento Água, regido pela Lua. Traz lições sobre a sensibilidade, a intimidade, as emoções, o cuidado, a proteção e o acolhimento. Evoca também o passado, a ancestralidade, a história e a memória emotiva.
-      É representado pelo caranguejo, com sua capacidade de andar para frente e para trás. O canceriano aprende a valorizar as recordações e a atualizá-las, aproveitando os ciclos que se repetem. Varia seu humor junto com a mutante Lua: apresenta um temperamento emocional ora objetivo e ora subjetivo.
+      `Câncer é o primeiro signo do elemento Água, regido pela Lua.
+      Traz lições sobre a sensibilidade, a intimidade, as emoções, o cuidado, a proteção e o acolhimento. Evoca também o passado, a ancestralidade, a história e a memória emotiva.
+      É representado pelo caranguejo, com sua capacidade de andar para frente e para trás. O canceriano aprende a valorizar as recordações e a atualizá-las, aproveitando os ciclos que se repetem.
+      Varia seu humor junto com a mutante Lua: apresenta um temperamento emocional ora objetivo e ora subjetivo.
       É receptivo, e sua estabilidade e equilíbrio vêm das relações afetivas, do histórico e da vida familiar, da valorização dos sentimentos patrióticos, do local onde nasceu e dos condicionamentos do passado.
-      O Sol em Câncer inspira a criação e a fecundidade, o que concede boas probabilidades no plano material. As boas relações com aqueles que o rodeiam favorecem o aumento do património, sobretudo na segunda parte da vida.
-      Possui forte instinto de proteção, grande intuição e capacidade imaginativa. É sensível e intuitivo. Porém tem um temperamento sonhador, com um toque de ingenuidade. O seu olhar é muitas vezes comparável ao de uma criança e a sua imaginação é muito fecunda.
-      Na saúde, deve vigiar particularmente o esôfago, o estômago, o duodeno, o fígado, o peito, a caixa torácica, os peitorais e as membranas mucosas. Há tendência para se fechar em si próprio e interiorizar as suas emoções. Como consequência, pode somatizar gastrite ou úlceras estomacais.
-      É preciso cuidado para não envenenar a sua vida com emoções negativas. O mínimo mal-estar pode assumir aos seus olhos uma dimensão importante. Na segunda parte da vida, deve ser acompanhado por um médico, pois há tendência para desenvolver uma doença psicossomática.
-      O perigo é ficar apegado demais ao passado, melindroso demais, com medo do mundo, fechado em sua concha. Deve estar atento para controlar a avareza, não se tornar escravo de seus temores ou dependente emocional de hábitos, lugares, coisas ou pessoas.
-      O equilíbrio está no signo oposto, Capricórnio, que traz a razão, a confiança e a praticidade. Para que realizem seus sonhos, devem aprender a dar todos os passos necessários, com mais perseverança e pragmatismo.
-      Tudo para que não perca as referências de ordem e estabilidade nas tensões emocionais, na turbulência interior, nas questões afetivas.`,
+      O Sol em Câncer inspira a criação e a fecundidade, o que concede boas probabilidades no plano material.
+      As boas relações com aqueles que o rodeiam favorecem o aumento do património, sobretudo na segunda parte da vida.
+      Possui forte instinto de proteção, grande intuição e capacidade imaginativa. É sensível e intuitivo.
+      Porém tem um temperamento sonhador, com um toque de ingenuidade. O seu olhar é muitas vezes comparável ao de uma criança e a sua imaginação é muito fecunda.
+      Na saúde, deve vigiar particularmente o esôfago, o estômago, o duodeno, o fígado, o peito, a caixa torácica, os peitorais e as membranas mucosas.
+      Há tendência para se fechar em si próprio e interiorizar as suas emoções. Como consequência, pode somatizar gastrite ou úlceras estomacais.
+      É preciso cuidado para não envenenar a sua vida com emoções negativas. O mínimo mal-estar pode assumir aos seus olhos uma dimensão importante.
+      Na segunda parte da vida, deve ser acompanhado por um médico, pois há tendência para desenvolver uma doença psicossomática.
+      O perigo é ficar apegado demais ao passado, melindroso demais, com medo do mundo, fechado em sua concha.
+      Deve estar atento para controlar a avareza, não se tornar escravo de seus temores ou dependente emocional de hábitos, lugares, coisas ou pessoas.
+      O equilíbrio está no signo oposto em Capricórnio, que traz a razão, a confiança e a praticidade.
+      Para que realizem seus sonhos, devem aprender a dar todos os passos necessários, com mais perseverança e pragmatismo.
+      Tudo para que não perca as referências de ordem e estabilidade nas tensões emocionais, na turbulência interior e nas questões afetivas.`,
 
-     `A Lua representa a forma como vivemos as nossas emoções. É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional.
-      O que é que precisamos para nos sentirmos seguros? A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
+      `A Lua representa a forma como vivemos as nossas emoções.
+      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
+      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
       Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
       As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
-      A Lua em Câncer se encontra no signo de sua regência, indicando profundidade e intensidade de emoções. A sensibilidade encontra terra fértil nos relacionamentos mais íntimos. Pode haver fortes ligações com a mãe à família e o lar.
-      O nativo com esta configuração pode ser bom cozinheiro ou boa dona de casa. A segurança e o casamento são importantes. É intuitivo para perceber as necessidades de quem ama, tem talento para cuidar.
+      A Lua em Câncer se encontra no signo de sua regência, indicando profundidade e intensidade de emoções.
+      A sensibilidade encontra terra fértil nos relacionamentos mais íntimos. Pode haver fortes ligações com a mãe à família e o lar.
+      O nativo com esta configuração pode ser bom cozinheiro ou boa dona de casa. A segurança e o casamento são importantes.
+      É intuitivo para perceber as necessidades das pessoas que ama e tem um talento lindo para cuidar.
       Quem tem a Lua em Câncer possui uma sensibilidade aos humores e sentimentos dos outros que pode beirar a mediunidade.
-      É facilmente influenciado pela atmosfera dos encontros. Sua extrema sensibilidade às opiniões e reações dos outros pode levá-lo a imaginar desfeitas, mesmo não sendo propositais. Evita encontros quando há possibilidade de desamparo.
-      Consequentemente, tende a retrair-se e perder‑se em pensamentos. Quando não é tomado por ressentimentos, pode fazer com que as pessoas se sintam paradas ao seu lado, pois sua ternura e sensibilidade são cativantes. Mas é também sonhador, vulnerável, instável e carente. Isso fica evidente em situações de estresse emocional.
-      Por isso, sentir-se seguro e ter suas necessidades afetivas atendidas são importantes. Pode haver tendência para sufocar os filhos com o seu amor, a ponto de desejarem dominar as suas vidas. É preciso aceitar a realidade e aprender a dar limites para sua fragilidade emocional.
+      É facilmente influenciado pela atmosfera dos encontros. Sua extrema sensibilidade às opiniões e reações dos outros pode levá-lo a imaginar desfeitas, mesmo não sendo propositais.
+      Evita encontros quando há possibilidade de desamparo. Consequentemente, tende a retrair-se e perder se em pensamentos.
+      Quando não é tomado por ressentimentos, pode fazer com que as pessoas se sintam paradas ao seu lado, pois sua ternura e sensibilidade são cativantes.
+      Mas é também sonhador, vulnerável, instável e carente. Isso fica evidente em situações de estresse emocional. Por isso, sentir-se seguro e ter suas necessidades afetivas atendidas são importantes.
+      Pode haver tendência para sufocar os filhos com o seu amor, a ponto de desejarem dominar as suas vidas. É preciso aceitar a realidade e aprender a dar limites para sua fragilidade emocional.
       Com mais praticidade, a consciência do momento presente, a memória do passado e a intuição do futuro, pode encontrar um caminho para sua segurança e seu bem-estar emocional.`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-      A primeira impressão da vida é sentida através do elemento Água: ação motivada pelos sentimentos. Expressão cautelosa e grande necessidade de segurança emocional são características de quem tem Ascendente em Câncer.
-      A expressão da individualidade é cautelosa. Para proteger-se emocionalmente, por vezes desenvolve uma dura casca externa. Sua tarefa é encontrar maios para expressar a própria sensibilidade, ao invés de ser esmagado por ela. Respeitar, compreender, reconhecer e liberar os sentimentos.
-      Há uma qualidade mimética, camaleônica na expressão pessoal: confundir-se com o ambiente para não se mostrar competitivo ou chamar a atenção.  Assim evita também ser ameaçado ou agredido. Por vezes apresenta comportamentos desprotegidos, inseguros ou mesmo infantis.
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
+      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      A primeira impressão da vida é sentida através do elemento Água: ação motivada pelos sentimentos.
+      Expressão cautelosa e grande necessidade de segurança emocional são características de quem tem Ascendente em Câncer.
+      A expressão da individualidade é cautelosa. Para proteger-se emocionalmente, por vezes desenvolve uma dura casca externa.
+      -stron Sua tarefa é encontrar meios para expressar a própria sensibilidade, ao invés de ser esmagado por ela. Respeitar, compreender, reconhecer e liberar os sentimentos./stron
+      Há uma qualidade mimética, camaleônica na expressão pessoal: confundir-se com o ambiente para não se mostrar competitivo ou chamar a atenção.
+      Assim evita também ser ameaçado ou agredido. Por vezes apresenta comportamentos desprotegidos, inseguros ou mesmo infantis.
       Pode manter-se sempre muito próximo da mãe ou da família de origem (do ponto de vista físico, emocional ou ambos). Esta camuflagem, contudo, pode ser apenas aparente.
       Por detrás se esconde uma grande tenacidade e uma capacidade de se agarrar teimosamente aos sentimentos e às situações em que sinta familiaridade e segurança, mesmo que esta segurança seja feita à custa de outros.
-      À medida que desenvolve certo grau de maturidade, pode desfrutar toda sensibilidade e riqueza emocional associada a este signo. Cresce em autoconhecimento quando desenvolve as qualidades de cuidar, alimentar, proteger, nutrir. Seja de uma pessoa, uma família, um negócio ou um ideal.
-      O aspecto físico ligado a este ascendente é arredondado, agradável, suave e um pouco infantil. Um rosto redondo e um tronco desenvolvido são características comuns, com propensão a engordar e reter líquidos. Alguns, contudo, apresentam um rosto oblongo e uma figura esguia.`,
+      À medida que desenvolve certo grau de maturidade, pode desfrutar toda sensibilidade e riqueza emocional associada a este signo.
+      -stron Você cresce em autoconhecimento quando desenvolve as qualidades de cuidar, alimentar, proteger, nutrir. Seja de uma pessoa, uma família, um negócio ou um ideal./stron
+      O aspecto físico ligado a este ascendente é arredondado, agradável, suave e um pouco infantil.
+      Um rosto redondo e um tronco desenvolvido são características comuns, com propensão a engordar e reter líquidos. Alguns, contudo, apresentam um rosto oblongo e uma figura esguia.`,
 
-      `Mercúrio no signo de Câncer indica uma mente influenciada por padrões emocionais profundamente arraigados. Os desejos inconscientes podem fazer com que a pessoa observe alguns fatos e ignore outros, o que pode resultar em preconceitos e interferência no raciocínio objetivo.
+      `Mercúrio no signo de Câncer indica uma mente influenciada por padrões emocionais profundamente arraigados.
+      Os desejos inconscientes podem fazer com que a pessoa observe alguns fatos e ignore outros, o que pode resultar em preconceitos e interferência no raciocínio objetivo.
       Às vezes podem ser falsos, sem o perceber conscientemente. Mercúrio neste signo pode indicar boa memória, devido à intensidade emocional associada aos pensamentos.
-        Há também tendência a absorver muita informação subliminarmente ou a aprender por osmose. Na realidade, grande parte do processo mental ocorre em um nível inconsciente, embora se manifeste como intenção consciente.
-        Como as pessoas com esta posição de Mercúrio são muito suscetíveis às atitudes e opiniões dos que as cercam, o seu pensamento pode ser influenciado por apelos emocionais, como o patriotismo.
-        Elas são muitos sensíveis, acreditam que tudo que é feito ou dito no seu ambiente é especificamente dirigido a elas. Grande parte do pensamento concentra-se no lar e na família.
-        Há uma considerável habilidade para os negócios, em assuntos relacionados a alimentos, produtos de consumo e domésticos e bens imobiliários.`,
+      Há também tendência a absorver muita informação subliminarmente ou a aprender por osmose.
+      Na realidade, grande parte do processo mental ocorre em um nível inconsciente, embora se manifeste como intenção consciente.
+      Como as pessoas com esta posição de Mercúrio são muito suscetíveis às atitudes e opiniões dos que as cercam, o seu pensamento pode ser influenciado por apelos emocionais, como o patriotismo.
+      Elas são muitos sensíveis, acreditam que tudo que é feito ou dito no seu ambiente é especificamente dirigido a elas. Grande parte do pensamento concentra-se no lar e na família.
+      Há uma considerável habilidade para os negócios, em assuntos relacionados a alimentos, produtos de consumo e domésticos e bens imobiliários.`,
 
-      `nativo com Vênus em Câncer é, antes de tudo, um cuidador. Sonha com uma casa aconchegante, cheia de filhos, mesa posta, comida farta.
+      `O nativo com Vênus em Câncer é, antes de tudo, um cuidador. Sonha com uma casa aconchegante, cheia de filhos, mesa posta, comida farta.
+      Quem possui essa característica tem necessidade de se sentir amparado e procura sempre o conforto de seu lar, pois é naturalmente tímido e sentimental, apegado às lembranças do passado.
+      As relações amorosas podem não ser muito são muito fogosas, mas são românticas e podem proporcionar muito prazer quando estiverem envolvidos sentimentos sinceros.
+      Existe certa carência afetiva (carência do útero materno) neste tipo de amor canceriano.
+      Por causa disso, quem tem Vênus em Câncer nutre e cativa com pequenos cuidados maternais a pessoa amada, tornando-a dependente de seus cuidados.
+      Tanto Câncer, quanto Vênus estão relacionados às qualidades femininas. Há sensibilidade, o uso da intuição e da imaginação, que podem enriquecer as trocas.
+      Porém, a sua fragilidade emocional exagerada pode causar estragos num relacionamento, especialmente quando o parceiro não perceber a fragilidade de seus sentimentos, magoando-os, sem demonstrações de afeto ou envolvimento emocional.`,
 
-        Quem possui essa característica tem necessidade de se sentir amparado e procura sempre o conforto de seu lar, pois é naturalmente tímido e sentimental, apegado às lembranças do passado.
-
-        As relações amorosas podem não ser muito são muito fogosas, mas são românticas e podem proporcionar muito prazer quando estiverem envolvidos sentimentos sinceros. Existe certa carência afetiva (carência do útero materno) neste tipo de amor canceriano.
-
-        Por causa disso, quem tem Vênus em Câncer nutre e cativa com pequenos cuidados maternais a pessoa amada, tornando-a dependente de seus cuidados.
-
-        Tanto Câncer, quanto Vênus estão relacionados às qualidades femininas. Há sensibilidade, o uso da intuição e da imaginação, que podem enriquecer as trocas.
-
-        Porém, a sua fragilidade emocional exagerada pode causar estragos num relacionamento, especialmente quando o parceiro não perceber a fragilidade de seus sentimentos, magoando-os, sem demonstrações de afeto ou envolvimento emocional.`,
-
-      `:
-      Essa posição de Marte indica uma pessoa cujas iniciativas serão voltadas principalmente em prol da família e do larPossui senso de liderança e autoridade com a família e age com firmeza dentro do ambiente familiar.
-
-        Pode ter profissões relacionadas com atividades públicas ou voltadas para o conforto do lar e da mulher. A emotividade torna essa pessoa suscetível às críticas, às quais pode reagir de maneira emocional.
-
-        Esta posição do planeta não Essa posição de Marte indica uma pessoa cheia de recursos e expedientes, um espírito sempre pronto para a discussão. Possui ímpeto oratório e resposta sempre pronta.
-
-        A boa atividade mental lhe confere capacidade para encontrar soluções engenhosas face às dificuldades eventuais. Canaliza as energias na forma intelectual, estando sempre disposto a aprender e a melhorar seus conhecimentos.
-
-        Pode expressar-se na dança e em outras atividades onde o movimento se une à ação. Adora viajar. Tem espírito gozador e brincalhão. Poderá expressar sua sexualidade de forma instável, sem muito ímpeto, necessitando de estimulo variado e constante. Baixa fertilidade.
-
-        É preciso atenção para não dissipar energia em ações inúteis e sem sentido. O espírito crítico pode levar a discussões ou brigas. É preciso cuidado também com irritações nas vias respiratórias.
-          é muito favorável à expressão da libido e por essa razão pode buscar prazeres e expressões mais emocionais e sentimentais. Tem boa fertilidade.
-
-          É preciso cuidado com disputas domésticas, pois pode se expressar de forma autoritária com seus parentes e familiares. Existe o perigo de se envolver em acidentes domésticos. Cuidado também com problemas digestivos e dores de estômago.`,
+      `Essa posição de Marte indica uma pessoa cujas iniciativas serão voltadas principalmente em prol da família e do lar. Possui senso de liderança e autoridade com a família e age com firmeza dentro do ambiente familiar.
+      Pode ter profissões relacionadas com atividades públicas ou voltadas para o conforto do lar e da mulher. A emotividade torna essa pessoa suscetível às críticas, às quais pode reagir de maneira emocional.
+      Esta posição do planeta não é muito favorável à expressão da libido e por essa razão pode buscar prazeres e expressões mais emocionais e sentimentais. Tem boa fertilidade.
+      É preciso cuidado com disputas domésticas, pois pode se expressar de forma autoritária com seus parentes e familiares.
+      Existe o perigo de se envolver em acidentes domésticos. Cuidado também com problemas digestivos e dores de estômago.`,
 
       `O nativo pode contar com o bom humor. É sensível, religioso, complacente e com opiniões cambiantes.
+      Pode se destacar em ocupações agrícolas ou em negócios imobiliários. Também nas atividades artísticas: poesia, música, belas artes ou na cozinha e na restauração.
+      Essa posição de Júpiter indica riqueza, mas na última parte da vida, assim como a possibilidade de receber heranças.
+      É preciso cuidado para não se deixar levar pela sensibilidade em questões monetárias. Desta forma, evita perder dinheiro.
+      Um dos seus maiores passatempos é passar horas no seu lar com a família, ouvindo música ou descansando.
+      Por vezes esta posição indica possuir uma casa grande, ampla, com muita gente. Pode ser um excelente anfitrião, aficionado pelas reuniões em lugares onde possa desfrutar da comida e da bebida.
+      Gosta da vida social (restaurantes, bares, hotéis, etc.). Pode se beneficiar através da ajuda de parentes ou de associações com mulheres.`,
 
-        Pode se destacar em ocupações agrícolas ou em negócios imobiliários. Também nas atividades artísticas: poesia, música, belas artes ou na cozinha e na restauração.
+      `Saturno em Câncer pode provocar inibições na manifestação das emoções, que provavelmente resultam em afastamento da família.
+      Este isolamento emocional dentro do cenário doméstico pode conduzir algumas reações neuróticas.
+      O ambiente familiar inicial e os relacionamentos com os pais algumas vezes são frios, austeros ou cercados de problemas.
+      Os nativos podem ficar com cicatrizes emocionais e inibições. Podem ocultar seus sentimentos para preservar a sua dignidade.
+      Saturno em Câncer pode indicar dificuldades na estabilidade e na segurança da vida familiar.
+      Embora estas pessoas lutem para ter o seu próprio lar e propriedades, podem passar por algumas dificuldades financeiras e tensão no lar.
+      A sensibilidade emocional e a necessidade de aprovação pode forçar algumas vezes a construir uma couraça ao redor de si mesma, o que pode inibir a manifestação do verdadeiro calor nos seus relacionamentos pessoais.
+      É preciso observar se há má digestão dos alimentos ou um lento metabolismo corporal, que podem provocar excesso de peso e retenção de água nos tecidos.
+      Em outros casos, pode haver subnutrição, resultando em uma aparência ossuda. É preciso cuidado também com a hipersensibilidade emocional, atitudes defensivas ou ligações muito fortes aos bens materiais.
+      As pessoas com Saturno em Câncer, apesar disso, levam muito a sério as responsabilidades familiares. A necessidade de respeito ao indivíduo e sua família é sentida profundamente.`,
 
-        Essa posição de Júpiter indica riqueza, mas na última parte da vida, assim como a possibilidade de receber heranças.
+      `Urano no signo de Câncer indica uma geração de pessoas que buscam liberdade e excitação por intermédio da expressão emocional.
+      Elas terão ideias avançadas a respeito do lar e da vida familiar. Procuram independência de uma autoridade parental rígida, preferem ser amigos dos seus pais.
+      Mas, quando deixam o lar, certificam se de que podem voltar se o novo território que estão explorando for insustentável.
+      Muitos dos nascidos entre Junho de 1949 e Junho de 1956, que têm Urano em Câncer, deixaram os seus lares para terem mais liberdade do que a permitida na vida familiar.
+      Os nativos com Urano em Câncer administram os seus lares de maneira incomum. Gostam de arquitetura moderna ou construções de estilo diferente.
+      Seus lares podem ter muitos aparelhos eletrônicos e uma decoração admirável. Gostam de usar sua casa como local de encontro de amigos e atividades em grupo.
+      Também podem se interessar por tipos de vida comunitária ou arranjos familiares fora da tradicional família nuclear. Em muitos casos, os seus amigos se tornam membros da família.
+      Com Urano em Câncer, há uma considerável sensibilidade psíquica. É provável que atividades ocultas façam parte do cenário doméstico.
+      No seu pior, pode haver um temperamento excêntrico e súbitas mudanças de humor.`,
 
-        É preciso cuidado para não se deixar levar pela sensibilidade em questões monetárias. Desta forma, evita perder dinheiro.
+      `Indica uma geração possuidora de fortes laços psíquicos com o lar, a terra e a família. Pessoas muito idealistas, emocionalmente sensíveis, patriotas e superprotetor para com os outros.
+      Também tendem a ser religiosas, mas de uma forma emocional. Se Netuno estiver bem situado e com bons aspectos, pode haver tendências mediúnicas e faculdades psíquicas.
+      Com aspectos desarmônicos, o carácter se torna pessimista e autoindulgente. Podem existir dificuldades no lar por causa da mãe.
+      Como Câncer rege a mente inconsciente, quando Netuno ingressou neste signo apareceu Sigmund Freud difundindo as bases da psicanálise moderna, em 1902.`,
 
-        Um dos seus maiores passatempos é passar horas no seu lar com a família, ouvindo música ou descansando.
+      `Câncer significa lar, família, clã, tradição, nação. Esta geração passou através da completa destruição e transformação de tudo o que estes conceitos significam. A permanência de Plutão em Câncer contrariou o esquema tradicional familiar.
+      Os nativos dessa geração, entre os quais é frequente se verificar intensas uniões e cega obediência à família e à nação, podem sofrer uma trágica desilusão quando, ao longo da sua vida, se ver separados, tanto de uma como de outra.
+      Plutão em Câncer começou com a Primeira Guerra Mundial e permaneceu até à Segunda. Esta geração sabe muito a respeito do lado destrutivo do planeta.
+      Por isso, não é estranho encontrar nativos com uma forte inclinação para o passado, para a protetora imagem convencional do «lar», mais do que para enfrentar mudanças e revoluções.`,
 
-        Por vezes esta posição indica possuir uma casa grande, ampla, com muita gente. Pode ser um excelente anfitrião, aficionado pelas reuniões em lugares onde possa desfrutar da comida e da bebida.
+      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+      -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+      -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+      -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+      É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
+      -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Ganhar maturidade e autoridade sem perder a conexão com a criança interior e o mundo afetivo:/stron
+      Quem tem o Nodo Sul (Cauda do Dragão) em Câncer traz memórias de muito envolvimento familiar, susceptibilidade e imaturidade emocional. Foi sensível, dependente, carente, inocente, inseguro e imaturo. Pode ter priorizado a vida em família e os cuidados com o lar, em detrimento de uma vida profissional.
+      O espírito é brincalhão e amoroso. É um bom exemplo de como manter contato com a criança interior.  Mas também é fechado por causa de sua extrema sensibilidade, de sua necessidade de segurança e proteção. Valoriza muito o seu espaço e o seu cantinho.
+      Traz tendência para procurar o reconhecimento dos pais ou da família, ao ponto de não reconhecer seu próprio valor. Há tendência também para haver rejeição emocional por parte da família, ou pode haver conflito entre os seus próprios desejos e os de seus familiares.
+      Mas com o Nodo Norte (Cabeça do Dragão) no signo de Capricórnio, deve aprender a assumir responsabilidades. Vencer seus medos e enfrentar o mundo dos adultos de cabeça erguida, sem perder o contato com a sua criança interior.
+      O crescimento acontece quando se eleva acima das desarmonias familiares. Sai da postura infantil, enfrenta e dizer o que pensa, sente e respeita os seus próprios sentimentos.
+      Para tanto, é preciso trabalhar o apego e as dependências com a mãe ou com outros membros da família. Ao longo da vida podem acontecer separações da família, mesmo logo na infância. Pode haver desconforto emocional que leve à autonomia.
+      Deve cultivar o empreendedorismo, aprender a ser independentes e a contribuir para a sociedade.
+      Dedicar-se a outras esferas da vida além do envolvimento familiar. Cultivar a liderança e seguir para o desconhecido, contribuirá para a sua maturidade e a realização de seu papel no mundo.`,
 
-        Gosta da vida social (restaurantes, bares, hotéis, etc.). Pode se beneficiar através da ajuda de parentes ou de associações com mulheres.`,
+      `A felicidade é, essencialmente, alcançada no lar ou em qualquer campo de atividade bem definida e focalizada. Mas, o sentimento de lar poderá ser estendido para uma nação, para uma classe social ou para uma organização religiosa.
+      A satisfação normal e a facilidade de operação encontram-se onde são seguidos pontos de vista pessoais e particulares; a iluminação, porém, é alcançada por meio da identificação pessoal com algum todo maior, social ou espiritual.
+      Exemplos: Karl Marx, Mary B. Eddy, Shelley, o czar Nicolau II, Adolph Hither – e os mapas nacionais da Inglaterra e dos Estados Unidos (mapa com Sagitário ascendendo).`,
 
-      `Saturno em Câncer pode provocar inibições na manifestação das emoções, que provavelmente resultam em afastamento da família. Este isolamento emocional dentro do cenário doméstico pode conduzir algumas reações neuróticas.
+      `A ferida psicológica mais profunda está ligada ao relacionamento com a mãe na infância. Pode ter sofrido muito, devido a traumas, separações repentinas ou por ver que seu modo de expressar não era aceito por ela. Como resultado, tem dificuldade de aceitar as separações ao longo da vida.
+      É muito suscetível a qualquer tipo de reprovação, teme se abrir e buscar o apoio dos outros. Contudo, tem o dom de compreender a fragilidade e o sofrimento alheio, nutrindo emocionalmente aqueles que precisam de sua ajuda.
+      Sabe a importância que o carinho e a família têm na vida da pessoa. Entretanto, podem não ter tido a família estruturada de que precisava ou ter se sentido cuidado.
+      É preciso curar essa ferida oferecendo a sua compreensão, ao invés de desejar um novo pai ou mãe em sua vida. Precisará aprender a perdoar.
+      É provável que seus pais sejam uma figura com a qual você ache difícil se relacionar. Seja por lhe causar desapontamento, tristeza, conflitos, ou simplesmente por você não conhecer seu pai ou mãe, porque talvez tenha morrido ou abandonado o lar durante sua infância.
+      Esses problemas podem tomar as mais variadas formas: pode haver desejo incestuoso, mesmo sem haver contato sexual explícito, o que pode levar a procurar sempre pares inacessíveis. Talvez o pai ou mãe tenha criado o filho sozinho (e agora você pode procurar a mãe ou o pai numa parceria).
+      Pode haver uma fixação no pai ou mãe ou do pai/mãe pelo filho e esse pai ou mãe se torna um Deus que deve ser sempre obedecido. Assim qualquer tentativa de fazer valer seus desejos diferentes dos do pai ou da mãe acarretam muita culpa, por estar "traindo" esse pai ou mãe.
+      Você pode desprezar seus pais por eles serem ignorantes (ou por qualquer outro motivo) e estender esse desprezo para outras pessoas dificultando seus relacionamentos.
+      Você pode ter sofrido traumas e súbitas separações de seus pais, dando origem a uma sensação de desorientação e a uma incapacidade de entender o que realmente aconteceu.
+      Poderá se culpar por tudo isso e se tornar hipersensível a qualquer tipo de censura ou reprovação. Essas culpas poderão contaminar sua posição de pai agora na vida adulta, fazendo você sempre se sentir em cheque.
+      Sua segurança básica é fraca, você gostaria muito de voltar à segurança e aconchego do útero materno. Você, mais que as outras pessoas, está disposto a sacrificar seus próprios sentimentos e potencialidade com o intuito de pertencer a outra pessoa ou a algum grupo.
+      Mas acaba sempre se sentindo dentro de uma prisão, pois essa entrega em troca de aconchego impede que você continue crescendo, então você deve sair e buscar outro útero que o acolha. Mas a solução não é essa. Você deve buscar dentro de si mesmo toda a segurança de que necessita.
+      Lembre-se que por mais fortes que as outras pessoas pareçam, elas também são apenas bebês no útero do universo e são tão frágeis quanto você.
+      Você pode se revelar muito sensível ao sofrimento alheio e estabelecer com os outros uma relação empática. Na sua presença as pessoas podem ter facilidade em expressar seus sentimentos. Você tem o dom de nutrir emocionalmente os outros, aceitá-las em suas fraquezas, sem causar-lhes qualquer ameaça.
+      Como você se sente muito confortável nas relações do tipo mãe/filho com as pessoas, talvez sinta dificuldade em outros tipos de relação.
+      A separação também é difícil para você, pois precisa sentir-se necessário. Pode até recorrer a chantagens emocionais sutis a fim de ficar ligado às pessoas, como um bebê à sua mãe.
+      Não é fácil deixar os outros adquirirem sua independência. Analise o quanto esse comportamento atrapalha os seus relacionamentos.
+      Você pode se sentir tão carente e vulnerável que teme abrir-se e receber apoio dos outros, ficando encolhido no interior de sua concha protetora. Você pode sentir como fome suas necessidades emocionais, por isso você é impelido a comer quando está carente.
+      É provável que você tenha procurado no primeiro relacionamento uma parceira/mãe, pode ter invejado o carinho que seus filhos recebem da parceira.
+      Após uma separação dolorosa, no entanto, você é capaz de recuperar segurança interior, estabelecer um contato muito bom consigo próprio, ser intuitivo, saber, mesmo à distância, o que acontece com seus entes queridos.
+      Se você veio de uma família que o magoava através de provocações, caçoadas, se as suas demonstrações emocionais foram censuradas, você deve ter aprendido a exercer um controle muito forte sobre suas emoções, o que pode levá-lo a explosões periódicas e a gastar muita energia psíquica, o que o impede de ser mais feliz.
+      Você deve resgatar a franqueza e a naturalidade da criança sensível que tem dentro de si. Deve descobrir a criança vulnerável e necessitada que existe em você e cuidar dela. A procura do útero acolhedor finalmente terminará quando conseguir se transformar em sua própria mãe amorosa.
+      Você tem muita compaixão pelas comunidades sofredoras e se sentirá recompensado emocionalmente caso possa ajudá-los de algum modo, sente um interesse pessoal por grupos discriminados pela raça ou religião que possuem, ou que tenham passado por situações de guerra ou destruição de suas casas ou países, ou simplesmente pessoas que estão passando por situações difíceis por qualquer razão.
+      Você sabe o que elas sentem como se tivesse passado por situação semelhante e procura ajudar de algum modo para sentir-se melhor. Atividades que levem a melhorar o estado de nosso planeta são favoráveis para você.
+      Exemplos: reciclagem de materiais, coletas seletivas de lixo, ecologia, melhoria das condições dos rios e mares, saneamento ou recuperação de áreas já danificadas na natureza, médico ou curador usando tratamentos de saúde naturais com plantas, minerais, música e cores. Atividades que preservam não só o planeta como os seres humanos.`,
 
-        O ambiente familiar inicial e os relacionamentos com os pais algumas vezes são frios, austeros ou cercados de problemas. Os nativos podem ficar com cicatrizes emocionais e inibições. Podem ocultar seus sentimentos para preservar a sua dignidade.
+      `O parceiro ideal é aquele que tenha interesse em construir um lar, uma família, uma casa. Que seja sensível e carinhoso. Podem ser pessoas protetoras, intimistas, caseiras ou familiares.
+      De alguma forma, o relacionamento é marcado pelo zelo e pela dedicação. Um dos parceiros pode servir como pai ou mãe.
+      Mas também podem ser pessoas que necessitam de muitos cuidados ou muito carentes. O casamento é vivido em clima acolhedor, a menos que suas tendências vingativas sejam estimuladas.
+      Indica uma esposa que será muito apegada a seu lar (no mapa feminino). Impacto do meio infantil inicial sobre o tipo de escolha afetiva e de casamento.`,
 
-          Saturno em Câncer pode indicar dificuldades na estabilidade e na segurança da vida familiar. Embora estas pessoas lutem para ter o seu próprio lar e propriedades, podem passar por dificuldades financeiras e tensão no lar.
+      `Mercúrio retrógrado nesta casa indica alguém cuja mentalidade era muito infantil e voltada para o passado. Muito intuitivo, mas extremamente emotivo, o nativo era incapaz de qualquer objetividade.
+      Não conseguia ter um distanciamento das suas emoções para fazer julgamentos serenos.  Sedento por segurança emocional e familiar ficava sempre a reboque das opiniões da família.
+      Na vida atual pode manifestar notáveis talentos para compreender as crianças. Mas deve crescer e amadurecer combatendo e dominando suas turbulências dramáticas e afetivas.`,
 
-          A sensibilidade emocional e a necessidade de aprovação algumas vezes à força a construir uma couraça ao redor de si mesma, o que pode inibir a manifestação do verdadeiro calor nos relacionamentos pessoais.
+      `Em Câncer, signo da tradição e da família, Vênus quando está retrógrado demora-se na infância e na imaturidade de um comportamento mais exigente de atenções do que generoso.
+      Muito dependente das suas experiências anteriores, o nativo procura reconstituir sua família de uma encarnação precedente.
+      Essa posição de Vênus indica um "complexo de Édipo" tanto mais difícil de liquidar quanto é herdado de uma vida passada.
+      O nativo se esforça para reconstituir sua vida presente sobre o modelo das suas infâncias passadas: quer amar sem correr riscos.
+      Poderá se libertar quando amadurecer as suas emoções e assumir a fundo a sua paternidade (ou maternidade).`,
 
-          É preciso observar se há má digestão dos alimentos ou um lento metabolismo corporal, que podem provocar excesso de peso e retenção de água nos tecidos.
+      `O dinamismo do nativo está bloqueado por sua emotividade. É muito infantil, se vê como uma criança.
+      A motivação profunda de suas iniciativas e atitudes é procurar proteção. É atraído por pessoas mais velhas do sexo oposto.
+      Tendo-se refeito mal dos traumas da juventude (vivenciados em vidas passadas), tende a recriar o mundo à imagem de sua família passada.
+      Deve agora amadurecer, melhorar o equilíbrio e o controle emocional para obter harmonia no lar.`,
 
-          Em outros casos, pode haver subnutrição, resultando em uma aparência ossuda. É preciso cuidado também com a hipersensibilidade emocional, atitudes defensivas ou ligações muito fortes aos bens materiais.
+      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+      O nativo foi ingênuo em vidas passadas. Tomou-se inocentemente por uma garota bem simples, ou por um bom moço sem complicações, sem ter a menor noção dos abismos de perversidade contidos em todo o ser humano!
+      A sua ideia da verdade é mais emocional do que objetiva. Permanece por muito tempo sequioso de segurança afetiva e passa por conflitos interiores que é incapaz de analisar.
+      Nesta vida deve amadurecer. Superar carências e emoções infantis para viver num plano mais prático, realista e objetivo.`,
 
-          As pessoas com Saturno em Câncer, apesar disso, levam muito a sério as responsabilidades familiares. A necessidade de respeito ao indivíduo e sua família é sentida profundamente.
-          `,
+      `O nativo progride e amadurece lentamente, pois está muito apegado às suas emoções passadas.
+      A sua intensa necessidade de proteção o faz procurar contato com uma figura paternal, por quem pode sentir uma afeição apaixonada e exclusiva.
+      Em vidas passadas pode ter vivido sob o abrigo, a proteção ou a autoridade de um antigo pai, patrão ou chefe. Na vida atual tem medo de sair da concha e teme não ser aceito pelos outros.
+      Só se interessa pelas pessoas mais jovens na medida em que possa ligá-las ao passado, à sua infância, ou à pessoa que ama como pai.
+      Pode ser incapaz de apreciar algumas coisas sozinho, e por isso mesmo é preciso novas referências!
+      O seu carma atual é amadurecer as emoções, ganhar autossuficiência, descobrir em si mesmo a segurança, a estrutura, a responsabilidade.`,
 
-      `Urano no signo de Câncer indica uma geração de pessoas que buscam liberdade e excitação por intermédio da expressão emocional. Elas terão ideias avançadas a respeito do lar e da vida familiar. Procuram independência de uma autoridade parental rígida, preferem ser amigos dos seus pais.
+      `Esta posição planetária indica certa desarmonia afetiva. O nativo fica dilacerado entre a sua necessidade infantil de proteção materna e a busca uraniana da liberdade.
+      Toda vez que tenta escapar da dominação familiar, para enfim se libertar, experimenta um certo sentimento de frustração. Retorna, então, à família (não sem perceber que a liberdade lhe ensinou muito!).
+      Há tendência de reprimir sentimentos e emoções. É preciso desenvolver autonomia afetiva, para que seus sentimentos se desenvolvam.
+      O seu carma é aprender na vida atual que a afeição aos seus familiares e às suas relações íntimas não deve impedi-lo de crescer. O nativo deve conquistar de qualquer maneira a liberdade de que necessita.`,
 
-        Mas, quando deixam o lar, certificam‑se de que podem voltar se o novo território que estão explorando for insustentável.
+      `Esta posição planetária indica um carma familiar no qual o lar se dissolve sem que o interessado compreenda muito bem por quê: desaparecimento dos pais, fuga de um dos cônjuges, escapadas ou fuga dos filhos.
+      O nativo se apegava choramingando a uma situação sem esperança, assumindo uma atitude de vítima (que não o faz progredir nada).
+      Foi assim que se viram viúvas ou mães que haviam perdido um filho instalar-se para o resto da vida num luto permanente (particularmente depois da Grande Guerra de 1914-1918).
+      Ou ainda, pessoas abandonadas pelo cônjuge, que se recusam a tentar compreender por que, dizendo: "Quanto a mim, sempre fui um perfeito esposo (ou esposa)!"
+      Netuno retrógrado em Câncer indica um carma no qual o nativo deveria apren¬der a reconsiderar seus laços familiares sem sentimento de posse.
+      Aprender a amar os seus com desprendimento, procurar as razões espirituais e cármicas de seu afastamento. Só uma atitude espiritual dinâmica pode ajudar a liquidar os carmas de Netuno retrógrado.`,
 
-        Muitos dos nascidos entre Junho de 1949 e Junho de 1956, que têm Urano em Câncer, deixaram os seus lares para terem mais liberdade do que a permitida na vida familiar.
+      `Plutão em Câncer leva o nativo a refletir mais sobre a vida privada e familiar. Os primeiros líderes da ecologia, pertencentes a esta geração, questionam se o progresso técnico realmente melhora a qualidade de vida, à qual são mais sensíveis do que seus pais.
+      A passagem de Plutão em Câncer coincidiu com um aumento do divórcio. Mas o casamento, tal como era concebido no século XIX, tinha dado margem a tais abusos de poder e encoberto tantos dramas (em nome dos princípios sacrossantos) que era fatal chegar-se a uma rejeição dele, ou então a uma explosão: o papel de Plutão é o de eliminar as escórias.
+      Assim, o nativo marcado por Plutão retrógrado em Câncer muitas vezes enfrenta, é verdade, um divórcio. O desmoronamento de seu lar é vivido como um renascimento. O trauma afetivo libera novas forças emocionais, que até ali tinham estado bloqueadas.
+      Entretanto, o choque do divórcio só é salutar se o nativo tiver realmente renunciado aos erros anteriores. Infelizmente, Câncer é signo de lembrança, de apego; não aprecia a mudança.
+      As crises familiares são, portanto, particularmente frequentes com esta posição plutoniana. Uma chave para se libertar: a busca das vidas passadas.
+      Ela permitirá aos nativos descobrir que, muito provavelmente, seu cônjuge, assim como seus pais e seus filhos, já o foram numa outra vida!
+      Simbolizando Câncer a família, e Plutão o "retorno das coisas", trata-se aqui da volta das entidades de outrora a esta vida. Plutão retrógrado indica mais particularmente a volta do mesmo lar e dos mesmos filhos.
+      Nem sempre se trata de uma dívida - mas de pessoas que se amaram e se reencarnaram juntas para se ajudar mutuamente.
+      Tal é o caso dos irmãos gêmeos, por exemplo, segundo a Tradição, que resolvem nascer juntos para não serem separados.`,
 
-        Os nativos com Urano em Câncer administram os seus lares de maneira incomum. Gostam de arquitetura moderna ou construções de estilo diferente. Seus lares podem ter muitos aparelhos eletrônicos e uma decoração admirável.
+      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
+      A ferida psicológica mais profunda está ligada ao relacionamento com a mãe na infância. Pode ter sofrido muito, devido a traumas, separações repentinas ou por ver que seu modo de expressar não era aceito por ela.
+      Como resultado, tem dificuldade de aceitar as separações ao longo da vida, é muito suscetível a qualquer tipo de reprovação e teme abrir-se e buscar o apoio dos outros.
+      Contudo, tem o dom de compreender a fragilidade e o sofrimento alheio, nutrindo emocionalmente aqueles que precisam de sua ajuda.
+      Sabe a importância que o carinho e a família tem na vida da pessoa. Entretanto, podem não ter tido a estruturada de que precisava ou ter se sentido cuidado.
+      Precisam curar essa ferida oferecendo a sua compreensão, ao invés de desejar um novo pai ou mãe em sua vida. Precisará aprender a perdoar.
+      É provável que seus pais sejam uma figura com a qual você ache difícil se relacionar, seja por lhe causar desapontamento, tristeza, conflitos, ou simplesmente por você não conhecer seu pai ou mãe, porque talvez tenha morrido ou abandonado o lar durante sua infância.
+      Esses problemas podem tomar as mais variadas formas: pode haver desejo incestuoso, mesmo sem haver contato sexual explícito, o que pode levar a procurar sempre pares inacessíveis; talvez o pai ou mãe tenha criado os filhos sozinho (a), e agora você pode procurar a mãe numa parceira.
+      Pode haver uma fixação no pai ou mãe ou de pai e mãe pelo filho, e esse pai ou mãe se torna um Deus que deve ser sempre obedecido, e qualquer tentativa de fazer valer seus desejos diferentes dos do pai ou da mãe acarretam muita culpa.
+      Por estar "traindo" esse pai ou mãe; você pode desprezar seus pais por eles serem ignorantes (ou por qualquer outro motivo) e estender esse desprezo para outras pessoas dificultando os seus relacionamentos.
+      Você pode ter sofrido traumas e súbitas separações de seus pais, dando origem a uma sensação de desorientação e a uma incapacidade de entender o que realmente aconteceu.
+      Poderá se culpar por tudo isso, e se tornar hipersensível a qualquer tipo de censura ou reprovação. Essas culpas poderão contaminar sua posição de pai agora na vida adulta, fazendo você sempre se sentir em cheque.
+      Sua segurança básica é fraca, você gostaria muito de voltar à segurança e aconchego do útero materno. Você, mais que outras pessoas, está disposto a sacrificar seus próprios sentimentos e potencialidade com o intuito de pertencer a outra pessoa ou a algum grupo.
+      Mas acaba sempre se sentindo dentro de uma prisão, pois essa entrega em troca de aconchego impede que você continue crescendo, então você deve sair e buscar outro útero que o acolha, mas a solução não é essa.
+      Você deve buscar dentro de si mesmo toda a segurança de que necessita. Lembre-se que por mais fortes que as outras pessoas pareçam, elas também são bebês no útero do universo, e são tão frágeis quanto você.
+      Você pode se revelar muito sensível ao sofrimento alheio e estabelecer com os outros uma relação empática. Na sua presença as pessoas podem Ter facilidade em expressar seus sentimentos.
+      Você tem o dom de nutrir emocionalmente os outros, aceitá-las em suas fraquezas, sem causar-lhes qualquer ameaça.
+      Como você se sente muito confortável nas relações do tipo mãe/filho com as pessoas, talvez sinta dificuldade em outros tipos de relação.
+      A separação também é difícil para você, pois precisa sentir-se necessário, e pode até recorrer a chantagens emocionais sutis a fim de ficar ligado às pessoas, como um bebê à sua mãe.
+      Não é fácil deixar os outros adquirirem sua independência. Analise o quanto esse comportamento atrapalha seus relacionamentos. Você pode se sentir tão carente e vulnerável que teme abrir-se e receber apoio dos outros, ficando encolhido no interior de sua concha protetora.
+      Acaba passando fome diante de um banquete. Você pode sentir como fome suas necessidades emocionais, por isso você é impelido a comer quando está carente.
+      É provável que você tenha procurado no primeiro relacionamento uma parceira/mãe, pode ter invejado o carinho que seus filhos recebem da parceira.
+      Após uma separação dolorosa, no entanto, você é capaz de recuperar segurança interior, estabelecer um contato muito bom consigo mesmo, ser intuitivo, saber, mesmo à distância, o que acontece com seus entes queridos.
+      Se você veio de uma família que o magoava através de provocações, caçoadas, se suas demonstrações emocionais foram censuradas, você deve ter aprendido a exercer um controle muito forte sobre suas emoções, o que pode levá-lo a explosões periódicas e a gastar muita energia psíquica, o que o impede de ser mais feliz.
+      Você deve resgatar a franqueza e a naturalidade da criança sensível que tem dentro de si. Deve descobrir a criança vulnerável e necessitada que existe em você e cuidar dela. A procura do útero acolhedor finalmente terminará quando conseguir se transformar em sua própria mãe amorosa.
+      Você tem muita compaixão pelas comunidades sofredoras e se sentirá recompensado emocionalmente caso possa ajudá-los de algum modo.
+      Sente um interesse pessoal por grupos discriminados pela raça ou religião que possuem, ou que tenham passado por situações de guerra ou destruição de suas casas ou países, ou simplesmente pessoas que estão passando por situações difíceis por qualquer razão.
+      Você sabe o que elas sentem como se tivesse passado por situação semelhante e procura ajudar de algum modo para sentir-se melhor.
+      Atividades que levem a melhorar o estado de nosso planeta são favoráveis para você, como por exemplo, reciclagem de materiais, coletas seletivas de lixo, ecologia, melhoria das condições dos rios e mares, saneamento ou recuperação de áreas já danificadas na natureza.
+      Pode encontrar a sua felicidade em profissões como médico ou curador usando tratamentos de saúde naturais com plantas, minerais, música e cores, e muitas outras atividades que preservam não só o planeta como os seres humanos.`,
 
-        Gostam de usar sua casa como local de encontro de amigos e atividades em grupo. Também podem se interessar por tipos de vida comunitária ou arranjos familiares fora da tradicional família nuclear. Em muitos casos, os seus amigos se tornam membros da família.
-
-        Com Urano em Câncer, há uma considerável sensibilidade psíquica. É provável que atividades ocultas façam parte do cenário doméstico. No seu pior, pode haver um temperamento excêntrico e súbitas mudanças de humor.
-        `,
-
-      `text 10 Lorem ipsum`,
-
-      `text 11 Lorem ipsum`,
-
-      `text 12 Lorem ipsum`,
-
-      `text 13 Lorem ipsum`,
-
-      `text 14 Lorem ipsum`,
-
-      `text 15 Lorem ipsum`
+      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
+      É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
+      Esta é uma esposa que será muito apegada a seu lar (no mapa feminino). A menos que suas tendências vingativas sejam estimuladas. Impacto do meio infantil inicial sobre o tipo de escolha afetiva e de casamento.
+      Costuma valorizar as suas alegrias afetivas íntimas. Decoração do lugar onde mora com o gosto bem personalizado. Relação cármica entre uma união desta vida atual e outra, de uma vida passada.
+      Mas atenção ao considerar esta possibilidade! No mapa de um homem, escolha de uma esposa com características muito maternais e protetoras, mas verificar a posição e os aspectos de sua Lua Natal.`,
     ],
     levels: [
-        `Níveis evolutivos da alma (reflita para perceber em que nível está):`,
+        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está):`,
 
-        `1º nível de evolução:`,
+        `-stron 1º nível de evolução: /stron`,
 
         `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade.`,
 
-          `2º nível de evolução:`,
+        `- stron2º nível de evolução: /stron`,
 
         `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais.`,
 
-          `3º nível de evolução:`,
+        `-stron 3º nível de evolução: /stron`,
 
         `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas.`
     ],

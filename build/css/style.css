@@ -175,7 +175,7 @@ body {
     color: #F1F1F1;
     display: inline; }
   body .inline {
-    display: inline-block;
+    display: inline;
     padding: 0 4px 0 0; }
   body .strong {
     font-weight: bold; }
