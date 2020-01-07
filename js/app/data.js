@@ -121,7 +121,7 @@ const data = {
       Na via negativa, é preciso estar sempre atento à impaciência, à agressividade, à franqueza rude e desrespeitosa, à rivalidade e ao autoritarismo.
       O equilíbrio está no signo oposto, Libra, com suas qualidades de ponderação e equilíbrio.
       O desafio é encontrar a harmonia, seja consigo mesmo ou em suas relações. Aprender a ceder quando necessário, dar lugar à vontade dos outros, ser mais manso e não ferir os demais.
-      Sendo mais ponderado, pode conseguir melhores resultados em seus projetos. Se o ariano consegue ir além de seu ego, transforma-se num herói, num guerreiro da Luz.`,
+      Sendo mais ponderado, pode conseguir melhores resultados em seus projetos. Se o ariano consegue ir além de seu ego, transforma-se num herói, num guerreiro da Luz. -break`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
       É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -136,8 +136,8 @@ const data = {
       Tende a considerar a reação dos outros de maneira pessoal e a dominar os outros emocionalmente. Num relacionamento, o que lhe interessa é a conquista.
       Por tudo isso, é importante aprender a equilibrar suas imposições com mais ternura, cordialidade e suavidade.`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. -break
+      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       Quem tem Ascendente em Áries entra na vida como quem entra num desafio: com impulsividade, pioneirismo, ousadia, impaciência.
       Há necessidade de ser mais decidido, de agir e despertar o seu poder para criar a sua própria vida.
       -stron O aprendizado é encarar a vida de maneira direta e enérgica. Cultivar uma expressão bem ativa, espontânea, competitiva na via positiva e assertiva./stron
@@ -147,16 +147,16 @@ const data = {
       -stron Quando aprender a agir com autoestima, por vontade e escolha própria, em vez de reagir continuamente à necessidade de se afirmar, poderá vivenciar plenamente as qualidades de ação, assertividade e decisão associadas ao seu signo ascendente./stron
       Fisicamente, o Ascendente em Áries pode ter uma postura enérgica, viva, rápida e impaciente. Rosto vivo, olhar ágil, franco, direto e intenso.
       Os movimentos são rápidos, repentinos e por vezes até bruscos e diretos. É como se a qualquer momento fosse mergulhar de cabeça em uma nova atividade.
-      Observe-se para não agir sem pensar como, por exemplo: até querer dizer “saia da minha frente”.`,
+      Observe-se para não agir sem pensar como, por exemplo: até querer dizer \"saia da minha frente\".`,
 
-      `Mercúrio neste signo indica um tipo de raciocínio que tende a ser determinado, impulsivo e competitivo.
+      `Mercúrio neste signo indica um tipo de raciocínio que tende a ser determinado, impulsivo e competitivo. -break
       Os nativos gostam de discutir e argumentar. Com frequência, possuem a habilidade de pensar rapidamente e podem criar muitas ideias originais.
       Entretanto, podem ser imprudentes ao tomarem decisões e considerar as coisas a partir de um ponto de vista muito pessoal.
       Pode haver irritação e um temperamento irascível. No seu extremo, esta tendência pode resultar em egotismo intelectual e atitudes voluntariosas.
       Os nativos tem dificuldade para tolerar demoras. Consequentemente, não gostam de se submeter a longos e demorados processos de decisão demorados, que se tornam frustrantes.
       A sua impulsividade significa que nem sempre concluem as ideias que iniciam.`,
 
-      `Quem possui Vênus nesse signo do zodíaco é ardente e impulsivo, podendo se apaixonar e desapaixonar de maneira quase instantânea.
+      `Quem possui Vênus nesse signo do zodíaco é ardente e impulsivo, podendo se apaixonar e desapaixonar de maneira quase instantânea. -break
       As paixões súbitas não duram muito, pois numa relação, a conquista é a parte mais estimulante para eles. Depois, quando o fogo da paixão começa a diminuir, eles podem perder o interesse.
       Quem tem Vênus em Áries tende a buscar o prazer de forma imediatista. É caprichoso e inconstante. Quando se interessa por alguém quer sexo no primeiro encontro.
       Incapaz de esperar, não dá muitas voltas para dizer o que quer: vai direto ao assunto, de maneira franca e aberta, sem rodeios. É pegar ou largar!
@@ -167,19 +167,19 @@ const data = {
       Portanto, num relacionamento de longo prazo é necessário contar sempre com algo novo e excitante.
       Quem tem Vênus em Áries deve aprender a ser criativo no amor, deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura.`,
 
-      `Marte está domiciliado no signo de Áries, expressa aqui todo o seu potencial. Indica boa energia vital, entusiasmo, capacidade de conquista, impulsividade, audácia, gosto por aventura, ousadia, espírito empreendedor e pioneiro.
+      `Marte está domiciliado no signo de Áries, expressa aqui todo o seu potencial. Indica boa energia vital, entusiasmo, capacidade de conquista, impulsividade, audácia, gosto por aventura, ousadia, espírito empreendedor e pioneiro. -break
       Confere boa vitalidade e energia física e sexual. Boa fertilidade. A pessoa com esse Marte adora os esportes e adora competir, querendo chegar sempre em primeiro lugar.
       Tem uma necessidade de canalizar as suas energias de forma física.
       Impaciente e apressado pode passar por cima dos outros, por querer estar sempre um passo à frente. Na via negativa, é preciso trabalhar o descontrole nas ações e palavras.
       Tamanha energia pode ser geradora de violência, agressividade excessiva, impaciência que causa acidentes de todo tipo e principalmente perigo com armas, fogo, acidentes de carro e quedas.
       Essa energia também pode provocar dores de cabeça, ferimentos na cabeça ou no rosto.`,
 
-      `O nativo pode ganhar dinheiro através de seus méritos pessoais. Mas o excesso de otimismo pode provocar grandes perdas económicas se não tiver cuidado.
+      `O nativo pode ganhar dinheiro através de seus méritos pessoais. Mas o excesso de otimismo pode provocar grandes perdas económicas se não tiver cuidado. -break
       Há forte inclinação para as ciências, a literatura, a religião, as viagens. É possível que se dedique a duas profissões em simultâneo, ou que estas mudem várias vezes.
       O nativo é, em certa medida, precursor, pioneiro ou inovador, mas a sua natureza não é conservadora. Geralmente é afortunado e respeitado.
       Tem habilidades especiais para a liderança, mantém sempre uma fé inquebrantável em si mesmo. Tende a tomar posições de responsabilidade, sobretudo em cargos públicos.`,
 
-      `Saturno no signo de Áries indica que o nativo é forçado pelas circunstâncias a adquirir iniciativa, paciência e autoconfiança para enfrentar as necessidades práticas da vida.
+      `Saturno no signo de Áries indica que o nativo é forçado pelas circunstâncias a adquirir iniciativa, paciência e autoconfiança para enfrentar as necessidades práticas da vida. -break
       Através da obrigação de desenvolver seus próprios recursos, passa a desenvolver sua vontade e força de carácter.
       Áries representa o impulso inicial de ação, enquanto Saturno representa a lei de causa e efeito que traz de volta as consequências de uma ação.
       Por isso fica mais difícil para o nativo com esta posição ver a si mesmas como os outros o veem.
@@ -192,7 +192,7 @@ const data = {
       Essa tendência de buscar exclusivamente objetivos pessoais pode impedi los de colaborar com os outros e, assim, limitar o seu sucesso. Portanto, é preciso observar se falta diplomacia.
       O nativo gosta de fazer tudo sozinho, cuidando das suas próprias necessidades sem dar ou solicitar ajuda. Preferem ter os seus próprios negócios, mas isso nem sempre é possível com esta posição.`,
 
-      `Urano no signo de Áries indica um nativo cuja missão é indicar novos caminhos nas ciências e reforma social.
+      `Urano no signo de Áries indica um nativo cuja missão é indicar novos caminhos nas ciências e reforma social. -break
       Para ele a liberdade para agir à sua maneira é de extrema importância. Possui coragem, audácia, iniciativa e habilidades.
       O seu espírito de aventura é forte, o nativo precisa constantemente de novas experiências para se sentir feliz.
       Esta posição pode torná-los indelicados e francos. Exigem mudanças e recusam-se a viver no estilo dos seus pais ou das gerações precedentes.
@@ -200,16 +200,16 @@ const data = {
       Quando o individualismo é levado a extremos, torna as pessoas cegas para a estrutura social da qual dependem grandes empreendimentos.
       Impulsividade e mau génio são as armadilhas desta posição. Os nativos precisam aprender a ter mais consideração pelos outros e maior capacidade de colaboração.`,
 
-      `As pessoas nascidas com Netuno em Áries mostram muita iniciativa para a criatividade espiritual, experimentando a sensação de terem de cumprir uma missão.
+      `As pessoas nascidas com Netuno em Áries mostram muita iniciativa para a criatividade espiritual, experimentando a sensação de terem de cumprir uma missão. -break
       São pioneiros em novos conceitos religiosos e filosóficos. A expressão negativa de Netuno é o falso orgulho, o egoísmo e o desejo de se sobressair ou se destacar.
       Com a entrada de Netuno em Áries no século passado, inicia-se uma época de investigação no campo psíquico, bem como o desenvolvimento do espiritualismo.`,
 
-      `Esta geração caracterizou-se pelo espírito revolucionário. Teve de vencer sérios obstáculos e viver momentos de muita dureza a fim de conseguir liberdade e uma nova forma de vida, tal como a conquista do Oeste americano.
+      `Esta geração caracterizou-se pelo espírito revolucionário. Teve de vencer sérios obstáculos e viver momentos de muita dureza a fim de conseguir liberdade e uma nova forma de vida, tal como a conquista do Oeste americano. -break
       Pioneiros, reformadores, líderes de qualquer causa obcecados pelo valor pessoal. Sempre dispostos a destruir qualquer obstáculo à sua vontade, que não reconhece limites.
       Plutão em Áries se manifesta de forma individualista. A necessidade de mudar todo o precedente se traduz numa urgência pela transformação pessoal.
       Põe a descoberto o que deixou de nos servir no ciclo anterior e propicia a procura de novos valores.`,
 
-      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break
       -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
       -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
       -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
@@ -226,11 +226,11 @@ const data = {
       Com o tempo e a experiência de vida pode desativar sua violência, ganhar humildade e respeito pela sensibilidade e necessidades dos outros.  Aprender a arte do relacionamento, do compromisso, da harmonia do equilíbrio com o outro.
       Ou seja, o equilíbrio só é possível se aprender a ceder e se ajustar às necessidades das pessoas com quem conviver.`,
 
-      `A facilidade de funcionamento e a felicidade vêm com o exercício do poder de iniciativa e com um confiante mergulho na experiência.
+      `A facilidade de funcionamento e a felicidade vêm com o exercício do poder de iniciativa e com um confiante mergulho na experiência. -break
       O indivíduo deverá deixar-se guiar pela intuição e deverá ver-se como um ativador de novos impulsos sociais e culturais, tendendo a identificar a sua personalidade com tal impulso criativo, ou então se sentirá frustrado e infeliz se for impedido de agir assim.
       Exemplos: Francis Bacon, George Washington, Clara Barton, Isaac Newton, Louis Pasteur, Albert Einstein, Frederic Chopin, Will Levington Comfort.`,
 
-      `Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir.
+      `Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir. -break
       Parece que você só se sente vivo quando refletido em alguém. Você só tem motivação para defender alguma causa quando o benefício é dos outros, como se tivesse capacidade de luta, mas pouca vontade própria.
       Com medo de ser impelido a entrar num ciclo repetitivo de tentativas inúteis e autodestrutivas, e para compensar a dor, você pode se limitar a fazer demonstrações de sua força e espírito de luta, sem entrar para valer na luta.
       Você é propenso a agir de modo precipitado, descarregando de uma vez sua tensão emocional e transformando-a em ação.
@@ -256,52 +256,52 @@ const data = {
       Você adquire força na luta, mas deve aprender a ser um nobre rival diante daqueles com os quais compete. Se for capaz de superar a sua agressividade passiva, sua tendência a agir dissimuladamente, sentirá a vida fluir em suas veias.
       Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você.`,
 
-      `O parceiro ideal é aquele que tenha interesse em esportes e atividades dinâmicas e seja ativo, assertivo, o tipo que está sempre em busca de novas emoções e aventuras.
+      `O parceiro ideal é aquele que tenha interesse em esportes e atividades dinâmicas e seja ativo, assertivo, o tipo que está sempre em busca de novas emoções e aventuras. -break
       Podem ser pessoas muito ativas, vibrantes, dinâmicas. O que conta é o desafio e a coragem, porque Áries não aprecia as coisas fáceis. Quanto mais difícil, mais desperta o interesse.
       De alguma forma são parcerias desafiantes. Mas também podem ser pessoas impulsivas, violentas ou conquistadoras que apreciam apenas a conquista e formam relacionamentos de curta duração.
       Representa a busca de uma parceria dinâmica e ativa, marciana. Sua evolução passa pelo esforço de construir uma relação durável e sólida, na qual a individualidade é respeitada.`,
 
-      `Em suas vidas passadas o nativo pode ter sido um comerciante e como tal, agia de forma agressiva, impaciente ou intolerante.
+      `Em suas vidas passadas o nativo pode ter sido um comerciante e como tal, agia de forma agressiva, impaciente ou intolerante. -break
       Faltava-lhe paciência nas suas negociações, chegando até a insultar os seus parceiros. Se foi um estudante ou intelectual, tinha uma tendência infantil a se vangloriar do seu desempenho intelectual.
       Talvez também tivesse professado opiniões militaristas extremistas que haviam incitado as pessoas a lutarem entre si.
       Uma coisa é certa: o nativo deve transformar seu discurso impulsivo e agressivo, com o qual feriu muita gente. Deve aprender a ouvir, a se comunicar com mais maturidade e compaixão.`,
 
-      `O nativo desconfia dos outros: tem dificuldade em assumir o casamento, em virtude de uma grande desconfiança em relação ao amor.
+      `O nativo desconfia dos outros: tem dificuldade em assumir o casamento, em virtude de uma grande desconfiança em relação ao amor. -break
       Ficará feliz quando compreender as virtudes do diálogo: ouvir mais, deixar o ser amado se expressar, sem lhe impor sempre uma direção ou um comando.
       Essa Vênus imediatista, impulsiva, autoritária e exigente deve aprender a paciência. Deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura.`,
 
-      `O enorme sentimento de insegurança que o nativo experimenta é na verdade, herdado de vidas passadas.
+      `O enorme sentimento de insegurança que o nativo experimenta é na verdade, herdado de vidas passadas. -break
       Foi pouco consciente do mundo que o cerca: impulsivo, imaturo, imprudente, imediatista, impaciente, apaixonado e violento. Faltou-lhe objetividade.
       Nesta vida deve buscar o autoconhecimento. Pode se libertar ao tomar consciência de suas próprias tendências negativas.
       Ao invés de se voltar contra os outros, deve olhar para si mesmo, com mais ponderação. Exercitar as virtudes da tolerância, da diplomacia, da gentileza e da paciência.`,
 
-      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+      `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas. -break
       Com Júpiter retrógrado em Áries, é preciso cuidado com as ideias preconcebidas! A pessoa tende a ser um tanto sincero e direto demais, é preciso cultivar flexibilidade em face das circunstâncias da vida.
       Há tendência para julgar os indivíduos segundo critérios pouco realistas e categorias demasiado estanques ou dogmáticas.
       A vida conjugal é um grande aprendizado, por causa da sua possível vaidade, acrescida, por vezes, de uma surpreendente ingenuidade.
       Também por causa de sua sede inextinguível de novas experiências! Lição cármica desta posição planetária: ser honesto consigo mesmo, desenvolver o autoconhecimento e a autoestima.`,
 
-      `Em vidas passadas o nativo já viveu a experiência do poder pessoal. Foi muito independente, teve enorme liberdade pessoal.
+      `Em vidas passadas o nativo já viveu a experiência do poder pessoal. Foi muito independente, teve enorme liberdade pessoal. -break
       Sabe dirigir toda a sua energia para um só objetivo. Saturno indica uma perseverança e uma determinação que não são da natureza de Áries.
       Por outro lado, o nativo pode ter sido forçado também por circunstâncias muito duras (guerra, fome ou limitações) a contar apenas consigo mesmo.
       É, portanto, capaz de se assumir com autonomia. Pode utilizar nesta vida presente as forças adquiridas outrora, à custa de um duríssimo esforço.`,
 
-      `Ninguém consegue dominá-lo! Em permanente revolta contra tudo o que lhe parece ultrapassado, salta alegremente por cima das barreiras e convenções.
+      `Ninguém consegue dominá-lo! Em permanente revolta contra tudo o que lhe parece ultrapassado, salta alegremente por cima das barreiras e convenções. -break
       Traz de vidas passadas um cérebro consumido pelo fogo, difícil de ser domesticado numa parceria ou num casamento.
       Original e muito corajoso, o seu carma é desbravar o desconhecido, ousar aventurar-se nos lugares onde ninguém ainda pôs os pés com pioneirismo, arrastando os menos corajosos atrás dele.
       Esse Kamikaze deve evitar a tentação da violência. Mas às vezes faz-se o campeão generoso das causas perdidas e dos combates de retaguarda.
       Antes de se inflamar por uma causa nobre, é bom que se pergunte se esta é realmente justa.`,
 
-      `Indica pessoas que partilhavam com toda a sua geração uma certa ideologia da guerra justa e necessária. Nessa geração, havia muito poucos antimilitaristas ou contestadores de consciência:
+      `Indica pessoas que partilhavam com toda a sua geração uma certa ideologia da guerra justa e necessária. Nessa geração, havia muito poucos antimilitaristas ou contestadores de consciência: -break
       Netuno (os ideais) associado a Áries (a guerra) conduzia os homens de então a uma ideologia guerreira.
       Mas aqueles que tinham Netuno retrógrado viveram com um carma de desilusões muito doloroso: assistir ao desmoronamento dos valores aos quais haviam dedi¬cado sua vida.
       A fé e a espiritualidade podem tê-los ajudado a tomar certa distância com relação às ideologias militaristas. Esses nativos eram também artistas.`,
 
-      `A posição parece indicar uma violência inconsciente mal canalizada. O nativo, ao mesmo tempo em que tem uma sede intensa de justiça, tem reações primitivas e além da justa medida.
+      `A posição parece indicar uma violência inconsciente mal canalizada. O nativo, ao mesmo tempo em que tem uma sede intensa de justiça, tem reações primitivas e além da justa medida. -break
       É assim que a personagem de Villiers de Isle – Adam exala essa surda violência que os conduz ao assassinato; é assim também que os na¬zistas reivindicam a influência de Nietzsche.
-      Em quem encontraram uma ideologia do super-homem, uma apologia da virilidade, do "machismo", inteiramente na linha de Plutão retrógrado em Áries, que marcou esses dois autores.`,
+      Em quem encontraram uma ideologia do super-homem, uma apologia da virilidade, do \"machismo\", inteiramente na linha de Plutão retrógrado em Áries, que marcou esses dois autores.`,
 
-      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. O Dom de cura com as mãos.
+      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. O Dom de cura com as mãos. -break
       A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
       Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir.
       Parece que você só se sente vivo quando refletido em alguém. Você só tem motivação para defender alguma causa quando o benefício é dos outros, como se tivesse capacidade de luta, mas pouca vontade própria.
@@ -330,28 +330,28 @@ const data = {
       Você adquire força na luta, mas deve aprender a ser um nobre rival diante daqueles com os quais compete. Se for capaz de superar a sua agressividade passiva, sua tendência a agir dissimuladamente, sentirá a vida fluir em suas veias.
       Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você.`,
 
-      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
+      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida. -break
       É importante cultivar estabilidade vida afetiva através da capacidade de um viver partilhado com alguém.
       Juno nesse setor ou signo mostra uma necessidade de ser valorizada e procurará escolher um parceiro ou parceiros/as que lhe permita isto.
       Aliás, a procura por um parceiro ideal é uma das suas principais preocupações. Para um homem a busca de uma parceira ativa, marciana.
       Sua evolução passa pelo esforço de construir uma relação durável e sólida. Se o casamento ou as parcerias não vão bem, impacto sobre a saúde da pessoa.
-      Em alguns casos, vemos uma pessoa que é capaz de “se casar consigo mesma”.
+      Em alguns casos, vemos uma pessoa que é capaz de \"se casar consigo mesma\".
       Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, e que podem ser boas ou ruins para a própria parceria.`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está):`,
+        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está): -break`,
 
-        `-stron 1º nível de evolução: /stron`,
+        `-stron 1º nível de evolução: /stron `,
 
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
+        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade. -break`,
 
-        `-stron 2º nível de evolução: /stron`,
+        `-stron 2º nível de evolução: /stron `,
 
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
+        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade. -break`,
 
-        `-stron 3º nível de evolução: /stron`,
+        `-stron 3º nível de evolução: /stron `,
 
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo. -break`
     ],
     nodosLunares: [
       `Nodos lunares\' extra text`
@@ -398,7 +398,7 @@ const data = {
       Acomodar-se emocionalmente é um risco que deve ser equilibrado com o aprendizado do desapego, aceitando as transformações da vida como algo natural e renovador.`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       A primeira impressão do ascendente em Touro é vivenciada através do elemento Terra: segurança e continuidade na concretização de objetivos.
       Deve encarar a vida com calma, ponderação e segurança.  Estruturar, planejar, trabalhar de modo sistemático para alcançar suas metas.
       Há que avançar sem pressa, experimentar bem o terreno e medir cada passo. O avanço pode ser mais lento, porém é mais seguro: uma vez conquistado o terreno, raramente se dá um recuo.
@@ -488,7 +488,7 @@ const data = {
       Sair dos limites quadrados e práticos para aventurar-se no mundo do oculto, pesquisar sobre a vida após a morte e desenvolver a fé.`,
 
       `As características ardentes da primavera também são encontradas aqui, mas o indivíduo tem um tipo de personalidade firme, autoconfiante e até mesmo obstinada, adorando, conscientemente ou não, lidar com o poder oculto, social ou coletivo, e tendo que ver resultados materiais definidos para poder ser feliz.
-      O desejo fundamental é trazer qualquer coisa, que tenha existido no passado, para um novo nível de evolução em resposta as necessidades da época. É tornar-se um agente de forças de evolução ou, poderíamos dizer, a “mãe” do amanhã.
+      O desejo fundamental é trazer qualquer coisa, que tenha existido no passado, para um novo nível de evolução em resposta as necessidades da época. É tornar-se um agente de forças de evolução ou, poderíamos dizer, a \"mãe\" do amanhã.
       Exemplos: Martinho Lutero, Goethe, Thomas Paine, Benjamin Franklin, Príncipe Bismarck, Leon Trotsky.`,
 
       `Quíron neste signo indica tendência de se sentir inseguro e vulnerável, porque tem dificuldade de se atribuir o seu devido valor.
@@ -535,9 +535,9 @@ const data = {
       Homem de tradição e de hábitos, busca a segurança e tem medo de atividades novas.
       Nesta vida deve liberar sua energia reprimida, aplicando-a em muito movimento, aos esportes na natureza e às artes em geral.`,
 
-      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+      `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
       O nativo muito rico em vidas passadas. Disso ainda lhe fica, inconscientemente, uma grande vaidade. Esse estado de coisas se reproduz nesta vida.
-      Vem daí uma permanente autossuficiência, que o impede de se abrir às ideias dos outros. Repete com frequência: "Façam como eu."
+      Vem daí uma permanente autossuficiência, que o impede de se abrir às ideias dos outros. Repete com frequência: \"Façam como eu.\"
       Seus recursos atuais podem vir de atividades artísticas ou artesanais, muitas vezes antigas e tradicionais.
       A sua lição cármica desta posição jupiteriana é a de cultivar a simplicidade, o desapego e a honestidade.`,
 
@@ -562,7 +562,7 @@ const data = {
       É dotado de uma grande potência sexual. A sede de viver que faz dele uma espécie de camicase obstinado: é um extremista.
       É o caso de Picasso - aliás, o Touro mitológico, meio homem, meio animal, retoma frequentemente nos seus desenhos!
       Sob esta configuração encontramos ainda Henri de Monfreid, ilustre exemplo de aventureiro que, na ânsia de ir mais longe, corta todas as possibilidades de retomo.
-      Bemanos, o homem que escandaliza ao denunciar injustiças gritantes - o que é muito Plutoniano. Enfim, Winston Churchill, que simbolizou para todo um povo a resistência obstinada do touro: “Nós não cederemos jamais”!`,
+      Bemanos, o homem que escandaliza ao denunciar injustiças gritantes - o que é muito Plutoniano. Enfim, Winston Churchill, que simbolizou para todo um povo a resistência obstinada do touro: \"Nós não cederemos jamais\"!`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
       Tem uma certa tendência a se sentir insegura e vulnerável, porque tem dificuldade de se atribuir o seu devido valor. Os efeitos da repressão dos instintos físicos na infância só serão superados quando aprender a aceitar sua natureza sensual e a confiar na sabedoria instintiva do próprio corpo.
@@ -599,22 +599,22 @@ const data = {
       São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras. Este é o tipo de esposa de um homem com Juno em Touro ou na segunda casa.`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está):`,
+        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está): -break`,
 
         `-stron 1º nível de evolução: /stron`,
 
         `Amar a obscuridade da Matéria significa levar o Espírito ao seu lado Oposto. -break
-        O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual.`,
+        O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. -break`,
 
         `-stron 2º nível de evolução: /stron`,
 
         `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. -break
-        Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço.`,
+        Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. -break`,
 
         `-stron 3º nível de evolução: /stron`,
 
         `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. -break
-        Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete.`
+        Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. -break`
     ],
     nodosLunares: [
       `Nodos lunares\' extra text`
@@ -658,12 +658,12 @@ const data = {
       É importante estabelecer objetivos para não dispersar sentimentos, nem se tornar uma pessoa ambígua ou superficial.`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       A primeira abordagem da vida pelo ascendente em Gêmeos é feita através do elemento Ar: aprendizagem, comunicação e experimentação no plano mental. Vive de forma ligeira, curiosa e um tanto dispersa.
       -stron Há forte necessidade de compreender as coisas mentalmente e de apreender todas as faces da realidade com versatilidade e adaptabilidade./stron
       A diversidade da vida diária, com todos os seus pequenos e variados acontecimentos, é um elemento-chave para a expressão imediata da individualidade.
       A comunicação é também uma importante via de expressão pessoal e de impacto junto ao meio ambiente.
-      Há tendência natural para se identificar com as ideias ("sou aquilo que penso"), embora estas possam estar continuamente em mudança.
+      Há tendência natural para se identificar com as ideias (\"sou aquilo que penso\"), embora estas possam estar continuamente em mudança.
       -stron O perigo é se perder numa teia de superficialidade, inconstância e inconsequências./stron
       Quando aprende a seguir um rumo de pensamento, entre a multiplicidade dos seus apelos mentais, o ascendente em Gêmeos começa a manifestar o que de mais elevado existe no signo.
       Ou seja, a capacidade de relativizar e de compreender, no plano mental, todas as faces de um assunto ou situação.
@@ -680,7 +680,7 @@ const data = {
       Contudo, se forem submetidos a ambientes movimentados e complexos durante muito tempo, seus nervos ficarão em frangalhos, podendo ocorrer fadiga, confusão e irritação.
       Portanto, precisam de períodos de isolamento para se acalmar, meditar, relaxar e concentrar sua mente. Os nativos possuem intensa curiosidade, querem saber tudo a respeito de tudo.
       Mas correm o risco de querer aprender muitas coisas e dividir a sua atenção com muita frequência. Podem não dar continuidade ao propósito de completar os projetos que assumem.
-      Quando esta tendência é levada a extremo, cria o típico “homem dos sete instrumentos” (mas que não domina nenhum a fundo).
+      Quando esta tendência é levada a extremo, cria o típico \"homem dos sete instrumentos\" (mas que não domina nenhum a fundo).
       É possível considerar qualquer situação a partir de muitos pontos de vista. Por isso podem ter dificuldade para tomar decisões e mudam de ideia com muita frequência, confundindo os outros.
       Pode haver conversa incessante sobre assuntos triviais, o que é um aborrecimento para os outros. É preciso estudar e desenvolver a educação para que possam utilizar melhor a capacidade intelectual.
       As mentes inventivas dos nativos são competentes para descobrir novas e surpreendentes soluções para problemas e situações de emergência.
@@ -784,7 +784,7 @@ const data = {
       Você deve tomar cuidado para não fazer do conhecimento, do seu intelecto, o seu Deus. Nem deve desprezar aqueles que não cultuam o conhecimento. É importante você entender que nunca saberá tudo, pois isso só cabe a Deus.
       Também não deve ir ao extremo oposto de ignorar a mente e só valorizar os sentimentos e intuições. É preciso encontrar um equilíbrio saudável. Você deve entender que todo ser humano vive conflitos.
       Se você fica deprimido ao fazer qualquer escolha, porque uma parte de você ficou satisfeita e a outra não, é tempo de ter compaixão de si próprio e dos outros e se conscientizar que essa é a sua limitação.
-      Você pode passar a vida procurando a sua "alma gêmea", causando relacionamentos obsessivos, ou com pessoas em tudo opostas a você. É necessário um trabalho pessoal muito grande para superar esta tendência e tirar o melhor, um crescimento pessoal, dessa relação.
+      Você pode passar a vida procurando a sua \"alma gêmea\", causando relacionamentos obsessivos, ou com pessoas em tudo opostas a você. É necessário um trabalho pessoal muito grande para superar esta tendência e tirar o melhor, um crescimento pessoal, dessa relação.
       Você pode ter irmãos doentes, com deformidade ou retardamento mental, ou por alguma razão serem importantes para sua vida.
       Pode haver hostilidade ou rivalidade, você pode achar que seu irmão ou irmã foi favorecido, ou pode ter ocorrido de você ter sido o favorecido e agora se sentir culpado por isso.
       Pode ocorrer de seu irmão ser uma pessoa importante em sua vida, que lhe serve de guia e mentor. Ou ainda não ter irmãos e isso dar a você uma sensação de isolamento.
@@ -802,7 +802,7 @@ const data = {
 
       `Em suas vidas passadas o nativo tinha o espírito vivo e flexível. Tão flexível, que pouco ligava para a lealdade. Essa posição de Mercúrio indica um comerciante desonesto numa vida passada.
       Ou ainda, um homem de letras mais brilhante do que sério. Em todo caso, fez mal uso de sua viva inteligência e de seu talento para se expressar, tanto por escrito como oralmente.
-      Sua aptidão manual e artística também era notável. Essas qualidades persistem na atual encarnação, mas esse gênio "faz-tudo" deve tomar cuidado para não perder o foco e se dispersar.
+      Sua aptidão manual e artística também era notável. Essas qualidades persistem na atual encarnação, mas esse gênio \"faz-tudo\" deve tomar cuidado para não perder o foco e se dispersar.
       Deve agora negociar e se comunicar com integridade. Pode ter também uma dívida cármica a ser regatada com irmãos ou primos. `,
 
       `Quando Vênus está retrógrado neste signo evidencia-se a adolescência, em que o ser ainda não atingiu a sua polaridade sexual.
@@ -815,7 +815,7 @@ const data = {
       Nesta vida deve cultivar o hábito de refletir antes de agir. Deve promover intercâmbios e negociações com mais ponderação.
       Deve também cultivar mais foco em suas prioridades. Pode ir muito longe do que imagina em busca do conhecimento.`,
 
-      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+      `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
       Nas vidas passadas, o nativo alinhava a sua filosofia com a dos que o cercavam. Não tinha nenhuma ideia pessoal: era sempre da mesma opinião do último que ouviu.
       Incapaz de filtrar as informações recebidas segundo um critério pessoal, falava demais. Inclinava-se a contar qualquer coisa a qualquer um, sem nenhum discernimento. E, além do mais, nada tolerante.
       Nesta vida deve aprender a deixar falar e a se calar. Cultivar para si uma filosofia mais prática, objetiva, focada e humana. Cultivar mais integridade no uso da palavra.`,
@@ -838,10 +838,10 @@ const data = {
       Mas seu humor, muitas vezes corrosivo, lhes acarretavam aborrecimen¬tos. Netuno em Gêmeos é também o senso dos negócios, mas a retrogradação de Netuno indica que foram enganadores.
       Podem ter sido até mesmo criminosos. A extrema habilidade, a imaginação viva, a mente ágil e ativa foram empregadas de maneira principalmente negativa.`,
 
-      `O período coincidiu com um extraordinário boom tecnológico nos meios de comunicação, particularmente a aviação (já que Gêmeos é signo de Ar). O "Avião" de Clément Ader nasceu em 1897.
+      `O período coincidiu com um extraordinário boom tecnológico nos meios de comunicação, particularmente a aviação (já que Gêmeos é signo de Ar). O \"Avião\" de Clément Ader nasceu em 1897.
       Os grandes pioneiros: Didier Daurat e Jean Mermoz têm Plutão retrógrado em Gêmeos. Exatamente como Enzo Ferrari, o famoso construtor de carros.
-      Aliás, a primeira corrida de automóveis do mundo, a famosa "Paris-BordéusParis", ocorreu em 1895. Enfim, rádio e cinema vão florescer.
-      O triunfo científico proclama um tanto exageradamente que "não se para o progresso". Gêmeos é o reino de Mercúrio, símbolo ao mesmo tempo dos conhecimentos teóricos e das suas aplicações práticas: a tecnologia.
+      Aliás, a primeira corrida de automóveis do mundo, a famosa \"Paris-BordéusParis\", ocorreu em 1895. Enfim, rádio e cinema vão florescer.
+      O triunfo científico proclama um tanto exageradamente que \"não se para o progresso\". Gêmeos é o reino de Mercúrio, símbolo ao mesmo tempo dos conhecimentos teóricos e das suas aplicações práticas: a tecnologia.
       Os nativos de Plutão retrógrado em Gêmeos têm por vezes uma surpreen¬dente aptidão para jogar com as palavras: Henry Miller, Raymond Queneau, Jean Genet, Eugène lonesco, Papillon, Jacques Prévert.
       O verbo é, para eles, um instrumento de poder político. A sedução das palavras, o jogo duplo, por vezes. Esses nativos já aprenderam, em várias vidas passadas, a manejar o verbo (escrito ou falado).
       Terão eles sido escribas desonestos? Escritores que haviam propagado ideias nefastas? Colegiais vadios, como no tempo de Villon? Seu carma deve levá-los a uma reflexão sobre os meios de comunicação. Seu programa: não abusar das pessoas jogando com as palavras.`,
@@ -872,7 +872,7 @@ const data = {
       É importante você entender que nunca saberá tudo, pois isso só cabe a Deus. Também não deve ir ao extremo oposto de ignorar a mente e só valorizar os sentimentos e intuições.
       É preciso encontrar um equilíbrio saudável. Você deve entender que todo ser humano vive conflitos.
       Se você fica deprimido ao fazer qualquer escolha, porque uma parte de você ficou satisfeita e a outra não, é tempo de ter compaixão de si próprio e dos outros e se conscientizar que essa é a sua limitação.
-      Você pode passar a vida procurando a sua "alma gêmea", causando relacionamentos obsessivos, ou com pessoas em tudo opostas a você. É necessário um trabalho pessoal muito grande para superar esta tendência e tirar o melhor, um crescimento pessoal, dessa relação.
+      Você pode passar a vida procurando a sua \"alma gêmea\", causando relacionamentos obsessivos, ou com pessoas em tudo opostas a você. É necessário um trabalho pessoal muito grande para superar esta tendência e tirar o melhor, um crescimento pessoal, dessa relação.
       Você pode ter irmãos doentes, com deformidade ou retardamento mental, ou por alguma razão serem importantes para sua vida.
       Pode haver hostilidade ou rivalidade, você pode achar que seu irmão ou irmã foi favorecido, ou pode ter ocorrido de você ter sido o favorecido e agora se sentir culpado por isso.
       Pode ocorrer de seu irmão ser uma pessoa importante em sua vida, que lhe serve de guia e mentor. Ou ainda não ter irmãos e isso dar a você uma sensação de isolamento. Pode ter ocorrido de quando criança ter sido sempre atormentado pelos colegas, ter sempre buscado um amigo verdadeiro.
@@ -950,7 +950,7 @@ const data = {
       Com mais praticidade, a consciência do momento presente, a memória do passado e a intuição do futuro, pode encontrar um caminho para sua segurança e seu bem-estar emocional.`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       A primeira impressão da vida é sentida através do elemento Água: ação motivada pelos sentimentos.
       Expressão cautelosa e grande necessidade de segurança emocional são características de quem tem Ascendente em Câncer.
       A expressão da individualidade é cautelosa. Para proteger-se emocionalmente, por vezes desenvolve uma dura casca externa.
@@ -1052,7 +1052,7 @@ const data = {
       É preciso curar essa ferida oferecendo a sua compreensão, ao invés de desejar um novo pai ou mãe em sua vida. Precisará aprender a perdoar.
       É provável que seus pais sejam uma figura com a qual você ache difícil se relacionar. Seja por lhe causar desapontamento, tristeza, conflitos, ou simplesmente por você não conhecer seu pai ou mãe, porque talvez tenha morrido ou abandonado o lar durante sua infância.
       Esses problemas podem tomar as mais variadas formas: pode haver desejo incestuoso, mesmo sem haver contato sexual explícito, o que pode levar a procurar sempre pares inacessíveis. Talvez o pai ou mãe tenha criado o filho sozinho (e agora você pode procurar a mãe ou o pai numa parceria).
-      Pode haver uma fixação no pai ou mãe ou do pai/mãe pelo filho e esse pai ou mãe se torna um Deus que deve ser sempre obedecido. Assim qualquer tentativa de fazer valer seus desejos diferentes dos do pai ou da mãe acarretam muita culpa, por estar "traindo" esse pai ou mãe.
+      Pode haver uma fixação no pai ou mãe ou do pai/mãe pelo filho e esse pai ou mãe se torna um Deus que deve ser sempre obedecido. Assim qualquer tentativa de fazer valer seus desejos diferentes dos do pai ou da mãe acarretam muita culpa, por estar \"traindo\" esse pai ou mãe.
       Você pode desprezar seus pais por eles serem ignorantes (ou por qualquer outro motivo) e estender esse desprezo para outras pessoas dificultando seus relacionamentos.
       Você pode ter sofrido traumas e súbitas separações de seus pais, dando origem a uma sensação de desorientação e a uma incapacidade de entender o que realmente aconteceu.
       Poderá se culpar por tudo isso e se tornar hipersensível a qualquer tipo de censura ou reprovação. Essas culpas poderão contaminar sua posição de pai agora na vida adulta, fazendo você sempre se sentir em cheque.
@@ -1083,7 +1083,7 @@ const data = {
 
       `Em Câncer, signo da tradição e da família, Vênus quando está retrógrado demora-se na infância e na imaturidade de um comportamento mais exigente de atenções do que generoso.
       Muito dependente das suas experiências anteriores, o nativo procura reconstituir sua família de uma encarnação precedente.
-      Essa posição de Vênus indica um "complexo de Édipo" tanto mais difícil de liquidar quanto é herdado de uma vida passada.
+      Essa posição de Vênus indica um \"complexo de Édipo\" tanto mais difícil de liquidar quanto é herdado de uma vida passada.
       O nativo se esforça para reconstituir sua vida presente sobre o modelo das suas infâncias passadas: quer amar sem correr riscos.
       Poderá se libertar quando amadurecer as suas emoções e assumir a fundo a sua paternidade (ou maternidade).`,
 
@@ -1092,7 +1092,7 @@ const data = {
       Tendo-se refeito mal dos traumas da juventude (vivenciados em vidas passadas), tende a recriar o mundo à imagem de sua família passada.
       Deve agora amadurecer, melhorar o equilíbrio e o controle emocional para obter harmonia no lar.`,
 
-      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+      `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
       O nativo foi ingênuo em vidas passadas. Tomou-se inocentemente por uma garota bem simples, ou por um bom moço sem complicações, sem ter a menor noção dos abismos de perversidade contidos em todo o ser humano!
       A sua ideia da verdade é mais emocional do que objetiva. Permanece por muito tempo sequioso de segurança afetiva e passa por conflitos interiores que é incapaz de analisar.
       Nesta vida deve amadurecer. Superar carências e emoções infantis para viver num plano mais prático, realista e objetivo.`,
@@ -1112,7 +1112,7 @@ const data = {
       `Esta posição planetária indica um carma familiar no qual o lar se dissolve sem que o interessado compreenda muito bem por quê: desaparecimento dos pais, fuga de um dos cônjuges, escapadas ou fuga dos filhos.
       O nativo se apegava choramingando a uma situação sem esperança, assumindo uma atitude de vítima (que não o faz progredir nada).
       Foi assim que se viram viúvas ou mães que haviam perdido um filho instalar-se para o resto da vida num luto permanente (particularmente depois da Grande Guerra de 1914-1918).
-      Ou ainda, pessoas abandonadas pelo cônjuge, que se recusam a tentar compreender por que, dizendo: "Quanto a mim, sempre fui um perfeito esposo (ou esposa)!"
+      Ou ainda, pessoas abandonadas pelo cônjuge, que se recusam a tentar compreender por que, dizendo: \"Quanto a mim, sempre fui um perfeito esposo (ou esposa)!\"
       Netuno retrógrado em Câncer indica um carma no qual o nativo deveria apren¬der a reconsiderar seus laços familiares sem sentimento de posse.
       Aprender a amar os seus com desprendimento, procurar as razões espirituais e cármicas de seu afastamento. Só uma atitude espiritual dinâmica pode ajudar a liquidar os carmas de Netuno retrógrado.`,
 
@@ -1122,7 +1122,7 @@ const data = {
       Entretanto, o choque do divórcio só é salutar se o nativo tiver realmente renunciado aos erros anteriores. Infelizmente, Câncer é signo de lembrança, de apego; não aprecia a mudança.
       As crises familiares são, portanto, particularmente frequentes com esta posição plutoniana. Uma chave para se libertar: a busca das vidas passadas.
       Ela permitirá aos nativos descobrir que, muito provavelmente, seu cônjuge, assim como seus pais e seus filhos, já o foram numa outra vida!
-      Simbolizando Câncer a família, e Plutão o "retorno das coisas", trata-se aqui da volta das entidades de outrora a esta vida. Plutão retrógrado indica mais particularmente a volta do mesmo lar e dos mesmos filhos.
+      Simbolizando Câncer a família, e Plutão o \"retorno das coisas\", trata-se aqui da volta das entidades de outrora a esta vida. Plutão retrógrado indica mais particularmente a volta do mesmo lar e dos mesmos filhos.
       Nem sempre se trata de uma dívida - mas de pessoas que se amaram e se reencarnaram juntas para se ajudar mutuamente.
       Tal é o caso dos irmãos gêmeos, por exemplo, segundo a Tradição, que resolvem nascer juntos para não serem separados.`,
 
@@ -1135,7 +1135,7 @@ const data = {
       É provável que seus pais sejam uma figura com a qual você ache difícil se relacionar, seja por lhe causar desapontamento, tristeza, conflitos, ou simplesmente por você não conhecer seu pai ou mãe, porque talvez tenha morrido ou abandonado o lar durante sua infância.
       Esses problemas podem tomar as mais variadas formas: pode haver desejo incestuoso, mesmo sem haver contato sexual explícito, o que pode levar a procurar sempre pares inacessíveis; talvez o pai ou mãe tenha criado os filhos sozinho (a), e agora você pode procurar a mãe numa parceira.
       Pode haver uma fixação no pai ou mãe ou de pai e mãe pelo filho, e esse pai ou mãe se torna um Deus que deve ser sempre obedecido, e qualquer tentativa de fazer valer seus desejos diferentes dos do pai ou da mãe acarretam muita culpa.
-      Por estar "traindo" esse pai ou mãe; você pode desprezar seus pais por eles serem ignorantes (ou por qualquer outro motivo) e estender esse desprezo para outras pessoas dificultando os seus relacionamentos.
+      Por estar \"traindo\" esse pai ou mãe; você pode desprezar seus pais por eles serem ignorantes (ou por qualquer outro motivo) e estender esse desprezo para outras pessoas dificultando os seus relacionamentos.
       Você pode ter sofrido traumas e súbitas separações de seus pais, dando origem a uma sensação de desorientação e a uma incapacidade de entender o que realmente aconteceu.
       Poderá se culpar por tudo isso, e se tornar hipersensível a qualquer tipo de censura ou reprovação. Essas culpas poderão contaminar sua posição de pai agora na vida adulta, fazendo você sempre se sentir em cheque.
       Sua segurança básica é fraca, você gostaria muito de voltar à segurança e aconchego do útero materno. Você, mais que outras pessoas, está disposto a sacrificar seus próprios sentimentos e potencialidade com o intuito de pertencer a outra pessoa ou a algum grupo.
@@ -1210,14 +1210,14 @@ const data = {
       A sua necessidade de amar e ser amadas é um impulso emocional saudável e na maioria dos casos contribui para um temperamento alegre e uma expressão construtiva.
       Quem tem esta posição da Lua deseja que os seus filhos estejam sempre bem arrumados e que o seu lar seja uma exposição de beleza e arte. O desafio é aprender a dominar seu orgulho, cultivar um coração generoso, aprender a ceder e a reconhecer quando está errado.`,
 
-     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       O ascendente em Leão busca a segurança na expressão de sua identidade. Quem tem este ascendente entra na vida com grandes passadas: a expressão pessoal é calorosa, quente, entusiasmada, digna e poderosa. A necessidade de protagonismo é imperativa e quase constante.
       O mundo, os outros e as circunstâncias em geral podem ser vistos como um grande palco onde a individualidade vai manifestar-se de forma brilhante e poderosa. A pessoa com este ascendente tende a dominar as situações com a sua projeção carismática e sua autopromoção.
       O cuidado deve ser para não se tornar autoritário, egocêntrico, orgulhoso ou arrogante. Algumas vezes evita enfrentar situações ou provas para não vivenciar a sensação de erro.
       É importante dar vazão ao seu potencial criativo e ao seu poder pessoal para não se tornar amargurado ou cínico por não ser reconhecido.
       Ao longo da vida, esta forte expressão tende a ser posta em prova e a se modificar. Na maturidade, poderá deixar de encarar a vida como um grande palco e passar a vê-la como uma oportunidade criativa.
       Assim, as manifestações pomposas e gratuitas dão lugar a uma atitude verdadeiramente generosa, desinteressada e vitalizante. Poderá irradiar calor generoso, cura e energia vital para aqueles que merecem. Leão é associado ao coração, ao centro do corpo, com grande potencial amoroso.
-      O aspecto físico ligado a este ascendente e associado a uma atitude naturalmente altiva, quase régia, e a uma cabeleira bonita, volumosa, tipo "juba de leão". A atitude poderosa costuma chamar a atenção.  Os olhos são vivos e brilhantes.`,
+      O aspecto físico ligado a este ascendente e associado a uma atitude naturalmente altiva, quase régia, e a uma cabeleira bonita, volumosa, tipo \"juba de leão\". A atitude poderosa costuma chamar a atenção.  Os olhos são vivos e brilhantes.`,
 
       `Mercúrio no signo de Leão indica uma mente que possui uma vontade forte e um propósito firme. Os nativos com esta posição são capazes de concentração dirigida, o que confere energia e força de vontade.
         Gosta de ser considerado como uma autoridade nas áreas em que escolheu para atuar. São ajudados por uma forma de discurso dramática e convincente. Porém, se levada a extremos, essa inclinação pode criar um excessivo orgulho intelectual e arrogância.
@@ -1322,7 +1322,7 @@ const data = {
     title: `virgem`,
     text: [
       `Virgem é um signo do elemento Terra. Critério, discernimento e eficiência são palavras-chave. Com a energia prática do Sol em Virgem, pode aprimorar técnicas de trabalho, incrementar serviços, organizar a rotina, cuidar melhor da alimentação, da saúde, do equilíbrio do corpo e das emoções, em nome de mais qualidade de vida.
-       O virginiano está atento aos detalhes. Gosta de se sentir útil, de prestar serviços, cumprir prazos, formatar projetos, analisar, planejar, pensar, repensar e incrementar. Virgem é o "ver para crer". O trabalhador metódico e eficiente lança mão da pesquisa, da investigação, da curiosidade e da flexibilidade.
+       O virginiano está atento aos detalhes. Gosta de se sentir útil, de prestar serviços, cumprir prazos, formatar projetos, analisar, planejar, pensar, repensar e incrementar. Virgem é o \"ver para crer\". O trabalhador metódico e eficiente lança mão da pesquisa, da investigação, da curiosidade e da flexibilidade.
        Esse talento é usado para criar práticas metodológicas com precisão e racionalidade. É como a ciência moderna que quer testar a natureza, melhorá-la e analisá-la, buscando uma explicação racional para facilitar o domínio sobre ela.
        O Sol em Virgem predispõe a um sentido da lógica muito desenvolvida. De natureza escrupulosa e inquieta, revela aptidões para o raciocínio superior que lhe fazem perceber ideias incompreensíveis para os outros.
        Não gosta particularmente do imprevisto, pode-se mesmo dizer que o detesta. Todas as coisas que escapam de seu controle o deixam nervoso. Isso indica uma ameaça de aflição e de problemas íntimos. Você é um ser hipersensível que tenta controlar as suas emoções.
@@ -1346,9 +1346,9 @@ const data = {
        Pode haver uma preocupação excessiva com detalhes irrelevantes, uma atitude de crítica e censura. O perfeccionismo nos detalhes pode torná-lo cego para questões mais amplas.
        É preciso aprender a perdoar as falhas, tanto as suas quanto às dos outros, ter calma, se estressar menos com os afazeres cotidianos. Com sensibilidade e compreensão o aperfeiçoamento pode ser cultivado de forma mais harmoniosa.`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
        O ascendente em Virgem vive a aprendizagem e a experimentação das coisas concretas. Para quem tem este ascendente, a vida é um projeto que busca a perfeição. Todas as atitudes, funções, relações e comunicações são, por isso, sujeitas a forte crítica e autocrítica, revelando-se sempre aquém de tão exigentes expectativas.
-       A expressão pessoal tende a ser precisa, funcional, ordenada e ergonômica. Tudo é feito com método, funcionalidade, detalhe e eficiência, tendo em vista a ideia de perfeição. "A qualidade acima da quantidade" poderia ser o seu lema.
+       A expressão pessoal tende a ser precisa, funcional, ordenada e ergonômica. Tudo é feito com método, funcionalidade, detalhe e eficiência, tendo em vista a ideia de perfeição. \"A qualidade acima da quantidade\" poderia ser o seu lema.
        Isso muitas vezes significa: desenvolver habilidade e competência no trabalho ou na área criativa escolhida. Seu ideal é ser útil, prestativo e produtivo.
        A preocupação com o bom funcionamento do corpo físico é uma constante. Outra característica é o tratamento prático das necessidades comuns do dia-a-dia. Tudo o que não é construtivo deve ser reconhecido, limpo ou descartado.
        O perigo é ficar obsessivo com a ordem e a correção. Se deixar que a crítica se torne de tal maneira implacável o-deixará paralisado. A pessoa perde a espontaneidade e a fluidez.
@@ -1471,7 +1471,7 @@ const data = {
         O libriano costuma cuidar bem de si mesmo e de sua aparência pessoal , não se poupa a esforços para se sentir bem consigo mesmo. As partes vulneráveis do seu corpo são: os rins, as glândulas suprarrenais, as vértebras lombares, a bexiga, a uretra e a próstata.
         Com a idade, há tendência para ficar corpulento. Obriga-se então a seguir um regime adequado para recuperar a sua silhueta. Exercícios e uma alimentação equilibrada permitirão que o nativo viva uma velhice tranquila.
         O libriano se esforça para ser amado, age e reage muitas vezes em função da sua emotividade e dos seus estados de alma. Mas é preciso cuidado para não perder sua identidade, se tornar dependente, bajulador, hesitante ou condescendente demais.
-        A falta de autonomia e poder de decisão pode gerar desequilíbrio, pois fica sem energia para a ação e as iniciativas. O equilíbrio está no signo oposto - Áries. O Libriano deve aprender a colocar limites, dizer “não” quando necessário. `,
+        A falta de autonomia e poder de decisão pode gerar desequilíbrio, pois fica sem energia para a ação e as iniciativas. O equilíbrio está no signo oposto - Áries. O Libriano deve aprender a colocar limites, dizer \"não\" quando necessário. `,
 
        `A Lua representa a forma como vivemos as nossas emoções. É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
         A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
@@ -1483,7 +1483,7 @@ const data = {
         Esta posição da Lua pode proporcionar talento para relações públicas. Também indica uma ligação com os pais, especialmente a mãe.  No lado negativo, pode implicar dependência dos outros para adquirir segurança emocional. Há tendência para ser facilmente influenciável.
         Deve aprender a ter pulso firme quando necessário, para evitar que alguém tome iniciativas em seu lugar. É preciso também aprender a impor suas vontades, pois muitas vezes você esquece de si mesmo para colocar os outros em primeiro plano.`,
 
-       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
         Com Libra no ascendente, a expressão pessoal é pensada, medida e considerada, levando sempre em conta a opinião ou a reação dos outros. Tudo o que os outros querem ou precisam é levado em consideração com julgamentos reflexivos.
         A abordagem da vida é dirigida para o relacionamento, a sociabilidade e a comunicação. A atitude geral é de cooperação, de busca de harmonia. Pode haver interesse pelas artes e também por sistemas abstratos, como política e matemática.
         Pode haver uma qualidade estética e uma elegância natural nos gestos, na fala, na escolha de roupas, acessórios e adornos. O sentido de justiça, prudência e equilíbrio inerentes a este signo conferem-lhe graça e harmonia.
@@ -1532,7 +1532,7 @@ const data = {
 
         Consegue alcançar suas metas sem se impor. Poderá agir como apaziguador em disputas, mesmo legais. Marte nesse signo indica pouca fertilidade.
 
-        Mesmo com pouco poder de ação, por estar “exilado” em Libra, Marte poderá agir como catalisador, ou seja, a pessoa pode sofrer passivamente a agressividade dos outros.
+        Mesmo com pouco poder de ação, por estar \"exilado\" em Libra, Marte poderá agir como catalisador, ou seja, a pessoa pode sofrer passivamente a agressividade dos outros.
 
         É preciso cuidado para não se envolver em conflitos conjugais, disputas e brigas com parceiros ou sócios. Nos grupos sociais terá tendência a promover-se individualmente.
 
@@ -1631,7 +1631,7 @@ const data = {
        Possui um senso de estratégia e a intuição muito desenvolvidos, com dons para o ocultismo em geral. Provavelmente experimenta uma vida sentimental fora do vulgar. Como está na maior parte do tempo desconfiando e se defendendo, esta tensão pode esgotar o seu potencial energético.
        Na saúde, as partes vulneráveis são: os órgãos genitais, a bexiga, a uretra, a próstata, o ânus, as glândulas em geral, mas mais frequentemente as glândulas reprodutoras, o nariz e as cavidades sinuosas.
        O escorpiano tem um limiar de resistência ao sofrimento surpreendente. Com a idade, o há tendência para problemas ligados à sexualidade. Seu intenso mundo psíquico deve ser vigiado, pois há o risco de desenvolver doenças psicossomáticas.
-       O Escorpião superior é o tipo "águia": nada passa indiferente, nada escapa de seu olhar com raio x. Por fora uma aparência de frieza, por dentro, uma verdadeira efervescência. É movido pela paixão, com ele é tudo ou nada.
+       O Escorpião superior é o tipo \"águia\": nada passa indiferente, nada escapa de seu olhar com raio x. Por fora uma aparência de frieza, por dentro, uma verdadeira efervescência. É movido pela paixão, com ele é tudo ou nada.
        Tocar apenas na superfície, levar em fogo brando, pra ele não serve. Seu temperamento não é dos mais fáceis, ele vai até o fim, pro bem ou pro mal. Nunca deixa nada pela metade. Esta posição predispõe o nativo a um temperamento duro, rancoroso e difícil, tanto para si próprio como para aqueles que o rodeiam.
        É por vezes intransigente, manipulador, agressivo e até mesmo cruel com aqueles que o rodeiam. É preciso não se deixar dominar por sentimentos sombrios, aprender a purificar o veneno da mente e das emoções.
        O equilíbrio está no signo oposto, Touro, com suas lições de mansidão, estabilidade, prazer e brandura. Assim pode obter êxito no que deseja construir e reformar.`,
@@ -1645,10 +1645,10 @@ const data = {
        Os mistérios e segredos o atraem. Os sentimentos são intensos quando envolvem a paixão. Há tendência para levar muito a sério os assuntos pessoais, o que algumas vezes leva à possessividade.
        Em alguns casos, a um ciúme violento. Quando isso é levado ao extremo, pode guardar ressentimentos e planejar uma vingança na ocasião oportuna. De qualquer forma, não esquece tão  facilmente as afrontas pessoais.
        A inclinação para remoer pensamentos deve ser observada e controlada. É preciso cuidado também com o desejo de manipular ou dominar os outros por meios sutis.
-       Assim como o Escorpião possui o ferrão para se defender, pode usar o seu “veneno” nas situações de desequilíbrio emocional. Há tendência também para a teimosia, devido à ligação emocional com os seus próprios desejos.
+       Assim como o Escorpião possui o ferrão para se defender, pode usar o seu \"veneno\" nas situações de desequilíbrio emocional. Há tendência também para a teimosia, devido à ligação emocional com os seus próprios desejos.
        O desafio é cultivar a doçura para manter suas relações. Contudo, se houver uma direção clara e motivação correta, pode contar com determinação para alcançar um objetivo que valha a pena. Pode também ajudar a curar as dores dos outros, devido à sensibilidade para o sofrimento alheio.`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
        Para o Ascendente em Escorpião, a expressão pessoal é intensa, carismática, poderosa e sempre um tanto secreta. Para ele, a vida é uma batalha, onde vitórias e derrotas marcam e transformam a expressão individual.
        Sente intensa necessidade de segurança, mas vive sempre em processo de transformação emocional. Aliás, todos os aspectos da vida são sentidos com grande intensidade, mas também com uma profunda contradição interior.
        O indivíduo com este ascendente pode ver-se como um lutador, um reformista ou um investigador. O seu carisma que começa por ser fascinante, pode torná-lo incomodativo ou mesmo belicoso. Perante qualquer desafio imediato (em coisas simples do dia-a-dia), reage com um misto de atração e repulsa, avidez e desconfiança, desejo e negação do próprio desejo.
@@ -1798,7 +1798,7 @@ const data = {
       Pode haver intransigência, arrogância, deboche e uma atitude egoísta superior. O desafio é evoluir emocionalmente, ser mais flexível. Procurar compreender os sentimentos, transformar emoções e desejos instintivos (que muitas vezes se manifestam de forma amplificada) com base na razão.
       É preciso também aprender a valorizar o que já foi conquistado, para controlar a insatisfação e aproveitar melhor o que está próximo de seu alcance.`,
 
-     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       Quem tem ascendente em Sagitário tende a entrar na vida como quem começa uma viagem: com entusiasmo, curiosidade, otimismo e boa disposição. Na sua abordagem existe sempre uma componente de aventura, descoberta, experiência e aprendizagem.
       O ascendente em Sagitário lança-se à descoberta de uma nova fronteira, de uma nova ideia ou da solução para os problemas globais com o mesmo entusiasmo e convicção com que parte em busca de um tesouro, descobre um novo disco ou explora a despensa em busca de guloseimas.
       É otimista, acredita sempre que coisas boas podem acontecer e que a vida, afinal, não é assim tão má. Com a sua fé jovial e inabalável, não hesita em correr riscos. Os acontecimentos da vida são encarados com significados e importância simbólica.
@@ -1957,14 +1957,14 @@ const data = {
       Pode haver também tendências calculistas para obter o poder a qualquer custo, sem considerar os sentimentos dos outros. Na via positiva, pode desenvolver solidez emocional e assim cultivar a confiança dos outros.
       É capaz de fazer sacrifícios para atender as demandas familiares, dominar bem as emoções ao lidar com as pressões exigidas na construção de uma carreira. O desafio é aprender a expressar os sentimentos. Equilibrar o dever e a responsabilidade com mais suavidade e doçura.`,
 
-     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       Quem tem o Ascendente em Capricórnio entra na vida com os passos firmes, medidos e planeados de quem escala uma montanha. Não brinca em serviço: a expressão pessoal é séria, responsável, convencional, retraída e um pouco seca. A ação é prática e concreta.
       Costuma avaliar a si mesmo e aos outros pelas conquistas profissionais, a carreira e o estatuto social. As figuras de autoridade o impressionam. Há tendência para a inibição, a rigidez e a depressão.
       Longe de ser nefasta, essa depressão se revela fundamental para o crescimento da individualidade. Abala a rigidez, permitindo uma reestruturação em moldes mais abrangentes e flexíveis.
       As qualidades de resistência, planejamento e estratégia passam, então, a ajudar no processo de crescimento e transformação.
       O Ascendente em Capricórnio frequentemente, quando jovem, adota uma postura sisuda, triste e desmotivada. Porém, ao longo dos anos, aprende a gozar as coisas boas da vida e pode até rejuvenescer com a idade.
       Na maturidade, é frequente serem mais descontraídos, simpáticos e comunicativos do que foram quando jovens. Envelhece com um bom vinho. Essa alegria interior representa o culminar das qualidades de trabalho e de conquistas profissionais associadas a este ascendente.
-      É uma "marca de Sabedoria". O ascendente em Capricórnio quer planejar sua vida com cautela, estruturá-la com calma e lógica, conforme suas metas e aspirações. Para tanto, deve aprender a encarar suas obrigações, desenvolver disciplina e controle.
+      É uma \"marca de Sabedoria\". O ascendente em Capricórnio quer planejar sua vida com cautela, estruturá-la com calma e lógica, conforme suas metas e aspirações. Para tanto, deve aprender a encarar suas obrigações, desenvolver disciplina e controle.
       Ao cultivar seu potencial para lidar com assuntos práticos e organizá-los, vive um sentido de realização e pode desfrutar de suas conquistas. Um aspecto magro, tenso e seco pode ser associado a este ascendente. As maçãs do rosto são marcadas.
       Algumas pessoas (principalmente as mulheres) têm uma beleza refinada, contam com equilíbrio de linhas e elegância da estrutura óssea.`,
 
@@ -2157,16 +2157,16 @@ const data = {
       Também pode haver medo de envolvimentos emocionais devido à ameaça que eles representam para a liberdade pessoal. Quanto mais a liberdade for respeitada, mais pode se ligar às pessoas.
       Mas é preciso aprender a valorizar os laços de afeto e os sentimentos. Perceber as necessidades alheias para que possa servir e ajudar os outros, formando assim relações de amizade sinceras e duradouras.`,
 
-     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       Quem tem Ascendente em Aquário cultiva sua identidade única através de uma visão objetiva, global e impessoal da vida.
       Costumam apreciar os acontecimentos, as pessoas, as situações e a si mesmo de uma perspectiva mais afastada, buscando uma imagem mais completa e mais ampla do contexto social. Algo maior que o self deve ser levado em consideração.
       Os ideais são igualitários: fraternidade, justiça e liberdade para todos.
       Sua expressão pessoal é baseada numa aparente contradição: tem uma necessidade imperativa (embora por vezes disfarçada) de ser único, diferente e inconvencional, mas ao mesmo tempo quer ser aceito pelo coletivo, pela sociedade.
       Em outras palavras: tem de ser diferente e, ao mesmo tempo, igual. É simultaneamente rebelde e gregário. A solução deste conflito interno varia de pessoa para pessoa. Alguns sufocam seu individualismo em prol da aceitação social.
-      Mantém-se numa atitude de falso conformismo, mas correm o risco de explodir em rebeldia a qualquer momento. Outros se proclamam "espíritos livres" e preferem se manter à margem da sociedade.
+      Mantém-se numa atitude de falso conformismo, mas correm o risco de explodir em rebeldia a qualquer momento. Outros se proclamam \"espíritos livres\" e preferem se manter à margem da sociedade.
       Ganham liberdade para serem inconvencionais, teimosos, excêntricos e rebeldes de uma forma até chocante, mas perdem o prazer da companhia humana.
       Na maioria dos casos, contudo, a faceta experimental e pioneira deste signo no Ascendente consegue encontrar soluções originais e equilibradas (geralmente depois de várias tentativas). Pode unir-se a grupos diferentes e originais que lhe deem espaço e liberdade.
-      Pode ter diversos grupos de amigos, que representem diversas facetas da sua personalidade. Ou pode tentar compartilhar o seu "mundo paralelo", onde reina a busca da liberdade e a visão do futuro.
+      Pode ter diversos grupos de amigos, que representem diversas facetas da sua personalidade. Ou pode tentar compartilhar o seu \"mundo paralelo\", onde reina a busca da liberdade e a visão do futuro.
       Qualquer uma destas soluções pode permitir a troca de ideias, a cumplicidade em ideologias e pontos de vista.
       Assim o Ascendente em Aquário se sente acompanhado na sua diferença. Ao compreender que não precisa de se rebelar para ser livre, quem tem este ascendente começa a encarar a vida como uma grande experiência de solidariedade.
       Descobre, então, que tem a capacidade de partilhar com toda a humanidade as suas ideias largas e globais, numa perspectiva de serviço, esperança e fraternidade. As utopias se tornam, então, ideias realizáveis.
@@ -2329,17 +2329,17 @@ const data = {
       As relações são construídas com base nos sonhos para o futuro. O perigo é idealizar as pessoas de tal forma que seja difícil corresponder às suas expectativas. Pode haver também, em alguns casos, tendências neuróticas ou psicóticas, quando é dominado por questões do inconsciente.
       Em alguns casos, há timidez. É preciso aprender a organizar melhor seus sentimentos. Conhecer-se melhor, desenvolver um lado mais crítico e realista para que possa separar o que é seu e o que é do outro. Assim pode expressar sua sensibilidade com mais segurança, estabilidade, equilíbrio e clareza.`,
 
-     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-      Uma espécie de névoa vaga, transcendental e intangível parece permear a expressão pessoal de quem tem Peixes no Ascendente. Esta "névoa" confere empatia e permeabilidade, mas ao mesmo tempo traz certo isolamento e distanciamento.
+     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      Uma espécie de névoa vaga, transcendental e intangível parece permear a expressão pessoal de quem tem Peixes no Ascendente. Esta \"névoa\" confere empatia e permeabilidade, mas ao mesmo tempo traz certo isolamento e distanciamento.
       A necessidade de cultivar um sentido concreto de identidade entra em conflito com forças que provocam a dissolução e a transcendência das limitações. Assim, a pessoa com este Ascendente pode ter sentimentos e comportamentos um tanto contraditórios.
       Sua percepção é sensível ao todo, sua aprendizagem se faz através do sentir. Em determinadas situações, pode entrar em empatia emocional com toda a Humanidade e procurar redimi-la dos seus sofrimentos.
       Quando isso acontece, a sua sensibilidade se manifesta como compaixão, expressão artística ou devoção mística. No momento seguinte, contudo, pode focar-se apenas em suas próprias necessidades emocionais.
-      Cai então num caos emocional, numa autopiedade da qual só sairá (segundo julga) se alguém vier "salvá-lo". A solução requer o desenvolvimento de uma identidade que não exclua a consciência de que ela faz parte de algo maior.
+      Cai então num caos emocional, numa autopiedade da qual só sairá (segundo julga) se alguém vier \"salvá-lo\". A solução requer o desenvolvimento de uma identidade que não exclua a consciência de que ela faz parte de algo maior.
       Encontrar o caminho do meio: uma identidade rígida demais tornaria a transcendência impossível. Uma identidade por demais difusa criaria dificuldades na hora de lidar com as questões práticas, de forma eficiente com a vida.
       Quem tem Peixes no Ascendente pode se manifestar como a vítima, o artista ou o curandeiro/salvador. É preciso cuidado com excessos, com apetites autodestrutivos, com a tendência para a fuga da realidade e sacrifícios sobre-humanos.
       Se conseguir o distanciamento necessário para distinguir entre os seus problemas e os dos outros, a pessoa com este ascendente pode colocar a sua enorme sensibilidade à serviço do coletivo.
       Deixa de oscilar entre os papéis de salvador e vítima, tornando-se capaz de passar da empatia emocional à ajuda efetiva, mesmo que isso implique em sacrifícios pessoais.
-      Fisicamente, sua aparência é sonhadora, romântica, sedutora ou misteriosa. Um ar etéreo e um pouco "perdido" pode ser a marca deste signo ascendente. Os olhos costumam ser grandes e o corpo arredondado.
+      Fisicamente, sua aparência é sonhadora, romântica, sedutora ou misteriosa. Um ar etéreo e um pouco \"perdido\" pode ser a marca deste signo ascendente. Os olhos costumam ser grandes e o corpo arredondado.
       Alguns conseguem moldar sua aparência em diversas imagens, refletindo e imitando tudo o que os impressiona.`,
 
       `Mercúrio neste signo indica uma imaginação ativa e uma capacidade fotográfica para visualizar pensamentos e lembranças. Os nativos com esta posição são muito intuitivos e telepatas no nível inconsciente.
@@ -2364,7 +2364,7 @@ const data = {
 
         A intimidade com o outro, as experiências que envolvem prazer e sensibilidade, ganham ares sagrados. Nada do que se refere ao amor fica pequeno. Quando se apaixona, o nativo se entrega totalmente, fundindo-se com o outro e colocando-se aos seus pés.
 
-        A anulação da personalidade no intuito de agradar o parceiro pode ser uma armadilha no longo prazo. Tudo emerge das profundezas, o bom e o ruim também. Anjos e demônios, sonhos e pesadelos, felicidades paradisíacas e sofrimentos do tipo "meu mundo caiu".
+        A anulação da personalidade no intuito de agradar o parceiro pode ser uma armadilha no longo prazo. Tudo emerge das profundezas, o bom e o ruim também. Anjos e demônios, sonhos e pesadelos, felicidades paradisíacas e sofrimentos do tipo \"meu mundo caiu\".
 
         Com Vênus em Peixes é bom ter cuidado pra não idealizar o outro, ou o amor em si. Criar fantasias tão grandes que ninguém se torna capaz de satisfazê-las.  Ao ver o outro como uma tábua de salvação pra sua vida, pode se dar mal ao embarcar em ilusões.
 
@@ -2931,7 +2931,7 @@ const data = {
      `Quando o Sol ocupa a casa 10, o nativo constrói sua identidade no desenvolvimento da carreira, das conquistas profissionais e do status social. Na casa 10, o Sol expressa seus potenciais na busca do reconhecimento de suas habilidades únicas.
       Há necessidade de ser admirado, de cultivar ambição e realizar seu propósito de vida. Na luta para concretizar suas ambições, acaba desenvolvendo disciplina, perseverança e habilidade de concentrar sua vontade e energia para conquistar a projeção profissional.
       O ideal é tornar-se uma pessoa centrada, expressando suas forças e qualidades de modo direcionado. Assim pode tornar-se fonte de inspiração e autoridade. Mas é preciso cuidado!
-      Essa inspiração interna pode ser confundida com uma simples posição de destaque, que reluz como se fosse o resumo de um sonho, mas que é apenas ilusão, o verdadeiro “ouro de tolo".
+      Essa inspiração interna pode ser confundida com uma simples posição de destaque, que reluz como se fosse o resumo de um sonho, mas que é apenas ilusão, o verdadeiro \"ouro de tolo\".
       Quando esse desvio é tomado e o sentido de identidade ou de valor pessoal se prende demais a títulos ou posições sociais, a vida do nativo pode tornar-se limitada. Isso pode causar uma crise de identidade, fazendo-o perder o sentido da vida se essas coisas lhe são tiradas.
       Em algum momento da vida algo pode fazer com que o nativo perceba que seu poder vem de si mesmo e não da necessidade que tem da admiração dos outros. O nativo entende o mundo, como ele funciona, quais são suas leis, como alguém deve se comportar na esfera pública, pois sabe que dali é sempre observado.
       Entende intuitivamente que só conquista o mundo quem escala sua própria montanha e trabalha dia após dia para isso adaptando-se às regras do mundo. Fica claro que, não importa o que os seus antepassados, marido ou esposa fizeram, pois quem precisa fazer algo de significativo e realizar algo é si mesmo.`,

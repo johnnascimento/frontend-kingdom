@@ -10,7 +10,7 @@ define(['jquery'], function($) {
     constructor(textBlock){
       let _self = this;
 
-      this.breakRegExp = /-break|-endofline|-strong|\/strong|-italic|\/italic|-under|\/   under/gmi;
+      this.breakRegExp = /-break|-endofline|-stron|\/stron|-itali|\/itali|-under|\/under|-stnit|\/stnit/gmi;
       this.indexes = [];
       this.contentSpot = textBlock;
       this.buttonToAttachEvent = document.getElementById('formatText');
@@ -57,16 +57,38 @@ define(['jquery'], function($) {
 
         this.cl()('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@');
         domTextBlockVerifier = ($domTextBlock.children) ? $domTextBlock.lastChild : $domTextBlock;
-        console.log('domText ', domTextBlockVerifier);
+        console.log('domTextBlockVerifier ', domTextBlockVerifier);
 
         if(domTextBlockVerifier != undefined || domTextBlockVerifier != null || domTextBlockVerifier.length) {
-          this.cl('$domTextBlock.children ', $domTextBlock);
+          this.cl('domTextBlockVerifier ', domTextBlockVerifier);
 
           if($domTextBlock.children) {
             console.log('**********************************************$domTextBlock IF ', $domTextBlock.classList);
             this.cl('$domTextBlock LAST CHILD IF BEFORE', $domTextBlock.lastChild);
-            $domTextBlock = $domTextBlock.lastChild.textContent;
-            console.log('$domTextBlock IF AFTER', $domTextBlock);
+            this.cl('$domTextBlock lastchildren IF AFTER', $domTextBlock.lastChild.children);
+            this.cl('$domTextBlock lastchildren [2] IF AFTER', $domTextBlock.lastChild.children[2]);
+            this.cl('$domTextBlock lastchildren [2] textContent IF AFTER', $domTextBlock.lastChild.children[2].textContent);
+            this.cl('$domTextBlock lastchildren [2] innerText IF AFTER', $domTextBlock.lastChild.children[2].innerText);
+            this.cl('$domTextBlock lastchildren [2] innerHTML IF AFTER', $domTextBlock.lastChild.children[2].innerHTML);
+
+            $domTextBlock = $domTextBlock.lastChild.children[2].innerHTML;
+
+            // Next step is to create an object in which will pass two values, domtextBlock children[2] and from the [2] up to the last one too
+            // $domTextBlock = {
+            //   secondChildren: $domTextBlock.lastChild.children[2].innerHTML,
+            //   followingChildren: function() {
+            //     let storedValue = '';
+
+            //     for(let i = 0; i < $domTextBlock.lastChild.children.length; i++) {
+            //       if(i > 2) {
+            //         storedValue.push($domTextBlock.lastChild.children[i].innerHTML);
+            //         console.log('storedValue ', storedValue);
+            //       }
+            //     }
+
+            //     return storedValue;
+            //   }
+            // }
           } else {
             console.log('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$domTextBlock else ', $domTextBlock.classList);
             $domTextBlock = $domTextBlock;
@@ -141,36 +163,50 @@ define(['jquery'], function($) {
             this.cl('this.textToRender.lines', this.textToRender.lines);
             console.log(this.textToRender.lines);
 
-            if(indicesAsObjs.breaks[malleableJ].tag === 'strong' && indicesAsObjs.breaks[j].tag === 'strong' ) {
-              this.textToRender.lines.push(
-                this.textToRender.tagOpenedStrong.trim() +
-                textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
-                this.textToRender.tagClosedUsed.trim()
-              );
-            } else if(indicesAsObjs.breaks[malleableJ].tag === 'italic' && indicesAsObjs.breaks[j].tag === 'italic') {
-              this.textToRender.lines.push(
-                this.textToRender.tagOpenedItalic.trim() +
-                textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
-                this.textToRender.tagClosedUsed.trim()
-              );
-            } else if(indicesAsObjs.breaks[malleableJ].tag === 'underline' && indicesAsObjs.breaks[j].tag === 'underline') {
-              this.textToRender.lines.push(
-                this.textToRender.tagOpenedUnderline.trim() +
-                textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
-                this.textToRender.tagClosedUsed.trim()
-              );
-            } else if(indicesAsObjs.breaks[j].tag === 'break') {
-              this.textToRender.lines.push(
-                this.textToRender.tagOpenedBreak.trim() +
-                textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
-                this.textToRender.tagClosedUsed.trim()
-              );
-            } else {
+            // Need improving
+            // When using strong, italic or any other special characters to style the text
+            // without having used linebreakers, you get a bug where the whole text
+            // will be encapsulated by the special tag (strong, italic etc)
+            if(j === 0 && indicesAsObjs.breaks[j] !== '-break') {
+              this.cl('XXXXXXXX-------XXXXXX------ This is logging J when this is 0', j + ' ' + indicesAsObjs.breaks[j]);
+
               this.textToRender.lines.push(
                 this.textToRender.tagOpenedUsed.trim() +
                 textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
                 this.textToRender.tagClosedUsed.trim()
               );
+            } else {
+              if(indicesAsObjs.breaks[malleableJ].tag === 'strong' && indicesAsObjs.breaks[j].tag === 'strong' ) {
+                this.textToRender.lines.push(
+                  this.textToRender.tagOpenedStrong.trim() +
+                  textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
+                  this.textToRender.tagClosedUsed.trim()
+                );
+              } else if(indicesAsObjs.breaks[malleableJ].tag === 'italic' && indicesAsObjs.breaks[j].tag === 'italic') {
+                this.textToRender.lines.push(
+                  this.textToRender.tagOpenedItalic.trim() +
+                  textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
+                  this.textToRender.tagClosedUsed.trim()
+                );
+              } else if(indicesAsObjs.breaks[malleableJ].tag === 'underline' && indicesAsObjs.breaks[j].tag === 'underline') {
+                this.textToRender.lines.push(
+                  this.textToRender.tagOpenedUnderline.trim() +
+                  textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
+                  this.textToRender.tagClosedUsed.trim()
+                );
+              } else if(indicesAsObjs.breaks[j].tag === 'break') {
+                this.textToRender.lines.push(
+                  this.textToRender.tagOpenedBreak.trim() +
+                  textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
+                  this.textToRender.tagClosedUsed.trim()
+                );
+              } else {
+                this.textToRender.lines.push(
+                  this.textToRender.tagOpenedUsed.trim() +
+                  textTotreat.substring(this.indexMarker, (indicesAsObjs.breaks[j].index)).trim() +
+                  this.textToRender.tagClosedUsed.trim()
+                );
+              }
             }
 
             this.cl('indexMarker\'s value AFTER assignemnt BREAKS', this.indexMarker);
@@ -215,6 +251,8 @@ define(['jquery'], function($) {
       console.log(`indicesFinder was invoked`);
 
       let indexOf = 0;
+      this.cl('Text to search into', textToSearchInto);
+
       let loopingTimes = textToSearchInto.match(this.breakRegExp).slice(',');
       let indicesArrayBreak = [];
       let textArray = [];
