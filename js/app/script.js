@@ -278,7 +278,7 @@ define(['jquery'], function($) {
                         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, nodosFortuna);
                       }
 
-                        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[0]);
+                        criarEl('p', klassAssigner, 'arrayKlass-title', 'arrayId', null, elemPlaceholder[0]);
                         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
 
                         if(siteLists.first.link.selectedIndex === 12) {

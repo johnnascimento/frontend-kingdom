@@ -10,7 +10,7 @@ define(['jquery'], function($) {
     constructor(textBlock){
       let _self = this;
 
-      this.breakRegExp = /-break|-endofline|-stron|\/stron|-itali|\/itali|-under|\/under|-stnit|\/stnit/gmi;
+      this.breakRegExp = /-break|-endln|-stron|\/stron|-itali|\/itali|-under|\/under|-stnit|\/stnit/gmi;
       this.indexes = [];
       this.contentSpot = textBlock;
       this.buttonToAttachEvent = document.getElementById('formatText');
@@ -39,6 +39,7 @@ define(['jquery'], function($) {
       let _self = this;
       let $domTextBlock = '';
       let domTextBlockVerifier = '';
+      let grabMustTreatText = '';
 
       const grabValueFromDom = () => {
         if(referenceElem === undefined || referenceElem === null) {
@@ -71,26 +72,26 @@ define(['jquery'], function($) {
             this.cl('$domTextBlock lastchildren [2] innerText IF AFTER', $domTextBlock.lastChild.children[2].innerText);
             this.cl('$domTextBlock lastchildren [2] innerHTML IF AFTER', $domTextBlock.lastChild.children[2].innerHTML);
 
-            $domTextBlock = $domTextBlock.lastChild.children[2].innerHTML;
+            grabMustTreatText = [].slice.call($domTextBlock.lastChild.children);
+            $domTextBlock = grabMustTreatText.map(function(domElements) {
+              let filteredElements = [];
 
-            // Next step is to create an object in which will pass two values, domtextBlock children[2] and from the [2] up to the last one too
-            // $domTextBlock = {
-            //   secondChildren: $domTextBlock.lastChild.children[2].innerHTML,
-            //   followingChildren: function() {
-            //     let storedValue = '';
+              if(domElements.classList.contains('arrayKlass') || domElements.classList.contains('levelsClass')) {
+                _self.cl('IF domElements from $domTextBlock.lastChild.children element ', domElements);
+                filteredElements.push(domElements);
+              } else {
+                _self.cl('ELSE domElements from $domTextBlock.lastChild.children element ', domElements);
+              }
 
-            //     for(let i = 0; i < $domTextBlock.lastChild.children.length; i++) {
-            //       if(i > 2) {
-            //         storedValue.push($domTextBlock.lastChild.children[i].innerHTML);
-            //         console.log('storedValue ', storedValue);
-            //       }
-            //     }
+              return filteredElements;
+            });
 
-            //     return storedValue;
-            //   }
-            // }
+            _self.cl('domTextBlock ', $domTextBlock);
+
+            $domTextBlock = this.convertArrayToTextBlock($domTextBlock);
+
           } else {
-            console.log('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$domTextBlock else ', $domTextBlock.classList);
+            console.log('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ $domTextBlock else ', $domTextBlock.classList);
             $domTextBlock = $domTextBlock;
             console.log('$domTextBlock else AFTER', $domTextBlock);
           }
@@ -104,13 +105,34 @@ define(['jquery'], function($) {
       return grabValueFromDom();
     }
 
+    convertArrayToTextBlock(elemToConvert) {
+      if(typeof elemToConvert !== 'object') {
+        return;
+      }
+
+      let _self = this;
+      let storeValue = '';
+
+      for(let key in elemToConvert) {
+        _self.cl('elemToConvert ', elemToConvert[key][0]);
+        _self.cl('Key ', key);
+
+        if(elemToConvert[key].length) {
+          storeValue = storeValue + elemToConvert[key][0].textContent;
+        }
+      }
+
+      return storeValue;
+    }
+
     performTreatment(onlyTextFromBlock) {
       let _self = this;
       this.textBlockChildren = onlyTextFromBlock;
       this.textTreatedCompletely = '';
 
       this.treatedTestArray = [];
-      console.log('textblockchildren ************************** ', this.textBlockChildren.substring(0,15));
+      console.log('textblockchildren ************************** ', this.textBlockChildren);
+      console.log('textblockchildren substring ************************** ', this.textBlockChildren.substring(0,15));
 
       if(this.textBlockChildren.length) {
         console.log('****************************** text block children: ', this.textBlockChildren.substring(0,50));
@@ -222,25 +244,25 @@ define(['jquery'], function($) {
 
     /// Still needs changes
     render(elemToRender) {
+      let _self = this;
+
       this.cl()('render was invoked');
       // this.cl()(this.contentSpot + ' ' + 'div[class^=\"textBlockWrapper-\"]:last-child .arrayKlass');
       this.contentThatWilChange = this.grabValue(this.contentSpot + ' ' + 'div[class^=\"textBlockWrapper-\"]:last-child .arrayKlass');
+      this.contentThatWillBeRemoved = this.grabValue(this.contentSpot + ' ' + 'div[class^=\"textBlockWrapper-\"]:last-child .levelsClass');
 
-      // this.cl('contentThatWilChange BEFORE ', this.contentThatWilChange);
+      this.cl('contentThatWillBeRemoved ', this.contentThatWillBeRemoved);
 
-      this.contentThatWilChange = this.contentThatWilChange[1];
       this.elemToRenderLSize = elemToRender.lines.length;
-      this.contentThatWilChange.innerHTML = '';
+      this.contentThatWilChange = this.contentThatWilChange[0];
 
-      // this.cl('contentThatWilChange BEFORE ', this.contentThatWilChange);
-      // this.cl('elemToRender ', elemToRender);
-      // this.cl('this.elemToRenderLSize ', this.elemToRenderLSize);
+      // Remove from the DOM tree old nodes with text
+      this.contentThatWilChange.innerHTML = '';
+      for(let j = 0; j < this.contentThatWillBeRemoved.length; j++) {
+        _self.contentThatWillBeRemoved[j].remove();
+      }
 
       for(let i = 0; i < this.elemToRenderLSize; i++){
-        // this.cl('i value ', i);
-        // this.cl('this.contentThatWilChange.innerHTML ', this.contentThatWilChange.innerHTML);
-        // this.cl('this.contentThatWilChange.innerHTML ', this.contentThatWilChange.innerHTML);
-
         this.contentThatWilChange.innerHTML = this.contentThatWilChange.innerHTML + elemToRender.lines[i];
       }
 
@@ -316,6 +338,7 @@ define(['jquery'], function($) {
       let _selector = this.contentSpot;
 
       this.contentToAnalyse = this.grabValue();
+      this.cl('this.contentToAnalyse ', typeof this.contentToAnalyse);
       this.cl('this.contentToAnalyse ', this.contentToAnalyse);
 
       onlyTextFromBlock = (_self.contentToAnalyse.textContent === undefined || _self.contentToAnalyse.textContent === null) ? _self.contentToAnalyse : _self.contentToAnalyse.textContent.trim();
