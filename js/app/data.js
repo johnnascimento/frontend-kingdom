@@ -3,108 +3,108 @@
 const data = {
   planets: [
     {
-      title: `Sol em`,
+      title: `Sol`,
       id: 1
     },
     {
-      title: `Lua em`,
+      title: `Lua`,
       id: 2
     },
     {
-      title: `Ascendente em`,
+      title: `Ascendente`,
       id: 3
     },
     {
-      title: `Mercúrio em`,
+      title: `Mercúrio`,
       id: 4
     },
     {
-      title: `Vênus em`,
+      title: `Vênus`,
       id: 5
     },
     {
-      title: `Marte em`,
+      title: `Marte`,
       id: 6
     },
     {
-      title: `Júpter em`,
+      title: `Júpter`,
       id: 7
     },
     {
-      title: `Saturno em`,
+      title: `Saturno`,
       id: 8
     },
     {
-      title: `Urano em`,
+      title: `Urano`,
       id: 9
     },
     {
-      title: `Netuno em`,
+      title: `Netuno`,
       id: 10
     },
     {
-      title: `Plutão em`,
+      title: `Plutão`,
       id:11
     },
     {
-      title: `Nodos Lunares em`,
+      title: `Nodos Lunares`,
       id:12
     },
     {
-      title: `Parte da Fortuna em`,
+      title: `Parte da Fortuna`,
       id: 13
     },
     {
-      title: `Quíron em`,
+      title: `Quíron`,
       id: 14
     },
     {
-      title: `Juno em`,
+      title: `Juno`,
       id: 15
     },
     {
-      title: `Mercúrio retrógado em`,
+      title: `Mercúrio retrógado`,
       id: 16
     },
     {
-      title: `Vênus retrógado em`,
+      title: `Vênus retrógado`,
       id: 17
     },
     {
-      title: `Marte retrógado em`,
+      title: `Marte retrógado`,
       id: 18
     },
     {
-      title: `Júpter retrógado em`,
+      title: `Júpter retrógado`,
       id: 19
     },
     {
-      title: `Saturno retrógado em`,
+      title: `Saturno retrógado`,
       id: 20
     },
     {
-      title: `Urano retrógado em`,
+      title: `Urano retrógado`,
       id: 21
     },
     {
-      title: `Netuno retrógado em`,
+      title: `Netuno retrógado`,
       id: 22
     },
     {
-      title: `Plutão retrógado em`,
+      title: `Plutão retrógado`,
       id: 23
     },
     {
-      title: `Quíron retrógado em`,
+      title: `Quíron retrógado`,
       id: 24
     },
     {
-      title: `Juno retrógado em`,
+      title: `Juno retrógado`,
       id: 25
     }
   ],
   signos: [{
-    title: `aries`,
+    title: `em aries`,
     text: [
       `Áries é um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida.
       Qualidades: pioneirismo, entusiasmo, iniciativa, coragem, garra, espontaneidade, competitividade e energia.
@@ -354,14 +354,36 @@ const data = {
         `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo. -break`
     ],
     nodosLunares: [
-      `Nodos lunares\' extra text`
+      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
+       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
+       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
+       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
+       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a cooperar, a formar parcerias sem perder a sua identidade. /stron`
     ],
     parteFortuna: [
-      `Parte da fortuna\'s extra text`
+      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
+      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
+      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
+      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` -break`,
+      `-stron Os nascidos no início da Lua nova /stron`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
+      `-stron Os nascidos no início da Lua crescente /stron`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
+      `-stron Os nascidos no início da Lua cheia /stron`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
+      `-stron Os nascidos no início da Lua minguante /stron`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
     ]
   },
   {
-    title: `touro`,
+    title: `em touro`,
     text: [
       `Touro é estabilidade, conforto e bem estar material. É o primeiro signo do elemento Terra.
       Representa a vontade de firmar os desejos, de dar continuidade, persistir, realizar, concretizar. Inspira a necessidade de segurança, pois é o signo da preservação.
@@ -617,14 +639,36 @@ const data = {
         Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. -break`
     ],
     nodosLunares: [
-      `Nodos lunares\' extra text`
+      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
+       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
+       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
+       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
+       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a cultivar o desapego, a atribuir valor ao mundo das emoções e ao invisível /stron`
     ],
     parteFortuna: [
-      `Parte da fortuna\'s extra text`
+      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
+      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
+      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
+      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` -break`,
+      `-stron Os nascidos no início da Lua nova /stron`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
+      `-stron Os nascidos no início da Lua crescente /stron`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
+      `-stron Os nascidos no início da Lua cheia /stron`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
+      `-stron Os nascidos no início da Lua minguante /stron`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
     ]
   },
   {
-    title: `gemeos`,
+    title: `em gemeos`,
     text: [
       `Quando o Sol ingressa no signo de Gêmeos, a natureza começa a mudar e a entrar em mutação.
       No hemisfério norte, a primavera dá passagem para o verão, que chega em Câncer. No hemisfério sul, o outono vai recebendo o inverno. Por isso Gêmeos é um signo mutável.
@@ -904,14 +948,36 @@ const data = {
         Desenvolve também o poder mental e a confiança que os estudos podem despertar em si mesmo. -break`
     ],
     nodosLunares: [
-      `Nodos lunares\' extra text`
-    ],
+      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
+       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
+       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
+       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
+       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a ganhar sabedoria sem perder a simplicidade e humildade /stron`
+    ], // PAREI AQUI NO DIA 04-02-2020
     parteFortuna: [
-      `Parte da fortuna\'s extra text`
+      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
+      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
+      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
+      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` -break`,
+      `-stron Os nascidos no início da Lua nova /stron`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
+      `-stron Os nascidos no início da Lua crescente /stron`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
+      `-stron Os nascidos no início da Lua cheia /stron`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
+      `-stron Os nascidos no início da Lua minguante /stron`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
     ]
   },
   {
-    title: `cancer`,
+    title: `em cancer`,
     text: [
       `Câncer é o primeiro signo do elemento Água, regido pela Lua.
       Traz lições sobre a sensibilidade, a intimidade, as emoções, o cuidado, a proteção e o acolhimento. Evoca também o passado, a ancestralidade, a história e a memória emotiva.
@@ -1186,7 +1252,7 @@ const data = {
     ]
   },
   {
-    title: `leao`,
+    title: `em leao`,
     text: [
       `Leão é um signo de Fogo, está relacionado ao entusiasmo e poder de liderança. Quem nasce com o Sol em Leão é portador de uma força comparável aos planetas que giram em volta do Sol.
 
@@ -1662,7 +1728,7 @@ Capacidades e dons artísticos se Vênus, o Sol ou a Lua também mostram essas t
     ]
   },
   {
-    title: `virgem`,
+    title: `em virgem`,
     text: [
       `Virgem é um signo do elemento Terra. Critério, discernimento e eficiência são palavras-chave.
 
@@ -2175,7 +2241,7 @@ Vivencia com amor o serviço da missão da sua alma a favor de um propósito mai
     ]
   },
   {
-    title: `libra`,
+    title: `em libra`,
     text: [
        `Quando o Sol ingressa em Libra, marca o Equinócio da Primavera no hemisfério sul e o Equinócio de Outono no hemisfério norte.
 
@@ -2701,7 +2767,7 @@ Só o Amor liberta da divisão do mundo e por ser o polo exterior de sua imagem 
     ]
   },
   {
-    title: `escorpiao`,
+    title: `em escorpiao`,
     text: [
       `Escorpião é um signo de Água regido por Plutão, o senhor das profundezas, associado á morte e ao renascimento.
 
@@ -3242,7 +3308,7 @@ Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida
     ]
   },
   {
-    title: `sagitario`,
+    title: `em sagitario`,
     text: [
      `A afirmação da individualidade é uma qualidade do elemento fogo.
 
@@ -3749,7 +3815,7 @@ Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma no
     ]
   },
   {
-    title: `capricórnio`,
+    title: `em capricórnio`,
     text: [
       `Capricórnio é um signo de Terra que deve aprender a se esforçar para escalar sua própria montanha. Ambição é uma palavra-chave.
 
@@ -4259,7 +4325,7 @@ Nesta fase pode criar novas estruturas. -break`
     ]
   },
   {
-    title: `aquario`,
+    title: `em aquario`,
     text: [
      `Aquário é um signo de Ar, visionário, inteligente, inovador e pioneiro, que gosta de pensar no coletivo. Gosta de olhar para o futuro, de questionar regras, dogmas e tabus obsoletos.
 
@@ -4764,7 +4830,7 @@ Ao assumir o que tem de único e individualizado, acrescenta de um modo solidár
     ]
   },
   {
-    title: `peixe`,
+    title: `em peixe`,
     text: [
      `Peixes é o último signo do Zodíaco, o RELIGARE.
 
@@ -5251,7 +5317,7 @@ E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoç
   }
   ],
   casas: [{
-    title: `Casa 01`,
+    title: `na casa 01`,
     text: [
        `Quando o Sol está no ascendente, o nativo sente que o ambiente da sua primeira infância apoia seus desejos e ela consegue expressar sua individualidade de maneira espontânea.
 
@@ -5602,7 +5668,7 @@ Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, 
     ]
   },
   {
-    title: `Casa 02`,
+    title: `na casa 02`,
     text: [
       `Na casa 2, as questões materiais são predominantes. A segurança financeira é uma forma de definir a identidade e um canal para a autoexpressão.
 
@@ -5905,7 +5971,7 @@ São pessoas que investem no luxo pessoal segundo suas disponibilidades financei
     ]
   },
   {
-    title: `Casa 03`,
+    title: `na casa 03`,
     text: [
      `Os potenciais do Sol na casa 3 são revelados através do desenvolvimento mental, intelectual e da habilidade para se comunicar.
 
@@ -6214,7 +6280,7 @@ Também no casamento essa mulher se comportará sempre de forma muito jovial, e 
     ]
   },
   {
-    title: `Casa 04`,
+    title: `na casa 04`,
     text: [
       `Na casa 4, a procura da própria identidade passa pelas raízes, pelas heranças familiares, pelos padrões ancestrais e a vida em família.
 
@@ -6543,7 +6609,7 @@ Mas atenção ao considerar esta possibilidade! No mapa de um homem, escolha de 
     ]
   },
   {
-    title: `Casa 05`,
+    title: `na casa 05`,
     text: [
       `É na casa 5 que o Sol encontra sua melhor expressão, pois essa é a casa de sua regência. É na busca do prazer, das atividades criativas, do lazer e do romance que desenvolve sua identidade.
 
@@ -6870,7 +6936,7 @@ Capacidades e dons artísticos se Vênus, o Sol ou a Lua também mostram essas t
     ]
   },
   {
-    title: `Casa 06`,
+    title: `na casa 06`,
     text: [
      `Na casa 6, a direção na vida e o senso de realização podem ser descobertos através do serviço que presta e dos cuidados com a saúde e dieta.
 
@@ -7223,7 +7289,7 @@ Boa posição para os artistas. Terapia pela Beleza, que pode ser uma fonte para
     ]
   },
   {
-    title: `Casa 07`,
+    title: `na casa 07`,
     text: [
     `O Sol na casa 7 leva ao desenvolvimento através dos relacionamentos, das associações e das parcerias amorosas ou sociais.
 
@@ -7553,7 +7619,7 @@ A vida social da pessoa com Juno nesta casa se valoriza mais, quando ela se torn
     ]
   },
   {
-    title: `Casa 08`,
+    title: `na casa 08`,
     text: [
      `Os relacionamentos que expõem paixões ocultas e esbarram em emoções primárias não resolvidas fazem parte do processo de desenvolvimento do Sol na Casa 8.
 
@@ -7880,7 +7946,7 @@ São pessoas que em matéria de negócios tenderão a investir no que é belo ou
     ]
   },
   {
-    title: `Casa 09`,
+    title: `na casa 09`,
     text: [
      `Ao aumentar a compreensão e a perspectiva da vida através de viagens, leituras ou pesquisas filosóficas, o Sol na casa 9 se vitaliza e potencializa.
 
@@ -8223,7 +8289,7 @@ Há também uma tendência para idealizar o parceiro/a e que deve se corresponde
     ]
   },
   {
-    title: `Casa 10`,
+    title: `na casa 10`,
     text: [
      `Quando o Sol ocupa a casa 10, o nativo constrói sua identidade no desenvolvimento da carreira, das conquistas profissionais e do status social.
 
@@ -8556,7 +8622,7 @@ No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade
     ]
   },
   {
-    title: `Casa 11`,
+    title: `na casa 11`,
     text: [
      `O Sol na Casa 11 se desenvolve através da participação num grupo, na busca contínua de progresso social e cultural.
 
@@ -8898,7 +8964,7 @@ Nas parcerias de amizade, fidelidade que não suporta as limitações dos amigos
     ]
   },
   {
-    title: `Casa 12`,
+    title: `na casa 12`,
     text: [
      `Quando o Sol ocupa a casa 12 há um paradoxo, pois o Sol estabelece, esclarece e desenvolve uma identidade separada e única e a casa 12 trabalha no sentido de dissolver, desestruturar e subverter as fronteiras individuais.
 

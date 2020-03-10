@@ -1627,20 +1627,7 @@ Devem aprender a olhar e investigar o que existe por trás dos refletores para q
 
 O equilíbrio está no signo oposto, Aquário, que traz as lições de humildade, fraternidade, altruísmo, trabalho em equipe.
 
-Para tal, é necessário descer do seu próprio trono, servir à coletividade e conceder a liberdade na medida justa.
-
--stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está):
-
--stron 1º nível de evolução:/stron
-A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade.
-
--stron 2º nível de evolução:/stron
-Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo.
-
-A criatividade se manifesta quando busca a sua identidade através da transformação da matéria.
-
--stron 3º nível de evolução:/stron
-Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original.`,
+Para tal, é necessário descer do seu próprio trono, servir à coletividade e conceder a liberdade na medida justa.`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
 
