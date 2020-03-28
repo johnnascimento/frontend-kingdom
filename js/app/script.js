@@ -135,6 +135,213 @@ define(['jquery'], function($) {
             return valueToReturn;
         };
 
+        const defineNodosLunaresTitle = (elemToActUpon, idx) => {
+            console.log('defineNodosLunaresTitle was invoked', elemToActUpon);
+            var NodostitleReturned = '';
+            console.log('idx: ', idx);
+            console.log('elemToActUpon: ', elemToActUpon);
+
+            switch(idx.element2[1]) {
+                case 1:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Libra';
+                    break;
+
+                case 2:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Escorpião';
+                    break;
+
+                case 3:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Sagitário';
+                    break;
+
+                case 4:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Capricórnio';
+                    break;
+
+                case 5:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Aquário';
+                    break;
+
+                case 6:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Peixes';
+                    break;
+
+                case 7:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Áries';
+                    break;
+
+                case 8:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Touro';
+                    break;
+
+                case 9:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Gêmoes';
+                    break;
+
+                case 10:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Câncer';
+                    break;
+
+                case 11:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Leão';
+                    break;
+
+                case 12:
+                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Virgem';
+                    break;
+
+                default:
+                    NodostitleReturned = 'empty';
+                    break;
+            }
+
+            console.log('NodostitleReturned after treatment, ', NodostitleReturned);
+            return NodostitleReturned;
+        };
+
+        const defineTitles = (elemToActUpon, indexPassedIn) => {
+            console.log('defineTitles was invoked', elemToActUpon);
+
+            var titleReturned = '';
+            var elemToActUponLowerCase = elemToActUpon.toLowerCase();
+
+            console.log('elemToActUponLowerCase has been treated', elemToActUponLowerCase, ' Idx: ', indexPassedIn);
+
+            switch(elemToActUponLowerCase) {
+                case 'sol':
+                    console.log('elemToActUponLowerCase is sol case', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Sol na ' : 'Sol em ';
+                    break;
+
+                case 'lua':
+                    console.log('Lua case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Lua na ' : 'Lua em ';
+                    break;
+
+                case 'ascendente':
+                    console.log('Ascendente case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Ascendente na ' : 'Ascendente ';
+                    break;
+
+                case 'mercúrio':
+                    console.log('Mercúrio case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Mercúrio na ' : 'Mercúrio em ';
+                    break;
+
+                case 'vênus':
+                    console.log('Vênus case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Vênus na ' : 'Vênus em ';
+                    break;
+
+                case 'marte':
+                    console.log('Marte case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Marte na ' : 'Marte em ';
+                    break;
+
+                case 'júpter':
+                    console.log('Júpter case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Júpter na ' : 'Júpter em ';
+                    break;
+
+                case 'saturno':
+                    console.log('Saturno case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Saturno na ' : 'Saturno em ';
+                    break;
+
+                case 'urano':
+                    console.log('Urano case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Urano na ' : 'Urano em ';
+                    break;
+
+                case 'netuno':
+                    console.log('Netuno case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Netuno na ' : 'Netuno em ';
+                    break;
+
+                case 'plutão':
+                    console.log('Plutão case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Plutão na ' : 'Plutão em ';
+                    break;
+
+                case 'nodos lunares':
+                    console.log('Nodos case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Nodos Lunares na ' : defineNodosLunaresTitle(elemToActUpon, indexPassedIn);
+                    break;
+
+                case 'parte da fortuna':
+                    console.log('Parte case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Parte da Fortuna na ' : 'Parte da Fortuna em ';
+                    break;
+
+                case 'quíron':
+                    console.log('Quíron case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Quíron na ' : 'Quíron em ';
+                    break;
+
+                case 'juno':
+                    console.log('Juno case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Juno na ' : 'Quíron em ';
+                    break;
+
+                case 'mercúrio retrógado':
+                    console.log('Mercúrio case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Mercúrio Retrógado na ' : 'Mercúrio Retrógado em ';
+                    break;
+
+                case 'vênus retrógado':
+                    console.log('Vênus case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Vênus Retrógado na ' : 'Vênus Retrógado em ';
+                    break;
+
+                case 'marte retrógado':
+                    console.log('Marte case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Marte Retrógado na ' : 'Marte Retrógado em ';
+                    break;
+
+                case 'júpter retrógado':
+                    console.log('Júpter case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Júpter Retrógado na ' : 'Júpter Retrógado em ';
+                    break;
+
+                case 'saturno retrógado':
+                    console.log('Saturno case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Saturno Retrógado na ' : 'Saturno Retrógado em ';
+                    break;
+
+                case 'urano retrógado':
+                    console.log('Urano case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Urano Retrógado na ' : 'Urano Retrógado em ';
+                    break;
+
+                case 'netuno retrógado':
+                    console.log('Netuno case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Netuno Retrógado na ' : 'Netuno Retrógado em ';
+                    break;
+
+                case 'plutão retrógado':
+                    console.log('Plutão case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Plutão Retrógado na ' : 'Plutão Retrógado em ';
+                    break;
+
+                case 'quíron retrógado':
+                    console.log('Quíron case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Quíron Retrógado na ' : 'Quíron Retrógado em ';
+                    break;
+
+                case 'juno retrógado':
+                    console.log('Juno case: ', elemToActUponLowerCase);
+                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Juno Retrógado na ' : 'Juno Retrógado em ';
+                    break;
+
+                default:
+                    console.log('default: ', elemToActUponLowerCase);
+                    titleReturned = 'empty'
+                    break;
+            }
+
+            return titleReturned;
+        };
+
 
         const grabInputValues = (element, index) => {
             console.log('Grab input values is running sound!');
@@ -142,10 +349,18 @@ define(['jquery'], function($) {
 
             for (key in data.planets) {
                 if (data.planets[key].title == element) {
-                    if (elementsIndexAndTexts.element2[1] === 0 && elementsIndexAndTexts.element2[2] !== 0) {
-                        evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[2]);
-                    } else if (elementsIndexAndTexts.element1[0] !== 0 && elementsIndexAndTexts.element2[2] === 0) {
-                        evaluatedValueToReturn.push(data.planets[key].title + " " + elementsIndexAndTexts.element1[1]);
+                    if (elementsIndexAndTexts.element2[0] !== 0 && elementsIndexAndTexts.element2[1] === 0) {
+                        // Call upon defineTitles function before pushing da.planets[key].title;
+                        defineTitles(data.planets[key].title, elementsIndexAndTexts);
+                        console.log('********* Casas', elementsIndexAndTexts);
+
+                        evaluatedValueToReturn.push(defineTitles(data.planets[key].title, elementsIndexAndTexts) + " " + elementsIndexAndTexts.element1[2]);
+                    } else if (elementsIndexAndTexts.element2[0] !== 0 && elementsIndexAndTexts.element2[2] === 0) {
+                        // Call upon defineTitles function before pushing da.planets[key].title;
+                        defineTitles(data.planets[key].title, elementsIndexAndTexts);
+                        console.log('********* SIGNOS', elementsIndexAndTexts);
+
+                        evaluatedValueToReturn.push(defineTitles(data.planets[key].title, elementsIndexAndTexts) + " " + elementsIndexAndTexts.element1[1]);
                     }
                     return evaluatedValueToReturn;
                 }
@@ -210,6 +425,8 @@ define(['jquery'], function($) {
                 return;
             } else {
                 indexSelectedArray.forEach(grabInputValues);
+                console.log('setUpTextForTemplate - indexSelectedArray', indexSelectedArray);
+                console.log('setUpTextForTemplate - evaluatedValueToReturn', evaluatedValueToReturn);
                 return evaluatedValueToReturn;
             }
         };
