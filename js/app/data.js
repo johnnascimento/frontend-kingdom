@@ -2445,272 +2445,271 @@ const data = {
   {
     title: `em sagitario`,
     text: [
-     `A afirmação da individualidade é uma qualidade do elemento fogo.
-O sagitariano quer viajar, encontrar algo maior, filosofar, expandir fronteiras, cultivar liberdade de ação e pensamento, buscar mais espaço em todos os sentidos.
-Movido por este desejo, sua mente vai longe e explora territórios desconhecidos. Conta com grande potencial intelectual.
-Aprende que ao dominar o instinto, pode desenvolver a mente, elevar os ideais, expandir a fé, a consciência e o saber.
-Sagitário também é mestre, professor, sacerdote, jurista. Mesmo com um temperamento forte e imperativo, tem sempre bom humor e ousadia para encarar os riscos.
-Seu comportamento é dinâmico, voluntarioso e impulsivo, motivado por desafios. Para tanto, liberdade e independência são imprescindíveis.
-Júpiter, na mitologia, é o deus dos deuses e dos homens. É o regente desse signo e o maior planeta do sistema solar. Traz a ideia do gigantismo, do exagero, do superlativo.
-É o princípio do crescimento, da fartura, da expansão e da gratificação por participar de um processo evolutivo, que visa alcançar algo maior e melhor.
-Este é o significado da famosa seta apontada para o alto, símbolo do signo. O gosto pelo risco e a alma de aventureiro são característicos do signo.
-Quer aproveitar a vida ao máximo e pode viajar a qualquer lugar do mundo. Se pudesse, partiria num foguete para descobrir as estrelas e as galáxias.
-Sua natureza é idealista, inquieta, e pode viver muitos encontros. Por vezes, tempestuosos. Há tendência para ataques de cólera e isso pode valer inimizades entre as pessoas que o rodeiam.
-No corpo, as partes vulneráveis do Sagitário são: os nervos, as vértebras, as ancas, as coxas, a bexiga, as vias respiratórias e o sistema digestivo, em particular o fígado.
-Com a idade pode desenvolver patologias que desenvolve afetam a parte inferior do corpo. Crises de ciática ou cãibras musculares, por exemplo.
-Pode também desenvolver alergias, que muitas vezes são resultado da sua alimentação demasiado rica e mal equilibrada.
-É importante praticar esportes que ajudam a queimar as toxinas. É preciso cuidado com o orgulho, a vaidade, o deboche, os excessos, exageros e as posturas dogmáticas de quem se acha o dono da verdade.
-O equilíbrio está no signo oposto, Gêmeos. Flexibilidade e a adaptabilidade impedem que as posturas se tornem impositivas demais, para que possa aceitar opiniões diferentes.
-Aprender com as mudanças, olhar para outras culturas e religiões com respeito e humildade, adaptar os objetivos de acordo com as circunstâncias.
-Tudo em nome da evolução. De fato, a flecha apontada para o alto só atinge o alvo se o arqueiro possuir flexibilidade e habilidade nos movimentos. -break`,
+        `A afirmação da individualidade é uma qualidade do elemento fogo.
+        O sagitariano quer viajar, encontrar algo maior, filosofar, expandir fronteiras, cultivar liberdade de ação e pensamento, buscar mais espaço em todos os sentidos.
+        Movido por este desejo, sua mente vai longe e explora territórios desconhecidos. Conta com grande potencial intelectual.
+        Aprende que ao dominar o instinto, pode desenvolver a mente, elevar os ideais, expandir a fé, a consciência e o saber.
+        Sagitário também é mestre, professor, sacerdote, jurista. Mesmo com um temperamento forte e imperativo, tem sempre bom humor e ousadia para encarar os riscos.
+        Seu comportamento é dinâmico, voluntarioso e impulsivo, motivado por desafios. Para tanto, liberdade e independência são imprescindíveis.
+        Júpiter, na mitologia, é o deus dos deuses e dos homens. É o regente desse signo e o maior planeta do sistema solar. Traz a ideia do gigantismo, do exagero, do superlativo.
+        É o princípio do crescimento, da fartura, da expansão e da gratificação por participar de um processo evolutivo, que visa alcançar algo maior e melhor.
+        Este é o significado da famosa seta apontada para o alto, símbolo do signo. O gosto pelo risco e a alma de aventureiro são característicos do signo.
+        Quer aproveitar a vida ao máximo e pode viajar a qualquer lugar do mundo. Se pudesse, partiria num foguete para descobrir as estrelas e as galáxias.
+        Sua natureza é idealista, inquieta, e pode viver muitos encontros. Por vezes, tempestuosos. Há tendência para ataques de cólera e isso pode valer inimizades entre as pessoas que o rodeiam.
+        No corpo, as partes vulneráveis do Sagitário são: os nervos, as vértebras, as ancas, as coxas, a bexiga, as vias respiratórias e o sistema digestivo, em particular o fígado.
+        Com a idade pode desenvolver patologias que desenvolve afetam a parte inferior do corpo. Crises de ciática ou cãibras musculares, por exemplo.
+        Pode também desenvolver alergias, que muitas vezes são resultado da sua alimentação demasiado rica e mal equilibrada.
+        É importante praticar esportes que ajudam a queimar as toxinas. É preciso cuidado com o orgulho, a vaidade, o deboche, os excessos, exageros e as posturas dogmáticas de quem se acha o dono da verdade.
+        O equilíbrio está no signo oposto, Gêmeos. Flexibilidade e a adaptabilidade impedem que as posturas se tornem impositivas demais, para que possa aceitar opiniões diferentes.
+        Aprender com as mudanças, olhar para outras culturas e religiões com respeito e humildade, adaptar os objetivos de acordo com as circunstâncias.
+        Tudo em nome da evolução. De fato, a flecha apontada para o alto só atinge o alvo se o arqueiro possuir flexibilidade e habilidade nos movimentos. -break`,
 
-     `A Lua representa a forma como vivemos as nossas emoções.
-É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
-A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
-Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
-As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
-A Lua no signo de Sagitário indica uma natureza emocional idealista e elevada. O nativo aspira a metas elevadas, porém, pode não possuir uma percepção muito realista da vida.
-Pode haver forte ligação com crenças religiosas ou filosóficas, incutidas pelos pais no início da vida.
-Quem tem a Lua em Sagitário é otimista, entusiasmado e alegre, raramente se acomoda, pois gosta de expandir suas fronteiras.
-Gosta de trazer mundos distantes para perto de si, viajar e se movimentar com rapidez. Com frequência fixa as suas raízes em países estrangeiros ou em lugares muito afastados do local de seu nascimento.
-Há tendência para se identificar com certos valores sociais devido a razões emocionais, pessoais e inconscientemente motivadas.
-Por causa disso, não possui fácil objetividade no seu ponto de vista sobre as questões sociais. Pode haver intransigência, arrogância, deboche e uma atitude egoísta superior.
-O desafio aqui é evoluir emocionalmente e ser o mais flexível possível na busca de uma compressão mais leve da vida e dos fatos.
-Procurar compreender os sentimentos, transformar emoções e desejos instintivos (que muitas vezes se manifestam de forma amplificada) com base na razão.
-É preciso também aprender a valorizar o que já foi conquistado, para controlar a insatisfação e aproveitar melhor o que está próximo de seu alcance. -break`,
+        `A Lua representa a forma como vivemos as nossas emoções.
+        É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
+        A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
+        Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
+        As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
+        A Lua no signo de Sagitário indica uma natureza emocional idealista e elevada. O nativo aspira a metas elevadas, porém, pode não possuir uma percepção muito realista da vida.
+        Pode haver forte ligação com crenças religiosas ou filosóficas, incutidas pelos pais no início da vida.
+        Quem tem a Lua em Sagitário é otimista, entusiasmado e alegre, raramente se acomoda, pois gosta de expandir suas fronteiras.
+        Gosta de trazer mundos distantes para perto de si, viajar e se movimentar com rapidez. Com frequência fixa as suas raízes em países estrangeiros ou em lugares muito afastados do local de seu nascimento.
+        Há tendência para se identificar com certos valores sociais devido a razões emocionais, pessoais e inconscientemente motivadas.
+        Por causa disso, não possui fácil objetividade no seu ponto de vista sobre as questões sociais. Pode haver intransigência, arrogância, deboche e uma atitude egoísta superior.
+        O desafio aqui é evoluir emocionalmente e ser o mais flexível possível na busca de uma compressão mais leve da vida e dos fatos.
+        Procurar compreender os sentimentos, transformar emoções e desejos instintivos (que muitas vezes se manifestam de forma amplificada) com base na razão.
+        É preciso também aprender a valorizar o que já foi conquistado, para controlar a insatisfação e aproveitar melhor o que está próximo de seu alcance. -break`,
 
-     `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-Quem tem ascendente em Sagitário tende a entrar na vida como quem começa uma viagem: com entusiasmo, curiosidade, otimismo e boa disposição.
-Na sua abordagem existe sempre um componente de aventura, descoberta, experiência e aprendizagem.
-O ascendente em Sagitário lança-se à descoberta de uma nova fronteira, de uma nova ideia ou da solução para os problemas globais com o mesmo entusiasmo e convicção com que parte em busca de um tesouro, descobre um novo disco ou explora a despensa em busca de guloseimas.
-É otimista, acredita sempre que coisas boas podem acontecer e que a vida, afinal, não é assim tão má. Com a sua fé jovial e inabalável, não hesita em correr riscos.
-Os acontecimentos da vida são encarados com significados e uma importância simbólica. Tudo é analisado em relação com uma verdade maior. Seu entusiasmo e idealismo são contagiantes, inspiram as pessoas e contribuem para o bem-estar geral.
-Contudo, corre o risco de se tornar pomposo, arrogante, extravagante ou doutrinário. Quer que os outros acreditem naquilo que acha que está certo e não hesita em ensinar ou até mesmo impor as atitudes e conceitos morais que você considera correto.
-Uma parte de sua natureza aspira nobres ideias, elevadas realizações e grandes alturas. Outra parte é dirigida pelas necessidades mais básicas e pelos instintos animais.
--stron O grande aprendizado é encontrar formas criativas para resolver essa diferença e encurtar essa lacuna.
-Assim, quando deixar de lado a atitude de sabedoria pomposa e passar a compartilhar os seus conhecimentos com humildade você dará um passo importante em direção à sua maturidade./stron
-Esta etapa é alcançada através do controle da fala e dos pensamentos, evitando exageros e indiscrições, encontrando as palavras certas para expressar os mais amplos conceitos.
-Assim pode trazer à sua vida o sentido e a Sabedoria que tanto procurou. Associa-se a este ascendente um aspecto descontraído, inquieto e jovial.
-Pode ter um rosto aberto, com um grande sorriso e cabelos encaracolados (às vezes arruivados), coxas fortes e tendência a aumentar de peso. -break`,
+        `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
+        O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+        Quem tem ascendente em Sagitário tende a entrar na vida como quem começa uma viagem: com entusiasmo, curiosidade, otimismo e boa disposição.
+        Na sua abordagem existe sempre um componente de aventura, descoberta, experiência e aprendizagem.
+        O ascendente em Sagitário lança-se à descoberta de uma nova fronteira, de uma nova ideia ou da solução para os problemas globais com o mesmo entusiasmo e convicção com que parte em busca de um tesouro, descobre um novo disco ou explora a despensa em busca de guloseimas.
+        É otimista, acredita sempre que coisas boas podem acontecer e que a vida, afinal, não é assim tão má. Com a sua fé jovial e inabalável, não hesita em correr riscos.
+        Os acontecimentos da vida são encarados com significados e uma importância simbólica. Tudo é analisado em relação com uma verdade maior. Seu entusiasmo e idealismo são contagiantes, inspiram as pessoas e contribuem para o bem-estar geral.
+        Contudo, corre o risco de se tornar pomposo, arrogante, extravagante ou doutrinário. Quer que os outros acreditem naquilo que acha que está certo e não hesita em ensinar ou até mesmo impor as atitudes e conceitos morais que você considera correto.
+        Uma parte de sua natureza aspira nobres ideias, elevadas realizações e grandes alturas. Outra parte é dirigida pelas necessidades mais básicas e pelos instintos animais.
+        -stron O grande aprendizado é encontrar formas criativas para resolver essa diferença e encurtar essa lacuna.
+        Assim, quando deixar de lado a atitude de sabedoria pomposa e passar a compartilhar os seus conhecimentos com humildade você dará um passo importante em direção à sua maturidade./stron
+        Esta etapa é alcançada através do controle da fala e dos pensamentos, evitando exageros e indiscrições, encontrando as palavras certas para expressar os mais amplos conceitos.
+        Assim pode trazer à sua vida o sentido e a Sabedoria que tanto procurou. Associa-se a este ascendente um aspecto descontraído, inquieto e jovial.
+        Pode ter um rosto aberto, com um grande sorriso e cabelos encaracolados (às vezes arruivados), coxas fortes e tendência a aumentar de peso. -break`,
 
-      `Mercúrio neste signo indica uma mente preocupada com todas as codificações do pensamento social, seja na forma de espiritualidade, religião, filosofia, direito ou outros estudos relacionados com a educação superior.
-Pode haver maior preocupação pelas atitudes do que pelos fatos. O resultado muitas vezes é construtivo, proporcionando um insight da motivação social e dos acontecimentos subsequentes.
-Entretanto, os nativos podem não perceber a verdade se não prestarem suficiente atenção à informação factual detalhada, base de todo pensamento lógico.
-Os nativos com essa posição podem ter um insight profético, porque a sua preocupação com as atitudes lhes permite compreender as informações que serão importantes pela opinião pública.
-Isso conduz à revelação do destino coletivo e do carma. Esses nativos desejam ingressar em instituições públicas de aprendizado ou de controle social, como universidades, igrejas ou governo.
-O seu objetivo é obter autoridade intelectual e status, embora o preço possa ser a submissão a instituições corruptas e estagnadas.
-Gostam de se considerar exemplos da verdade. Podem tender a pregar sermões moralistas sobre coisas óbvias e se tornar pedantes.
-Às vezes, existe uma preocupação com metas distantes, ideais elevados, que podem levar os nativos a não perceberem o que está sob seus narizes.
-Pode resultar em tendências à desatenção. Essas pessoas têm um discurso direto e dirão exatamente aquilo que pensam.
-Exigem liberdade intelectual, porém as suas ideias raramente divergem dos conceitos tradicionais ou da moral social vigente. Assim, geralmente são respeitadas na comunidade.
-Mas se o conformismo social for levado muito longe, pode conduzir à hipocrisia, pois os seus padrões morais talvez não sejam melhores do que as normas socialmente aceitas.
-É preciso perceber que uma atitude não está necessariamente correta simplesmente porque é popular ou dominante. -break`,
+        `Mercúrio neste signo indica uma mente preocupada com todas as codificações do pensamento social, seja na forma de espiritualidade, religião, filosofia, direito ou outros estudos relacionados com a educação superior.
+        Pode haver maior preocupação pelas atitudes do que pelos fatos. O resultado muitas vezes é construtivo, proporcionando um insight da motivação social e dos acontecimentos subsequentes.
+        Entretanto, os nativos podem não perceber a verdade se não prestarem suficiente atenção à informação factual detalhada, base de todo pensamento lógico.
+        Os nativos com essa posição podem ter um insight profético, porque a sua preocupação com as atitudes lhes permite compreender as informações que serão importantes pela opinião pública.
+        Isso conduz à revelação do destino coletivo e do carma. Esses nativos desejam ingressar em instituições públicas de aprendizado ou de controle social, como universidades, igrejas ou governo.
+        O seu objetivo é obter autoridade intelectual e status, embora o preço possa ser a submissão a instituições corruptas e estagnadas.
+        Gostam de se considerar exemplos da verdade. Podem tender a pregar sermões moralistas sobre coisas óbvias e se tornar pedantes.
+        Às vezes, existe uma preocupação com metas distantes, ideais elevados, que podem levar os nativos a não perceberem o que está sob seus narizes.
+        Pode resultar em tendências à desatenção. Essas pessoas têm um discurso direto e dirão exatamente aquilo que pensam.
+        Exigem liberdade intelectual, porém as suas ideias raramente divergem dos conceitos tradicionais ou da moral social vigente. Assim, geralmente são respeitadas na comunidade.
+        Mas se o conformismo social for levado muito longe, pode conduzir à hipocrisia, pois os seus padrões morais talvez não sejam melhores do que as normas socialmente aceitas.
+        É preciso perceber que uma atitude não está necessariamente correta simplesmente porque é popular ou dominante. -break`,
 
-      `O nativo com Vênus em Sagitário está sempre em busca de algo novo para conquistar e manterá acesa a chama do relacionamento somente se o parceiro não se deixar conquistar muito facilmente!
-O desafio é equilibrar o amor, que quer apego, com a seta sagitariana que aponta rumos distantes.
-Como a aventura é o ponto forte desta Vênus, o amor precisará também ser uma aventura, com desafios, obstáculos e conquistas diárias.
-Os parceiros devem partilhar o desejo de serem livres, devem seguir juntos para novas aventuras e conhecer o mundo para que a relação se fortaleça.
-Devem partilhar a cumplicidade e a sintonia em assuntos filosóficos, pois o mundo não precisar ser necessariamente uma divisa geográfica, mas também cultural, étnica e intelectual.
-O que atrai é a cultura do outro, sua inteligência, o que cada um tem a oferecer para a expansão da consciência.
-Com a Vênus sagitariana, quando não há mais novidades no relacionamento, ou buscam novas experiências e aventuras juntos, ou a relação perde a potência.
-Esta Vênus detesta rotina e está sempre em busca de novas sensações, por essa razão o parceiro precisa ser interessante e cheio de recursos, físicos e intelectuais.
-O fogo que acende a paixão expressa nesta Vênus não se apagará se a vida dos dois for uma constante aventura, excitante e cheia de surpresas.
-O seu parceiro deverá se manter inatingível e até distante... Caso contrário, a paixão se esvairá tão rapidamente como quando iniciou.
-As viagens e as aventuras em comum servirão como um estímulo para manter a fogueira acesa. -break`,
+        `O nativo com Vênus em Sagitário está sempre em busca de algo novo para conquistar e manterá acesa a chama do relacionamento somente se o parceiro não se deixar conquistar muito facilmente!
+        O desafio é equilibrar o amor, que quer apego, com a seta sagitariana que aponta rumos distantes.
+        Como a aventura é o ponto forte desta Vênus, o amor precisará também ser uma aventura, com desafios, obstáculos e conquistas diárias.
+        Os parceiros devem partilhar o desejo de serem livres, devem seguir juntos para novas aventuras e conhecer o mundo para que a relação se fortaleça.
+        Devem partilhar a cumplicidade e a sintonia em assuntos filosóficos, pois o mundo não precisar ser necessariamente uma divisa geográfica, mas também cultural, étnica e intelectual.
+        O que atrai é a cultura do outro, sua inteligência, o que cada um tem a oferecer para a expansão da consciência.
+        Com a Vênus sagitariana, quando não há mais novidades no relacionamento, ou buscam novas experiências e aventuras juntos, ou a relação perde a potência.
+        Esta Vênus detesta rotina e está sempre em busca de novas sensações, por essa razão o parceiro precisa ser interessante e cheio de recursos, físicos e intelectuais.
+        O fogo que acende a paixão expressa nesta Vênus não se apagará se a vida dos dois for uma constante aventura, excitante e cheia de surpresas.
+        O seu parceiro deverá se manter inatingível e até distante... Caso contrário, a paixão se esvairá tão rapidamente como quando iniciou.
+        As viagens e as aventuras em comum servirão como um estímulo para manter a fogueira acesa. -break`,
 
-      `O nativo com Marte nesse signo adora uma boa discussão. Pode se tornar ator, professor ou orador somente para expor a sua opinião.
-As suas ações serão fortes e determinadas, demonstrando franqueza e força de caráter. Sente atração pelos esportes radicais, por exercícios físicos violentos e perigosos, amando as corridas de alta velocidade.
-Aventureiro, mesmo no amor, pode partir em busca de novas conquistas sempre que cansar da anterior.
-Com pressa de atingir o seu alvo, não poupará esforços para conseguir seus objetivos. Pode dirigir suas ações em atividades ligadas às leis, comercio exterior ou turismo.
-Espaçoso, quem possui Marte nessa posição dificilmente aceita imposições ou limitações. Ardente na expressão sexual pode ser um amante fogoso e eficiente. Tem boa fertilidade.
-É preciso ser cuidadoso ao fazer esportes radicais, pois fica exposto a sofrer acidentes. A imprudência e a temeridade podem fazê-lo cometer excessos na pressa de alcançar seus objetivos.
-Cético em relação à opinião dos outros, pode expressar suas ideias de forma arrogante e com ar de superioridade. Cuidado com a pressa para evitar acidentes em viagens. -break`,
+        `O nativo com Marte nesse signo adora uma boa discussão. Pode se tornar ator, professor ou orador somente para expor a sua opinião.
+        As suas ações serão fortes e determinadas, demonstrando franqueza e força de caráter. Sente atração pelos esportes radicais, por exercícios físicos violentos e perigosos, amando as corridas de alta velocidade.
+        Aventureiro, mesmo no amor, pode partir em busca de novas conquistas sempre que cansar da anterior.
+        Com pressa de atingir o seu alvo, não poupará esforços para conseguir seus objetivos. Pode dirigir suas ações em atividades ligadas às leis, comercio exterior ou turismo.
+        Espaçoso, quem possui Marte nessa posição dificilmente aceita imposições ou limitações. Ardente na expressão sexual pode ser um amante fogoso e eficiente. Tem boa fertilidade.
+        É preciso ser cuidadoso ao fazer esportes radicais, pois fica exposto a sofrer acidentes. A imprudência e a temeridade podem fazê-lo cometer excessos na pressa de alcançar seus objetivos.
+        Cético em relação à opinião dos outros, pode expressar suas ideias de forma arrogante e com ar de superioridade. Cuidado com a pressa para evitar acidentes em viagens. -break`,
 
-      `Neste signo Júpiter está em seu domicílio, proporcionando boa fortuna e êxito em geral. Favorável para a literatura, as viagens, as operações com cavalos ou barcos.
-Para esportistas, professores, editores, tradutores ou políticos. Em regra, o nativo é religioso, ético e sincero. Sem dúvida pode utilizar as melhores condições da sua mente.
-Possui muito interesse pelas culturas estrangeiras, pela busca da sabedoria, pelas religiões ou conhecimentos sobre culturas e sistemas sociais diversos.
-É muito difícil que se aborreça: tem sempre alguma coisa para fazer, seja um passatempo, uma aventura ou uma atividade criativa.
-Agrada-lhe o ar livre e os esportes. Pode aprender muito através das viagens. A sua personalidade é alegre, extrovertida e optimista.
-O seu respeito pela liberdade e a sua conduta imparcial fará que seja admirado e respeitado por todos, até mesmo seus adversários. -break`,
+        `Neste signo Júpiter está em seu domicílio, proporcionando boa fortuna e êxito em geral. Favorável para a literatura, as viagens, as operações com cavalos ou barcos.
+        Para esportistas, professores, editores, tradutores ou políticos. Em regra, o nativo é religioso, ético e sincero. Sem dúvida pode utilizar as melhores condições da sua mente.
+        Possui muito interesse pelas culturas estrangeiras, pela busca da sabedoria, pelas religiões ou conhecimentos sobre culturas e sistemas sociais diversos.
+        É muito difícil que se aborreça: tem sempre alguma coisa para fazer, seja um passatempo, uma aventura ou uma atividade criativa.
+        Agrada-lhe o ar livre e os esportes. Pode aprender muito através das viagens. A sua personalidade é alegre, extrovertida e optimista.
+        O seu respeito pela liberdade e a sua conduta imparcial fará que seja admirado e respeitado por todos, até mesmo seus adversários. -break`,
 
-      `Saturno no signo de Sagitário indica pessoas sérias e responsáveis na busca da filosofia, religião e educação superior.
-Elas geralmente desenvolvem códigos morais rígidos ou uma devoção inabalável a sistemas religiosos e filosóficos.
-Defendem preceitos morais e se comportarão de acordo com princípios de justiça. Procuram a verdade e valores construtivos em sua atitude pessoal.
-Saturno dá ao sagitariano intelectualismo, disciplina, meticulosidade e profundidade de concentração.
-Tudo o que eles aprendem é totalmente absorvido e pode ser colocado em prática. Quando atingem honra ou distinção, sentem que a obtiveram pelo esforço perseverante.
-O desejo de poder e liderança pode se manifestar na vontade de ser considerada uma autoridade em algum dos aspectos nas áreas como da educação superior, da religião, do direito ou da filosofia.
-Há uma profunda necessidade de realização intelectual, filosófica ou espiritual que traga distinção. Esta posição traz a tendência de um intenso orgulho intelectual.
-Os nativos temem a desaprovação e a censura e ficam indignados quando outros pensam ou falam deles injustamente. A sua reputação pessoal é de extrema importância.
-É preciso cuidado para não se tornar presunçoso, tentar impor o seu sistema filosófico ou religioso aos outros. Se levada a extremos, esta prática resulta em presunção intelectual e espiritual. -break`,
+        `Saturno no signo de Sagitário indica pessoas sérias e responsáveis na busca da filosofia, religião e educação superior.
+        Elas geralmente desenvolvem códigos morais rígidos ou uma devoção inabalável a sistemas religiosos e filosóficos.
+        Defendem preceitos morais e se comportarão de acordo com princípios de justiça. Procuram a verdade e valores construtivos em sua atitude pessoal.
+        Saturno dá ao sagitariano intelectualismo, disciplina, meticulosidade e profundidade de concentração.
+        Tudo o que eles aprendem é totalmente absorvido e pode ser colocado em prática. Quando atingem honra ou distinção, sentem que a obtiveram pelo esforço perseverante.
+        O desejo de poder e liderança pode se manifestar na vontade de ser considerada uma autoridade em algum dos aspectos nas áreas como da educação superior, da religião, do direito ou da filosofia.
+        Há uma profunda necessidade de realização intelectual, filosófica ou espiritual que traga distinção. Esta posição traz a tendência de um intenso orgulho intelectual.
+        Os nativos temem a desaprovação e a censura e ficam indignados quando outros pensam ou falam deles injustamente. A sua reputação pessoal é de extrema importância.
+        É preciso cuidado para não se tornar presunçoso, tentar impor o seu sistema filosófico ou religioso aos outros. Se levada a extremos, esta prática resulta em presunção intelectual e espiritual. -break`,
 
-      `Urano no signo de Sagitário inspira novos conceitos em espiritualidade, religião, filosofia e educação.
-Os nativos com esta posição de Urano podem criar novas formas de religião e educação, com o desejo de revolucionar todos os conceitos religiosos.
-Possuem um forte desejo de incorporar na religião ou espiritualidade os princípios da ciência e do ocultismo, como a reencarnação, a astrologia e a telepatia.
-Podem até se interessar por religiões excêntricas, filosofias sociais ou adotar religiões e filosofias novas ou estrangeiras.
-Urano em Sagitário oferece ao nativo, muita curiosidade sobre culturas estrangeiras. Pode viajar repentinamente, fazendo longas viagens por causa do espírito de aventura.
-Pode viver muitas experiências singulares em países estrangeiros ou com pessoas estrangeiras. -break`,
+        `Urano no signo de Sagitário inspira novos conceitos em espiritualidade, religião, filosofia e educação.
+        Os nativos com esta posição de Urano podem criar novas formas de religião e educação, com o desejo de revolucionar todos os conceitos religiosos.
+        Possuem um forte desejo de incorporar na religião ou espiritualidade os princípios da ciência e do ocultismo, como a reencarnação, a astrologia e a telepatia.
+        Podem até se interessar por religiões excêntricas, filosofias sociais ou adotar religiões e filosofias novas ou estrangeiras.
+        Urano em Sagitário oferece ao nativo, muita curiosidade sobre culturas estrangeiras. Pode viajar repentinamente, fazendo longas viagens por causa do espírito de aventura.
+        Pode viver muitas experiências singulares em países estrangeiros ou com pessoas estrangeiras. -break`,
 
-      `Os anos em que Netuno transitava em Sagitário foram marcados por uma forte crise religiosa e pela ausência de uma visão otimista e esperançosa da vida.
-Como consequência, o desejo de recuperar a ligação com o autêntico sentido da vida provocou a expansão da consciência coletiva e a aceitação de determinados saberes espirituais que haviam sido reprimidos.
-Netuno em Sagitário provocou uma moda superficialmente otimista: o esplendor do consumismo. Mas o desfrute material sem sentido acaba por converter o consumo em decepção.
-Os nativos devem aprender a intervir de forma mais ativa e realista na vida. Ao mesmo tempo, cultivar a fé e desenvolver valores espirituais. -break`,
+        `Os anos em que Netuno transitava em Sagitário foram marcados por uma forte crise religiosa e pela ausência de uma visão otimista e esperançosa da vida.
+        Como consequência, o desejo de recuperar a ligação com o autêntico sentido da vida provocou a expansão da consciência coletiva e a aceitação de determinados saberes espirituais que haviam sido reprimidos.
+        Netuno em Sagitário provocou uma moda superficialmente otimista: o esplendor do consumismo. Mas o desfrute material sem sentido acaba por converter o consumo em decepção.
+        Os nativos devem aprender a intervir de forma mais ativa e realista na vida. Ao mesmo tempo, cultivar a fé e desenvolver valores espirituais. -break`,
 
-      `Sagitário é o signo da filosofia e da religião da mente abstrata. Plutão inspira o interesse dessa geração por realidades extraordinárias e filosofias profundas.
-A necessidade de conhecer e compreender a finalidade da vida pode levar a uma expansão espiritual.
-Depois da crise emocional do trajeto por Escorpião, há uma mudança para os valores espirituais. Novas ideologias e políticas são estabelecidas com o objetivo de construir uma sociedade melhor.
-Uma vez que Sagitário é o signo das grandes viagens, há o desejo de explorar os mais longínquos horizontes, que tem na Terra ou para além dela.
-Plutão em Sagitário trouxe uma grande transformação no conhecimento de outros mundos através do desenvolvimento das tecnologias, da filosofia quântica e das viagens espaciais. -break`,
+        `Sagitário é o signo da filosofia e da religião da mente abstrata. Plutão inspira o interesse dessa geração por realidades extraordinárias e filosofias profundas.
+        A necessidade de conhecer e compreender a finalidade da vida pode levar a uma expansão espiritual.
+        Depois da crise emocional do trajeto por Escorpião, há uma mudança para os valores espirituais. Novas ideologias e políticas são estabelecidas com o objetivo de construir uma sociedade melhor.
+        Uma vez que Sagitário é o signo das grandes viagens, há o desejo de explorar os mais longínquos horizontes, que tem na Terra ou para além dela.
+        Plutão em Sagitário trouxe uma grande transformação no conhecimento de outros mundos através do desenvolvimento das tecnologias, da filosofia quântica e das viagens espaciais. -break`,
 
-      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
--stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
--stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
--stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
-É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
--stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a comunicar a sabedoria com humildade:/stron
-Quem tem o Nodo Sul (Cauda do Dragão) em Sagitário traz memórias da necessidade de muita liberdade, interesse por questões filosóficas, conhecimento, viagens e aventura.
-Em vidas passadas pode ter vivido experiências com o sacerdócio, os rituais, os conhecimentos elevados e filosóficos. Pode também ter sido militar ou juízes. Pode haver rigidez de pensamento, valorização das teorias e dogmas.
-Traz uma relação de profundidade com o conhecimento, mas muitas vezes certa arrogância por “saber” o que os outros não sabem. O conhecimento teórico pode ser excessivamente valorizado em detrimento da comunicação trivial do dia-a-dia, das trocas do cotidiano.
-Por causa da necessidade de liberdade e espaço, pode haver conflito entre o desejo de viver no campo ou na cidade.
-Mas com o Nodo Norte (Cabeça do Dragão) em Gêmeos, veio aprender a viver mais o dia a dia, a interagir com todo o tipo de pessoa e situação. As trocas de experiências são muito importantes para o seu crescimento.
-Os intercâmbios o ajudam a encontrar respostas concretas para os seus problemas. Você pode se tornar um comunicador dos novos tempos. Com a sabedoria do uso da palavra pode mobilizar as outras pessoas, despertando-as para novas possibilidades.
-É preciso cultivar movimento, dinamismo, mudanças, interação com as pessoas, alegria, bom humor, viagens curtas e longas.
-É preciso mostrar-se flexível, gentil, já que viver em sociedade tem as suas regras e exige paciência para com os outros. A meta é vencer qualquer tipo de rigidez e mostrar que não somente coopera, mas que se interessa vivamente pelo que as outras pessoas têm a dizer ou querem trocar. -break`,
+        `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+        -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+        -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+        -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+        É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
+        -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+        Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a comunicar a sabedoria com humildade:/stron
+        Quem tem o Nodo Sul (Cauda do Dragão) em Sagitário traz memórias da necessidade de muita liberdade, interesse por questões filosóficas, conhecimento, viagens e aventura.
+        Em vidas passadas pode ter vivido experiências com o sacerdócio, os rituais, os conhecimentos elevados e filosóficos. Pode também ter sido militar ou juízes. Pode haver rigidez de pensamento, valorização das teorias e dogmas.
+        Traz uma relação de profundidade com o conhecimento, mas muitas vezes certa arrogância por “saber” o que os outros não sabem. O conhecimento teórico pode ser excessivamente valorizado em detrimento da comunicação trivial do dia-a-dia, das trocas do cotidiano.
+        Por causa da necessidade de liberdade e espaço, pode haver conflito entre o desejo de viver no campo ou na cidade.
+        Mas com o Nodo Norte (Cabeça do Dragão) em Gêmeos, veio aprender a viver mais o dia a dia, a interagir com todo o tipo de pessoa e situação. As trocas de experiências são muito importantes para o seu crescimento.
+        Os intercâmbios o ajudam a encontrar respostas concretas para os seus problemas. Você pode se tornar um comunicador dos novos tempos. Com a sabedoria do uso da palavra pode mobilizar as outras pessoas, despertando-as para novas possibilidades.
+        É preciso cultivar movimento, dinamismo, mudanças, interação com as pessoas, alegria, bom humor, viagens curtas e longas.
+        É preciso mostrar-se flexível, gentil, já que viver em sociedade tem as suas regras e exige paciência para com os outros. A meta é vencer qualquer tipo de rigidez e mostrar que não somente coopera, mas que se interessa vivamente pelo que as outras pessoas têm a dizer ou querem trocar. -break`,
 
-      `Esta posição indica um forte desejo de vastos horizontes mentais, assim como de uma vida livre de limitações e tradições particulares.
-A tendência é de lidar com questões grandes, muitas vezes com algum grau de fanatismo ou então em termos de princípios gerais, puramente abstratos, talvez sem um senso adequado de perspectiva e realismo.
-Nos casos mais elevados, porém, a alegria é experimentada quando o indivíduo da uma forma criativa a abstrações na literatura, na formulação intelectual e na investigação cientifica.
-Exemplos: o grande astrólogo John Gadbury; o gênio literário e rebelde social (a mulher romântica de muitos amores famosos) George Sand; o poeta Baudelaire; o construtor do império britânico sul-africano, Cecil Rhodes. -break`,
+        `Esta posição indica um forte desejo de vastos horizontes mentais, assim como de uma vida livre de limitações e tradições particulares.
+        A tendência é de lidar com questões grandes, muitas vezes com algum grau de fanatismo ou então em termos de princípios gerais, puramente abstratos, talvez sem um senso adequado de perspectiva e realismo.
+        Nos casos mais elevados, porém, a alegria é experimentada quando o indivíduo da uma forma criativa a abstrações na literatura, na formulação intelectual e na investigação cientifica.
+        Exemplos: o grande astrólogo John Gadbury; o gênio literário e rebelde social (a mulher romântica de muitos amores famosos) George Sand; o poeta Baudelaire; o construtor do império britânico sul-africano, Cecil Rhodes. -break`,
 
-      `A base religiosa herdada no lar, na infância, não reflete as suas necessidades interiores. Você sente necessidade de buscar uma crença na qual encontre significado. Em alguns casos, pode ter a compulsão de transmitir sua verdade aos outros, tentando convertê-los a todo custo.
-Seu otimismo inato geralmente é bloqueado pelos outros, uma vez que você precisa aprender a aceitar os aspectos dolorosos, limitadores e contraditórios da vida atual.
-Você tem o dom de ajudar os outros a exprimir seus verdadeiros desejos. Sabe o uma filosofia de vida ajuda uma pessoa. Pode ter sido ferido em sua fé ou entusiasmo natural, deve recobrá-los e transmiti-los para as outras pessoas.
-Pode ter sido desacreditado ou não ter tido incentivo. Curará a si mesmo incentivando os outros. Também pode ter sido privado do conhecimento ou ter tido problemas por causa de temas como religião ou filosofia.
-Embora possa não parecer à primeira vista, a força propulsora de sua vida é de natureza espiritual. Caso negue essa necessidade, acabará se enterrando em livros e fazendo um curso após o outro, buscando na vida acadêmica as respostas para seus anseios espirituais ou como um meio de fuga desse questionamento.
-Talvez tenha que percorrer uma longa e solitária senda em busca de seu próprio significado e propósito de vida. Essa busca pode torná-lo um grande viajante, que se sente revigorado ao fazer peregrinações para santuários e locais sagrados.
-Também entrar em contato com os costumes de outras culturas. Pode ter sonhos repetidos ou imagens internas de lugares sagrados aos quais pode retornar na imaginação. Também adquire um sentimento de plenitude ao comungar com a natureza, sobretudo em áreas selvagens.
-Você pode ter sido criado numa cultura estranha, ou em alguma cultura em que a religião não seja reconhecida. Talvez se sinta perseguido por seus semelhantes devido às suas crenças. É também possível que esteja vivendo num país onde está ocorrendo alguma transição cultural.
-Os pais podem ter sido estrangeiros, exilados ou terem defendido crenças religiosas que o afastam dos demais.
-Você é muito sensível a ideias como pecado original e pode acreditar que, quando os acontecimentos não estão seguindo seu curso normal, Deus está com raiva de você.
-É também possível que tenha herdado algum conflito religioso que exige solução. Seu instinto filosófico e religioso provavelmente despertou em idade precoce.
-Desde criança deve ter começado a refletir sobre questões mais profundas a respeito do significado da vida e é possível que nunca venha a receber uma resposta satisfatória.
-Seu senso de profunda devoção, seu arrebatado fervor, faz com que praticamente tudo possa se transformar em seu deus, caso se este instinto religioso não for adequadamente canalizado. Pode inadvertidamente deificar a comida, a educação ou até mesmo o mais recente lançamento artístico.
-Seu impulso religioso pode conduzi-lo a águas perigosas, se abraçar as causas ou seguir caminhos espirituais em que suas indagações e crenças pessoais sejam arrebatadas numa onda de fervor.
-Pior ainda se projetar a imagem de seu deus num guru ou líder. Você poderá se tornar vulnerável à exploração e violação psicológica. Você pode ter a sensação de que encontrou a Verdade e ter o desejo de transmiti-la a todos.
-Isso pode resultar em prejuízo para a sua vida pessoal, pois vai isolá-lo das pessoas que pensam diferente de você. Cuidado com a sensação de ser o dono da Verdade.
-É provável que tenha dificuldade de assumir compromisso e encontrar uma direção apropriada na vida. Que sinta relutância em tomar medidas para que a coisas aconteçam. É preciso descobrir o que você pode fazer para que as coisas aconteçam e o que não pode.
-Você precisa de uma filosofia de vida que possa abarcar contradições e diferentes pontos de vista com harmonia. Às vezes isso pode ser difícil caso você tenha sido criado em uma religião que se diz a única verdadeira, se sua lista do que é certo e errado for rígida.
-Estudar história antiga, onde deuses e deusas eram igualmente cultuados e sagrados, pode ajudá-lo a aceitar valores opostos. É importante você compreender seu impulso para o culto.
-O dom da expansividade e otimismo se encontra bloqueado a fim de facilitar uma expansão da consciência e uma maior compreensão interna.
-Se puder aceitar isso, será capaz de adquirir uma sabedoria prática, bem como uma atividade espirituosa e franca diante da vida. Isto não significa que você deva fazer alguma coisa, basta viver. Se você acredita na presença divina em sua vida, não precisa mais procurá-la.
-Basta viver o aqui e agora, e não estará mais dividido entre o que é e o que não é sagrado, pois terá compreendido que tudo é obra de Deus, portanto, tudo é sagrado.
-Você está naturalmente ligado ao seu eu Superior, por essa razão sente tanta necessidade de estar em contato com as divindades, com a espiritualidade, com os pontos mais altos da consciência. A busca pelo conhecimento te levará a entender as Verdades Superiores. -break`,
+        `A base religiosa herdada no lar, na infância, não reflete as suas necessidades interiores. Você sente necessidade de buscar uma crença na qual encontre significado. Em alguns casos, pode ter a compulsão de transmitir sua verdade aos outros, tentando convertê-los a todo custo.
+        Seu otimismo inato geralmente é bloqueado pelos outros, uma vez que você precisa aprender a aceitar os aspectos dolorosos, limitadores e contraditórios da vida atual.
+        Você tem o dom de ajudar os outros a exprimir seus verdadeiros desejos. Sabe o uma filosofia de vida ajuda uma pessoa. Pode ter sido ferido em sua fé ou entusiasmo natural, deve recobrá-los e transmiti-los para as outras pessoas.
+        Pode ter sido desacreditado ou não ter tido incentivo. Curará a si mesmo incentivando os outros. Também pode ter sido privado do conhecimento ou ter tido problemas por causa de temas como religião ou filosofia.
+        Embora possa não parecer à primeira vista, a força propulsora de sua vida é de natureza espiritual. Caso negue essa necessidade, acabará se enterrando em livros e fazendo um curso após o outro, buscando na vida acadêmica as respostas para seus anseios espirituais ou como um meio de fuga desse questionamento.
+        Talvez tenha que percorrer uma longa e solitária senda em busca de seu próprio significado e propósito de vida. Essa busca pode torná-lo um grande viajante, que se sente revigorado ao fazer peregrinações para santuários e locais sagrados.
+        Também entrar em contato com os costumes de outras culturas. Pode ter sonhos repetidos ou imagens internas de lugares sagrados aos quais pode retornar na imaginação. Também adquire um sentimento de plenitude ao comungar com a natureza, sobretudo em áreas selvagens.
+        Você pode ter sido criado numa cultura estranha, ou em alguma cultura em que a religião não seja reconhecida. Talvez se sinta perseguido por seus semelhantes devido às suas crenças. É também possível que esteja vivendo num país onde está ocorrendo alguma transição cultural.
+        Os pais podem ter sido estrangeiros, exilados ou terem defendido crenças religiosas que o afastam dos demais.
+        Você é muito sensível a ideias como pecado original e pode acreditar que, quando os acontecimentos não estão seguindo seu curso normal, Deus está com raiva de você.
+        É também possível que tenha herdado algum conflito religioso que exige solução. Seu instinto filosófico e religioso provavelmente despertou em idade precoce.
+        Desde criança deve ter começado a refletir sobre questões mais profundas a respeito do significado da vida e é possível que nunca venha a receber uma resposta satisfatória.
+        Seu senso de profunda devoção, seu arrebatado fervor, faz com que praticamente tudo possa se transformar em seu deus, caso se este instinto religioso não for adequadamente canalizado. Pode inadvertidamente deificar a comida, a educação ou até mesmo o mais recente lançamento artístico.
+        Seu impulso religioso pode conduzi-lo a águas perigosas, se abraçar as causas ou seguir caminhos espirituais em que suas indagações e crenças pessoais sejam arrebatadas numa onda de fervor.
+        Pior ainda se projetar a imagem de seu deus num guru ou líder. Você poderá se tornar vulnerável à exploração e violação psicológica. Você pode ter a sensação de que encontrou a Verdade e ter o desejo de transmiti-la a todos.
+        Isso pode resultar em prejuízo para a sua vida pessoal, pois vai isolá-lo das pessoas que pensam diferente de você. Cuidado com a sensação de ser o dono da Verdade.
+        É provável que tenha dificuldade de assumir compromisso e encontrar uma direção apropriada na vida. Que sinta relutância em tomar medidas para que a coisas aconteçam. É preciso descobrir o que você pode fazer para que as coisas aconteçam e o que não pode.
+        Você precisa de uma filosofia de vida que possa abarcar contradições e diferentes pontos de vista com harmonia. Às vezes isso pode ser difícil caso você tenha sido criado em uma religião que se diz a única verdadeira, se sua lista do que é certo e errado for rígida.
+        Estudar história antiga, onde deuses e deusas eram igualmente cultuados e sagrados, pode ajudá-lo a aceitar valores opostos. É importante você compreender seu impulso para o culto.
+        O dom da expansividade e otimismo se encontra bloqueado a fim de facilitar uma expansão da consciência e uma maior compreensão interna.
+        Se puder aceitar isso, será capaz de adquirir uma sabedoria prática, bem como uma atividade espirituosa e franca diante da vida. Isto não significa que você deva fazer alguma coisa, basta viver. Se você acredita na presença divina em sua vida, não precisa mais procurá-la.
+        Basta viver o aqui e agora, e não estará mais dividido entre o que é e o que não é sagrado, pois terá compreendido que tudo é obra de Deus, portanto, tudo é sagrado.
+        Você está naturalmente ligado ao seu eu Superior, por essa razão sente tanta necessidade de estar em contato com as divindades, com a espiritualidade, com os pontos mais altos da consciência. A busca pelo conhecimento te levará a entender as Verdades Superiores. -break`,
 
-      `O parceiro ideal é aquele que tenha interesse em cultura, assuntos filosóficos ou religiosos e que seja alegre e otimista.
-Podem ser pessoas estrangeiras, mestras, sábias, gurus, religiosas ou que tenha classe social, raça e cultura diferente, viajantes, pilotos de avião, pessoas fanáticas ou de crenças arraigadas, universitários.
-De alguma forma, o relacionamento é marcado por algo ou por alguém de locais distantes ou que se contrastam.
-Um dos parceiros pode servir como mestre do outro ou ensinar-lhe algo a respeito do universo. Mas também podem ser aventureiros ou inconsequentes.
-É importante que haja sintonia filosófica e espiritual no relacionamento. Juno neste signo favorece o compartilhamento de ideias, a busca de conhecimentos, os estudos, as viagens e aventuras em parceria. -break`,
+        `O parceiro ideal é aquele que tenha interesse em cultura, assuntos filosóficos ou religiosos e que seja alegre e otimista.
+        Podem ser pessoas estrangeiras, mestras, sábias, gurus, religiosas ou que tenha classe social, raça e cultura diferente, viajantes, pilotos de avião, pessoas fanáticas ou de crenças arraigadas, universitários.
+        De alguma forma, o relacionamento é marcado por algo ou por alguém de locais distantes ou que se contrastam.
+        Um dos parceiros pode servir como mestre do outro ou ensinar-lhe algo a respeito do universo. Mas também podem ser aventureiros ou inconsequentes.
+        É importante que haja sintonia filosófica e espiritual no relacionamento. Juno neste signo favorece o compartilhamento de ideias, a busca de conhecimentos, os estudos, as viagens e aventuras em parceria. -break`,
 
-      `As elucubrações mentais do nativo nunca lhe permitiram fixar-se. Tem uma enorme necessidade dos outros para encontrar-se a si mesmo.
-Seduzido por mil ideias, filosofias e teorias diferentes, outrora se dispersava, sem nunca se aprofundar em nada.
-Era incapaz de concentração mental e deixava-se distrair por todas as sugestões exteriores.
-Os provérbios "quem tudo quer tudo perde" ou "quem vai ao vento, perde o assento" descrevem as suas vidas passadas. Entretanto, seus pensamentos otimistas lhe serão de grande ajuda.
-É importante que desenvolva um foco na busca do conhecimento e que se aprofunde em seus estudos. -break`,
+        `As elucubrações mentais do nativo nunca lhe permitiram fixar-se. Tem uma enorme necessidade dos outros para encontrar-se a si mesmo.
+        Seduzido por mil ideias, filosofias e teorias diferentes, outrora se dispersava, sem nunca se aprofundar em nada.
+        Era incapaz de concentração mental e deixava-se distrair por todas as sugestões exteriores.
+        Os provérbios "quem tudo quer tudo perde" ou "quem vai ao vento, perde o assento" descrevem as suas vidas passadas. Entretanto, seus pensamentos otimistas lhe serão de grande ajuda.
+        É importante que desenvolva um foco na busca do conhecimento e que se aprofunde em seus estudos. -break`,
 
-      `O indivíduo dá valor antes de tudo à sua independência e à sua liberdade. Por causa disso sacrificou o amor em suas vidas passadas.
-Incapaz de estabilidade afetiva vive muitas vezes sozinho e não suporta o casamento por muito tempo.
-A necessidade de mudança impele o nativo para uma vida amorosa agitada, com múltiplas experiências que duram apenas um certo tempo.
-Ele se estabilizará se consentir em sacrificar parcialmente a sua liberdade em nome de um relacionamento duradouro e bem sucedido. -break`,
+        `O indivíduo dá valor antes de tudo à sua independência e à sua liberdade. Por causa disso sacrificou o amor em suas vidas passadas.
+        Incapaz de estabilidade afetiva vive muitas vezes sozinho e não suporta o casamento por muito tempo.
+        A necessidade de mudança impele o nativo para uma vida amorosa agitada, com múltiplas experiências que duram apenas um certo tempo.
+        Ele se estabilizará se consentir em sacrificar parcialmente a sua liberdade em nome de um relacionamento duradouro e bem sucedido. -break`,
 
-      `Indica vidas anteriores onde o nativo se dispersou na ansiosa busca de liberdade e em objetivos mutantes, sem foco.
-Agora deve se acalmar e refletir antes de agir, para definir melhor seus objetivos e a sua linha de conduta.
-Deve buscar sabedoria, expandir sua consciência, aprender a coordenar a sua necessidade de um ideal com a sua inquieta sede de novas experiências. -break`,
+        `Indica vidas anteriores onde o nativo se dispersou na ansiosa busca de liberdade e em objetivos mutantes, sem foco.
+        Agora deve se acalmar e refletir antes de agir, para definir melhor seus objetivos e a sua linha de conduta.
+        Deve buscar sabedoria, expandir sua consciência, aprender a coordenar a sua necessidade de um ideal com a sua inquieta sede de novas experiências. -break`,
 
-      `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
-A insaciável sede de novas experiências impede o nativo de se estabilizar. É preciso cuidado com a inconstância.
-Entretanto, menos leviano do que se poderia pensar, o nativo tem, por vezes, intuições proféticas (é que ele acumulou muitos conhecimentos do Universo em suas vidas passadas).
-Aprende mais com a vivência do que com os livros. As suas ideias religiosas são muito pouco convencionais e, aí, seu carma é seguir seu instinto.
-Tem uma vocação especial para transmitir aos outros a sabedoria adquirida e o que conhece da Verdade, mas deve admitir que não seja seu este monopólio. -break`,
+        `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
+        A insaciável sede de novas experiências impede o nativo de se estabilizar. É preciso cuidado com a inconstância.
+        Entretanto, menos leviano do que se poderia pensar, o nativo tem, por vezes, intuições proféticas (é que ele acumulou muitos conhecimentos do Universo em suas vidas passadas).
+        Aprende mais com a vivência do que com os livros. As suas ideias religiosas são muito pouco convencionais e, aí, seu carma é seguir seu instinto.
+        Tem uma vocação especial para transmitir aos outros a sabedoria adquirida e o que conhece da Verdade, mas deve admitir que não seja seu este monopólio. -break`,
 
-      `Saturno neste signo indica tendência de não ouvir os conselhos dos outros. O nativo é muito independente.
-Quebra as lanças por qualquer ideia ou filosofia que lhe agrade, mas também pode vir a esquecê-las rapidamente.
-Gosta de defender fracos e oprimidos e encorajar seus admiradores a enfrentar proibições. Detesta o que é convencional: sua necessidade de contestação presta serviço à humanidade, fazendo as ideias progredirem.
-Mas o nativo tende a abusar. Nada lhe é mais difícil do que obedecer a alguém. Este contestador deve aprender a não julgar os outros, a ser tolerante, a equilibrar liberdade com responsabilidade.
-Nesta vida pode se interessar pelas religiões, filosofias e por suas vidas passadas. Pode perfeiçoar-se muito com o tempo. -break`,
+        `Saturno neste signo indica tendência de não ouvir os conselhos dos outros. O nativo é muito independente.
+        Quebra as lanças por qualquer ideia ou filosofia que lhe agrade, mas também pode vir a esquecê-las rapidamente.
+        Gosta de defender fracos e oprimidos e encorajar seus admiradores a enfrentar proibições. Detesta o que é convencional: sua necessidade de contestação presta serviço à humanidade, fazendo as ideias progredirem.
+        Mas o nativo tende a abusar. Nada lhe é mais difícil do que obedecer a alguém. Este contestador deve aprender a não julgar os outros, a ser tolerante, a equilibrar liberdade com responsabilidade.
+        Nesta vida pode se interessar pelas religiões, filosofias e por suas vidas passadas. Pode perfeiçoar-se muito com o tempo. -break`,
 
-      `Como um cavalo desgarrado, buscou horizontes ilimitados em vidas passadas. Não sossega em nenhum lugar e quer sempre ir mais longe.
-O nativo se cansa muito rápido dos pequenos detalhes prosaicos e repetitivos da vida quotidiana.
-Persevera pouco. Sua natureza é instável, tem necessidade de viagens – reais ou imaginárias. Esse cavaleiro errante sente também dificuldade para se estabilizar no casamento.
-Assim que se lhe impõe o que quer que seja, tem a impressão de estar ameaçado. Muda, portanto, facilmente de cônjuge, mas também de profissão, de religião e de país natal.
-Assim, o nativo acumula muitas experiências diversas. Pode fazer com que as outras pessoas tirem proveito delas através do ensino, da educação, ou do turismo. Eis aí o seu carma, o seu aprendizado. -break`,
+        `Como um cavalo desgarrado, buscou horizontes ilimitados em vidas passadas. Não sossega em nenhum lugar e quer sempre ir mais longe.
+        O nativo se cansa muito rápido dos pequenos detalhes prosaicos e repetitivos da vida quotidiana.
+        Persevera pouco. Sua natureza é instável, tem necessidade de viagens – reais ou imaginárias. Esse cavaleiro errante sente também dificuldade para se estabilizar no casamento.
+        Assim que se lhe impõe o que quer que seja, tem a impressão de estar ameaçado. Muda, portanto, facilmente de cônjuge, mas também de profissão, de religião e de país natal.
+        Assim, o nativo acumula muitas experiências diversas. Pode fazer com que as outras pessoas tirem proveito delas através do ensino, da educação, ou do turismo. Eis aí o seu carma, o seu aprendizado. -break`,
 
-      `É preciso cuidado com a tendência para o misticismo e os delírios religiosos, apenas pelo prazer de viver uma experiência perigosa e, por isso mesmo, excitante.
-Pode indicar a tendência de um comportamento instável e levar uma vida errante: as viagens lhe permitem fugir das obrigações da vida quotidiana.
-Busca constantemente novas informações que podem transmitir muito rápido, como quem semeia pedrinhas, sem virar para trás.
-Como Netuno é um grande fabricante de ilusões, a pessoa deve ser responsável e realista nas informações que transmite.
-Caso contrário, pode propagar teorias delirantes. Pode ser seduzida por ideias geniais, por gurus fazedores de milagres que podem decepcioná-lo. Grande é sua influência sobre os que o cercam.
-Tem o dom de envolver num sonho sedutor tudo o que transmite. Romântico, pode abrir grandes portas da prisão terrestre, sob o olhar dos seus admiradores fascinados.
-Dificilmente se integra em uma estrutura rígida como o casamento, a vida profissional conservadora ou sindical. Pode ser um líder, um explorador, um aventureiro, um grande viajante. -break`,
+        `É preciso cuidado com a tendência para o misticismo e os delírios religiosos, apenas pelo prazer de viver uma experiência perigosa e, por isso mesmo, excitante.
+        Pode indicar a tendência de um comportamento instável e levar uma vida errante: as viagens lhe permitem fugir das obrigações da vida quotidiana.
+        Busca constantemente novas informações que podem transmitir muito rápido, como quem semeia pedrinhas, sem virar para trás.
+        Como Netuno é um grande fabricante de ilusões, a pessoa deve ser responsável e realista nas informações que transmite.
+        Caso contrário, pode propagar teorias delirantes. Pode ser seduzida por ideias geniais, por gurus fazedores de milagres que podem decepcioná-lo. Grande é sua influência sobre os que o cercam.
+        Tem o dom de envolver num sonho sedutor tudo o que transmite. Romântico, pode abrir grandes portas da prisão terrestre, sob o olhar dos seus admiradores fascinados.
+        Dificilmente se integra em uma estrutura rígida como o casamento, a vida profissional conservadora ou sindical. Pode ser um líder, um explorador, um aventureiro, um grande viajante. -break`,
 
-      `Símbolo Esotérico
-No símbolo de Plutão encontramos o Círculo do Espírito pairando livre acima da ligação entre a Meia-Lua da Alma e a Cruz da Matéria. Isto é muito indicativo das áreas desconhecidas que o homem tem que atravessar antes de finalmente alcançar uma compreensão de si mesmo nos níveis mais profundos.
-Quando a Alma e a parte material da existência não estão em contato com o Espírito de Luz essencial, o indivíduo experimenta as energias Plutonianas mais básicas, mas quando ele começa a transcender as quantidades desconhecidas dentro de si mesmo, ele é capaz de suprir a lacuna entre sua vida inferior e finalmente ligar-se ao Espírito da purificada Luz Dourada que Deus pretendia que ele conhecesse.
-Quando o homem é capaz de atingi-lo, entra em contato com a parte de si mesmo que é tão essencialmente boa, que ele tem certeza que ninguém que conheça realmente acreditaria. Esta é sua verdadeira identidade.
-As grandes dificuldades para alcançar tais energias Plutonianas são que, como a gaivota que voa o mais alto com suas próprias asas, assim, cada indivíduo precisa transcender a si mesmo, sozinho.
-Os finais limitados por Plutão são o desaparecimento simbólico de fases não mais necessárias para o crescimento do indivíduo. Uma vez que Plutão é Retrógrado quase que metade do tempo, então uma porcentagem muito alta da população do mundo tem esta configuração em seus horóscopos natais.
-Estes indivíduos irão finalmente se tornar mais preocupados com as transformações dentro de si mesmos do que com tentativas menos frutíferas, como a de tentar modificar o mundo exterior. Invertendo-se o símbolo, tudo o mais surge da manifestação do Espírito Divino se expressando aqui na Terra.
-// ARRUMAR AQUI
-PLUTÃO RETRÓGRADO | Personalidade
-Este indivíduo com Plutão Retrógrado, sente os males da sociedade como uma razão pessoal para transformar a si mesmo. Ele sabe que não pode mudar o mundo. Contudo, gostaria de fazê-lo se fosse prático ou possível.
-Mas ele pode mudar o mundo dentro de si mesmo, acabando com suas amarras a tudo que o prende a algo menor do que seu ser purificado.
-Este é um processo que leva muitos anos e, algumas vezes, muitas vidas, para ser alcançado. Em sua manifestação mais elevada, representa a verdadeira Consciência de Cristo de trazer a mais pura forma de amor para a Terra.
-Em menor proporção, normalmente, ele continua a eliminar de sua vida todos aqueles fatores que impedem o progresso de sua Alma e a expressão de seu Espírito.
-O indivíduo com Plutão Retrógrado sente a luta da humanidade como uma luta pessoal dentro de si mesmo. Ele sente pessoalmente a necessidade de superar em si mesmo tudo que esteve ameaçando a consciência da sociedade em que vive.
-Assim, ele reage fortemente à desonestidade de outras pessoas para consigo mesmas, tomando isto como uma afronta pessoal ao seu progresso, que ele sente que precisa fazer pelo bem definitivo da civilização da qual ele é uma parte importante.
-Ele precisa aprender a se desprender um pouco mais dos padrões de hábitos e das características de comportamentos dos outros, cujas vidas realmente tem tão pouco a ver com a sua verdadeira identidade interior.
-PLUTÃO RETRÓGRADO | Carma
-O indivíduo com Plutão Retrógrado está vivendo o Carma de experimentar a consciência de massa dentro de si mesmo. Ele sente o impacto do pensamento do mundo, e está consciente de como este se relaciona com o pensamento do mundo através dos séculos.
-Nem sempre expressando exteriormente o que sabe, ele tende a ver os outros indivíduos como parte de um todo maior e mais inclusivo do que numa base contínua de pessoa a pessoa.
-Em sua vida pessoal é muito menos importante o que faz do que o que pensa a respeito do que faz. A maior parte do tempo ele vive dentro de sua consciência, escolhendo a grande profusão de sentimentos que experimenta dentro de si mesmo.
-O crescimento espiritual possível com Plutão Retrógrado é limitado apenas pela mente consciente do indivíduo. Ele pode literalmente se elevar acima de grande parte do Carma de toda sua raça.
-Curiosamente, se tentar evitar elevar o seu Carma, sentirá os Carmas inferiores dos outros à sua volta, de qualquer maneira. Assim, se ele escolher elevar a si mesmo, ele verdadeiramente pode começar a viver a parábola de Jesus de "estar neste mundo, mas sem ser dele".
-A fim de finalmente atingir isto, ele passa por afastamentos temporários durante a primeira metade da vida, até que aprenda a ser impessoal com a intensidade do mundo que percebe fora de si mesmo, para que finalmente chegue ao ponto de não mais senti-lo agindo dentro de si.
-As pessoas com Plutão Retrógrado serão parte muito importante destas majestosas transformações, ajudando a incentivar o renascimento do Homem: de seu estado de inércia para uma consciência mais elevada e desperta. -break`,
+        `Símbolo Esotérico
+        No símbolo de Plutão encontramos o Círculo do Espírito pairando livre acima da ligação entre a Meia-Lua da Alma e a Cruz da Matéria. Isto é muito indicativo das áreas desconhecidas que o homem tem que atravessar antes de finalmente alcançar uma compreensão de si mesmo nos níveis mais profundos.
+        Quando a Alma e a parte material da existência não estão em contato com o Espírito de Luz essencial, o indivíduo experimenta as energias Plutonianas mais básicas, mas quando ele começa a transcender as quantidades desconhecidas dentro de si mesmo, ele é capaz de suprir a lacuna entre sua vida inferior e finalmente ligar-se ao Espírito da purificada Luz Dourada que Deus pretendia que ele conhecesse.
+        Quando o homem é capaz de atingi-lo, entra em contato com a parte de si mesmo que é tão essencialmente boa, que ele tem certeza que ninguém que conheça realmente acreditaria. Esta é sua verdadeira identidade.
+        As grandes dificuldades para alcançar tais energias Plutonianas são que, como a gaivota que voa o mais alto com suas próprias asas, assim, cada indivíduo precisa transcender a si mesmo, sozinho.
+        Os finais limitados por Plutão são o desaparecimento simbólico de fases não mais necessárias para o crescimento do indivíduo. Uma vez que Plutão é Retrógrado quase que metade do tempo, então uma porcentagem muito alta da população do mundo tem esta configuração em seus horóscopos natais.
+        Estes indivíduos irão finalmente se tornar mais preocupados com as transformações dentro de si mesmos do que com tentativas menos frutíferas, como a de tentar modificar o mundo exterior. Invertendo-se o símbolo, tudo o mais surge da manifestação do Espírito Divino se expressando aqui na Terra.
+        PLUTÃO RETRÓGRADO | Personalidade
+        Este indivíduo com Plutão Retrógrado, sente os males da sociedade como uma razão pessoal para transformar a si mesmo. Ele sabe que não pode mudar o mundo. Contudo, gostaria de fazê-lo se fosse prático ou possível.
+        Mas ele pode mudar o mundo dentro de si mesmo, acabando com suas amarras a tudo que o prende a algo menor do que seu ser purificado.
+        Este é um processo que leva muitos anos e, algumas vezes, muitas vidas, para ser alcançado. Em sua manifestação mais elevada, representa a verdadeira Consciência de Cristo de trazer a mais pura forma de amor para a Terra.
+        Em menor proporção, normalmente, ele continua a eliminar de sua vida todos aqueles fatores que impedem o progresso de sua Alma e a expressão de seu Espírito.
+        O indivíduo com Plutão Retrógrado sente a luta da humanidade como uma luta pessoal dentro de si mesmo. Ele sente pessoalmente a necessidade de superar em si mesmo tudo que esteve ameaçando a consciência da sociedade em que vive.
+        Assim, ele reage fortemente à desonestidade de outras pessoas para consigo mesmas, tomando isto como uma afronta pessoal ao seu progresso, que ele sente que precisa fazer pelo bem definitivo da civilização da qual ele é uma parte importante.
+        Ele precisa aprender a se desprender um pouco mais dos padrões de hábitos e das características de comportamentos dos outros, cujas vidas realmente tem tão pouco a ver com a sua verdadeira identidade interior.
+        PLUTÃO RETRÓGRADO | Carma
+        O indivíduo com Plutão Retrógrado está vivendo o Carma de experimentar a consciência de massa dentro de si mesmo. Ele sente o impacto do pensamento do mundo, e está consciente de como este se relaciona com o pensamento do mundo através dos séculos.
+        Nem sempre expressando exteriormente o que sabe, ele tende a ver os outros indivíduos como parte de um todo maior e mais inclusivo do que numa base contínua de pessoa a pessoa.
+        Em sua vida pessoal é muito menos importante o que faz do que o que pensa a respeito do que faz. A maior parte do tempo ele vive dentro de sua consciência, escolhendo a grande profusão de sentimentos que experimenta dentro de si mesmo.
+        O crescimento espiritual possível com Plutão Retrógrado é limitado apenas pela mente consciente do indivíduo. Ele pode literalmente se elevar acima de grande parte do Carma de toda sua raça.
+        Curiosamente, se tentar evitar elevar o seu Carma, sentirá os Carmas inferiores dos outros à sua volta, de qualquer maneira. Assim, se ele escolher elevar a si mesmo, ele verdadeiramente pode começar a viver a parábola de Jesus de "estar neste mundo, mas sem ser dele".
+        A fim de finalmente atingir isto, ele passa por afastamentos temporários durante a primeira metade da vida, até que aprenda a ser impessoal com a intensidade do mundo que percebe fora de si mesmo, para que finalmente chegue ao ponto de não mais senti-lo agindo dentro de si.
+        As pessoas com Plutão Retrógrado serão parte muito importante destas majestosas transformações, ajudando a incentivar o renascimento do Homem: de seu estado de inércia para uma consciência mais elevada e desperta. -break`,
 
-      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
-A base religiosa herdada no lar, da infância, não reflete as suas necessidades interiores, que sente a necessidade de buscar uma crença na qual encontre significado. Em alguns casos, pode ter a compulsão de transmitir sua verdade aos outros, tentando convertê-los a todo custo.
-O otimismo inato geralmente é bloqueado, uma vez que você precisa aprender a aceitar os aspectos dolorosos, limitadores e contraditórios da vida atual. Tem o dom de ajudar os outros a exprimir seus verdadeiros desejos.
-Sabe o quanto o entusiasmo e uma filosofia de vida ajuda uma pessoa. Pode ter sido ferida em sua fé ou entusiasmo natural. Devem recobrá-los e transmiti-los para as outras pessoas.
-Pode ter sido igualmente, desacreditado ou não ter tido incentivo, e curará a si mesmo incentivando os outros. Também pode ter sido privado do conhecimento ou ter tido problemas por causa de temas como religião ou filosofia.
-Embora possa não parecer à primeira vista, a força propulsora de sua vida é de natureza religiosa, se negar essa necessidade acabará se enterrando em livros e fazendo um curso após o outro, buscando na vida acadêmica as respostas para seus anseios espirituais ou um meio de fuga desse questionamento.
-A base religiosa herdada não condiz com suas necessidades internas, e terá que percorrer uma longa e solitária senda em busca de seu próprio significado e propósito de vida.
-Essa busca pode torná-lo um grande viajante, que se sente revigorado ao fazer peregrinações para santuários e lugares sagrados e também usufruir a comida, a música e os costumes de outras culturas.
-Pode ter sonhos repetidos ou imagens internas de lugares sagrados aos quais pode retornar na imaginação, também adquire um sentimento de plenitude ao comungar com a natureza, sobretudo em áreas selvagens.
-Pode ter sido criado numa cultura estranha, ou em alguma cultura em que uma religião não seja reconhecida, talvez se sinta perseguido por seus semelhantes devido às suas crenças.
-Também é possível que esteja vivendo num país onde está ocorrendo alguma transição cultural e os pais podem até ter sido estranhos, exilados ou terem defendido crenças religiosas que o afastam dos demais.
-Você é muito sensível a ideias como pecado original e pode acreditar que, quando os acontecimentos não estão seguindo seu curso normal, Deus está com raiva de você; é também possível que tenha herdado algum conflito religioso que exige solução.
-Seu instinto religioso provavelmente despertou em idade precoce; desde a meninice, deve ter começado a refletir sobre questões mais profundas a respeito do significado da vida, e é possível que nunca venha a receber uma resposta satisfatória.
-Seu senso de profunda devoção, seu arrebatado fervor que aspira consagrar-se a algo, faz com que praticamente tudo possa transformar-se em seu deus se este instinto religioso não for adequadamente canalizado.
-Pode inadvertidamente divinizar a comida, a educação ou até mesmo o mais recente lançamento artístico.
-Seu impulso religioso pode conduzi-lo a águas perigosas e se abraçar em causas ou seguir caminhos espirituais em que suas indagações e crenças pessoais sejam arrebatadas numa onda de fervor.
-Pior ainda se projetar a imagem de seu deus em um guru ou líder, poderá se tornar vulnerável à exploração e violação psicológica.
-Você pode ter a sensação de que encontrou a Verdade, e ter o desejo de transmiti-la a todos, o que pode resultar numa devastação para a sua vida pessoal, pois vai isolá-lo das pessoas que pensam diferente de você, e você vai se convencendo que é o dono da Verdade.
-É provável que tenha dificuldade de assumir compromisso e encontrar uma direção apropriada na vida, sinta relutância em tomar medidas para que a coisas aconteçam.
-É preciso descobrir o que você pode fazer para que as coisas aconteçam, e o que não pode. Todos nós temos fantasias, mas é preciso não nos deixarmos dirigir por elas nem nos identificarmos com elas. Você precisa de uma filosofia de vida que possa abarcar contradições e diferentes pontos de vista com harmonia.
-Às vezes isso pode ser difícil se você foi criado em uma religião que se diz a única verdadeira, se sua religião prega uma divisão cruel entre a puta e a virgem para conceituar a mulher, se sua lista do que é certo e errado for rígida.
-Estudar história antiga, onde deuses e deusas eram igualmente cultuados e sagrados, pode ajudá-lo a aceitar valores opostos. É importante você compreender o seu impulso para o culto.
-O dom da expansividade e otimismo encontra-se bloqueado a fim de facilitar uma expansão da consciência e uma maior compreensão interna. Se puder aceitar isso, será capaz de adquirir uma sabedoria prática, bem como uma atividade espirituosa e franca diante da vida.
-Isto não significa que você deva fazer alguma coisa, basta viver. Se você acredita na presença divina em sua vida, não precisa mais procurá-la, basta viver o aqui e agora, e não estará mais dividido entre o que é e o que não é sagrado, pois terá compreendido que tudo é obra de Deus, portanto, tudo é sagrado.
-Você está naturalmente ligado à seu eu Superior, por essa razão sente tanta necessidade de estar em contato com as divindades, com a espiritualidade, com os pontos mais altos da consciência.
-Busca conhecimento através de viagens a lugares sagrados e conhecimento de outras culturas, absorvendo conhecimento que o fará mais apto a entender as Verdades Superiores. -break`,
+        `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
+        A base religiosa herdada no lar, da infância, não reflete as suas necessidades interiores, que sente a necessidade de buscar uma crença na qual encontre significado. Em alguns casos, pode ter a compulsão de transmitir sua verdade aos outros, tentando convertê-los a todo custo.
+        O otimismo inato geralmente é bloqueado, uma vez que você precisa aprender a aceitar os aspectos dolorosos, limitadores e contraditórios da vida atual. Tem o dom de ajudar os outros a exprimir seus verdadeiros desejos.
+        Sabe o quanto o entusiasmo e uma filosofia de vida ajuda uma pessoa. Pode ter sido ferida em sua fé ou entusiasmo natural. Devem recobrá-los e transmiti-los para as outras pessoas.
+        Pode ter sido igualmente, desacreditado ou não ter tido incentivo, e curará a si mesmo incentivando os outros. Também pode ter sido privado do conhecimento ou ter tido problemas por causa de temas como religião ou filosofia.
+        Embora possa não parecer à primeira vista, a força propulsora de sua vida é de natureza religiosa, se negar essa necessidade acabará se enterrando em livros e fazendo um curso após o outro, buscando na vida acadêmica as respostas para seus anseios espirituais ou um meio de fuga desse questionamento.
+        A base religiosa herdada não condiz com suas necessidades internas, e terá que percorrer uma longa e solitária senda em busca de seu próprio significado e propósito de vida.
+        Essa busca pode torná-lo um grande viajante, que se sente revigorado ao fazer peregrinações para santuários e lugares sagrados e também usufruir a comida, a música e os costumes de outras culturas.
+        Pode ter sonhos repetidos ou imagens internas de lugares sagrados aos quais pode retornar na imaginação, também adquire um sentimento de plenitude ao comungar com a natureza, sobretudo em áreas selvagens.
+        Pode ter sido criado numa cultura estranha, ou em alguma cultura em que uma religião não seja reconhecida, talvez se sinta perseguido por seus semelhantes devido às suas crenças.
+        Também é possível que esteja vivendo num país onde está ocorrendo alguma transição cultural e os pais podem até ter sido estranhos, exilados ou terem defendido crenças religiosas que o afastam dos demais.
+        Você é muito sensível a ideias como pecado original e pode acreditar que, quando os acontecimentos não estão seguindo seu curso normal, Deus está com raiva de você; é também possível que tenha herdado algum conflito religioso que exige solução.
+        Seu instinto religioso provavelmente despertou em idade precoce; desde a meninice, deve ter começado a refletir sobre questões mais profundas a respeito do significado da vida, e é possível que nunca venha a receber uma resposta satisfatória.
+        Seu senso de profunda devoção, seu arrebatado fervor que aspira consagrar-se a algo, faz com que praticamente tudo possa transformar-se em seu deus se este instinto religioso não for adequadamente canalizado.
+        Pode inadvertidamente divinizar a comida, a educação ou até mesmo o mais recente lançamento artístico.
+        Seu impulso religioso pode conduzi-lo a águas perigosas e se abraçar em causas ou seguir caminhos espirituais em que suas indagações e crenças pessoais sejam arrebatadas numa onda de fervor.
+        Pior ainda se projetar a imagem de seu deus em um guru ou líder, poderá se tornar vulnerável à exploração e violação psicológica.
+        Você pode ter a sensação de que encontrou a Verdade, e ter o desejo de transmiti-la a todos, o que pode resultar numa devastação para a sua vida pessoal, pois vai isolá-lo das pessoas que pensam diferente de você, e você vai se convencendo que é o dono da Verdade.
+        É provável que tenha dificuldade de assumir compromisso e encontrar uma direção apropriada na vida, sinta relutância em tomar medidas para que a coisas aconteçam.
+        É preciso descobrir o que você pode fazer para que as coisas aconteçam, e o que não pode. Todos nós temos fantasias, mas é preciso não nos deixarmos dirigir por elas nem nos identificarmos com elas. Você precisa de uma filosofia de vida que possa abarcar contradições e diferentes pontos de vista com harmonia.
+        Às vezes isso pode ser difícil se você foi criado em uma religião que se diz a única verdadeira, se sua religião prega uma divisão cruel entre a puta e a virgem para conceituar a mulher, se sua lista do que é certo e errado for rígida.
+        Estudar história antiga, onde deuses e deusas eram igualmente cultuados e sagrados, pode ajudá-lo a aceitar valores opostos. É importante você compreender o seu impulso para o culto.
+        O dom da expansividade e otimismo encontra-se bloqueado a fim de facilitar uma expansão da consciência e uma maior compreensão interna. Se puder aceitar isso, será capaz de adquirir uma sabedoria prática, bem como uma atividade espirituosa e franca diante da vida.
+        Isto não significa que você deva fazer alguma coisa, basta viver. Se você acredita na presença divina em sua vida, não precisa mais procurá-la, basta viver o aqui e agora, e não estará mais dividido entre o que é e o que não é sagrado, pois terá compreendido que tudo é obra de Deus, portanto, tudo é sagrado.
+        Você está naturalmente ligado à seu eu Superior, por essa razão sente tanta necessidade de estar em contato com as divindades, com a espiritualidade, com os pontos mais altos da consciência.
+        Busca conhecimento através de viagens a lugares sagrados e conhecimento de outras culturas, absorvendo conhecimento que o fará mais apto a entender as Verdades Superiores. -break`,
 
-      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
-É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
-Juno enfatiza aí, a dimensão espiritual da parceria, a sintonia filosófica. A busca de uma parceria ideal que opera em conjunto.
-Esta também é uma posição que favorece mais de uma união, será provável que na segunda ou terceira união a pessoa seja mais bem sucedida.
-Há também uma tendência para idealizar o parceiro/a que deve corresponder, de alguma forma ou em algum campo a esta idealização. Tendência a legalizar suas uniões e parcerias. -break`,
+        `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
+        É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
+        Juno enfatiza aí, a dimensão espiritual da parceria, a sintonia filosófica. A busca de uma parceria ideal que opera em conjunto.
+        Esta também é uma posição que favorece mais de uma união, será provável que na segunda ou terceira união a pessoa seja mais bem sucedida.
+        Há também uma tendência para idealizar o parceiro/a que deve corresponder, de alguma forma ou em algum campo a esta idealização. Tendência a legalizar suas uniões e parcerias. -break`,
     ],
     levels: [
         `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
@@ -2737,8 +2736,7 @@ Há também uma tendência para idealizar o parceiro/a que deve corresponder, de
        `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
        `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a se valorizar integrando as suas sombras: /stron`
-      // PAREI AQUI NO DIA 09-03-2020
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a comunicar a sabedoria com humildade: /stron`
     ],
     parteFortuna: [
       `Parte da fortuna\'s extra text`
@@ -2748,507 +2746,299 @@ Há também uma tendência para idealizar o parceiro/a que deve corresponder, de
     title: `em capricórnio`,
     text: [
       `Capricórnio é um signo de Terra que deve aprender a se esforçar para escalar sua própria montanha. Ambição é uma palavra-chave.
-
 O Sol em Capricórnio ajuda os nativos a brilhar através da competência no trabalho, do empenho e do empreendedorismo.
-
 Quando o Sol chega em Capricórnio, um ciclo se fecha e outro se inicia, com o solstício de verão no hemisfério sul e o solstício de inverno no hemisfério norte.
-
 Evidenciando um assunto do signo de Capricórnio e de seu regente, Saturno: o tempo. Sem o controle dos calendários, nos sentiríamos perdidos.
-
 O capricorniano quer a realidade exposta e os limites mapeados. Prefere lidar com as emoções de forma mais racional e pragmática.
-
 Há tendência para se fechar em si próprio. Não é raro ver os nativos deste signo solitários ou isolados do mundo.
-
 Predisposto a certa frieza em relação aos que o rodeiam. Pode parecer insensível, mas na verdade é mais introvertido e interioriza as suas emoções.
-
 Tem o senso de responsabilidade e de sacrifício quanto o objetivo é conquistar as metas desejadas.
-
 Capricórnio é um signo relacionado ao poder, aos chefes, aos empresários, ao patriarcado e ao conservadorismo.
-
 O Sol em Capricórnio concede um gosto pelos estudos sociais e políticos, da história, do sindicalismo e da religião.
-
 No corpo, os pontos vulneráveis são: os joelhos, as rótulas, os meniscos, as articulações, o esqueleto, a pele e os olhos.
-
 Com a idade, há tendência para desenvolver patologias nos ossos, na pele e problemas intestinais.
-
 É importante praticar exercícios de flexibilidade e alongamento para reforçar a sua estrutura óssea. Também exercícios respiratórios para aumentar a sua capacidade torácica.
-
 O desafio é não se tornar frio, rígido, tirano, duro, soturno (palavra quem vem de Saturno), ranzinza, crítico ou pessimista.
-
 É preciso aprender a lidar com as emoções sem represá-las, nem suprimi-las. O equilíbrio está no signo oposto, Câncer, com suas lições de carinho, afeto, cuidado e acolhimento.
-
 Ao se identificar emocionalmente com os outros, não abusa do poder. -break`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
-
 É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
-
 A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
-
 Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
-
 As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
-
 A Lua no signo de Capricórnio indica uma natureza reservada e cautelosa, inclinada à frieza e à austeridade.
-
 O nativo procura racionalizar os sentimentos e prefere agir ao invés de falar sobre as emoções.
-
 Leva a vida a sério e se identifica emocionalmente com valores materiais, em detrimento dos valores espirituais.
-
 Nascer com a Lua em Capricórnio é ser trabalhador, exigente e ambicioso. Mas suas ambições possuem uma tendência pessoal, voltada ao status e à segurança financeira.
-
 A sua ativa busca de dinheiro e poder, bem como de status para si mesmas e sua família, pode levar a investimentos egoístas, principalmente quando está em posição de maior responsabilidade social.
-
 Há tendência para timidez e insegurança a respeito de seu próprio valor. Pode ser sensível à falta de consideração, real ou imaginária.
-
 Por causa disso, procura se justificar pela dignidade pessoal e ambição para vencer na vida.
-
 Pode haver também tendências calculistas para obter o poder a qualquer custo, sem considerar os sentimentos dos outros.
-
 Na via positiva, pode desenvolver solidez emocional e assim cultivar a confiança dos outros.
-
 É capaz de fazer sacrifícios para atender as demandas familiares, dominar bem as emoções ao lidar com as pressões exigidas na construção de uma carreira.
-
 O desafio é -stron aprender/stron  a expressar os seus sentimentos. Equilibrar o dever e a responsabilidade com mais suavidade e doçura. -break`,
 
      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-
 O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-
 Quem tem o Ascendente em Capricórnio entra na vida com os passos firmes, medidos e planeados de quem escala uma montanha.
-
 Não brinca em serviço: a expressão pessoal é séria, responsável, convencional, retraída e um pouco seca. A ação é prática e concreta.
-
 Costuma avaliar a si mesmo e aos outros pelas conquistas profissionais, a carreira e o estatuto social. As figuras de autoridade o impressionam. Há tendência para a inibição, a rigidez e a depressão.
-
 Longe de ser nefasta, essa depressão se revela fundamental para o crescimento da individualidade. Abala a rigidez, permitindo uma reestruturação em moldes mais abrangentes e flexíveis.
-
 As qualidades de resistência, planejamento e estratégia passam, então, a ajudar no processo de crescimento e transformação.
-
 O Ascendente em Capricórnio frequentemente, quando jovem, adota uma postura sisuda, triste e desmotivada. Porém, ao longo dos anos, aprende a gozar as coisas boas da vida e pode até rejuvenescer com a idade.
-
 Na maturidade, é frequente serem mais descontraídos, simpáticos e comunicativos do que foram quando jovens. Envelhece com um bom vinho.
-
 Essa alegria interior representa o culminar das qualidades de trabalho e de conquistas profissionais associadas a este ascendente.
-
 É uma "marca de Sabedoria". O ascendente em Capricórnio quer planejar sua vida com cautela, estruturá-la com calma e lógica, conforme suas metas e aspirações.
-
 -stron Por tanto, deve aprender a encarar as obrigações, desenvolver a disciplina e o controle./stron
-
 Ao cultivar seu potencial para lidar com assuntos práticos e organizá-los, vive um sentido de realização e pode desfrutar de suas conquistas.
-
 Um aspecto magro, tenso e seco pode ser associado a este ascendente. As maçãs do rosto são marcadas.
-
 Algumas pessoas (principalmente as mulheres) têm uma beleza refinada e contam com o equilíbrio de linhas e elegância da estrutura óssea. -break`,
 
       `Mercúrio neste signo indica uma mente ambiciosa, perspicaz, prática, organizada e preocupada em obter status por intermédio de realizações materiais.
-
 As pessoas com Mercúrio em Capricórnio são capazes de grande concentração e boa organização.
-
 São metódicas nos pensamentos e atitudes, possuindo a habilidade de fazer uma coisa de cada vez.
 O seu processo de raciocínio é meticuloso, porém não necessariamente original.
-
 A sua paciência e disciplina podem resultar em habilidade matemática, que pode ser utilizada nos negócios ou na ciência.
-
 Mercúrio neste signo também pode proporcionar boa capacidade administrativa. Muitos executivos bem sucedidos têm Mercúrio em Capricórnio.
-
 As pessoas com essa posição passarão por processos tradicionais de educação como um meio de atingir metas profissionais e melhorar seu status financeiro e social.
-
 As suas ideias políticas e sociais geralmente são conservadoras. Tendem a defender a ordem estabelecida. Respeitam as crenças que provaram a sua utilidade através do tempo.
-
 Como possuem uma percepção aguçada, poucas coisas de consequências práticas escapam à sua atenção.
-
 Contudo, há o perigo de que a sua seriedade e a sua disciplina mental as conduzam a uma atitude inflexível e falta de humor.
-
 A ambição material desmedida pode levar à avareza e à tendência de usar as pessoas para atingir objetivos materiais, sem considerar os valores humanos.
-
 O status material pode tornar se um fim em si mesmo, sobrepondo se aos valores humanos e a qualquer outra consideração.
-
 Uma vez que Capricórnio, como Virgem, é um signo de terra, Mercúrio neste signo considera importantes apenas às ideias que tiverem valor prático.
-
 Essas pessoas são mais realistas do que idealistas na abordagem de suas metas. Consideram as coisas pelo que são e não se iludem com falsos idealismos. -break`,
 
       `O nativo com Vênus em Capricórnio ama de forma pragmática, pensada e realista.
-
 Pouco romântico e avesso a expressões sentimentais, se expressa através de avaliações e comparações, administrando seus relacionamentos e avaliando riscos, danos e perdas.
-
 Quanto mais tempo permanecer numa relação, tanto melhor saberá demonstrar seu afeto, sem grandes efusões.
-
 Vênus em Capricórnio dá um tom mais sério e maduro às questões do amor e das finanças.
-
 O nativo gosta de tomar providências objetivas, realistas e práticas em relação às parcerias profissionais e amorosas.
-
 O amor fica menos imaginativo, menos açucarado, é verdade. Mas em compensação, o nativo, parte em busca para a realização dos desejos.
-
 Procurando um comprometimento sério, dentro dos moldes tradicionais, não hesita em investir no relacionamento, mas suas demonstrações de afeto visam sempre pautar a seriedade de suas intenções.
-
 Acreditando que as relações se constroem no dia-a-dia, não cria ilusões inúteis e é capaz de investir no longo prazo, visando estabilidade e comprometimento, sempre em vista de conquistar objetivos comuns.
-
 O nativo com essa Vênus não cai sob as flechas de Cupido, mas prefere um amor pragmático e prático, capaz de criar alicerces sólidos para o futuro, dentro dos moldes da família tradicional. -break`,
 
       `Marte se encontra exaltado neste signo, indicando que quem possui essa característica tem um poder inato para se tornar líder.
-
 Com força de caráter e grande controle de si próprio, a pessoa age com tenacidade em busca de seus objetivos. Ambicioso, alcança o sucesso com determinação sólida e senso de responsabilidade.
-
 Possui muita força para exercer sua atividade profissional. Na expressão sexual é firme e sólido, mas dentro dos limites impostos pela moral.
-
 Quem possui esse tipo de Marte irá se expressar dificilmente num erotismo irracional ou passional. Esse Marte é moderadamente fértil.
-
 Disposto a se superar sempre, quem possui Marte aflito em Capricórnio deve observar para que não haja o excesso de teimosia e obstinação.
-
 As suas ações tendem a ser por demais determinadas, podendo parecer impositivas e arrogantes. Disputas com colegas e superiores podem causar prejuízos à carreira. -break`,
 
       `O nativo pode alcançar riqueza através da ambição, da perseverança, da paciência e da habilidade para administrar. Pode se destacar como político, engenheiro, empresário, na filosofia e na religião.
-
 Conta com grande prudência, cautela e um critério maduro, ainda que possa faltar-lhe criatividade e imaginação.
-
 Mas é necessária uma mudança na consciência e um alinhamento com seus reais propósitos para que aprenda a desfrutar de suas conquistas profissionais.
-
 Por estar tão embrenhado no seu trabalho e nas suas ambições, descuida de sua família e dos prazeres do lar.
-
 Deve aprender a desfrutar do seu tempo livre e deixar de lado, nesses momentos, as suas atividades profissionais.
-
 Pode demonstrar frieza e autoridade. Tem uma mente séria, reflexiva, responsável, engenhosa e com muita retidão.
-
 A sua paciência e a sua habilidade para administrar podem lhe proporcionar muita riqueza. -break`,
 
       `Saturno no signo de Capricórnio indica forte ambição de poder, status e autoridade, geralmente manifestada nos negócios, na ciência ou na política.
-
 Os nativos sentem grande necessidade de realizar coisas importantes em sua carreira. Não fazem nenhum esforço sem ter em mente os objetivos práticos e estratégicos. São bons organizadores.
-
 Alternam se entre favorecer as suas ambições e proteger a sua segurança, conseguindo desse modo obter destaque sem correr riscos.
-
 Possuem uma aura de dignidade e seriedade que pode lhes dar uma aparência de austeridade e frieza. Os nativos devem evitar a rigidez em suas atitudes e crenças.
-
 São capazes de aceitar ordens e quando atingem as suas próprias posições de autoridade esperam a mesma obediência dos outros. Assim, são conservadores nos negócios e na política.
-
 Sentem que a estrutura tradicional do poder tem as suas razões, que não deveriam ser questionadas por aqueles que não possuem experiência prática no trato com essas grandes responsabilidades.
-
 A luta para adquirir segurança e autossuficiência no início da vida ajuda a formar estas atitudes práticas e conservadoras.
-
 Sabem que tudo tem o seu preço e que todos precisam contribuir para o funcionamento do mundo.
-
 Acham que todos deveriam obter as coisas pelos seus próprios esforços. Assim, quando chegam ao topo, procuram ajudar os outros a ajudarem a si mesmos.
-
 Contudo, mais tarde na vida, tendem a esquecer das duras lutas da juventude e as dificuldades de enfrentar a vida sem dinheiro, ferramentas ou recursos.
-
 Não leve ao extremo essa tendência, pois pode fazer com que você use o seu poder, a riqueza e os bens materiais obtidos para controlar os outros.
-
 Geralmente cultivam forte sentimento de orgulho e honra familiar. Com frequência os nativos vêm de famílias respeitadas na comunidade.
-
 Entretanto, os que nasceram de famílias ricas e socialmente importantes correm o risco de se tornarem extremamente insensíveis aos valores humanos, porque não passaram pela experiência do esforço pessoal sem recursos.
-
 É provável que considerem as pessoas social e economicamente inferiores como mercadorias manipuláveis, e não como seres humanos sensíveis.
-
 Essa tendência pode ser compensada se houver muita compreensão espiritual e uso da compaixão.
-
 Se houver uma infância de pobreza e desgraça familiar, esta posição proporciona o impulso necessário para superar as dificuldades e atingir destaque e poder.
-
 Para essas pessoas, a vida é sempre um assunto sério e uma luta. Algumas vezes, não possuem sensibilidade estética, julgando as coisas somente por seu preço ou reputação.
-
 Se o desejo de status for levado a extremos, pode tornar-se um fim em si mesmo e não um meio de contribuir para a ordem social.
-
 Precisam desenvolver o senso de humor e a compreensão de outros valores além do materialismo e do status. Os nativos podem atingir as alturas da espiritualidade ou as profundezas do materialismo e do egoísmo.
-
 Como e quando o poder e a autoridade serão obtidos, irá depender do nível de consciência e do grau de espiritualidade do nativo.
-
 No seu melhor, há honestidade e integridade em todos os negócios, contatos profissionais e políticos.
-
 É preciso cuidado para que não usem meios inescrupulosos para adquirir riqueza e poder. Pode haver uma tendência a usar interpretações literais da lei visando vantagens desonestas.
-
 Contudo, se esses meios inescrupulosos forem usados, com frequência provocam inversão na sorte, desgraça pública e perda do poder. -break`,
 
       `Urano no signo de Capricórnio indica uma geração de pessoas que podem realizar importantes mudanças nas estruturas de poder governamental e comercial.
-
 Os nativos desejam mudar o status quo para garantir maior segurança no futuro. Mas precisam ter cuidado para fazê lo de maneira prática, construindo o novo, porém baseando-se no antigo.
-
 Elas procuram mudanças construtivas, embora relutem em abandonar completamente o passado. Essas pessoas são muito ambiciosas e desejam o sucesso.
-
 Na ciência e nos negócios, possuem ideias originais que utilizam para favorecer as suas carreiras ou melhorar o seu status. Também são capazes de desenvolver velhas ideias de maneira nova ou incomum.
-
 Os nativos tendem a se expandir na procura do progresso profissional. No seu pior, pode haver ambição desmedida. -break`,
 
       `Esta é uma época em que as estruturas, as instituições e as bases em que a nossa sociedade é construída estão em crise.
-
 As pessoas podem cair massivamente no pessimismo e no receio do futuro, ao perceberem que os recursos estão em risco e estão perdendo a estabilidade econômica de todo o planeta.
-
 Os nativos nascidos com Netuno em Capricórnio sentem a falta de autoridade (sobretudo paterna ou hierárquica) e a dificuldade do viver em sociedade.
-
 Em geral, é uma época propícia à destruição do preestabelecido e ao aparecimento de novas alternativas, de novas estruturas governamentais.
-
 Surge então a necessidade de introduzir a espiritualidade na vida quotidiana, no trabalho, na carreira e nas metas de vida.
-
 É preciso cultivar a conexão com o propósito de alma para o desenvolvimento de uma carreira consciente e alinhada o plano espiritual. -break`,
 
       `Plutão transita em Capricórnio, ainda estamos aprendendo e vivenciando o simbolismo deste posicionamento. Estamos no início de um novo ciclo de Plutão em Capricórnio.
-
 Plutão indica a ruína e a necessidade de transformação das velhas instituições. Podemos viver uma grande alteração nos conceitos básicos sobre Hierarquia, Autoridade e Respeito. Essa alteração vai ser cada vez mais sentida na carne, na experiência da vida.
-
 Estas alterações nos forçam a reavaliar os nossos critérios a respeito "do que ouvir", "em que acreditar", "onde colocar as nossas atenções" e "a quem nos colocarmos à disposição".
-
 Cooperação será a tônica de uma nova abordagem coletiva de relacionamentos hierárquicos, não como reação à autoridade, mas como resposta às necessidades de se assumir a própria responsabilidade diante da vida que nos cerca.
-
 Paternalismos e manipulações não mais caberão nas nossas expectativas: aquela figura austera, que mantém tudo nos trilhos, está desaparecendo. Num primeiro há muito medo e insegurança, (já se nota no desemprego e na crise financeira e econômica).
-
 Mas com o tempo, as transformações das estruturas internas e externas se revelam suportáveis e até benéficas, enquanto percebemos que a transformação do que é velho em novo é inexorável, doloroso e necessário. Sempre foi assim.
-
 O poder será dos que têm "boa vontade", já que só será exercido na medida em que for permitido. Status será dos que souberem "Fazer" e souberem "Ser" e não apenas dos que sabem "Ter".
-
 Aliás, “Ter” será substituído por "Ser" na escala de valores do inconsciente coletivo. Poder aquisitivo será um acessório, não mais uma premissa. Dificuldades? Sim, muitas. Principalmente antes de termos estabelecido as nossas novas referências em termos de segurança e estabilidade. -break`,
 
       `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-
 -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-
 -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-
 -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
-
 É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-
 -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-
 Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a descobrir a força na fragilidade:/stron
-
 Quem tem o Nodo Sul (Cauda do Dragão) em Capricórnio traz memórias de muita rigidez e de exagerado sentido prático, em detrimento do mundo emocional. Pode ter priorizado a carreira em detrimento da família. Traz necessidade de reconhecimento e leva a vida muito a sério.
-
 É muito responsável, correto, exigente consigo mesmo e com os outros. Anseia pelo sucesso profissional. Identifica-se bastante com símbolos exteriores de poder e sucesso, tais como roupas de marca, títulos, amizades e relacionamentos que elevam o “status”.
-
 Costuma ser ambicioso e pragmático na sua busca de poder e reconhecimento, chegando ao ponto de por de lado as suas emoções para atingir seus fins e objetivos.
-
 Acredita que o valor pessoal vem apenas do esforço e do trabalho. Pode ser muito orgulhoso, incapaz de pedir ajuda e demonstrar fragilidade.
-
 Mas com o Nodo Norte (Cabeça do Dragão) em Câncer, veio aprender a valorizar o mundo interior, o mundo das emoções. É uma transição da velhice, do peso e da rigidez para a juventude, a leveza e a sensibilidade. Permitir-se errar, brincar, chorar, desistir sem culpa.
-
 Há tendência de atrair situações que o obriguem a se fragilizar, a dar prioridade às pessoas e às emoções aso invés da matéria, do poder e imagem. Deve aprender a fluir com a vida, sem correr atrás de uma meta ou objetivo.
-
 É um convite para cultivar o ninho familiar, as relações de afeto, o cuidado, o carinho que traz a oportunidade de despir a armadura rígida e entrar em contato com a sua humanidade.
-
 O crescimento requer a construção de uma base emocional sólida, mais do que êxito social, para que os seus sentimentos possam finalmente fluir e serem expressos livremente. -break`,
 
       `Aqui ha profundidade e, às vezes, austeridade e transcendência na busca da felicidade realizada pelo indivíduo.
-
 A vida pessoal tende a fluir em profundidade, melhor do que em amplitude, mas muitas vezes com uma qualidade exaltada. O senso de responsabilidade social ou espiritual poderá ser dominante.
-
 Poderá levar a pessoa a acreditar na sua missão ímpar e na sua capacidade de encarnar um novo tipo de ser humano em qualquer esfera onde ela possa atuar, sendo um exemplo no sentido mais pessoal do termo.
-
 Exemplos: Baha’u’llah, que muitos consideram ter sido uma Encarnação Divina; Nostradamus, o vidente; Annie Besant, Ralph Waldo Emerson; J. P. Morgan, o velho – e (provavelmente) Abraham Lincoln. -break`,
 
       `A ferida psicológica mais profunda está ligada ao vínculo com o pai na infância. Você o vê como fraco ou rígido e se esforça ao máximo para ser diferente dele. Sente dificuldade de estabelecer e concretizar suas metas e em geral leva muito tempo para descobrir sua verdadeira vocação.
-
 Mesmo quando bem sucedido profissionalmente, não consegue evitar o sentimento de fracasso, o que só é superado quando desenvolver a autoestima. Tem o dom de incentivar o crescimento dos outros, dando-lhes afeto e orientação.
-
 Compreende que uma pessoa precisa ter um objetivo e realizá-lo. Entretanto, desde cedo pode ter sido freado em sua ambição ou ter encontrado obstáculos e dificuldades.
-
 Deve voltar a acreditar em si mesmo e conquistar as coisas de que precisa. Estruturando os outros ou algo externo, acaba por estruturar a si mesmo.
-
 Talvez não tenha tido muito apoio dos pais ou tenha tido que lidar com uma figura de autoridade bem difícil. Você sente dificuldades em estabelecer e concretizar seus objetivos, bem como em definir seu lugar dentro da sociedade.
-
 É necessário ser paciente em sua ânsia de descobrir uma vocação com a qual possa contribuir para o mundo, pois é possível que só se manifeste tardiamente, precedida de falsas oportunidades.
-
 Por outro lado, você pode ficar atormentado por sentimentos de fracasso, não importa o quanto seja bem-sucedido. Analise profundamente as causas desse sentimento: é possível que esteja se impondo padrões inatingíveis ou esperando que cada novo desafio seja o último.
-
 Pode estar lutando sob a pressão de expectativas da família que nunca poderão ser concretizadas. Talvez esteja tentando ter êxito onde seus pais fracassaram ou atingir metas pelas quais não se esforçaram.
-
 Outra possibilidade: você pode se ver compelido a fracassar com o intuito de decepcionar seus pais e isso pode de fato representar seu primeiro sucesso. Se esta atitude for inconsciente, continuará a se trair e a fracassar, não por falta de capacidade e desejo de vencer, mas para castigá-los.
-
 Você pode se apegar às aparências e à representação de papéis para encobrir sua vulnerabilidade e ocultar a sensação de que está de algum modo deslocado.
-
 Pode atribuir importância exagerada ao êxito material, ao prestígio e ao status, ou pelo contrário, evitar o poder e a posição social só para descobrir que colidiu com o sistema ou entrou em desavença com figuras de autoridade.
-
 Reflita sobre a responsabilidade. Verifique se não vem assumindo responsabilidade sobre coisas sobre as quais não tem nenhum controle. Isso dificulta sua capacidade de ser independente no mundo e passa procurar alguém que possa tomar conta de você.
-
 Você deve desistir de se empenhar em lutas inúteis, enfrentando dificuldades e responsabilidades que não são de sua conta.
-
 Se assumir as obrigações e deveres dos outros, esperando alguma recompensa ou reconhecimento em troca, poderá ficar decepcionado, amargo ou ressentido, recusando-se a participar da vida.
-
 Algumas vezes, você pode julgar incorretamente suas próprias capacidades, assumindo encargos em excesso. Em consequência de tudo isso, passa a se sentir culpado por não ter assumido suas responsabilidades.
-
 Você pode sentir certo temor por sua notoriedade ou por assumir uma posição de controle e autoridade, mas é possível também, que alimente fantasias de poder, geralmente reprimidas por vergonha e medo.
-
 Se esses sentimentos constrangedores permanecerem inconscientes, poderá se prejudicar a partir do momento em que começar a ter êxito.
-
 A partir do momento em que seu senso de autoestima começar a melhorar, os conceitos de êxito ou fracasso em termos mundanos perderão seu rigor e gradativamente passará a definir objetivos mais realistas para concretizá-los.
-
 Seu sucesso deve emanar de um forte senso de respeito próprio e autoestima, pois o sucesso não pode acontecer como compensação pela falta disto. Você possui um senso natural de autoridade e dignidade que impõe respeito.
-
 Você pode ter crescido decidido a ser diferente de seus pais, e passa a vida em função disso. Talvez essa atitude possa impedi-lo de concretizar seus objetivos pessoais positivos.
-
 Além disso, depois de muito tempo, você pode descobrir que repetiu as características desagradáveis de seus pais, com outras formas. Isso pode ter sido apenas com relação ao pai ou a mãe.
-
 Você é capaz de estimular o crescimento dos outros, manifestando amor e dando orientação que podem ter faltado antes.
-
 Pode assumir com seriedade suas obrigações para consigo mesmo e para com os outros. Além disso, não tem medo de enfrentar dificuldades e responsabilidades das quais outros fugiriam assustados.
-
 Você nasceu com capacidade para comandar, liderar, pode tentar escapar dessa atribuição, mas de um modo ou de outro acabara sendo referencia para os demais.
-
 Deve aceitar o poder como algo sagrado e por essa razão respeitar seus comandados, liderando-os amorosamente e agindo de modo correto. Sendo você um modelo a ser imitado, cabe a você ser um exemplo digno de ser seguido. -break`,
 
       `O parceiro ideal é aquele que tenha interesse e seja dedicado a uma profissão. Que seja competente ou ocupe um cargo de poder, que ofereça estabilidade, comprometimento e seriedade.
-
 Podem ser pessoas habilidosas em negócios, profissionais bem sucedidos, estáveis, que tenham a mesma profissão que o nativo, ou seja, pessoas mais velhas, mais maduras ou mais experientes.
-
 De alguma forma a parceria tende a ser bem estruturada, marcada pela estabilidade ou pela autoridade.
-
 Pode haver insensibilidade, pouco amor entre parceiros ou um dos parceiros pode ser muito autoritário. O nativo pode até mesmo trabalhar junto com o parceiro.
-
 O relacionamento pode ser duradouro quando o casal cultiva confiabilidade, prudência e seriedade, com metas de longo prazo bem traçadas e definidas. -break`,
 
       `O nativo deve tomar cuidado com a tendência para o pessimismo. Cultivou amargura em suas vidas passadas, sem buscar horizontes mais positivos e felizes.
-
 A atitude crítica e negativa cortou as suas asas. Pode ser uma alma antiga, que vive refletindo há milénios e manifesta reflexões de surpreendente sagacidade.
-
 Sabe tomar o distanciamento necessário para julgar, sem se deixar perturbar por suas emoções. Mas Mercúrio retrógrado nesta casa indica que o nativo desprezou a sensibilidade dos outros.
-
 Sua personalidade se tornou fria e ambiciosa, não pensou em aliviar os sofrimentos dos pobres com palavras de bondade.
-
 Deve agora cultivar a inteligência amorosa, comunicar-se com mais afeto. Identificar e transmutar as crenças limitantes. Cultivar o pensamento e a palavra positiva. -break`,
 
       `Essa posição de Vênus impele o nativo para um cônjuge mais idoso, que simboliza a autoridade que conheceu e que vivenciou no passado.
-
 Tem uma tendência a não esquecer nada, a nada perdoar e a se comportar de forma austera. Isso pode ser frustrante para ele e para os outros.
-
 Este é precisamente um dos casos em que a família é para ele uma prova cármica. Nesta vida o nativo deve cultivar generosidade, amorosidade e afetividade. Superar o medo de dar, de se dar. -break`,
 
       `O nativo vive um conflito entre uma antiquíssima sabedoria, adquirida em vidas passadas, e a aspereza e a impulsividade de seus desejos.
-
 Prefere, então, viver e agir com pessoas mais idosas ou mais jovens. A posição de Marte retrógrado em Capricórnio está particularmente ligada ao carma.
-
 Esta posição deve levar o nativo a compreender o quanto é responsável por todos os seus atos e por tudo o que lhe acontece na vida atual. A grande lição é a responsabilidade. -break`,
 
       `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
-
 Dividido entre o entusiasmo e a lucidez, o nativo deve conciliar suas tendências expansivas com a necessidade de disciplina.
-
 Em alguns casos, esse Júpiter retrógrado pode indicar um materialista bastante pragmático, cuja avidez em acumular dinheiro trai a sua profunda angústia.
-
 Tem mais sucesso na maturidade com a condição de não abafar as aspirações espirituais que desenvolvera nas encarnações precedentes. -break`,
 
       `Ao trabalhar duro, cultivando ao mesmo tempo a esperança e a perseverança, o nativo é capaz de se isolar, de se fechar a todas as influências para se con¬centrar num único objetivo.
-
 Secreto, reservado, muitas vezes soturno, é a montanha de gelo cujas arestas cortantes muitas vezes ferem os outros.
-
 Detesta o que é fútil. Chega a ter a tendência de considerar a beleza, o amor e a vida social como coisas supérfluas que o desviam de seu caminho.
-
 Esta posição de Saturno indica que o nativo está maduro para completar seu trabalho cármico. Para conquistar o sucesso, deve agora cultivar metas nobres e elevadas.
-
 Desenvolver uma carreira ou um empreendimento conectado com seu propósito de alma.
-
 Ao mesmo tempo, abrir o coração também para as relações de afeto, o prazer e a beleza. Assim ganhará mais leveza, sem tanta autoexigência ou tanta rigidez. -break`,
 
       `Esta posição sugere que o nativo é uma velha alma, que retomou com muita sabedoria adquirida em vidas passadas. O nativo pode reencontrar nesta vida amigos das vidas precedentes.
-
 Mas seu apego aos valores passados não o toma muito flexível. Seu carma é refletir sobre o bom uso do poder.
-
 Essa posição sugere ambição, interesse ou abuso das amizades para satisfazer suas ambições pessoais e obter status.
-
 O nativo deve se libertar do conservadorismo, mesmo aos trancos. Urano lhe permite entreabrir-se para as novas ideias e novas experiências. -break`,
 
       `O nativo busca conciliar o misticismo, ou ao menos o idealismo netuniano, com a ambição de Capricórnio.
-
 Se Netuno está retrógrado, deverá evitar sacrificar seus ideais à sua promoção social. Ou, pelo contrário, sacrificar a carreira e a promoção social numa fuga para o sonho.
-
 Outra maneira de se esquivar do carma é esconder as ambições pessoais por trás de teorias idealistas.
-
 Essas ideias devem agora ser habilmente e conscientemente utilizadas, para que permitam ao nativo se promover socialmente ou profissionalmente.
-
 É verdade que a sobriedade e a austeridade de que o nativo dá provas impressionam os outros, mas ele terá a tendência de se impor com demasiada dureza.
-
 De qualquer modo, deve enfrentar dissabores e desilusões em suas ambições pessoais. Por isso mesmo, refletir sobre a futilidade de toda promoção social. -break`,
 
       `FALTA TEXTO -break`,
-
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
-
 A ferida psicológica mais profunda está ligada ao vínculo com o pai, na infância. Você o vê como fraco ou rígido, e se esforça ao máximo para ser diferente dele. Sente dificuldade de estabelecer e concretizar suas metas e em geral leva muito tempo para descobrir sua verdadeira vocação.
-
 Mesmo quando bem sucedida profissionalmente, não consegue evitar o sentimento de fracasso, o que só é superado quando desenvolver a autoestima.
-
 Tem o dom de incentivar o crescimento dos outros, dando-lhes afeto e orientação. Compreende que uma pessoa precisa ter um objetivo em vida e realizá-lo.
-
 Entretanto, desde cedo pode ter sido freado em sua ambição ou terem tido muitos obstáculos e dificuldades. Deve voltar a acreditar em si mesmo e conquistar as coisas de que precisam.
-
 Estruturando os outros ou algo externos acaba por estruturar a si mesmos. Talvez não tenha tido muito apoio dos pais ou tenha tido que lidar com uma figura de autoridade bem difícil.
-
 Você sente dificuldades em estabelecer e concretizar seus objetivos, bem como em definir seu lugar dentro da sociedade.
-
 É necessário ser paciente em sua ânsia de descobrir uma vocação com a qual possa contribuir para o mundo, pois é possível que só se manifeste tardiamente, precedida de inúmeras e falsas oportunidades.
-
 Por outro lado, você tem dificuldade em desfrutar o prestígio que outros percebem em você, de modo que fica atormentado com sentimentos de fracasso, não importa o quanto seja bem-sucedido.
-
 Analise profundamente as causas desse sentimento: é possível que esteja se impondo padrões inatingíveis ou esperando que cada novo desafio seja o último, pode estar lutando sob a pressão de expectativas da família que nunca poderão ser concretizadas e talvez esteja tentando ter êxito onde seus pais fracassaram e atingir metas pelas quais não se esforçaram.
-
 Pode se ver compelido a fracassar com o intuito de decepcionar seus pais, e isso pode de fato representar seu primeiro sucesso. Se esta atitude for inconsciente, continuará a se trair e a fracassar, não por falta de capacidade e desejo de vencer, mas para castigá-los.
-
 Você pode se apegar às aparências e à representação de papéis para encobrir sua vulnerabilidade e ocultar a sensação de que está de algum modo deslocado.
-
 Pode atribuir importância exagerada ao êxito material, ao prestígio e ao status, ou pelo contrário, evitar o poder e a posição social só para descobrir que colidiu com o sistema, sendo constantemente multado por estacionar em locais proibidos, passando pelo pente-fino por ocasião da declaração dos impostos, ou entrando em desavença com figuras de autoridade.
-
 Se você parece não ter noção de responsabilidade, verifique se não vem assumindo responsabilidade sobre coisas sobre as quais não tem nenhum controle.
-
 Isso dificulta sua capacidade de ser independente no mundo e passa procurar alguém que possa tomar conta de você. Você deve desistir de se empenhar em lutas inúteis, enfrentando dificuldades e responsabilidades que não são de sua conta.
-
 Se assumir as obrigações e deveres dos outros, esperando alguma recompensa ou reconhecimento em troca, poderá ficar amargo, decepcionado ou ressentido, recusando-se a participar da vida.
-
 Algumas vezes, você pode julgar incorretamente suas próprias capacidades, assumir encargos em excesso, fracassar, e em consequência de tudo isso, passa a se sentir culpado por não ter assumido suas responsabilidades.
-
 Você pode sentir certo temor por sua notoriedade ou por assumir uma posição de controle e autoridade, mas é possível também, que alimente fantasias de poder exagerado e despótico que geralmente são reprimidos por vergonha e medo.
-
 Se esses sentimentos constrangedores permanecerem inconscientes, poderá se prejudicar a partir do momento em que começar a ter êxito.
-
 A partir do momento em que seu senso de autoestima começar a melhorar, os conceitos de êxito ou fracasso em termos mundanos perderão seu rigor, e gradativamente passará a definir objetivos mais realistas e concretizá-los.
-
 Seu sucesso deve emanar de um forte senso de respeito próprio e autoestima, pois o sucesso não pode acontecer como compensação pela falta disto. Você possui um senso natural de autoridade e dignidade que impõe respeito.
-
 Você pode ter tido problemas com os pais: um deles pode ser desconhecido, serem vistos como fracos e incapazes, ou rígidos e autoritários, etc.
-
 Você pode ter crescido decidido a ser diferente de seus pais, e passa a vida em função dessa imagem, o que o impede de concretizar seus objetivos pessoais positivos. Além disso, depois de muito tempo, você pode descobrir que repetiu as características desagradáveis de seus pais, com outras formas.
-
 Isso pode ter sido apenas com relação ao pai ou a mãe. Você é capaz de estimular o crescimento dos outros, manifestando amor e dando orientação que podem ter faltado antes.
-
 Pode assumir com seriedade suas obrigações para consigo mesmo e para com os outros; além disso, não tem medo de enfrentar dificuldades e responsabilidades das quais outros fugiriam assustados.
-
 Você nasceu com capacidade para comandar, liderar, pode tentar escapar dessa atribuição, mas de um modo ou de outro acabara sendo referencia para os demais.
-
 Deve aceitar o poder como algo sagrado e por essa razão respeitar seus comandados, liderando-os amorosamente e agindo de modo correto, pois sendo você um modelo a ser imitado, cabe a você ser um exemplo digno de ser seguido. -break`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
-
 É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
-
 Se o asteroide está no Meio do Céu conjunto a este ou mesmo na décima casa, as parcerias que esta pessoa formar, terão algum teor público, e serão de alguma forma responsáveis pela forma que esta aparece para os outros. Podem também indicar a união do profissional e do conjugal.
-
 Mas a pessoa com Juno da décima casa terá que aprender a ficar um pouco apagada diante desse parceiro/a, ou pelo menos a partilhar com ele todos os seus louros e sucessos.
-
 Essa posição por signo, ou casa mostra uma certa predestinação conjugal, a qual permitirá a ela que se afirme no mundo, ou mesmo que trabalhe com essa pessoa.
-
 Considerar o posicionamento de Júpiter para avaliar o potencial de sucesso social, que pode ser alcançado através de parcerias.
-
 No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade, prudente e séria. No de um homem, que a esposa que ele escolherá terá estas características. -break`,
     ],
     levels: [
         `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
 
-`-stron 1º nível de evolução:/stron`,
-`Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. -break
-O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros. -break
-Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. -break
-Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado. -break
-Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. -break`,
+        `-stron 1º nível de evolução:/stron`,
+        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. -break
+        O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros. -break
+        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. -break
+        Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado. -break
+        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. -break`,
 
-`-stron 2º nível de evolução:/stron`,
-`Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. -break
-Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. -break`,
+        `-stron 2º nível de evolução:/stron`,
+        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. -break
+        Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. -break`,
 
-`-stron 3º nível de evolução:/stron`,
-`Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. -break
-Aceita incondicionalmente Ser quem pode Vir a Ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida. -break
-Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável. -break
-Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. -break
-Nesta fase pode criar novas estruturas. -break`
+        `-stron 3º nível de evolução:/stron`,
+        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. -break
+        Aceita incondicionalmente Ser quem pode Vir a Ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida. -break
+        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável. -break
+        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. -break
+        Nesta fase pode criar novas estruturas. -break`
     ],
     nodosLunares: [
-      `Nodos lunares\' extra text`
+      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
+       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
+       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
+       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
+       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a descobrir a força na fragilidade: /stron`
+      // PAREI AQUI NO DIA 09-03-2020
     ],
     parteFortuna: [
       `Parte da fortuna\'s extra text`
