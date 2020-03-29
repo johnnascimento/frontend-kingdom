@@ -175,15 +175,17 @@ body {
             height: ($trashCanSize/2);
             display: inline-block;
             position: relative;
-            text-align: center;
-            color: $seashell;
-            background-color: $casal;
             border: none;
+            background-color: $casal;
+            color: $seashell;
             font-size: 16px;
+            text-align: center;
+            line-height: ($trashCanSize/2);
           }
         }
 
-        .arrayKlass-title {
+        .arrayKlass-title,
+        .arrayKlass-title-secondary {
           color: $casal;
           text-transform: uppercase;
         }
