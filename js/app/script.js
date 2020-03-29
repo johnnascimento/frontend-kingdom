@@ -30,6 +30,7 @@ define(['jquery'], function($) {
         let evaluatedValueToReturn = [];
         let nodosFortuna = '';
         let lineBreaks = '';
+        var tagFinder = new RegExp('\<\/strong\>', 'gmi');
 
         contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
 
@@ -67,7 +68,6 @@ define(['jquery'], function($) {
             }
         };
 
-
         var textBlockCounter = 0;
         let i = 0;
         let levels = [];
@@ -77,6 +77,7 @@ define(['jquery'], function($) {
             el.classList.add(klass);
             el.id = id;
             el.appendChild(d.createTextNode(textEl));
+
             if (selectorElem === undefined || selectorElem === null) {
                 docQuery('.' + assignmentReference).appendChild(el);
             } else {
@@ -138,64 +139,61 @@ define(['jquery'], function($) {
         const defineNodosLunaresTitle = (elemToActUpon, idx) => {
             console.log('defineNodosLunaresTitle was invoked', elemToActUpon);
             var NodostitleReturned = '';
-            console.log('idx: ', idx);
-            console.log('elemToActUpon: ', elemToActUpon);
 
             switch(idx.element2[1]) {
                 case 1:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Libra';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Libra';
+                break;
 
                 case 2:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Escorpião';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Escorpião';
+                break;
 
                 case 3:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Sagitário';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Sagitário';
+                break;
 
                 case 4:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Capricórnio';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Capricórnio';
+                break;
 
                 case 5:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Aquário';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Aquário';
+                break;
 
                 case 6:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Peixes';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Peixes';
+                break;
 
                 case 7:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Áries';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Áries';
+                break;
 
                 case 8:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Touro';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Touro';
+                break;
 
                 case 9:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Gêmoes';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Gêmoes';
+                break;
 
                 case 10:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Câncer';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Câncer';
+                break;
 
                 case 11:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Leão';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Leão';
+                break;
 
                 case 12:
-                    NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Virgem';
-                    break;
+                NodostitleReturned = 'Nodo Sul em ' + idx.element1[1] + ' / Nodo Norte em Virgem';
+                break;
 
                 default:
-                    NodostitleReturned = 'empty';
-                    break;
+                NodostitleReturned = 'empty';
+                break;
             }
 
-            console.log('NodostitleReturned after treatment, ', NodostitleReturned);
             return NodostitleReturned;
         };
 
@@ -205,138 +203,110 @@ define(['jquery'], function($) {
             var titleReturned = '';
             var elemToActUponLowerCase = elemToActUpon.toLowerCase();
 
-            console.log('elemToActUponLowerCase has been treated', elemToActUponLowerCase, ' Idx: ', indexPassedIn);
-
             switch(elemToActUponLowerCase) {
                 case 'sol':
-                    console.log('elemToActUponLowerCase is sol case', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Sol na ' : 'Sol em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Sol na ' : '<strong>Sol em ';
+                break;
 
                 case 'lua':
-                    console.log('Lua case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Lua na ' : 'Lua em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong><strong>Lua na ' : '<strong>Lua em ';
+                break;
 
                 case 'ascendente':
-                    console.log('Ascendente case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Ascendente na ' : 'Ascendente ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Ascendente na ' : '<strong>Ascendente ';
+                break;
 
                 case 'mercúrio':
-                    console.log('Mercúrio case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Mercúrio na ' : 'Mercúrio em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Mercúrio na ' : '<strong>Mercúrio em ';
+                break;
 
                 case 'vênus':
-                    console.log('Vênus case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Vênus na ' : 'Vênus em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Vênus na ' : '<strong>Vênus em ';
+                break;
 
                 case 'marte':
-                    console.log('Marte case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Marte na ' : 'Marte em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Marte na ' : '<strong>Marte em ';
+                break;
 
                 case 'júpter':
-                    console.log('Júpter case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Júpter na ' : 'Júpter em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Júpter na ' : '<strong>Júpter em ';
+                break;
 
                 case 'saturno':
-                    console.log('Saturno case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Saturno na ' : 'Saturno em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Saturno na ' : '<strong>Saturno em ';
+                break;
 
                 case 'urano':
-                    console.log('Urano case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Urano na ' : 'Urano em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Urano na ' : '<strong>Urano em ';
+                break;
 
                 case 'netuno':
-                    console.log('Netuno case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Netuno na ' : 'Netuno em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Netuno na ' : '<strong>Netuno em ';
+                break;
 
                 case 'plutão':
-                    console.log('Plutão case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Plutão na ' : 'Plutão em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Plutão na ' : '<strong>Plutão em ';
+                break;
 
                 case 'nodos lunares':
-                    console.log('Nodos case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Nodos Lunares na ' : defineNodosLunaresTitle(elemToActUpon, indexPassedIn);
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Nodos Lunares na ' : defineNodosLunaresTitle(elemToActUpon, indexPassedIn);
+                break;
 
                 case 'parte da fortuna':
-                    console.log('Parte case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Parte da Fortuna na ' : 'Parte da Fortuna em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Parte da Fortuna na ' : '<strong>Parte da Fortuna em ';
+                break;
 
                 case 'quíron':
-                    console.log('Quíron case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Quíron na ' : 'Quíron em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Quíron na ' : '<strong>Quíron em ';
+                break;
 
                 case 'juno':
-                    console.log('Juno case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Juno na ' : 'Quíron em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Juno na ' : '<strong>Quíron em ';
+                break;
 
                 case 'mercúrio retrógado':
-                    console.log('Mercúrio case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Mercúrio Retrógado na ' : 'Mercúrio Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Mercúrio Retrógado na ' : '<strong>Mercúrio Retrógado em ';
+                break;
 
                 case 'vênus retrógado':
-                    console.log('Vênus case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Vênus Retrógado na ' : 'Vênus Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Vênus Retrógado na ' : '<strong>Vênus Retrógado em ';
+                break;
 
                 case 'marte retrógado':
-                    console.log('Marte case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Marte Retrógado na ' : 'Marte Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Marte Retrógado na ' : '<strong>Marte Retrógado em ';
+                break;
 
                 case 'júpter retrógado':
-                    console.log('Júpter case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Júpter Retrógado na ' : 'Júpter Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Júpter Retrógado na ' : '<strong>Júpter Retrógado em ';
+                break;
 
                 case 'saturno retrógado':
-                    console.log('Saturno case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Saturno Retrógado na ' : 'Saturno Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Saturno Retrógado na ' : '<strong>Saturno Retrógado em ';
+                break;
 
                 case 'urano retrógado':
-                    console.log('Urano case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Urano Retrógado na ' : 'Urano Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Urano Retrógado na ' : '<strong>Urano Retrógado em ';
+                break;
 
                 case 'netuno retrógado':
-                    console.log('Netuno case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Netuno Retrógado na ' : 'Netuno Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Netuno Retrógado na ' : '<strong>Netuno Retrógado em ';
+                break;
 
                 case 'plutão retrógado':
-                    console.log('Plutão case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Plutão Retrógado na ' : 'Plutão Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Plutão Retrógado na ' : '<strong>Plutão Retrógado em ';
+                break;
 
                 case 'quíron retrógado':
-                    console.log('Quíron case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Quíron Retrógado na ' : 'Quíron Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Quíron Retrógado na ' : '<strong>Quíron Retrógado em ';
+                break;
 
                 case 'juno retrógado':
-                    console.log('Juno case: ', elemToActUponLowerCase);
-                    titleReturned = (indexPassedIn.element2[1] === 0) ? 'Juno Retrógado na ' : 'Juno Retrógado em ';
-                    break;
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Juno Retrógado na ' : '<strong>Juno Retrógado em ';
+                break;
 
                 default:
-                    console.log('default: ', elemToActUponLowerCase);
-                    titleReturned = 'empty'
-                    break;
+                titleReturned = 'empty'
+                break;
             }
 
             return titleReturned;
@@ -346,96 +316,98 @@ define(['jquery'], function($) {
         const grabInputValues = (element, index) => {
             console.log('Grab input values is running sound!');
             let elementsIndexAndTexts = defineSelectedIndexInAnArray(true, true);
+            var planetasTitle = '';
+            var signosTitle = '';
+            var casasTitle = '';
 
             for (key in data.planets) {
-                if (data.planets[key].title == element) {
+                planetasTitle = data.planets[key].title.replace(tagFinder, '');
+
+                if (planetasTitle == element) {
                     if (elementsIndexAndTexts.element2[0] !== 0 && elementsIndexAndTexts.element2[1] === 0) {
-                        // Call upon defineTitles function before pushing da.planets[key].title;
-                        defineTitles(data.planets[key].title, elementsIndexAndTexts);
-                        console.log('********* Casas', elementsIndexAndTexts);
 
-                        evaluatedValueToReturn.push(defineTitles(data.planets[key].title, elementsIndexAndTexts) + " " + elementsIndexAndTexts.element1[2]);
+                        evaluatedValueToReturn.push(defineTitles(planetasTitle, elementsIndexAndTexts) + " " + elementsIndexAndTexts.element1[2]);
+
                     } else if (elementsIndexAndTexts.element2[0] !== 0 && elementsIndexAndTexts.element2[2] === 0) {
-                        // Call upon defineTitles function before pushing da.planets[key].title;
-                        defineTitles(data.planets[key].title, elementsIndexAndTexts);
-                        console.log('********* SIGNOS', elementsIndexAndTexts);
 
-                        evaluatedValueToReturn.push(defineTitles(data.planets[key].title, elementsIndexAndTexts) + " " + elementsIndexAndTexts.element1[1]);
+                        evaluatedValueToReturn.push(defineTitles(planetasTitle, elementsIndexAndTexts) + " " + elementsIndexAndTexts.element1[1]);
+
                     }
                     return evaluatedValueToReturn;
                 }
             }
 
             for (key in data.signos) {
-                if (data.signos[key].title == element) {
+                signosTitle = data.signos[key].title.replace(tagFinder, '');
+
+                if (signosTitle == element) {
                     evaluatedValueToReturn.push(data.signos[key].text[elementsIndexAndTexts.element2[0] - 1]);
 
-                  if(elementsIndexAndTexts.element2[0] === 1) {
-
-                    for(i = 0; i < data.signos[key].levels.length; i++) {
-                      levels.push(data.signos[key].levels[i]);
-                    }
+                    if(elementsIndexAndTexts.element2[0] === 1) {
+                        for(i = 0; i < data.signos[key].levels.length; i++) {
+                          levels.push(data.signos[key].levels[i]);
+                      }
 
                   } else if(elementsIndexAndTexts.element2[0] === 12) {
 
                     nodosFortuna = data.signos[key].nodosLunares;
 
-                  } else if(elementsIndexAndTexts.element2[0] === 13) {
+                } else if(elementsIndexAndTexts.element2[0] === 13) {
 
                     nodosFortuna = data.signos[key].parteFortuna;
 
-                  } else {
+                } else {
                     levels.push("");
-                  }
-
-                    return evaluatedValueToReturn;
                 }
-            }
 
-            for (key in data.casas) {
-                if (data.casas[key].title == element) {
-                    evaluatedValueToReturn.push(data.casas[key].text[elementsIndexAndTexts.element2[0] - 1]);
-
-                    if(elementsIndexAndTexts.element2[0] === 12) {
-
-                        nodosFortuna = data.casas[key].nodosLunares;
-
-                    } else if(elementsIndexAndTexts.element2[0] === 13) {
-
-                        nodosFortuna = data.casas[key].parteFortuna;
-
-                    } else {
-                        levels.push("");
-                    }
-
-                    return evaluatedValueToReturn;
-                }
-            }
-            return evaluatedValueToReturn;
-        };
-
-
-        const setUpTextForTemplate = (indexSelectedArray) => {
-            console.log('setUpTextForTemplate is running sound!');
-            evaluatedValueToReturn = [];
-            indexSelectedArray = indexSelectedArray || [];
-            var indexSelectedNum = 0;
-
-            if (!indexSelectedArray.length) {
-                return;
-            } else {
-                indexSelectedArray.forEach(grabInputValues);
-                console.log('setUpTextForTemplate - indexSelectedArray', indexSelectedArray);
-                console.log('setUpTextForTemplate - evaluatedValueToReturn', evaluatedValueToReturn);
                 return evaluatedValueToReturn;
             }
-        };
+        }
+
+        for (key in data.casas) {
+            casasTitle = data.casas[key].title.replace(tagFinder, '');
+
+            if (casasTitle == element) {
+                evaluatedValueToReturn.push(data.casas[key].text[elementsIndexAndTexts.element2[0] - 1]);
+
+                if(elementsIndexAndTexts.element2[0] === 12) {
+
+                    nodosFortuna = data.casas[key].nodosLunares;
+
+                } else if(elementsIndexAndTexts.element2[0] === 13) {
+
+                    nodosFortuna = data.casas[key].parteFortuna;
+
+                } else {
+                    levels.push("");
+                }
+
+                return evaluatedValueToReturn;
+            }
+        }
+        return evaluatedValueToReturn;
+    };
 
 
-        const deleteTextBlock = (ev) => {
-            console.log('DeleteTextBlock is running sound!');
-            ev.parentNode.remove();
-        };
+    const setUpTextForTemplate = (indexSelectedArray) => {
+        console.log('setUpTextForTemplate is running sound!');
+        evaluatedValueToReturn = [];
+        indexSelectedArray = indexSelectedArray || [];
+        var indexSelectedNum = 0;
+
+        if (!indexSelectedArray.length) {
+            return;
+        } else {
+            indexSelectedArray.forEach(grabInputValues);
+            return evaluatedValueToReturn;
+        }
+    };
+
+
+    const deleteTextBlock = (ev) => {
+        console.log('DeleteTextBlock is running sound!');
+        ev.parentNode.remove();
+    };
 
         // Include a callback function that will be run after all the
         // content has been printed out. This callback function will
@@ -454,6 +426,7 @@ define(['jquery'], function($) {
             var klassAssigner = '';
             var templateArray = [];
             var selectedItemsArray = [];
+            var textBlockCounterRef = textBlockCounter;
             let getSelectedIndexInArray = defineSelectedIndexInAnArray(true, true);
 
             // Used in the function bellow
@@ -463,6 +436,9 @@ define(['jquery'], function($) {
             selectedItemsArray.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
             selectedItemsArray.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
             templateArray = selectedItemsArray;
+
+            console.log('templateArray', templateArray);
+            console.log('selectedItemsArray', selectedItemsArray);
 
 
             if (getSelectedIndexInArray.element2[0] !== 0 && getSelectedIndexInArray.element2[1] !== 0 || getSelectedIndexInArray.element2[0] !== 0 && getSelectedIndexInArray.element2[2] !== 0) {
@@ -480,8 +456,11 @@ define(['jquery'], function($) {
             } else {
                 checkEmptyTextBlock('contentSpot');
             }
+
             levels = [];
             elemPlaceholder = setUpTextForTemplate(templateArray);
+            console.log('elemPlaceholder', elemPlaceholder);
+            console.log('templateArray', templateArray);
 
             for (var z = 0; z < templateArray.length; z++) {
                 if (siteLists.first.link.selectedIndex === 0) {
@@ -493,30 +472,39 @@ define(['jquery'], function($) {
 
                       if(siteLists.first.link.selectedIndex === 12) {
                         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, nodosFortuna);
-                      }
+                    }
 
-                        criarEl('p', klassAssigner, 'arrayKlass-title', 'arrayId', null, elemPlaceholder[0]);
-                        criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, elemPlaceholder[1]);
+                    criarEl('p', klassAssigner, 'arrayKlass-title', 'arrayId', null, 'title created');
+                    criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, 'block created');
+
+                    console.log('textBlock content ', elemPlaceholder[1]);
+
+                    docQuery('div[class^=textBlockWrapper-]:last-child').querySelector('.arrayKlass-title').innerHTML = elemPlaceholder[0];
+                    docQuery('div[class^=textBlockWrapper-]:last-child').querySelector('.arrayKlass').innerHTML = elemPlaceholder[1];
+
+                        // .classList.add('lastBlockOfArray');
 
                         if(siteLists.first.link.selectedIndex === 12) {
                           console.log('********************Selected index is 12******************** ' + elemPlaceholder[1].substring(0, 100));
-                        }
+                      }
 
-                        if (siteLists.first.link.selectedIndex === 1) {
+                      if (siteLists.first.link.selectedIndex === 1) {
                         // This first element needs fixing
 
-                           for(var j = 0; j < levels.length; j++) {
-                            console.log('RUNNING 1,2,3.....', levels[j]);
-                              criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+i, null, levels[j]);
-                            }
-                            return;
-                        } else {
-                          return;
+                        for(var j = 0; j < levels.length; j++) {
+                            criarEl('p', klassAssigner, 'levelsClass', 'levelsId-'+j, null, j);
+                            docQuery('div[class^=textBlockWrapper-]:last-child').querySelector('#levelsId-'+j).innerHTML = levels[j];
                         }
-                    }
-                }
-            }
-        }
+
+                        return;
+
+                    } else {
+                      return;
+                  }
+              }
+          }
+      }
+  }
 
         //Check for empty textBlock
         const checkEmptyTextBlock = (elem) => {
@@ -539,8 +527,12 @@ define(['jquery'], function($) {
 
 
         const fillFormIn = (obj, listNumber) => {
+            var treatedTitle = '';
+
+
             for (key in obj) {
-                criarEl('option', 'listOfItems-' + listNumber, 'optionClass', 'optionId', null, obj[key].title);
+                treatedTitle = obj[key].title.replace(tagFinder, '');
+                criarEl('option', 'listOfItems-' + listNumber, 'optionClass', 'optionId', null, treatedTitle);
             }
         }
 
@@ -549,11 +541,25 @@ define(['jquery'], function($) {
             fillFormIn(data.planets, 1);
             fillFormIn(data.signos, 2);
             fillFormIn(data.casas, 3);
+
+            docQuery('.listOfItems-2').setAttribute('disabled', true);
+            docQuery('.listOfItems-3').setAttribute('disabled', true);
+
             $submitBtn.addEventListener('click', addElementsToTemplate);
 
             // Control the buttons' behaviour
             // ------------------------------------------------------------------------------------------
-            $inputSignoOrCasa('.listOfItems-2').addEventListener('change', (ev) => {
+            docQuery('.listOfItems-1').addEventListener('change', (ev) => {
+                if (ev.target.selectedIndex === 0) {
+                    docQuery('.listOfItems-2').setAttribute('disabled', true);
+                    docQuery('.listOfItems-3').setAttribute('disabled', true);
+                } else {
+                    docQuery('.listOfItems-2').removeAttribute('disabled');
+                    docQuery('.listOfItems-3').removeAttribute('disabled');
+                }
+            });
+
+            docQuery('.listOfItems-2').addEventListener('change', (ev) => {
                 if (ev.target.selectedIndex !== 0) {
                     return docQuery('.listOfItems-3').setAttribute('disabled', true);
                 }
@@ -563,7 +569,7 @@ define(['jquery'], function($) {
                 }
             });
 
-            $inputSignoOrCasa('.listOfItems-3').addEventListener('change', (ev) => {
+            docQuery('.listOfItems-3').addEventListener('change', (ev) => {
                 if (ev.target.selectedIndex !== 0) {
                     return docQuery('.listOfItems-2').setAttribute('disabled', true);
                 }
@@ -579,10 +585,12 @@ define(['jquery'], function($) {
                 return;
             });
 
-            $printButton('#printDocument').addEventListener('click', function(ev) {
-                window.print();
-                return;
-            });
+            if(document.querySelector('#printDocument')) {
+                $printButton('#printDocument').addEventListener('click', function(ev) {
+                    window.print();
+                    return;
+                });
+            }
 
             setInterval(() => {
                 console.log(`Every 60 second we run a function to clean up any empty block in the contentSpot tag`);

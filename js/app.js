@@ -10,13 +10,13 @@ requirejs([
     'jquery',
     'app/data',
     'app/script',
-    'app/textLineBreak'
+    // 'app/textLineBreak'
     ],
     function(
         $,
         data,
         script,
-        textLineBreak
+        // textLineBreak
     ) {
     console.log('App initialized! ', $('body'));
 

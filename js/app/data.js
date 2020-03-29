@@ -104,24 +104,24 @@ const data = {
     }
   ],
   signos: [{
-    title: `aries`,
+    title: `aries</strong>`,
     text: [
-      `Áries é um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida.
+      `Árie sé um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida.<br /><br />
       Qualidades: pioneirismo, entusiasmo, iniciativa, coragem, garra, espontaneidade, competitividade e energia.
-      Áries quer desbravar, conquistar, caminhar sozinho, ser o senhor da sua vontade, ter autonomia e assumir o comando de seu destino.
-      O Sol se exalta em Áries e reforça suas qualidades, como a autoconfiança, a liderança, o poder e o espirito de liberdade. O Sol em Áries favorece a audácia e a impulsividade.
+      Áries quer desbravar, conquistar, caminhar sozinho, ser o senhor da sua vontade, ter autonomia e assumir o comando de seu destino.<br /><br />
+      O Sol se exalta em Áries e reforça suas qualidades, como a autoconfiança, a liderança, o poder e o espirito de liberdade. O Sol em Áries favorece a audácia e a impulsividade.<br /><br />
       O Ariano tem necessidade de ir para além das suas possibilidades, buscar a sua emancipação a fim de poder realizar-se.
-      O desejo de liberdade e de independência em relação à família é muito evidente. É difícil para um ariano admitir que outras pessoas venham meter o nariz nos seus assuntos.
+      O desejo de liberdade e de independência em relação à família é muito evidente. É difícil para um ariano admitir que outras pessoas venham meter o nariz nos seus assuntos.<br /><br />
       Todavia, tem grande tenacidade, o que lhes permite muitas vezes levar a cabo projetos muito difíceis. É também sincero e inquieto.
-      Outra dificuldade para o ariano é dar continuidade aos projetos e estudos, pois vencida a etapa inicial, têm tendência a perder o interesse.
+      Outra dificuldade para o ariano é dar continuidade aos projetos e estudos, pois vencida a etapa inicial, têm tendência a perder o interesse.<br /><br />
       Na saúde, as suas partes vulneráveis são: cérebro, nariz, cavidades sinuosas, orelhas, dentes e tudo o que engloba a cabeça no seu conjunto.
-      É preciso prestar atenção particular à alimentação, pois podem ocorrer doenças alérgicas ou psicossomáticas, que são frequentemente resultado de um modo de vida anacrônico.
+      É preciso prestar atenção particular à alimentação, pois podem ocorrer doenças alérgicas ou psicossomáticas, que são frequentemente resultado de um modo de vida anacrônico.<br /><br />
       Deve estar atento à circulação sanguínea e vigiar os rins em particular: provavelmente se o seu regime de vida os maltrata.
-      É recomendável a prática de esportes que exijam grande dispêndio de energia, o que lhe permite queimar as toxinas prejudiciais ao organismo e controlar a ansiedade.
+      É recomendável a prática de esportes que exijam grande dispêndio de energia, o que lhe permite queimar as toxinas prejudiciais ao organismo e controlar a ansiedade.<br /><br />
       Na via negativa, é preciso estar sempre atento à impaciência, à agressividade, à franqueza rude e desrespeitosa, à rivalidade e ao autoritarismo.
-      O equilíbrio está no signo oposto, Libra, com suas qualidades de ponderação e equilíbrio.
-      O desafio é encontrar a harmonia, seja consigo mesmo ou em suas relações. Aprender a ceder quando necessário, dar lugar à vontade dos outros, ser mais manso e não ferir os demais.
-      Sendo mais ponderado, pode conseguir melhores resultados em seus projetos. Se o ariano consegue ir além de seu ego, transforma-se num herói, num guerreiro da Luz. -break`,
+      O equilíbrio está no signo oposto, Libra, com suas qualidades de ponderação e equilíbrio.<br /><br />
+      O desafio é encontrar a harmonia, seja consigo mesmo ou em suas relações. Aprender a ceder quando necessário, dar lugar à vontade dos outros, ser mais manso e não ferir os demais.<br /><br />
+      Sendo mais ponderado, pode conseguir melhores resultados em seus projetos. Se o ariano consegue ir além de seu ego, transforma-se num herói, num guerreiro da Luz.<br /><br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
       É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -134,29 +134,29 @@ const data = {
       A pessoa com esta posição da Lua prefere a autonomia e é muito independente. Insiste em seguir o seu próprio curso de ação, certo ou errado.
       Não costuma tolerar a interferência dos outros e costuma reagir mal quando depende de alguém para alguma coisa.
       Tende a considerar a reação dos outros de maneira pessoal e a dominar os outros emocionalmente. Num relacionamento, o que lhe interessa é a conquista.
-      Por tudo isso, é importante aprender a equilibrar suas imposições com mais ternura, cordialidade e suavidade. -break`,
+      Por tudo isso, é importante aprender a equilibrar suas imposições com mais ternura, cordialidade e suavidade. <br />`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. -break
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. <br />
       O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       Quem tem Ascendente em Áries entra na vida como quem entra num desafio: com impulsividade, pioneirismo, ousadia, impaciência.
       Há necessidade de ser mais decidido, de agir e despertar o seu poder para criar a sua própria vida.
-      -stron O aprendizado é encarar a vida de maneira direta e enérgica. Cultivar uma expressão bem ativa, espontânea, competitiva na via positiva e assertiva./stron
+      <strong> O aprendizado é encarar a vida de maneira direta e enérgica. Cultivar uma expressão bem ativa, espontânea, competitiva na via positiva e assertiva.</strong>
       Quem tem este ascendente tende a acreditar que o caminho mais curto entre dois pontos é uma reta e a colocar isso em prática em todas as circunstâncias da vida.
       Muitas vezes com grandes ganhos de tempo e benefícios, outras vezes com consequências menos felizes. Na verdade, só tem a sensação de existir, de estar vivo, se estiver a fazer alguma coisa.
       Se a expressão do ascendente em Áries é contida ou negada, a frustração acumulada pode explodir e se manifestar como ataques de raiva, ansiedade, explosões agressivas.
-      -stron Quando aprender a agir com autoestima, por vontade e escolha própria, em vez de reagir continuamente à necessidade de se afirmar, poderá vivenciar plenamente as qualidades de ação, assertividade e decisão associadas ao seu signo ascendente./stron
+      <strong> Quando aprender a agir com autoestima, por vontade e escolha própria, em vez de reagir continuamente à necessidade de se afirmar, poderá vivenciar plenamente as qualidades de ação, assertividade e decisão associadas ao seu signo ascendente.</strong>
       Fisicamente, o Ascendente em Áries pode ter uma postura enérgica, viva, rápida e impaciente. Rosto vivo, olhar ágil, franco, direto e intenso.
       Os movimentos são rápidos, repentinos e por vezes até bruscos e diretos. É como se a qualquer momento fosse mergulhar de cabeça em uma nova atividade.
-      Observe-se para não agir sem pensar como, por exemplo: até querer dizer \"saia da minha frente\". -break`,
+      Observe-se para não agir sem pensar como, por exemplo: até querer dizer \"saia da minha frente\". <br />`,
 
-      `Mercúrio neste signo indica um tipo de raciocínio que tende a ser determinado, impulsivo e competitivo. -break
+      `Mercúrio neste signo indica um tipo de raciocínio que tende a ser determinado, impulsivo e competitivo. <br />
       Os nativos gostam de discutir e argumentar. Com frequência, possuem a habilidade de pensar rapidamente e podem criar muitas ideias originais.
       Entretanto, podem ser imprudentes ao tomarem decisões e considerar as coisas a partir de um ponto de vista muito pessoal.
       Pode haver irritação e um temperamento irascível. No seu extremo, esta tendência pode resultar em egotismo intelectual e atitudes voluntariosas.
       Os nativos tem dificuldade para tolerar demoras. Consequentemente, não gostam de se submeter a longos e demorados processos de decisão demorados, que se tornam frustrantes.
-      A sua impulsividade significa que nem sempre concluem as ideias que iniciam. -break`,
+      A sua impulsividade significa que nem sempre concluem as ideias que iniciam. <br />`,
 
-      `Quem possui Vênus nesse signo do zodíaco é ardente e impulsivo, podendo se apaixonar e desapaixonar de maneira quase instantânea. -break
+      `Quem possui Vênus nesse signo do zodíaco é ardente e impulsivo, podendo se apaixonar e desapaixonar de maneira quase instantânea. <br />
       As paixões súbitas não duram muito, pois numa relação, a conquista é a parte mais estimulante para eles. Depois, quando o fogo da paixão começa a diminuir, eles podem perder o interesse.
       Quem tem Vênus em Áries tende a buscar o prazer de forma imediatista. É caprichoso e inconstante. Quando se interessa por alguém quer sexo no primeiro encontro.
       Incapaz de esperar, não dá muitas voltas para dizer o que quer: vai direto ao assunto, de maneira franca e aberta, sem rodeios. É pegar ou largar!
@@ -165,21 +165,21 @@ const data = {
       O cuidado deve ser para compras impulsivas e pela busca do prazer inconsequente.
       Quem se relaciona intimamente com alguém que tem essa característica astrológica não pode se queixar de falta de sexo. Mas é muito difícil manter a chama acesa durante muito tempo.
       Portanto, num relacionamento de longo prazo é necessário contar sempre com algo novo e excitante.
-      Quem tem Vênus em Áries deve aprender a ser criativo no amor, deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura. -break`,
+      Quem tem Vênus em Áries deve aprender a ser criativo no amor, deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura. <br />`,
 
-      `Marte está domiciliado no signo de Áries, expressa aqui todo o seu potencial. Indica boa energia vital, entusiasmo, capacidade de conquista, impulsividade, audácia, gosto por aventura, ousadia, espírito empreendedor e pioneiro. -break
+      `Marte está domiciliado no signo de Áries, expressa aqui todo o seu potencial. Indica boa energia vital, entusiasmo, capacidade de conquista, impulsividade, audácia, gosto por aventura, ousadia, espírito empreendedor e pioneiro. <br />
       Confere boa vitalidade e energia física e sexual. Boa fertilidade. A pessoa com esse Marte adora os esportes e adora competir, querendo chegar sempre em primeiro lugar.
       Tem uma necessidade de canalizar as suas energias de forma física.
       Impaciente e apressado pode passar por cima dos outros, por querer estar sempre um passo à frente. Na via negativa, é preciso trabalhar o descontrole nas ações e palavras.
       Tamanha energia pode ser geradora de violência, agressividade excessiva, impaciência que causa acidentes de todo tipo e principalmente perigo com armas, fogo, acidentes de carro e quedas.
-      Essa energia também pode provocar dores de cabeça, ferimentos na cabeça ou no rosto. -break`,
+      Essa energia também pode provocar dores de cabeça, ferimentos na cabeça ou no rosto. <br />`,
 
-      `O nativo pode ganhar dinheiro através de seus méritos pessoais. Mas o excesso de otimismo pode provocar grandes perdas económicas se não tiver cuidado. -break
+      `O nativo pode ganhar dinheiro através de seus méritos pessoais. Mas o excesso de otimismo pode provocar grandes perdas económicas se não tiver cuidado. <br />
       Há forte inclinação para as ciências, a literatura, a religião, as viagens. É possível que se dedique a duas profissões em simultâneo, ou que estas mudem várias vezes.
       O nativo é, em certa medida, precursor, pioneiro ou inovador, mas a sua natureza não é conservadora. Geralmente é afortunado e respeitado.
-      Tem habilidades especiais para a liderança, mantém sempre uma fé inquebrantável em si mesmo. Tende a tomar posições de responsabilidade, sobretudo em cargos públicos. -break`,
+      Tem habilidades especiais para a liderança, mantém sempre uma fé inquebrantável em si mesmo. Tende a tomar posições de responsabilidade, sobretudo em cargos públicos. <br />`,
 
-      `Saturno no signo de Áries indica que o nativo é forçado pelas circunstâncias a adquirir iniciativa, paciência e autoconfiança para enfrentar as necessidades práticas da vida. -break
+      `Saturno no signo de Áries indica que o nativo é forçado pelas circunstâncias a adquirir iniciativa, paciência e autoconfiança para enfrentar as necessidades práticas da vida. <br />
       Através da obrigação de desenvolver seus próprios recursos, passa a desenvolver sua vontade e força de carácter.
       Áries representa o impulso inicial de ação, enquanto Saturno representa a lei de causa e efeito que traz de volta as consequências de uma ação.
       Por isso fica mais difícil para o nativo com esta posição ver a si mesmas como os outros o veem.
@@ -190,24 +190,24 @@ const data = {
       Essa característica dificulta a compreensão, a colaboração e a comunicação com os outros. Também pode haver egocentrismo e o impulso de se autojustificar.
       Ao se preocuparem com a sua própria ambição e segurança, podem ignorar as necessidades e aspirações dos outros.
       Essa tendência de buscar exclusivamente objetivos pessoais pode impedi los de colaborar com os outros e, assim, limitar o seu sucesso. Portanto, é preciso observar se falta diplomacia.
-      O nativo gosta de fazer tudo sozinho, cuidando das suas próprias necessidades sem dar ou solicitar ajuda. Preferem ter os seus próprios negócios, mas isso nem sempre é possível com esta posição. -break`,
+      O nativo gosta de fazer tudo sozinho, cuidando das suas próprias necessidades sem dar ou solicitar ajuda. Preferem ter os seus próprios negócios, mas isso nem sempre é possível com esta posição. <br />`,
 
-      `Urano no signo de Áries indica um nativo cuja missão é indicar novos caminhos nas ciências e reforma social. -break
+      `Urano no signo de Áries indica um nativo cuja missão é indicar novos caminhos nas ciências e reforma social. <br />
       Para ele a liberdade para agir à sua maneira é de extrema importância. Possui coragem, audácia, iniciativa e habilidades.
       O seu espírito de aventura é forte, o nativo precisa constantemente de novas experiências para se sentir feliz.
       Esta posição pode torná-los indelicados e francos. Exigem mudanças e recusam-se a viver no estilo dos seus pais ou das gerações precedentes.
       No seu pior, podem ser explosivamente impulsivos, politicamente fanáticos, agressivos e indiscriminados na sua rejeição do passado.
       Quando o individualismo é levado a extremos, torna as pessoas cegas para a estrutura social da qual dependem grandes empreendimentos.
-      Impulsividade e mau génio são as armadilhas desta posição. Os nativos precisam aprender a ter mais consideração pelos outros e maior capacidade de colaboração. -break`,
+      Impulsividade e mau génio são as armadilhas desta posição. Os nativos precisam aprender a ter mais consideração pelos outros e maior capacidade de colaboração. <br />`,
 
-      `As pessoas nascidas com Netuno em Áries mostram muita iniciativa para a criatividade espiritual, experimentando a sensação de terem de cumprir uma missão. -break
+      `As pessoas nascidas com Netuno em Áries mostram muita iniciativa para a criatividade espiritual, experimentando a sensação de terem de cumprir uma missão. <br />
       São pioneiros em novos conceitos religiosos e filosóficos. A expressão negativa de Netuno é o falso orgulho, o egoísmo e o desejo de se sobressair ou se destacar.
-      Com a entrada de Netuno em Áries no século passado, inicia-se uma época de investigação no campo psíquico, bem como o desenvolvimento do espiritualismo. -break`,
+      Com a entrada de Netuno em Áries no século passado, inicia-se uma época de investigação no campo psíquico, bem como o desenvolvimento do espiritualismo. <br />`,
 
-      `Esta geração caracterizou-se pelo espírito revolucionário. Teve de vencer sérios obstáculos e viver momentos de muita dureza a fim de conseguir liberdade e uma nova forma de vida, tal como a conquista do Oeste americano. -break
+      `Esta geração caracterizou-se pelo espírito revolucionário. Teve de vencer sérios obstáculos e viver momentos de muita dureza a fim de conseguir liberdade e uma nova forma de vida, tal como a conquista do Oeste americano. <br />
       Pioneiros, reformadores, líderes de qualquer causa obcecados pelo valor pessoal. Sempre dispostos a destruir qualquer obstáculo à sua vontade, que não reconhece limites.
       Plutão em Áries se manifesta de forma individualista. A necessidade de mudar todo o precedente se traduz numa urgência pela transformação pessoal.
-      Põe a descoberto o que deixou de nos servir no ciclo anterior e propicia a procura de novos valores. -break`,
+      Põe a descoberto o que deixou de nos servir no ciclo anterior e propicia a procura de novos valores. <br />`,
 
       `Quem tem o Nodo Sul (Cauda do Dragão) em Áries traz experiências de um espírito independente, muitas vezes egoísta.  É muito voltado para si próprio e seus próprios interesses.
       Reativo, impulsivo e impaciente, tem dificuldade de tolerar o tempo e o espaço dos outros. Explodem facilmente, pode até mesmo ter comportamento agressivo, violento ou brusco.
@@ -217,13 +217,13 @@ const data = {
       A missão é de conciliar o seu Eu com o Eu do outro.  Aprender a partilhar uma vida em comum, a deixar-se guiar quando necessário, a ser cuidado pelo outro.
       Aprender a reconhecer sua fragilidade, seus pontos fracos e suas incapacidades.  Cultivar mais ponderação e prudência, consciente de que toda ação ações gera consequências.
       Com o tempo e a experiência de vida pode desativar sua violência, ganhar humildade e respeito pela sensibilidade e necessidades dos outros.  Aprender a arte do relacionamento, do compromisso, da harmonia do equilíbrio com o outro.
-      Ou seja, o equilíbrio só é possível se aprender a ceder e se ajustar às necessidades das pessoas com quem conviver. -break`,
+      Ou seja, o equilíbrio só é possível se aprender a ceder e se ajustar às necessidades das pessoas com quem conviver. <br />`,
 
-      `A facilidade de funcionamento e a felicidade vêm com o exercício do poder de iniciativa e com um confiante mergulho na experiência. -break
+      `A facilidade de funcionamento e a felicidade vêm com o exercício do poder de iniciativa e com um confiante mergulho na experiência. <br />
       O indivíduo deverá deixar-se guiar pela intuição e deverá ver-se como um ativador de novos impulsos sociais e culturais, tendendo a identificar a sua personalidade com tal impulso criativo, ou então se sentirá frustrado e infeliz se for impedido de agir assim.
-      Exemplos: Francis Bacon, George Washington, Clara Barton, Isaac Newton, Louis Pasteur, Albert Einstein, Frederic Chopin, Will Levington Comfort. -break`,
+      Exemplos: Francis Bacon, George Washington, Clara Barton, Isaac Newton, Louis Pasteur, Albert Einstein, Frederic Chopin, Will Levington Comfort. <br />`,
 
-      `Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir. -break
+      `Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir. <br />
       Parece que você só se sente vivo quando refletido em alguém. Você só tem motivação para defender alguma causa quando o benefício é dos outros, como se tivesse capacidade de luta, mas pouca vontade própria.
       Com medo de ser impelido a entrar num ciclo repetitivo de tentativas inúteis e autodestrutivas, e para compensar a dor, você pode se limitar a fazer demonstrações de sua força e espírito de luta, sem entrar para valer na luta.
       Você é propenso a agir de modo precipitado, descarregando de uma vez sua tensão emocional e transformando-a em ação.
@@ -247,54 +247,54 @@ const data = {
       Você busca um senso de identidade, mas talvez só descubra que, quando desistiu dessa busca e passou a aceitar sua insignificância, e que conquistou uma tremenda vitalidade, bem como a sensação de ser compreendido.
       Quase sempre você tem facilidade de agir intuitivamente no momento oportuno e agarrar a ocasião que se apresenta. Você tem a capacidade de aliar a compaixão à ação adequada, bem como de ser altamente inovador e tomar iniciativas, sobretudo quando o bem-estar de outros está em jogo.
       Você adquire força na luta, mas deve aprender a ser um nobre rival diante daqueles com os quais compete. Se for capaz de superar a sua agressividade passiva, sua tendência a agir dissimuladamente, sentirá a vida fluir em suas veias.
-      Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você. -break`,
+      Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você. <br />`,
 
-      `O parceiro ideal é aquele que tenha interesse em esportes e atividades dinâmicas e seja ativo, assertivo, o tipo que está sempre em busca de novas emoções e aventuras. -break
+      `O parceiro ideal é aquele que tenha interesse em esportes e atividades dinâmicas e seja ativo, assertivo, o tipo que está sempre em busca de novas emoções e aventuras. <br />
       Podem ser pessoas muito ativas, vibrantes, dinâmicas. O que conta é o desafio e a coragem, porque Áries não aprecia as coisas fáceis. Quanto mais difícil, mais desperta o interesse.
       De alguma forma são parcerias desafiantes. Mas também podem ser pessoas impulsivas, violentas ou conquistadoras que apreciam apenas a conquista e formam relacionamentos de curta duração.
-      Representa a busca de uma parceria dinâmica e ativa, marciana. Sua evolução passa pelo esforço de construir uma relação durável e sólida, na qual a individualidade é respeitada. -break`,
+      Representa a busca de uma parceria dinâmica e ativa, marciana. Sua evolução passa pelo esforço de construir uma relação durável e sólida, na qual a individualidade é respeitada. <br />`,
 
-      `Em suas vidas passadas o nativo pode ter sido um comerciante e como tal, agia de forma agressiva, impaciente ou intolerante. -break
+      `Em suas vidas passadas o nativo pode ter sido um comerciante e como tal, agia de forma agressiva, impaciente ou intolerante. <br />
       Faltava-lhe paciência nas suas negociações, chegando até a insultar os seus parceiros. Se foi um estudante ou intelectual, tinha uma tendência infantil a se vangloriar do seu desempenho intelectual.
       Talvez também tivesse professado opiniões militaristas extremistas que haviam incitado as pessoas a lutarem entre si.
-      Uma coisa é certa: o nativo deve transformar seu discurso impulsivo e agressivo, com o qual feriu muita gente. Deve aprender a ouvir, a se comunicar com mais maturidade e compaixão. -break`,
+      Uma coisa é certa: o nativo deve transformar seu discurso impulsivo e agressivo, com o qual feriu muita gente. Deve aprender a ouvir, a se comunicar com mais maturidade e compaixão. <br />`,
 
-      `O nativo desconfia dos outros: tem dificuldade em assumir o casamento, em virtude de uma grande desconfiança em relação ao amor. -break
+      `O nativo desconfia dos outros: tem dificuldade em assumir o casamento, em virtude de uma grande desconfiança em relação ao amor. <br />
       Ficará feliz quando compreender as virtudes do diálogo: ouvir mais, deixar o ser amado se expressar, sem lhe impor sempre uma direção ou um comando.
-      Essa Vênus imediatista, impulsiva, autoritária e exigente deve aprender a paciência. Deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura. -break`,
+      Essa Vênus imediatista, impulsiva, autoritária e exigente deve aprender a paciência. Deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura. <br />`,
 
-      `O enorme sentimento de insegurança que o nativo experimenta é na verdade, herdado de vidas passadas. -break
+      `O enorme sentimento de insegurança que o nativo experimenta é na verdade, herdado de vidas passadas. <br />
       Foi pouco consciente do mundo que o cerca: impulsivo, imaturo, imprudente, imediatista, impaciente, apaixonado e violento. Faltou-lhe objetividade.
       Nesta vida deve buscar o autoconhecimento. Pode se libertar ao tomar consciência de suas próprias tendências negativas.
-      Ao invés de se voltar contra os outros, deve olhar para si mesmo, com mais ponderação. Exercitar as virtudes da tolerância, da diplomacia, da gentileza e da paciência. -break`,
+      Ao invés de se voltar contra os outros, deve olhar para si mesmo, com mais ponderação. Exercitar as virtudes da tolerância, da diplomacia, da gentileza e da paciência. <br />`,
 
-      `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas. -break
+      `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas. <br />
       Com Júpiter retrógrado em Áries, é preciso cuidado com as ideias preconcebidas! A pessoa tende a ser um tanto sincero e direto demais, é preciso cultivar flexibilidade em face das circunstâncias da vida.
       Há tendência para julgar os indivíduos segundo critérios pouco realistas e categorias demasiado estanques ou dogmáticas.
       A vida conjugal é um grande aprendizado, por causa da sua possível vaidade, acrescida, por vezes, de uma surpreendente ingenuidade.
-      Também por causa de sua sede inextinguível de novas experiências! Lição cármica desta posição planetária: ser honesto consigo mesmo, desenvolver o autoconhecimento e a autoestima. -break`,
+      Também por causa de sua sede inextinguível de novas experiências! Lição cármica desta posição planetária: ser honesto consigo mesmo, desenvolver o autoconhecimento e a autoestima. <br />`,
 
-      `Em vidas passadas o nativo já viveu a experiência do poder pessoal. Foi muito independente, teve enorme liberdade pessoal. -break
+      `Em vidas passadas o nativo já viveu a experiência do poder pessoal. Foi muito independente, teve enorme liberdade pessoal. <br />
       Sabe dirigir toda a sua energia para um só objetivo. Saturno indica uma perseverança e uma determinação que não são da natureza de Áries.
       Por outro lado, o nativo pode ter sido forçado também por circunstâncias muito duras (guerra, fome ou limitações) a contar apenas consigo mesmo.
-      É, portanto, capaz de se assumir com autonomia. Pode utilizar nesta vida presente as forças adquiridas outrora, à custa de um duríssimo esforço. -break`,
+      É, portanto, capaz de se assumir com autonomia. Pode utilizar nesta vida presente as forças adquiridas outrora, à custa de um duríssimo esforço. <br />`,
 
-      `Ninguém consegue dominá-lo! Em permanente revolta contra tudo o que lhe parece ultrapassado, salta alegremente por cima das barreiras e convenções. -break
+      `Ninguém consegue dominá-lo! Em permanente revolta contra tudo o que lhe parece ultrapassado, salta alegremente por cima das barreiras e convenções. <br />
       Traz de vidas passadas um cérebro consumido pelo fogo, difícil de ser domesticado numa parceria ou num casamento.
       Original e muito corajoso, o seu carma é desbravar o desconhecido, ousar aventurar-se nos lugares onde ninguém ainda pôs os pés com pioneirismo, arrastando os menos corajosos atrás dele.
       Esse Kamikaze deve evitar a tentação da violência. Mas às vezes faz-se o campeão generoso das causas perdidas e dos combates de retaguarda.
-      Antes de se inflamar por uma causa nobre, é bom que se pergunte se esta é realmente justa. -break`,
+      Antes de se inflamar por uma causa nobre, é bom que se pergunte se esta é realmente justa. <br />`,
 
-      `Indica pessoas que partilhavam com toda a sua geração uma certa ideologia da guerra justa e necessária. Nessa geração, havia muito poucos antimilitaristas ou contestadores de consciência: -break
+      `Indica pessoas que partilhavam com toda a sua geração uma certa ideologia da guerra justa e necessária. Nessa geração, havia muito poucos antimilitaristas ou contestadores de consciência: <br />
       Netuno (os ideais) associado a Áries (a guerra) conduzia os homens de então a uma ideologia guerreira.
       Mas aqueles que tinham Netuno retrógrado viveram com um carma de desilusões muito doloroso: assistir ao desmoronamento dos valores aos quais haviam dedi¬cado sua vida.
-      A fé e a espiritualidade podem tê-los ajudado a tomar certa distância com relação às ideologias militaristas. Esses nativos eram também artistas. -break`,
+      A fé e a espiritualidade podem tê-los ajudado a tomar certa distância com relação às ideologias militaristas. Esses nativos eram também artistas. <br />`,
 
-      `A posição parece indicar uma violência inconsciente mal canalizada. O nativo, ao mesmo tempo em que tem uma sede intensa de justiça, tem reações primitivas e além da justa medida. -break
+      `A posição parece indicar uma violência inconsciente mal canalizada. O nativo, ao mesmo tempo em que tem uma sede intensa de justiça, tem reações primitivas e além da justa medida. <br />
       É assim que a personagem de Villiers de Isle – Adam exala essa surda violência que os conduz ao assassinato; é assim também que os na¬zistas reivindicam a influência de Nietzsche.
-      Em quem encontraram uma ideologia do super-homem, uma apologia da virilidade, do \"machismo\", inteiramente na linha de Plutão retrógrado em Áries, que marcou esses dois autores. -break`,
+      Em quem encontraram uma ideologia do super-homem, uma apologia da virilidade, do \"machismo\", inteiramente na linha de Plutão retrógrado em Áries, que marcou esses dois autores. <br />`,
 
-      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. O Dom de cura com as mãos. -break
+      `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. O Dom de cura com as mãos. <br />
       A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
       Você costuma, algumas vezes, sentir que não tem o direito de viver, e a autoafirmação e a iniciativa podem vir acompanhadas do medo de não existir.
       Parece que você só se sente vivo quando refletido em alguém. Você só tem motivação para defender alguma causa quando o benefício é dos outros, como se tivesse capacidade de luta, mas pouca vontade própria.
@@ -321,102 +321,79 @@ const data = {
       Você busca um senso de identidade, mas talvez só descubra que, quando desistiu dessa busca e passou a aceitar sua insignificância, e que conquistou uma tremenda vitalidade, bem como a sensação de ser compreendido.
       Quase sempre você tem facilidade de agir intuitivamente no momento oportuno e agarrar a ocasião que se apresenta. Você tem a capacidade de aliar a compaixão à ação adequada, bem como de ser altamente inovador e tomar iniciativas, sobretudo quando o bem-estar de outros está em jogo.
       Você adquire força na luta, mas deve aprender a ser um nobre rival diante daqueles com os quais compete. Se for capaz de superar a sua agressividade passiva, sua tendência a agir dissimuladamente, sentirá a vida fluir em suas veias.
-      Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você. -break`,
+      Embora as dúvidas que nutre quanto à sua própria existência sejam a sua grande ferida, você provavelmente é muito atraente como pessoa, de modo que não precisa ficar surpreso se os outros se sentirem fortemente atraídos por você. <br />`,
 
-      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida. -break
+      `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida. <br />
       É importante cultivar estabilidade vida afetiva através da capacidade de um viver partilhado com alguém.
       Juno nesse setor ou signo mostra uma necessidade de ser valorizada e procurará escolher um parceiro ou parceiros/as que lhe permita isto.
       Aliás, a procura por um parceiro ideal é uma das suas principais preocupações. Para um homem a busca de uma parceira ativa, marciana.
       Sua evolução passa pelo esforço de construir uma relação durável e sólida. Se o casamento ou as parcerias não vão bem, impacto sobre a saúde da pessoa.
       Em alguns casos, vemos uma pessoa que é capaz de \"se casar consigo mesma\".
-      Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, e que podem ser boas ou ruins para a própria parceria. -break`,
+      Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, e que podem ser boas ou ruins para a própria parceria. <br />`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-        `-stron 1º nível de evolução: /stron `,
+        `<strong> 1º nível de evolução: </strong>`,
 
-        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade. -break`,
+        `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
 
-        `-stron 2º nível de evolução: /stron `,
+        `<strong> 2º nível de evolução: </strong> `,
 
-        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade. -break`,
+        `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
 
-        `-stron 3º nível de evolução: /stron `,
+        `<strong> 3º nível de evolução: </strong> `,
 
-        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo. -break`
+        `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a cooperar, a formar parcerias sem perder a sua identidade. /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a cooperar, a formar parcerias sem perder a sua identidade. </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `touro`,
+    title: `touro</strong>`,
     text: [
       `Touro é estabilidade, conforto e bem estar material. É o primeiro signo do elemento Terra.
-      Representa a vontade de firmar os desejos, de dar continuidade, persistir, realizar, concretizar. Inspira a necessidade de segurança, pois é o signo da preservação.
-      É sensual, perseverante, doce e trabalhador. Vênus é o planeta regente de Touro, que por isso é ligado ao prazer, à beleza, ao bom gosto, à alegria, ao prazer de encantar e seduzir.
+      Representa a vontade de firmar os desejos, de dar continuidade, persistir, realizar, concretizar. Inspira a necessidade de segurança, pois é o signo da preservação.<br /><br />
+      É sensual, perseverante, doce e trabalhador. Vênus é o planeta regente de Touro, que por isso é ligado ao prazer, à beleza, ao bom gosto, à alegria, ao prazer de encantar e seduzir.<br /><br />
       Por isso, o taurino traz esse sentimento de valorização e amor próprio. Considerado o signo da sensualidade, também representa o gosto pelo conforto e a capacidade de saber aproveitar a vida.
       O Sol em Touro estimula apetites poderosos em todos os domínios em geral, mais particularmente no plano material.
-      O aumento dos ganhos ou do capital é feito geralmente através do contato com uma clientela ou um público. Inspira grande vivacidade de espírito e um carácter simpático.
+      O aumento dos ganhos ou do capital é feito geralmente através do contato com uma clientela ou um público. Inspira grande vivacidade de espírito e um carácter simpático.<br /><br />
       A sabedoria de Touro está em utilizar seus dons e os recursos da terra para manifestar abundância.
-      Na saúde, deve cuidar do pescoço, da garganta, da boca, das vértebras cervicais, das orelhas e da tiroide.
-      Na medida em que for envelhecendo precisa cuidar mais da sua alimentação, que geralmente é rica demais, rica em açúcar.
+      Na saúde, deve cuidar do pescoço, da garganta, da boca, das vértebras cervicais, das orelhas e da tiroide.<br /><br />
+      Na medida em que for envelhecendo precisa cuidar mais da sua alimentação, que geralmente é rica demais, rica em açúcar.<br /><br />
       Isso ocasiona uma tendência muito grande para a corpulência e também para a hipoglicemia, que se repercute na tiroide, o que pode provocar uma queda importante da energia e favorecer acessos de mau humor.
-      O sono, o descanso e a calma são os melhores reconstituintes para o Taurino. O lado negativo do taurino é o ciúme e a lentidão.
-      Um taurino não suporta mudanças, por isso, se conseguirem uma vida estável, podem se acostumar e ficar na mesmice para sempre. O cuidado deve ser, portanto, com a teimosia e o comodismo.
+      O sono, o descanso e a calma são os melhores reconstituintes para o Taurino.<br /><br /> O lado negativo do taurino é o ciúme e a lentidão.
+      Um taurino não suporta mudanças, por isso, se conseguirem uma vida estável, podem se acostumar e ficar na mesmice para sempre. O cuidado deve ser, portanto, com a teimosia e o comodismo.<br /><br />
       É preciso cuidado também com o sentimento exagerado de posse, o ciúme, à avidez e ao materialismo exacerbado.
-      Deve aprender a superar o fantasma da perda para evitar danos em sua vida profissional e afetiva.
+      Deve aprender a superar o fantasma da perda para evitar danos em sua vida profissional e afetiva.<br /><br />
       O equilíbrio está no signo oposto, Escorpião, que traz lições de desapego, transformação e a compreensão de que um dia tudo acaba.
-      Ciente disso você pode preservar o que é seu sem se tonar escravo de seus próprios temores. -break`,
+      Ciente disso você pode preservar o que é seu sem se tonar escravo de seus próprios temores.<br /><br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
       É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -433,7 +410,7 @@ const data = {
       Tem senso estético apurado, costuma ser doce e sedutor, mas também duro e teimoso quando não se sente à vontade.
       É resistente às mudanças da vida e se apega facilmente. Precisa ter cuidado com a possessividade e o ciúme.
       Pode haver relutância em modificar atitudes emocionais estabelecidas, com tendência à preguiça e um apego excessivo aos confortos materiais.
-      Acomodar-se emocionalmente é um risco que deve ser equilibrado com o aprendizado do desapego, aceitando as transformações da vida como algo natural e renovador. -break`,
+      Acomodar-se emocionalmente é um risco que deve ser equilibrado com o aprendizado do desapego, aceitando as transformações da vida como algo natural e renovador. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
       O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -444,13 +421,13 @@ const data = {
       Pode haver uma sensualidade forte, simples e desinibida, com tendência à gula e, em geral, uma grande capacidade de apreciar os confortos e prazeres da vida.
       O perigo consiste em ficar preguiçoso indolente e ou resistente às mudanças necessárias da vida.
       Ciúmes e possessividade também devem ser trabalhados, pois podem ser a fonte de muitos problemas.
-      -stron É preciso olhar para dentro de si mesmo, enfrentar, examinar e desenvolver maior domínio sobre as emoções ao se relacionar. Aprender quando segurar e quando soltar.
-      Limpar e eliminar o que tem guardado dentro de si, modificando assim velhos padrões de comportamento que não servem mais./stron
+      <strong> É preciso olhar para dentro de si mesmo, enfrentar, examinar e desenvolver maior domínio sobre as emoções ao se relacionar. Aprender quando segurar e quando soltar.
+      Limpar e eliminar o que tem guardado dentro de si, modificando assim velhos padrões de comportamento que não servem mais.</strong>
       O senso estético, que está quase sempre presente, pode ser também simples e um pouco rústico, com preferência ao que é natural, duradouro e confortável.
       O tipo físico pode ser de constituição sólida, terrestre, pesada, uma aparência saudável, o pescoço grosso típico do taurino, com tendência a aumentar de peso.
       Ou pode apresentar uma aparência mais delicada, elegante e fina, enfatizando o lado estético e feminino de Vênus, regente do signo.
       Com a maturidade, a necessidade de segurança material e financeira pode ser gradualmente substituída pela segurança emocional e pela estabilidade interior.
-      Assim o ascendente em Touro descobre a sua faceta mais espiritualizada, capaz de vislumbrar beleza e transcendência nas formas mais concretas. -break`,
+      Assim o ascendente em Touro descobre a sua faceta mais espiritualizada, capaz de vislumbrar beleza e transcendência nas formas mais concretas. <br />`,
 
       `Mercúrio no signo de Touro indica o nativo cujo raciocínio e decisões são determinantes para tudo que possui uma aplicação prática e material.
       Embora possam não ter brilho ou originalidade, no tocante ao bom senso prático são muito habilidosos.
@@ -459,27 +436,27 @@ const data = {
       A habilidade desses nativos para considerarem somente coisas de interesse prático proporciona grande poder de concentração, tanto que podem ignorar perturbações externas como se estas não existissem.
       Pode haver obstinação intelectual, opiniões dogmáticas, materialismo e avareza. Eles não percebem as coisas com as quais não desejam ser incomodados.
       No seu extremo, essa atitude os torna cegos para assuntos importantes, que deveriam perceber para seu próprio bem.
-      Isso explica muito da sua teimosia. Esta posição de Mercúrio também pode oferecer habilidade para as artes, a matemática e a ciência, devido à sua boa percepção das formas e estruturas. -break`,
+      Isso explica muito da sua teimosia. Esta posição de Mercúrio também pode oferecer habilidade para as artes, a matemática e a ciência, devido à sua boa percepção das formas e estruturas. <br />`,
 
       `Quem possui Vênus neste signo alia o prazer e o conforto ao amor e aos sentimentos. Procura um amor seguro, de longo prazo, que seja aliado a um plano de vida comum.
       O nativo é naturalmente fiel. Além da amabilidade e da sensualidade, expressa seu amor proporcionando conforto e segurança. Necessita de demonstrações constantes de fidelidade.
       Gosta de realização e satisfação sensorial: uma boa comida, um bom perfume, o conforto de casa. Um bom vinho, uma boa massagem, tratamentos estéticos, o namoro, as artes e a vida cultural.
       Tudo o que envolve sensibilidade e prazer, tudo que estimule os sentidos merece investimento especial. Essa necessidade de segurança pode torná-lo excessivamente ciumento e possessivo.
       Por essa razão, o nativo costuma controlar cada passo do ser amado. Geralmente é belo, atraente, gosta de se vestir bem, com conforto e luxo.
-      O amor é caloroso e sensual. Aprecia o luxo e pode gastar muito com seus cuidados pessoais, podendo até exceder no luxo para ostentar suas posses. -break`,
+      O amor é caloroso e sensual. Aprecia o luxo e pode gastar muito com seus cuidados pessoais, podendo até exceder no luxo para ostentar suas posses. <br />`,
 
       `MMarte neste signo indica grande capacidade de trabalho e espírito de iniciativa relacionada com gestão de bens e geração de lucros.
       Indica também capacidade de decisão, firmeza de caráter e teimosia. O nativo age com determinação em busca de conforto e prazeres físicos para obter satisfação imediata.
       Suas ações e gestos serão lentos, mas determinados. Pode se expressar de forma plástica mesmo em atividades artísticas.
       Tem boa libido e boa expressão de sua sexualidade, que será mesclada com a sensualidade. Boa fertilidade.
       É preciso cuidado com a força bruta, com gastos impulsivos e excessivos em busca de prazer imediato.
-      Pode cometer ações de violência para defender seus bens e agir com excessos por questões de dinheiro. Com a teimosia excessiva e o ciúme. -break`,
+      Pode cometer ações de violência para defender seus bens e agir com excessos por questões de dinheiro. Com a teimosia excessiva e o ciúme. <br />`,
 
       `Neste signo Júpiter produz lucros e ganhos em ocupações que, de algum modo, estão relacionadas com a igreja, a religião, a filosofia, o saber e as viagens.
       Também a agricultura, os alimentos, os cavalos ou qualquer atividade relacionada com as terras. O nativo pode contar com uma grande intuição para os negócios e pode ser afortunado em questões monetárias.
       Com frequência recebe legados ou doações. Mas quando se excede no amor pelo dinheiro, este pode ser a sua perdição. Gosta dos prazeres da boa mesa e do conforto.
       Um dos seus passatempos preferidos é a cozinha. Tem tendência para a obesidade. É conservador, pouco dado a mudanças.
-      É paciente e firme nos seus propósitos, digno de confiança. Ama a justiça, tem bom relacionamento e disposição tranquila. -break`,
+      É paciente e firme nos seus propósitos, digno de confiança. Ama a justiça, tem bom relacionamento e disposição tranquila. <br />`,
 
       `Saturno no signo de Touro indica nativos que necessitam de disciplina e trabalho árduo se desejarem adquirir bens materiais.
       Sentem forte necessidade de segurança financeira e emocional, não conseguem ficar em paz se os assuntos práticos não estiverem em ordem.
@@ -488,7 +465,7 @@ const data = {
       Provavelmente são confiáveis e persistentes em sua profissão. Com frequência, seguem profissões relacionadas a transações bancárias, investimentos, seguros ou administração de empresas.
       Como tendem a ser moderados, geralmente compram objetos de valor duradouro, considerando principalmente as suas qualidades práticas. Guardam dinheiro para emergências futuras e segurança na velhice.
       Precisam desenvolver um senso de valor equilibrado dos recursos materiais. No seu pior, é possível haver obstinação e materialismo excessivo.
-      Em casos extremos, o resultado é a avareza ou — inversamente — uma sobrecarga de bens materiais, que não permite que as coisas fluam para que as novas coisas possam chegar quando necessário. -break`,
+      Em casos extremos, o resultado é a avareza ou — inversamente — uma sobrecarga de bens materiais, que não permite que as coisas fluam para que as novas coisas possam chegar quando necessário. <br />`,
 
       `Urano no signo de Touro indica uma geração de nativos com novas ideias sobre o uso do dinheiro e dos recursos materiais.
       Essas pessoas provavelmente buscam reformas nos negócios e na economia, áreas nas quais desejam aplicar princípios humanitários.
@@ -497,17 +474,17 @@ const data = {
       Ou por dificuldades impostas pela tentativa de modificar as condições materiais muito depressa. A ligação ao lar e à família também pode refrear a expressão individual.
       Os impulsos espirituais também podem ser frustrados pela submissão a instituições conservadoras nos negócios e no governo, que refletem o materialismo da ordem social dominante.
       Urano em Touro pode proporcionar talentos artísticos e musicais incomuns, se for bem cultivado.
-      Os nativos com frequência se interessam por modernas técnicas eletrônicas em administração, contabilidade e outros negócios. -break`,
+      Os nativos com frequência se interessam por modernas técnicas eletrônicas em administração, contabilidade e outros negócios. <br />`,
 
       `Esta geração procurava aplicações práticas para os seus sonhos visionários. Mostra um período histórico de muito idealismo no que respeita ao uso do dinheiro e suas fontes.
       No mapa de uma pessoa indica interesse e capacidade para as artes em geral, gosto estético e um inato sentido comercial. É uma boa posição para a especulação e para os negócios.
-      Mas os maus aspectos podem induzir a enganos ou fraudes, ou ao descuido no uso do dinheiro. -break`,
+      Mas os maus aspectos podem induzir a enganos ou fraudes, ou ao descuido no uso do dinheiro. <br />`,
 
       `Com Plutão em Touro, tudo o que está oculto por debaixo da terra tende a sair para o exterior.
       Tanto o que gera riqueza (agricultura, petróleo, minas e escavações), como o que produz destruição (terramotos, erupções súbitas).
       É um período de realizações práticas, de utilitarismo e cientificismo materialista. O esforço e a capacidade criativa são canalizados para o concreto, o plano do tangível.
       Predomina a tendência para garantir o bem-estar e a segurança, para acumular poder pessoal. É a geração dos poderosos industriais e financeiros.
-      Marcou um período de grande expansão econômica, sobretudo na indústria, com a construção de grandes fábricas e a produção de maquinarias. Consolidou-se a reforma agrária e a exploração comercial em grande escala. -break`,
+      Marcou um período de grande expansão econômica, sobretudo na indústria, com a construção de grandes fábricas e a produção de maquinarias. Consolidou-se a reforma agrária e a exploração comercial em grande escala. <br />`,
 
       `Quem tem o Nodo Sul (Cauda do Dragão) em Touro traz identificação excessiva com o mundo material. É inflexível, acomodado, apegado às suas posses e à sua rotina. Tem dificuldade para promover mudanças. É lento, materialista, prático, com uma visão muito básica e limitada da vida.
       Pode até ser cético, por causa de sua pouca abertura a tudo o que não é palpável e comprovado cientificamente. Preso aos seus prazeres e desejos, curte mais o corpo do que o espírito.
@@ -516,11 +493,11 @@ const data = {
       O aprendizado é ouvir a sua voz interior, render-se a uma Ordem Superior. Deixar ir os apegos materiais e trabalhar mais a sensibilidade. Enxergar além da superfície, interagir com os outros num nível mais profundo.
       Permitir-se sentir todas as emoções sem fugir delas.  Despir-se das tradições do passado, compartilhar seus bens, questionar o que já não faz sentido.
       Para tanto, deve valorizar todos os estados de espírito como oportunidades de transformação. Deve reconhecer suas paixões, aprender administrar os assuntos financeiros sem apego.
-      Sair dos limites quadrados e práticos para aventurar-se no mundo do oculto, pesquisar sobre a vida após a morte e desenvolver a fé. -break`,
+      Sair dos limites quadrados e práticos para aventurar-se no mundo do oculto, pesquisar sobre a vida após a morte e desenvolver a fé. <br />`,
 
       `As características ardentes da primavera também são encontradas aqui, mas o indivíduo tem um tipo de personalidade firme, autoconfiante e até mesmo obstinada, adorando, conscientemente ou não, lidar com o poder oculto, social ou coletivo, e tendo que ver resultados materiais definidos para poder ser feliz.
       O desejo fundamental é trazer qualquer coisa, que tenha existido no passado, para um novo nível de evolução em resposta as necessidades da época. É tornar-se um agente de forças de evolução ou, poderíamos dizer, a \"mãe\" do amanhã.
-      Exemplos: Martinho Lutero, Goethe, Thomas Paine, Benjamin Franklin, Príncipe Bismarck, Leon Trotsky. -break`,
+      Exemplos: Martinho Lutero, Goethe, Thomas Paine, Benjamin Franklin, Príncipe Bismarck, Leon Trotsky. <br />`,
 
       `Quíron neste signo indica tendência de se sentir inseguro e vulnerável, porque tem dificuldade de se atribuir o seu devido valor.
       Os efeitos da repressão dos instintos físicos na infância só serão superados quando aprender a aceitar sua natureza sensual e a confiar na sabedoria instintiva do próprio corpo.
@@ -543,57 +520,57 @@ const data = {
       Você pode se ver obrigado a aceitar privações financeiras para defender seus próprios valores, e se isso é assustador, também é certo que lhe dará a sensação de força interior.
       Você pode achar que não é criativo e até invejar as pessoas que o são, mas você subestima sua criatividade. Talvez você não consiga expressar essa criatividade por si mesmo, mas ao participar de um processo criativo de outras pessoas, a sua criatividade irá fluir.
       Tenha sempre em mente que você tem um grande potencial de ajudar pessoas criativas, orientando-as e incentivando-as em seu trabalho.
-      Procure desenvolver atividades profissionais que levam conforto físico ou emocional às pessoas, como construir ou projetar moradias, parques ou jardins, casas de repouso ou locais de descanso e lazer junto à natureza, ou trabalhar em atividades com objetivo de proteger as pessoas e melhorar a autoestima, dando à elas um valor não só pessoal como social. Você pode ser um bom professor, instrutor, zelador, construtor e atividades afins. -break`,
+      Procure desenvolver atividades profissionais que levam conforto físico ou emocional às pessoas, como construir ou projetar moradias, parques ou jardins, casas de repouso ou locais de descanso e lazer junto à natureza, ou trabalhar em atividades com objetivo de proteger as pessoas e melhorar a autoestima, dando à elas um valor não só pessoal como social. Você pode ser um bom professor, instrutor, zelador, construtor e atividades afins. <br />`,
 
       `O parceiro ideal é aquele que tenha interesse na estabilidade financeira, agricultura ou plantações, seja estável e confiável, que aprecie o conforto.
       Podem ser pessoas financeiramente estáveis, que visam a construção de um patrimônio. Casamento entre pessoas leais e carinhosas, adiposas e bem humoradas.
       Mas também podem ser pessoas que visam apenas interesses financeiros, avarentas, apegadas.
       Com Juno neste signo, uma vez que o nativo se associa ou se une a alguém, não o faz pela metade ou por brincadeira. Pode encarar suas parcerias e seu casamento como algo que traz a oportunidade de construir algo.
       Mas também indica tendência a ser muito possessivo. As tendências possessivas vão ser mais fortes caso não exista nada de concreto que a pessoa, que tem Juno aí, possa construir com seu parceiro.
-      Juno indica melhora de situação social e financeira que advém de uma união. São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras. -break`,
+      Juno indica melhora de situação social e financeira que advém de uma união. São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras. <br />`,
 
       `Em suas vidas passadas, não importa qual fosse a sua profissão, o nativo só pensava no dinheiro. Tinha o espírito lento, calculador, obcecado por uma ideia fixa: o lucro!
       O seu medo de passar necessidade, absolutamente patológico, está sujeito a se manifestar de novo nesta vida. Temia mudar de ideia ou de opinião.
       Muito materialista, só contavam, a seus olhos, o dinheiro, os bens possuídos, a boa mesa e o sexo. Qualquer motivação desinteressada lhe era completamente estranha.
       No entanto, o nativo por vezes apresentava extraordinários dons artísticos, bom gosto e o sentido da qualidade de vida.
-      Agora, para quitar essa dívida cármica, deve abrir seu espírito, buscar ensinamentos edificantes e cultivar valores mais elevados. -break`,
+      Agora, para quitar essa dívida cármica, deve abrir seu espírito, buscar ensinamentos edificantes e cultivar valores mais elevados. <br />`,
 
       `Esta situação planetária evoca uma ligação amorosa que não pudera desabrochar numa vida passada.
       O nativo pode reencontrar atualmente esse amor. Amar alguém que já conhece há várias vidas lhe dará um extraordinário sentimento de segurança.
-      Entretanto, o nativo deve evitar ser obsessivamente possessivo, o que o impedira outrora de ser feliz. Deve aprender a não exigir dos seres mais do que podem dar. -break`,
+      Entretanto, o nativo deve evitar ser obsessivamente possessivo, o que o impedira outrora de ser feliz. Deve aprender a não exigir dos seres mais do que podem dar. <br />`,
 
       `O nativo nem sempre consegue exteriorizar sua agressividade à primeira vista. Morde o freio, cultiva cóleras reprimidas e se vinga ao longo prazo.
       Homem de tradição e de hábitos, busca a segurança e tem medo de atividades novas.
-      Nesta vida deve liberar sua energia reprimida, aplicando-a em muito movimento, aos esportes na natureza e às artes em geral. -break`,
+      Nesta vida deve liberar sua energia reprimida, aplicando-a em muito movimento, aos esportes na natureza e às artes em geral. <br />`,
 
       `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
       O nativo muito rico em vidas passadas. Disso ainda lhe fica, inconscientemente, uma grande vaidade. Esse estado de coisas se reproduz nesta vida.
       Vem daí uma permanente autossuficiência, que o impede de se abrir às ideias dos outros. Repete com frequência: \"Façam como eu.\"
       Seus recursos atuais podem vir de atividades artísticas ou artesanais, muitas vezes antigas e tradicionais.
-      A sua lição cármica desta posição jupiteriana é a de cultivar a simplicidade, o desapego e a honestidade. -break`,
+      A sua lição cármica desta posição jupiteriana é a de cultivar a simplicidade, o desapego e a honestidade. <br />`,
 
       `Em vidas passadas o nativo se tornou muito apegado aos lugares e às pessoas que conheceu. Adquiriu hábitos reincidentes, só se sente em segurança dentro do que já é ou já é conhecido.
       Na verdade, esse comportamento o impele a complicar a vida, talvez até trabalhar mais do que é necessário. O nativo pode até se enervar achando que os outros têm a vida mais fácil.
       Agora é preciso coragem para enfrentar as mudanças, cultivar desapego e sair de sua zona de conforto.
       Acabará por compreender que pode avançar, sem se encarregar de tantos compromissos e pesadas obrigações.
       Nesta vida pode também promover uma revisão de sua filosofia e de seus valores. Tudo pode fluir melhor se consentir em desligar-se interiormente de tudo o que possui.
-      Até o dia em que aprende a encontrar a segurança dentro de si mesmo, em seu coração e em valores espirituais mais elevados. -break`,
+      Até o dia em que aprende a encontrar a segurança dentro de si mesmo, em seu coração e em valores espirituais mais elevados. <br />`,
 
       `Defende bravamente o seu ganho, mas quando o conquista, serra o galho no qual está sentado. A sua segurança é precária, mas estará mesmo preocupado em garanti-la?
       O nativo é contraditório: ama ao mesmo tempo a permanência e a novidade. Fica apegado a certas tradições, ao mesmo tempo em que se demonstra extremamente vanguardista.
       Pode-se dizer que tem bastante dificuldade em se coordenar e ao mesmo tempo gosta do conforto e da aventura.
       Do ponto de vista cármico, vive um período de transição no qual tenta se libertar de um comportamento materialista que o aprisionou mentalmente durante várias vidas passadas.
-      Seria preciso inventar para o nativo uma fórmula especial de casamento, que possa conciliar a liberdade total e a segurança afetiva. Precisa sobre tudo de um trabalho onde seja seu próprio patrão. -break`,
+      Seria preciso inventar para o nativo uma fórmula especial de casamento, que possa conciliar a liberdade total e a segurança afetiva. Precisa sobre tudo de um trabalho onde seja seu próprio patrão. <br />`,
 
       `Os nativos contavam com intuição financeira para ganhar dinheiro. Devem ter tirado disso uma fortuna (signo de Touro).
       Amargas desilusões foram à consequência disso. Os enganos e as perdas financeiras são provas cármicas. Ninguém, atualmente, nasce com Netuno em Touro.
-      Mas esta posição, quando o planeta está retrógrado, indica uma série de decepções financeiras. O objetivo é esclarecer o nativo sobre a verdadeira significação do dinheiro. -break`,
+      Mas esta posição, quando o planeta está retrógrado, indica uma série de decepções financeiras. O objetivo é esclarecer o nativo sobre a verdadeira significação do dinheiro. <br />`,
 
       `O Touro Plutoniano é o Minotauro: sempre tentado a transbordar seus demónios interiores.
       É dotado de uma grande potência sexual. A sede de viver que faz dele uma espécie de camicase obstinado: é um extremista.
       É o caso de Picasso - aliás, o Touro mitológico, meio homem, meio animal, retoma frequentemente nos seus desenhos!
       Sob esta configuração encontramos ainda Henri de Monfreid, ilustre exemplo de aventureiro que, na ânsia de ir mais longe, corta todas as possibilidades de retomo.
-      Bemanos, o homem que escandaliza ao denunciar injustiças gritantes - o que é muito Plutoniano. Enfim, Winston Churchill, que simbolizou para todo um povo a resistência obstinada do touro: \"Nós não cederemos jamais\"! -break`,
+      Bemanos, o homem que escandaliza ao denunciar injustiças gritantes - o que é muito Plutoniano. Enfim, Winston Churchill, que simbolizou para todo um povo a resistência obstinada do touro: \"Nós não cederemos jamais\"! <br />`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
       Tem uma certa tendência a se sentir insegura e vulnerável, porque tem dificuldade de se atribuir o seu devido valor. Os efeitos da repressão dos instintos físicos na infância só serão superados quando aprender a aceitar sua natureza sensual e a confiar na sabedoria instintiva do próprio corpo.
@@ -620,103 +597,80 @@ const data = {
       Você pode achar que não é criativo e até invejar as pessoas que o são, mas você subestima sua criatividade. Talvez você não consiga expressar essa criatividade por si mesmo, mas ao participar de um processo criativo de outras pessoas, a sua criatividade irá fluir.
       Tenha sempre em mente que você tem um grande potencial de ajudar pessoas criativas, orientando-as e incentivando-as em seu trabalho.
       Procure desenvolver atividades profissionais que levam conforto físico ou emocional às pessoas, como construir ou projetar moradias, parques ou jardins, casas de repouso ou locais de descanso e lazer junto à natureza, ou trabalhar em atividades com objetivo de proteger as pessoas e melhorar a autoestima, dando à elas um valor não só pessoal como social.
-      Você pode ser um bom professor, instrutor, zelador, construtor e outras atividades afins. -break`,
+      Você pode ser um bom professor, instrutor, zelador, construtor e outras atividades afins. <br />`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
       É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém. Juno nesse setor ou signo, uma vez que se associa ou se une a alguém não o faz pela metade ou por brincadeira.
       Ela encarará suas parcerias e seu casamento como algo que lhe dará oportunidade de construir algo, mas remos alguém com tendências a ser muito possessiva (mapa feminino), como esposa (se estiver num mapa masculino).
       As tendências possessivas vão ser mais fortes caso não exista nada de concreto que a pessoa, que tem Juno aí, possa construir com seu parceiro.
       Melhora de situação social e financeira que advém de uma união. Uma parte do orçamento desta pessoa estará consagrada ao cuidado com sua estética, com festas presentes, etc...
-      São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras. Este é o tipo de esposa de um homem com Juno em Touro ou na segunda casa. -break`,
+      São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras. Este é o tipo de esposa de um homem com Juno em Touro ou na segunda casa. <br />`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-        `-stron 1º nível de evolução: /stron`,
+        `<strong> 1º nível de evolução: </strong>`,
 
-        `Amar a obscuridade da Matéria significa levar o Espírito ao seu lado Oposto. -break
-        O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. -break`,
+        `Amar a obscuridade da Matéria significa levar o Espírito ao seu lado Oposto. <br />
+        O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. <br />`,
 
-        `-stron 2º nível de evolução: /stron`,
+        `<strong> 2º nível de evolução: </strong>`,
 
-        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. -break
-        Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. -break`,
+        `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. <br />
+        Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. <br />`,
 
-        `-stron 3º nível de evolução: /stron`,
+        `<strong> 3º nível de evolução: </strong>`,
 
-        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. -break
-        Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. -break`
+        `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. <br />
+        Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a cultivar o desapego, a atribuir valor ao mundo das emoções e ao invisível /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a cultivar o desapego, a atribuir valor ao mundo das emoções e ao invisível </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `gemeos`,
+    title: `gemeos</strong>`,
     text: [
       `Quando o Sol ingressa no signo de Gêmeos, a natureza começa a mudar e a entrar em mutação.
-      No hemisfério norte, a primavera dá passagem para o verão, que chega em Câncer. No hemisfério sul, o outono vai recebendo o inverno. Por isso Gêmeos é um signo mutável.
+      No hemisfério norte, a primavera dá passagem para o verão, que chega em Câncer. No hemisfério sul, o outono vai recebendo o inverno. Por isso Gêmeos é um signo mutável.<br /><br />
       Gêmeos é o primeiro signo do elemento Ar. É regido pelo planeta Mercúrio, o deus mensageiro com asinhas nos pés, do comércio, das estradas e do movimento.
-      Gêmeos representa a comunicação, a capacidade de transitar no universo dos relacionamentos e da linguagem. Sua natureza é mais do que dual, é plural.
-      Para o geminiano, viver é experimentar o dia e a noite, a luz e a sombra, a alegria e a dor. O Sol em Gêmeos inspira uma grande atividade mental e uma percepção intelectual muito viva.
-      O geminiano é malandro, versátil, bem humorado, brinca com as palavras e faz graça de tudo. É curioso e tem a mente aberta, adora uma novidade. Gosta do contato com as pessoas ou com o público.
-      Circula em todas as rodas. Gosta de conversar e muitas das vezes, acaba falando pelos cotovelos. O geminiano veio aprender a interagir, trocar, dialogar e negociar. A cultivar flexibilidade e malícia.
+      Gêmeos representa a comunicação, a capacidade de transitar no universo dos relacionamentos e da linguagem. Sua natureza é mais do que dual, é plural.<br /><br />
+      Para o geminiano, viver é experimentar o dia e a noite, a luz e a sombra, a alegria e a dor. O Sol em Gêmeos inspira uma grande atividade mental e uma percepção intelectual muito viva.<br /><br />
+      O geminiano é malandro, versátil, bem humorado, brinca com as palavras e faz graça de tudo. É curioso e tem a mente aberta, adora uma novidade. Gosta do contato com as pessoas ou com o público.<br /><br />
+      Circula em todas as rodas. Gosta de conversar e muitas das vezes, acaba falando pelos cotovelos. O geminiano veio aprender a interagir, trocar, dialogar e negociar. A cultivar flexibilidade e malícia.<br /><br />
       Em busca de respostas para os questionamentos da vida e a usar a comunicação como matéria-prima para saciar a sede de conhecimento.
       Na saúde, as partes vulneráveis são: mãos, membros superiores, ombros, pulmões, brônquios e nervos, que tem o mau hábito de maltratar.
-      Com a idade, pode desenvolver reumatismos nos membros superiores, alergias e enxaquecas, que são o resultado de uma crise do fígado ou de uma assimilação difícil dos alimentos.
+      Com a idade, pode desenvolver reumatismos nos membros superiores, alergias e enxaquecas, que são o resultado de uma crise do fígado ou de uma assimilação difícil dos alimentos.<br /><br />
       Com um regime de vida adequado, estes males desaparecem como por milagre.
-      Deve praticar esportes com muito movimento, que correspondem melhor à sua natureza. Praticar também exercícios respiratórios ao ar livre, o mais longe possível da poluição.
+      Deve praticar esportes com muito movimento, que correspondem melhor à sua natureza. Praticar também exercícios respiratórios ao ar livre, o mais longe possível da poluição.<br /><br />
       O geminiano é jovial e facilmente se adapta ao ambiente imediato. Por isso, também são pessoas  muito influenciáveis.
-      O perigo é se tornar dispersivo demais, volúvel e hesitante demais, viver dividido, sem foco e sem objetivos. É preciso cuidado para evitar mentiras, falsidades, fraudes, plágios e enganações em geral.
-      Sagitário é o signo oposto e lá está a solução: a flecha apontada para o alto, que mostra o caminho, a direção, a necessidade de cultivar ética e fixar os pensamentos para um alvo com metas mais elevadas. -break`,
+      O perigo é se tornar dispersivo demais, volúvel e hesitante demais, viver dividido, sem foco e sem objetivos. <br /><br /> É preciso cuidado para evitar mentiras, falsidades, fraudes, plágios e enganações em geral.
+      Sagitário é o signo oposto e lá está a solução: a flecha apontada para o alto, que mostra o caminho, a direção, a necessidade de cultivar ética e fixar os pensamentos para um alvo com metas mais elevadas.<br /><br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
       É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -731,20 +685,20 @@ const data = {
       Apreende com facilidade as informações, percebe com rapidez o que as outras pensam e quais suas necessidades afetivas.
       Com esta posição há tendência a querer abarcar o mundo com as pernas, a excitar-se momentaneamente com muitas ideias, sem segui-las até ao fim.
       Pode haver indecisão, superficialidade e confusão, mas conta com capacidade de planejar soluções para problemas práticos e domésticos.
-      É importante estabelecer objetivos para não dispersar sentimentos, nem se tornar uma pessoa ambígua ou superficial. -break`,
+      É importante estabelecer objetivos para não dispersar sentimentos, nem se tornar uma pessoa ambígua ou superficial. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
       O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       A primeira abordagem da vida pelo ascendente em Gêmeos é feita através do elemento Ar: aprendizagem, comunicação e experimentação no plano mental. Vive de forma ligeira, curiosa e um tanto dispersa.
-      -stron Há forte necessidade de compreender as coisas mentalmente e de apreender todas as faces da realidade com versatilidade e adaptabilidade./stron
+      <strong> Há forte necessidade de compreender as coisas mentalmente e de apreender todas as faces da realidade com versatilidade e adaptabilidade.</strong>
       A diversidade da vida diária, com todos os seus pequenos e variados acontecimentos, é um elemento-chave para a expressão imediata da individualidade.
       A comunicação é também uma importante via de expressão pessoal e de impacto junto ao meio ambiente.
       Há tendência natural para se identificar com as ideias (\"sou aquilo que penso\"), embora estas possam estar continuamente em mudança.
-      -stron O perigo é se perder numa teia de superficialidade, inconstância e inconsequências./stron
+      <strong> O perigo é se perder numa teia de superficialidade, inconstância e inconsequências.</strong>
       Quando aprende a seguir um rumo de pensamento, entre a multiplicidade dos seus apelos mentais, o ascendente em Gêmeos começa a manifestar o que de mais elevado existe no signo.
       Ou seja, a capacidade de relativizar e de compreender, no plano mental, todas as faces de um assunto ou situação.
       Fisicamente apresenta aspecto ágil, flexível, mãos finas e habilidosas. Aliás, as mãos e braços podem estar em evidência, tanto pelo gesticular contínuo como pela sua elegância e delicadeza.
-      A aparência tende a ser um tanto andrógina, pode manter o aspecto juvenil até muito tarde. O rosto pode ser vivo, móvel, expressivo e marcado por um ar de eterna adolescência. -break`,
+      A aparência tende a ser um tanto andrógina, pode manter o aspecto juvenil até muito tarde. O rosto pode ser vivo, móvel, expressivo e marcado por um ar de eterna adolescência. <br />`,
 
       `Mercúrio neste signo está em sua regência. Portanto, o raciocínio puro, lógico, pode ser levado à sua expressão mais elevada.
       O Mercúrio geminiano é versátil, sem preconceitos e impessoal na sua habilidade para perceber a verdade. Está mais preocupado com fatos do que com atitudes e preferências pessoais.
@@ -760,7 +714,7 @@ const data = {
       É possível considerar qualquer situação a partir de muitos pontos de vista. Por isso podem ter dificuldade para tomar decisões e mudam de ideia com muita frequência, confundindo os outros.
       Pode haver conversa incessante sobre assuntos triviais, o que é um aborrecimento para os outros. É preciso estudar e desenvolver a educação para que possam utilizar melhor a capacidade intelectual.
       As mentes inventivas dos nativos são competentes para descobrir novas e surpreendentes soluções para problemas e situações de emergência.
-      Esta posição é comum entre os profissionais; cientistas, matemáticos, peritos em computadores, secretárias, escritores, repórteres, jornalistas, publicitários, professores e oradores. -break`,
+      Esta posição é comum entre os profissionais; cientistas, matemáticos, peritos em computadores, secretárias, escritores, repórteres, jornalistas, publicitários, professores e oradores. <br />`,
 
       `O nativo com Vênus em Gêmeos precisa de estimulo intelectual num relacionamento. Expressa seu amor de forma raciocinada, gosta de explicar constantemente aquilo que sente.
       Adora conversar com seu parceiro, manifestando curiosidade sobre emoções e sentimentos alheios. O amor geminiano é racional, mas não por isso é menos intenso.
@@ -770,20 +724,20 @@ const data = {
       Isso pode manter acesa a chama da paixão. Caso contrário, ocorre o risco de perder o interesse pelo outro sem justificativas razoáveis.
       De qualquer forma, os envolvimentos fluem sem muitas complicações, pois é mais lógico, inteligente e, portanto, um bom negociador nas questões amorosas.
       É também um bom mediador, sabe evitar conflitos e possui mais jogo de cintura para lidar com impasses. Por outro lado, corre o risco de escapar de forma escorregadia em situações que precisam de enfrentamento.
-      Se conseguir compreender que algumas situações devem ser encaradas, seu poder de negociação pode ajudá-lo a conseguir um bom desenlace. -break`,
+      Se conseguir compreender que algumas situações devem ser encaradas, seu poder de negociação pode ajudá-lo a conseguir um bom desenlace. <br />`,
 
       `Essa posição de Marte indica uma pessoa cheia de recursos e expedientes, um espírito sempre pronto para a discussão. Possui ímpeto oratório e resposta sempre pronta.
       A boa atividade mental lhe confere capacidade para encontrar soluções engenhosas face às dificuldades eventuais.
       Canaliza as energias na forma intelectual, estando sempre disposto a aprender e a melhorar seus conhecimentos.
       Pode expressar-se na dança e em outras atividades onde o movimento se une à ação. Adora viajar. Tem espírito gozador e brincalhão.
       Poderá expressar sua sexualidade de forma instável, sem muito ímpeto, necessitando de estimulo variado e constante. Baixa fertilidade.
-      É preciso atenção para não dissipar energia em ações inúteis e sem sentido. O espírito crítico pode levar a discussões ou brigas. É preciso cuidado também com irritações nas vias respiratórias. -break`,
+      É preciso atenção para não dissipar energia em ações inúteis e sem sentido. O espírito crítico pode levar a discussões ou brigas. É preciso cuidado também com irritações nas vias respiratórias. <br />`,
 
       `O nativo pode contar com capacidade para os estudos filosóficos e para as atividades educacionais. Muitos escritores têm esta posição de Júpiter.
       É provável que os ganhos provenham de atividades relacionadas com o ensino, as editoras e as agências de turismo.
       É inquieto, possui uma permanente atividade nervosa, um apetite insaciável pelas ideias inovadoras, sendo apaixonado por assistir a conferências ou cursos.
       Necessita conhecer um pouco de cada coisa e desenvolver a mente até um grau muito avançado. Pode ser demasiado loquaz, charlatão, difuso nas ideias e indiscreto.
-      É preciso cuidado para não mentir ou falar demais. Se medir os seus comentários pode evitar grandes perdas de dinheiro ou de posição social. -break`,
+      É preciso cuidado para não mentir ou falar demais. Se medir os seus comentários pode evitar grandes perdas de dinheiro ou de posição social. <br />`,
 
       `Saturno no signo de Gêmeos indica uma mente prática, disciplinada, sistemática e lógica. Há capacidade de disciplina no pensamento, no raciocínio, na escrita e na solução de problemas de todos os tipos.
       As ideias são julgadas pela sua utilidade prática e pelos resultados obtidos na experiência direta.
@@ -795,23 +749,23 @@ const data = {
       Secretárias, estenógrafas, contadores, escri¬tores, professores e pesquisadores possuem esta posição. Ela também favorece pessoas envolvidas em engenharia, ciências físicas e matemáticas.
       No seu pior, pode haver tendência a sentir e demonstrar muita dúvida, suspeita, timidez ou uma atitude crítica.
       Contudo, os nativos são suficientemente flexíveis para se adaptarem às necessidades práticas de qualquer situação.
-      Sendo assim, são habilidosos para encontrar soluções de problemas. Eles enxergam a vida com objetividade prática. -break`,
+      Sendo assim, são habilidosos para encontrar soluções de problemas. Eles enxergam a vida com objetividade prática. <br />`,
 
       `Urano no signo de Gémeos indica uma geração de pessoas destinadas a serem precursoras de uma nova maneira de pensar.
       Elas possuem mentes brilhantes, originais, intuitivas. Podem abrir novos conceitos em ciência, literatura, educação, electrónica e meios de comunicação.
       Os nativos com esta posição tendem à inquietação exagerada, podendo dificultar a realização de uma ideia até ao fim. Precisam desenvolver autodisciplina para que as suas ideias possam se concretizar.
       Devido à sua inquietação, geralmente viajam muito, procurando novos contatos sociais e a descoberta de novas ideias. Esta posição indica grande liberdade de pensamento.
       Uma vez que criamos o nosso destino com nossas mentes e nossas crenças, os nativos podem desenvolver a percepção de atividades e soluções alternativas, a capacidade para abandonar padrões de vida habituais.
-      No seu pior, o raciocínio pode ser incoerente, excêntrico e pouco prático. Pode indicar confusão e imprevistos em viagens, bem como relações inconstantes com irmãos, irmãs e vizinhos. -break`,
+      No seu pior, o raciocínio pode ser incoerente, excêntrico e pouco prático. Pode indicar confusão e imprevistos em viagens, bem como relações inconstantes com irmãos, irmãs e vizinhos. <br />`,
 
       `Netuno em Gêmeos indica uma geração que desenvolveu as faculdades criativas e intuitivas da mente através da literatura e da poesia. Pessoas com a imaginação ativa e versátil.
       Muitas vezes inquietas e com facilidade para se ligarem telepaticamente, possui habilidade para canalizar ideias através de imagens.
       Novas ideias a respeito de viagens, do comércio e das comunicações.
-      A expressão negativa de Netuno neste signo é a confusão em assuntos práticos e na forma de comunicação, assim como susceptibilidade e preocupação com valores superficiais. -break`,
+      A expressão negativa de Netuno neste signo é a confusão em assuntos práticos e na forma de comunicação, assim como susceptibilidade e preocupação com valores superficiais. <br />`,
 
       `Plutão em Gêmeos enfatiza a comunicação. Os meios de comunicação (jornais, transportes, aviação) e as novas ideias se expandem aceleradamente.
       Este desenvolvimento da comunicação divulga rapidamente em todo o mundo os inventos e as descobertas. Esta época termina com o isolamento dos povos e das diferentes culturas.
-      Foi à época em que apareceu o automóvel, o avião, o telefone, o fonógrafo, etc. A oportunidade que brinda Plutão em Gêmeos é a de regenerar a mente, convertendo-a num poderoso instrumento capaz da visão mais aguda e penetrante. -break`,
+      Foi à época em que apareceu o automóvel, o avião, o telefone, o fonógrafo, etc. A oportunidade que brinda Plutão em Gêmeos é a de regenerar a mente, convertendo-a num poderoso instrumento capaz da visão mais aguda e penetrante. <br />`,
 
       `Quem tem o Nodo Sul (Cauda do Dragão) em Gêmeos traz experiências de dispersão mental, curiosidade excessiva e necessidade constante de informação.
       É mais mental do que emocional e um tanto dispersivo, desligado do mundo físico. Que saber de tudo um pouco, mas não se aprofunda em nada. Isso gera superficialidade.
@@ -823,11 +777,11 @@ const data = {
       Veio descobrir que a vida não é só conhecimento prático. É preciso buscar a sabedoria, a filosofia e o mundo espiritual.
       Cultivar a expansão da consciência, passar da mente inferior e concreta para a mente superior e abstrata. Aprender a cultivar o silêncio, o contato com a Natureza para ouvir a sua voz interior, encontrar o seu canal para a verdade universal.
       Para tanto, é preciso resistir a alimentar conversas que não alimentam a alma. Sair da pequenez do seu bairro para o mundo, viajar, aventurar-se, interagir com outras culturas, crenças, religiões, tradições e raças.
-      Sair dos esquemas mentais alimentados pela dúvida ou pelo medo para abraçar uma verdade sagrada. Meditação, viagens e estudos superiores fazem parte do seu percurso evolutivo. -break`,
+      Sair dos esquemas mentais alimentados pela dúvida ou pelo medo para abraçar uma verdade sagrada. Meditação, viagens e estudos superiores fazem parte do seu percurso evolutivo. <br />`,
 
       `A mente aprende rapidamente e é ávida de conhecimentos. A felicidade resulta da capacidade que o indivíduo tem de se expandir e entrar em contato com tudo.
       A iluminação mais profunda vem através de estudos filosóficos ou religiosos, ou por meio da identificação com uma causa grandiosa ou com uma organização social.
-      A infelicidade resulta principalmente de uma sensação de confinamento e de confusão intelectual. Exemplos: Rainha Vitoria, a Duquesa de Windsor, Rudolph Steiner, Henry Wallace, Dmitri Shostakovich. -break`,
+      A infelicidade resulta principalmente de uma sensação de confinamento e de confusão intelectual. Exemplos: Rainha Vitoria, a Duquesa de Windsor, Rudolph Steiner, Henry Wallace, Dmitri Shostakovich. <br />`,
 
       `Mágoas trazidas da infância o levam a ter pensamentos derrotistas e a não confiar plenamente em suas próprias ideias. Pode ter havido dificuldades de adaptação nos primeiros anos de escola ou ter dificuldades de aprendizado ou de fala.
       Em alguns casos, quem têm Quíron neste signo, pode ter irmãos ou irmãs doentes ou angustiados (aflitos) por alguma coisa. Seus anos de formação foram marcados pela necessidade de serem sensíveis à condição dos irmãos.
@@ -860,52 +814,52 @@ const data = {
       Quando criança pode ter sido sempre atormentado pelos colegas, ter sempre buscado um amigo verdadeiro. Pode ocorrer de buscar companheirismo através da mídia, buscando estímulos e integração com os demais seres.
       O que ocorre é que você é muito estimulável por esse tipo de comunicação e pode ser influenciado pelo que vê ou lê. Deve então analisar friamente a qualidade do material que tem na mídia para educá-lo e diverti-lo, sob o risco de aceitar tudo que recebe do mundo exterior.
       Atividades como professor, editor, orador, jornal, rádio e TV, monitor para grupos de estudo ou viagens de qualquer natureza são produtivas para você.
-      A comunicação é sua via de cura, tanto para si mesmo, quanto para os outros. Procure sempre ser o companheiro fiel dos que convivem com você e receberá em troca a sensação de integração que tanto necessita. -break`,
+      A comunicação é sua via de cura, tanto para si mesmo, quanto para os outros. Procure sempre ser o companheiro fiel dos que convivem com você e receberá em troca a sensação de integração que tanto necessita. <br />`,
 
       `O parceiro ideal é aquele que tenha curiosidade e interesse em aprender, transmitir e que tenha interesses variados, goste de viagens e seja comunicativo, descolado, esperto, versátil e flexível.
       Juno neste signo indica a importância de haver trocas mentais e intelectuais numa parceria.
       Pode formar um casal muito inteligente ou que esteja sempre aprendendo. Bons oradores, em constantes viagens e mudanças.
       Mas também podem ser pessoas enganosas, mentirosas, incrivelmente dispersas ou que estejam envolvidas em constantes discussões e polêmicas.
       Possível sucesso em carreiras de comunicação ou no comércio. A parceria deve ser espontânea, esperta, curiosa e viva.
-      O casal tende a se comportar sempre de forma muito jovial e tentará preservar os seus comportamentos de juventude. -break`,
+      O casal tende a se comportar sempre de forma muito jovial e tentará preservar os seus comportamentos de juventude. <br />`,
 
       `Em suas vidas passadas o nativo tinha o espírito vivo e flexível. Tão flexível, que pouco ligava para a lealdade. Essa posição de Mercúrio indica um comerciante desonesto numa vida passada.
       Ou ainda, um homem de letras mais brilhante do que sério. Em todo caso, fez mal uso de sua viva inteligência e de seu talento para se expressar, tanto por escrito como oralmente.
       Sua aptidão manual e artística também era notável. Essas qualidades persistem na atual encarnação, mas esse gênio \"faz-tudo\" deve tomar cuidado para não perder o foco e se dispersar.
-      Deve agora negociar e se comunicar com integridade. Pode ter também uma dívida cármica a ser regatada com irmãos ou primos. -break`,
+      Deve agora negociar e se comunicar com integridade. Pode ter também uma dívida cármica a ser regatada com irmãos ou primos. <br />`,
 
       `Quando Vênus está retrógrado neste signo evidencia-se a adolescência, em que o ser ainda não atingiu a sua polaridade sexual.
       Pode indicar uma instabilidade afetiva nas existências anteriores, nas quais a pessoa vivia o amor como um jogo leviano da vida.
       O nativo deve agora aprender a se comprometer seriamente cultivando a responsabilidade e a sua integridade.
-      Resistindo assim, à tentação da inconstância, à tendência de falar demais e de jogar seus parceiros um contra o outro com fofocas ou intrigas. -break`,
+      Resistindo assim, à tentação da inconstância, à tendência de falar demais e de jogar seus parceiros um contra o outro com fofocas ou intrigas. <br />`,
 
       `O nativo com tem grande curiosidade intelectual. Mas a lição cármica aqui escolhida é a de aprender a dosar sua energia (e sua agressividade) nas relações humanas.
       Bastante instável, inquieto, inconstante e facilmente ansioso, pode fazer estudos de psicologia: aprenderá a se conhecer através dos outros.
       Nesta vida deve cultivar o hábito de refletir antes de agir. Deve promover intercâmbios e negociações com mais ponderação.
-      Deve também cultivar mais foco em suas prioridades. Pode ir muito longe do que imagina em busca do conhecimento. -break`,
+      Deve também cultivar mais foco em suas prioridades. Pode ir muito longe do que imagina em busca do conhecimento. <br />`,
 
       `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
       Nas vidas passadas, o nativo alinhava a sua filosofia com a dos que o cercavam. Não tinha nenhuma ideia pessoal: era sempre da mesma opinião do último que ouviu.
       Incapaz de filtrar as informações recebidas segundo um critério pessoal, falava demais. Inclinava-se a contar qualquer coisa a qualquer um, sem nenhum discernimento. E, além do mais, nada tolerante.
-      Nesta vida deve aprender a deixar falar e a se calar. Cultivar para si uma filosofia mais prática, objetiva, focada e humana. Cultivar mais integridade no uso da palavra. -break`,
+      Nesta vida deve aprender a deixar falar e a se calar. Cultivar para si uma filosofia mais prática, objetiva, focada e humana. Cultivar mais integridade no uso da palavra. <br />`,
 
       `A natureza pesada de Saturno não se combina muito bem com a natureza viva e inquieta de Gêmeos.
       A boa comunicação, o intercâmbio verbal e intelectual com os outros não foram cultivados em vidas passadas.
       O nativo sabe bem o que gostaria de dizer, mas não sabe como se expressar. Não sabe transmitir uma mensagem com clareza e competência para o público.
       O nativo pode não estar muito certo das suas ideias e busca por todo lado, acumulando informações que não fazem mais que acentuar suas incertezas.
-      Graças a isso, pode ao menos se livrar das ideias prontas adquiridas nas vidas passadas. Seu trabalho cármico é desaprender. Cultivar inteligência, curiosidade e flexibilidade nos intercâmbios. -break`,
+      Graças a isso, pode ao menos se livrar das ideias prontas adquiridas nas vidas passadas. Seu trabalho cármico é desaprender. Cultivar inteligência, curiosidade e flexibilidade nos intercâmbios. <br />`,
 
       `O dom da réplica, o humor, a adaptação rápida às palavras e às circunstâncias revelam uma mente muito ativa.
       Muito curioso, constantemente em movimento, é às vezes cansativo por sua inquietação e por seu nervosismo.
       Tende a dispersar-se com facilidade, a borboletear de uma ideia à outra, sem nada aprofundar. Deixa-se influenciar pelo último que chega.
       Essa instabilidade, herdada de vidas passadas, é a consequência de um comportamento no qual o nativo nunca conseguia assumir as decisões.
       Esvoaçando como uma pluma ao vento, não fazia nenhum progresso. Quem vai ao vento, perde o assento.
-      É preciso, portanto, que desenvolva foco e prioridades. Que escolha uma atividade e se obrigue a aprofundá-la. -break`,
+      É preciso, portanto, que desenvolva foco e prioridades. Que escolha uma atividade e se obrigue a aprofundá-la. <br />`,
 
       `Netuno em Gêmeos indica grande habilidade manual acrescida de uma viva atividade mental. A imaginação era muito desenvolvida entre os nativos.
       Escritores brilhantes Henry Miller (nascido em 1891), ou Drieu La Rochelle (1893) utilizaram assim seu senso agudo da palavra e da resposta pronta.
       Mas seu humor, muitas vezes corrosivo, lhes acarretavam aborrecimen¬tos. Netuno em Gêmeos é também o senso dos negócios, mas a retrogradação de Netuno indica que foram enganadores.
-      Podem ter sido até mesmo criminosos. A extrema habilidade, a imaginação viva, a mente ágil e ativa foram empregadas de maneira principalmente negativa. -break`,
+      Podem ter sido até mesmo criminosos. A extrema habilidade, a imaginação viva, a mente ágil e ativa foram empregadas de maneira principalmente negativa. <br />`,
 
       `O período coincidiu com um extraordinário boom tecnológico nos meios de comunicação, particularmente a aviação (já que Gêmeos é signo de Ar). O \"Avião\" de Clément Ader nasceu em 1897.
       Os grandes pioneiros: Didier Daurat e Jean Mermoz têm Plutão retrógrado em Gêmeos. Exatamente como Enzo Ferrari, o famoso construtor de carros.
@@ -913,7 +867,7 @@ const data = {
       O triunfo científico proclama um tanto exageradamente que \"não se para o progresso\". Gêmeos é o reino de Mercúrio, símbolo ao mesmo tempo dos conhecimentos teóricos e das suas aplicações práticas: a tecnologia.
       Os nativos de Plutão retrógrado em Gêmeos têm por vezes uma surpreen¬dente aptidão para jogar com as palavras: Henry Miller, Raymond Queneau, Jean Genet, Eugène lonesco, Papillon, Jacques Prévert.
       O verbo é, para eles, um instrumento de poder político. A sedução das palavras, o jogo duplo, por vezes. Esses nativos já aprenderam, em várias vidas passadas, a manejar o verbo (escrito ou falado).
-      Terão eles sido escribas desonestos? Escritores que haviam propagado ideias nefastas? Colegiais vadios, como no tempo de Villon? Seu carma deve levá-los a uma reflexão sobre os meios de comunicação. Seu programa: não abusar das pessoas jogando com as palavras. -break`,
+      Terão eles sido escribas desonestos? Escritores que haviam propagado ideias nefastas? Colegiais vadios, como no tempo de Villon? Seu carma deve levá-los a uma reflexão sobre os meios de comunicação. Seu programa: não abusar das pessoas jogando com as palavras. <br />`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
       Mágoas trazidas da infância levam à ter pensamentos derrotistas e a não confiar plenamente em suas próprias ideias. Podem ter dificuldades de adaptação nos primeiros anos de escola ou ter dificuldades de aprendizado ou de fala.
@@ -948,103 +902,80 @@ const data = {
       Pode ocorrer de buscar companheirismo através da mídia, buscando estímulos e integração com os demais seres. O que ocorre é que você é muito estimulável por esse tipo de comunicação, e pode ser influenciado pelo que vê ou lê.
       Deve então analisar friamente a qualidade do material que tem na mídia para educá-lo e diverti-lo, sob o risco de aceitar tudo que recebe do mundo exterior.
       Atividades como professor, editor, orador, jornal, rádio e TV, monitor para grupos de estudo ou viagens de qualquer natureza são produtivas para você. A comunicação é sua via de cura, tanto para si mesmo, quanto para os outros.
-      Procure sempre ser o companheiro fiel dos que convivem com você e receberá em troca a sensação de integração que tanto necessita. -break`,
+      Procure sempre ser o companheiro fiel dos que convivem com você e receberá em troca a sensação de integração que tanto necessita. <br />`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
       É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
       Se você ocupar uma posição de destaque e brilho na sua profissão é possível vivenciar o sucesso na carreira atuando nas áreas de comunicação ou comércio. Importância de trocas mentais e intelectuais numa parceria.
-      No mapa de um homem mostra uma esposa/parceira, espontânea e esperta, viva. Também no casamento essa mulher se comportará sempre de forma muito jovial, e tentará preservar seus comportamentos de juventude. -break`,
+      No mapa de um homem mostra uma esposa/parceira, espontânea e esperta, viva. Também no casamento essa mulher se comportará sempre de forma muito jovial, e tentará preservar seus comportamentos de juventude. <br />`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-        `-stron 1º nível de evolução: /stron`,
+        `<strong> 1º nível de evolução: </strong>`,
 
-        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima e a forma como responde aos encontros casuais. -break`,
+        `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima e a forma como responde aos encontros casuais. <br />`,
 
-        `-stron 2º nível de evolução: /stron`,
+        `<strong> 2º nível de evolução: </strong>`,
 
-        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário. -break
-        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. -break`,
+        `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário. <br />
+        Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. <br />`,
 
-        `-stron 3º nível de evolução: /stron`,
+        `<strong> 3º nível de evolução: </strong>`,
 
-        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. -break
-        Desenvolve também o poder mental e a confiança que os estudos podem despertar em si mesmo. -break`
+        `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. <br />
+        Desenvolve também o poder mental e a confiança que os estudos podem despertar em si mesmo. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a ganhar sabedoria sem perder a simplicidade e humildade /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a ganhar sabedoria sem perder a simplicidade e humildade </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `cancer`,
+    title: `cancer</strong>`,
     text: [
       `Câncer é o primeiro signo do elemento Água, regido pela Lua.
-      Traz lições sobre a sensibilidade, a intimidade, as emoções, o cuidado, a proteção e o acolhimento. Evoca também o passado, a ancestralidade, a história e a memória emotiva.
+      Traz lições sobre a sensibilidade, a intimidade, as emoções, o cuidado, a proteção e o acolhimento. Evoca também o passado, a ancestralidade, a história e a memória emotiva.<br /><br />
       É representado pelo caranguejo, com sua capacidade de andar para frente e para trás. O canceriano aprende a valorizar as recordações e a atualizá-las, aproveitando os ciclos que se repetem.
-      Varia seu humor junto com a mutante Lua: apresenta um temperamento emocional ora objetivo e ora subjetivo.
-      É receptivo, e sua estabilidade e equilíbrio vêm das relações afetivas, do histórico e da vida familiar, da valorização dos sentimentos patrióticos, do local onde nasceu e dos condicionamentos do passado.
+      Varia seu humor junto com a mutante Lua: apresenta um temperamento emocional ora objetivo e ora subjetivo.<br /><br />
+      É receptivo, e sua estabilidade e equilíbrio vêm das relações afetivas, do histórico e da vida familiar, da valorização dos sentimentos patrióticos, do local onde nasceu e dos condicionamentos do passado.<br /><br />
       O Sol em Câncer inspira a criação e a fecundidade, o que concede boas probabilidades no plano material.
-      As boas relações com aqueles que o rodeiam favorecem o aumento do património, sobretudo na segunda parte da vida.
+      As boas relações com aqueles que o rodeiam favorecem o aumento do património, sobretudo na segunda parte da vida.<br /><br />
       Possui forte instinto de proteção, grande intuição e capacidade imaginativa. É sensível e intuitivo.
-      Porém tem um temperamento sonhador, com um toque de ingenuidade. O seu olhar é muitas vezes comparável ao de uma criança e a sua imaginação é muito fecunda.
+      Porém tem um temperamento sonhador, com um toque de ingenuidade. O seu olhar é muitas vezes comparável ao de uma criança e a sua imaginação é muito fecunda.<br /><br />
       Na saúde, deve vigiar particularmente o esôfago, o estômago, o duodeno, o fígado, o peito, a caixa torácica, os peitorais e as membranas mucosas.
-      Há tendência para se fechar em si próprio e interiorizar as suas emoções. Como consequência, pode somatizar gastrite ou úlceras estomacais.
+      Há tendência para se fechar em si próprio e interiorizar as suas emoções. Como consequência, pode somatizar gastrite ou úlceras estomacais.<br /><br />
       É preciso cuidado para não envenenar a sua vida com emoções negativas. O mínimo mal-estar pode assumir aos seus olhos uma dimensão importante.
-      Na segunda parte da vida, deve ser acompanhado por um médico, pois há tendência para desenvolver uma doença psicossomática.
+      Na segunda parte da vida, deve ser acompanhado por um médico, pois há tendência para desenvolver uma doença psicossomática.<br /><br />
       O perigo é ficar apegado demais ao passado, melindroso demais, com medo do mundo, fechado em sua concha.
-      Deve estar atento para controlar a avareza, não se tornar escravo de seus temores ou dependente emocional de hábitos, lugares, coisas ou pessoas.
+      Deve estar atento para controlar a avareza, não se tornar escravo de seus temores ou dependente emocional de hábitos, lugares, coisas ou pessoas.<br /><br />
       O equilíbrio está no signo oposto em Capricórnio, que traz a razão, a confiança e a praticidade.
-      Para que realizem seus sonhos, devem aprender a dar todos os passos necessários, com mais perseverança e pragmatismo.
-      Tudo para que não perca as referências de ordem e estabilidade nas tensões emocionais, na turbulência interior e nas questões afetivas. -break`,
+      Para que realizem seus sonhos, devem aprender a dar todos os passos necessários, com mais perseverança e pragmatismo.<br /><br />
+      Tudo para que não perca as referências de ordem e estabilidade nas tensões emocionais, na turbulência interior e nas questões afetivas. <br /><br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
       É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -1061,22 +992,22 @@ const data = {
       Quando não é tomado por ressentimentos, pode fazer com que as pessoas se sintam paradas ao seu lado, pois sua ternura e sensibilidade são cativantes.
       Mas é também sonhador, vulnerável, instável e carente. Isso fica evidente em situações de estresse emocional. Por isso, sentir-se seguro e ter suas necessidades afetivas atendidas são importantes.
       Pode haver tendência para sufocar os filhos com o seu amor, a ponto de desejarem dominar as suas vidas. É preciso aceitar a realidade e aprender a dar limites para sua fragilidade emocional.
-      Com mais praticidade, a consciência do momento presente, a memória do passado e a intuição do futuro, pode encontrar um caminho para sua segurança e seu bem-estar emocional. -break`,
+      Com mais praticidade, a consciência do momento presente, a memória do passado e a intuição do futuro, pode encontrar um caminho para sua segurança e seu bem-estar emocional. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
       O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
       A primeira impressão da vida é sentida através do elemento Água: ação motivada pelos sentimentos.
       Expressão cautelosa e grande necessidade de segurança emocional são características de quem tem Ascendente em Câncer.
       A expressão da individualidade é cautelosa. Para proteger-se emocionalmente, por vezes desenvolve uma dura casca externa.
-      -stron Sua tarefa é encontrar meios para expressar a própria sensibilidade, ao invés de ser esmagado por ela. Respeitar, compreender, reconhecer e liberar os sentimentos./stron
+      <strong> Sua tarefa é encontrar meios para expressar a própria sensibilidade, ao invés de ser esmagado por ela. Respeitar, compreender, reconhecer e liberar os sentimentos.</strong>
       Há uma qualidade mimética, camaleônica na expressão pessoal: confundir-se com o ambiente para não se mostrar competitivo ou chamar a atenção.
       Assim evita também ser ameaçado ou agredido. Por vezes apresenta comportamentos desprotegidos, inseguros ou mesmo infantis.
       Pode manter-se sempre muito próximo da mãe ou da família de origem (do ponto de vista físico, emocional ou ambos). Esta camuflagem, contudo, pode ser apenas aparente.
       Por detrás se esconde uma grande tenacidade e uma capacidade de se agarrar teimosamente aos sentimentos e às situações em que sinta familiaridade e segurança, mesmo que esta segurança seja feita à custa de outros.
       À medida que desenvolve certo grau de maturidade, pode desfrutar toda sensibilidade e riqueza emocional associada a este signo.
-      -stron Você cresce em autoconhecimento quando desenvolve as qualidades de cuidar, alimentar, proteger, nutrir. Seja de uma pessoa, uma família, um negócio ou um ideal./stron
+      <strong> Você cresce em autoconhecimento quando desenvolve as qualidades de cuidar, alimentar, proteger, nutrir. Seja de uma pessoa, uma família, um negócio ou um ideal.</strong>
       O aspecto físico ligado a este ascendente é arredondado, agradável, suave e um pouco infantil.
-      Um rosto redondo e um tronco desenvolvido são características comuns, com propensão a engordar e reter líquidos. Alguns, contudo, apresentam um rosto oblongo e uma figura esguia. -break`,
+      Um rosto redondo e um tronco desenvolvido são características comuns, com propensão a engordar e reter líquidos. Alguns, contudo, apresentam um rosto oblongo e uma figura esguia. <br />`,
 
       `Mercúrio no signo de Câncer indica uma mente influenciada por padrões emocionais profundamente arraigados.
       Os desejos inconscientes podem fazer com que a pessoa observe alguns fatos e ignore outros, o que pode resultar em preconceitos e interferência no raciocínio objetivo.
@@ -1085,7 +1016,7 @@ const data = {
       Na realidade, grande parte do processo mental ocorre em um nível inconsciente, embora se manifeste como intenção consciente.
       Como as pessoas com esta posição de Mercúrio são muito suscetíveis às atitudes e opiniões dos que as cercam, o seu pensamento pode ser influenciado por apelos emocionais, como o patriotismo.
       Elas são muitos sensíveis, acreditam que tudo que é feito ou dito no seu ambiente é especificamente dirigido a elas. Grande parte do pensamento concentra-se no lar e na família.
-      Há uma considerável habilidade para os negócios, em assuntos relacionados a alimentos, produtos de consumo e domésticos e bens imobiliários. -break`,
+      Há uma considerável habilidade para os negócios, em assuntos relacionados a alimentos, produtos de consumo e domésticos e bens imobiliários. <br />`,
 
       `O nativo com Vênus em Câncer é, antes de tudo, um cuidador. Sonha com uma casa aconchegante, cheia de filhos, mesa posta, comida farta.
       Quem possui essa característica tem necessidade de se sentir amparado e procura sempre o conforto de seu lar, pois é naturalmente tímido e sentimental, apegado às lembranças do passado.
@@ -1093,13 +1024,13 @@ const data = {
       Existe certa carência afetiva (carência do útero materno) neste tipo de amor canceriano.
       Por causa disso, quem tem Vênus em Câncer nutre e cativa com pequenos cuidados maternais a pessoa amada, tornando-a dependente de seus cuidados.
       Tanto Câncer, quanto Vênus estão relacionados às qualidades femininas. Há sensibilidade, o uso da intuição e da imaginação, que podem enriquecer as trocas.
-      Porém, a sua fragilidade emocional exagerada pode causar estragos num relacionamento, especialmente quando o parceiro não perceber a fragilidade de seus sentimentos, magoando-os, sem demonstrações de afeto ou envolvimento emocional. -break`,
+      Porém, a sua fragilidade emocional exagerada pode causar estragos num relacionamento, especialmente quando o parceiro não perceber a fragilidade de seus sentimentos, magoando-os, sem demonstrações de afeto ou envolvimento emocional. <br />`,
 
       `Essa posição de Marte indica uma pessoa cujas iniciativas serão voltadas principalmente em prol da família e do lar. Possui senso de liderança e autoridade com a família e age com firmeza dentro do ambiente familiar.
       Pode ter profissões relacionadas com atividades públicas ou voltadas para o conforto do lar e da mulher. A emotividade torna essa pessoa suscetível às críticas, às quais pode reagir de maneira emocional.
       Esta posição do planeta não é muito favorável à expressão da libido e por essa razão pode buscar prazeres e expressões mais emocionais e sentimentais. Tem boa fertilidade.
       É preciso cuidado com disputas domésticas, pois pode se expressar de forma autoritária com seus parentes e familiares.
-      Existe o perigo de se envolver em acidentes domésticos. Cuidado também com problemas digestivos e dores de estômago. -break`,
+      Existe o perigo de se envolver em acidentes domésticos. Cuidado também com problemas digestivos e dores de estômago. <br />`,
 
       `O nativo pode contar com o bom humor. É sensível, religioso, complacente e com opiniões cambiantes.
       Pode se destacar em ocupações agrícolas ou em negócios imobiliários. Também nas atividades artísticas: poesia, música, belas artes ou na cozinha e na restauração.
@@ -1107,7 +1038,7 @@ const data = {
       É preciso cuidado para não se deixar levar pela sensibilidade em questões monetárias. Desta forma, evita perder dinheiro.
       Um dos seus maiores passatempos é passar horas no seu lar com a família, ouvindo música ou descansando.
       Por vezes esta posição indica possuir uma casa grande, ampla, com muita gente. Pode ser um excelente anfitrião, aficionado pelas reuniões em lugares onde possa desfrutar da comida e da bebida.
-      Gosta da vida social (restaurantes, bares, hotéis, etc.). Pode se beneficiar através da ajuda de parentes ou de associações com mulheres. -break`,
+      Gosta da vida social (restaurantes, bares, hotéis, etc.). Pode se beneficiar através da ajuda de parentes ou de associações com mulheres. <br />`,
 
       `Saturno em Câncer pode provocar inibições na manifestação das emoções, que provavelmente resultam em afastamento da família.
       Este isolamento emocional dentro do cenário doméstico pode conduzir algumas reações neuróticas.
@@ -1118,7 +1049,7 @@ const data = {
       A sensibilidade emocional e a necessidade de aprovação pode forçar algumas vezes a construir uma couraça ao redor de si mesma, o que pode inibir a manifestação do verdadeiro calor nos seus relacionamentos pessoais.
       É preciso observar se há má digestão dos alimentos ou um lento metabolismo corporal, que podem provocar excesso de peso e retenção de água nos tecidos.
       Em outros casos, pode haver subnutrição, resultando em uma aparência ossuda. É preciso cuidado também com a hipersensibilidade emocional, atitudes defensivas ou ligações muito fortes aos bens materiais.
-      As pessoas com Saturno em Câncer, apesar disso, levam muito a sério as responsabilidades familiares. A necessidade de respeito ao indivíduo e sua família é sentida profundamente. -break`,
+      As pessoas com Saturno em Câncer, apesar disso, levam muito a sério as responsabilidades familiares. A necessidade de respeito ao indivíduo e sua família é sentida profundamente. <br />`,
 
       `Urano no signo de Câncer indica uma geração de pessoas que buscam liberdade e excitação por intermédio da expressão emocional.
       Elas terão ideias avançadas a respeito do lar e da vida familiar. Procuram independência de uma autoridade parental rígida, preferem ser amigos dos seus pais.
@@ -1128,25 +1059,25 @@ const data = {
       Seus lares podem ter muitos aparelhos eletrônicos e uma decoração admirável. Gostam de usar sua casa como local de encontro de amigos e atividades em grupo.
       Também podem se interessar por tipos de vida comunitária ou arranjos familiares fora da tradicional família nuclear. Em muitos casos, os seus amigos se tornam membros da família.
       Com Urano em Câncer, há uma considerável sensibilidade psíquica. É provável que atividades ocultas façam parte do cenário doméstico.
-      No seu pior, pode haver um temperamento excêntrico e súbitas mudanças de humor. -break`,
+      No seu pior, pode haver um temperamento excêntrico e súbitas mudanças de humor. <br />`,
 
       `Indica uma geração possuidora de fortes laços psíquicos com o lar, a terra e a família. Pessoas muito idealistas, emocionalmente sensíveis, patriotas e superprotetor para com os outros.
       Também tendem a ser religiosas, mas de uma forma emocional. Se Netuno estiver bem situado e com bons aspectos, pode haver tendências mediúnicas e faculdades psíquicas.
       Com aspectos desarmônicos, o carácter se torna pessimista e autoindulgente. Podem existir dificuldades no lar por causa da mãe.
-      Como Câncer rege a mente inconsciente, quando Netuno ingressou neste signo apareceu Sigmund Freud difundindo as bases da psicanálise moderna, em 1902. -break`,
+      Como Câncer rege a mente inconsciente, quando Netuno ingressou neste signo apareceu Sigmund Freud difundindo as bases da psicanálise moderna, em 1902. <br />`,
 
       `Câncer significa lar, família, clã, tradição, nação. Esta geração passou através da completa destruição e transformação de tudo o que estes conceitos significam. A permanência de Plutão em Câncer contrariou o esquema tradicional familiar.
       Os nativos dessa geração, entre os quais é frequente se verificar intensas uniões e cega obediência à família e à nação, podem sofrer uma trágica desilusão quando, ao longo da sua vida, se ver separados, tanto de uma como de outra.
       Plutão em Câncer começou com a Primeira Guerra Mundial e permaneceu até à Segunda. Esta geração sabe muito a respeito do lado destrutivo do planeta.
-      Por isso, não é estranho encontrar nativos com uma forte inclinação para o passado, para a protetora imagem convencional do «lar», mais do que para enfrentar mudanças e revoluções. -break`,
+      Por isso, não é estranho encontrar nativos com uma forte inclinação para o passado, para a protetora imagem convencional do «lar», mais do que para enfrentar mudanças e revoluções. <br />`,
 
-      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-      -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-      -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-      -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+      `<strong><i> Os Nodos Lunares Norte e Sul </strong></i>  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+      <strong><i> O eixo Cauda / Cabeça do Dragão </strong></i>  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+      <strong><i> A Cauda do Dragão </strong></i>  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+      <strong><i> A Cabeça do Dragão </strong></i>  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
       É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-      -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Ganhar maturidade e autoridade sem perder a conexão com a criança interior e o mundo afetivo:/stron
+      <strong><i> O objetivo é equilibrar os dois: </strong></i>  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Ganhar maturidade e autoridade sem perder a conexão com a criança interior e o mundo afetivo:</strong>
       Quem tem o Nodo Sul (Cauda do Dragão) em Câncer traz memórias de muito envolvimento familiar, susceptibilidade e imaturidade emocional. Foi sensível, dependente, carente, inocente, inseguro e imaturo. Pode ter priorizado a vida em família e os cuidados com o lar, em detrimento de uma vida profissional.
       O espírito é brincalhão e amoroso. É um bom exemplo de como manter contato com a criança interior.  Mas também é fechado por causa de sua extrema sensibilidade, de sua necessidade de segurança e proteção. Valoriza muito o seu espaço e o seu cantinho.
       Traz tendência para procurar o reconhecimento dos pais ou da família, ao ponto de não reconhecer seu próprio valor. Há tendência também para haver rejeição emocional por parte da família, ou pode haver conflito entre os seus próprios desejos e os de seus familiares.
@@ -1154,11 +1085,11 @@ const data = {
       O crescimento acontece quando se eleva acima das desarmonias familiares. Sai da postura infantil, enfrenta e dizer o que pensa, sente e respeita os seus próprios sentimentos.
       Para tanto, é preciso trabalhar o apego e as dependências com a mãe ou com outros membros da família. Ao longo da vida podem acontecer separações da família, mesmo logo na infância. Pode haver desconforto emocional que leve à autonomia.
       Deve cultivar o empreendedorismo, aprender a ser independentes e a contribuir para a sociedade.
-      Dedicar-se a outras esferas da vida além do envolvimento familiar. Cultivar a liderança e seguir para o desconhecido, contribuirá para a sua maturidade e a realização de seu papel no mundo. -break`,
+      Dedicar-se a outras esferas da vida além do envolvimento familiar. Cultivar a liderança e seguir para o desconhecido, contribuirá para a sua maturidade e a realização de seu papel no mundo. <br />`,
 
       `A felicidade é, essencialmente, alcançada no lar ou em qualquer campo de atividade bem definida e focalizada. Mas, o sentimento de lar poderá ser estendido para uma nação, para uma classe social ou para uma organização religiosa.
       A satisfação normal e a facilidade de operação encontram-se onde são seguidos pontos de vista pessoais e particulares; a iluminação, porém, é alcançada por meio da identificação pessoal com algum todo maior, social ou espiritual.
-      Exemplos: Karl Marx, Mary B. Eddy, Shelley, o czar Nicolau II, Adolph Hither – e os mapas nacionais da Inglaterra e dos Estados Unidos (mapa com Sagitário ascendendo). -break`,
+      Exemplos: Karl Marx, Mary B. Eddy, Shelley, o czar Nicolau II, Adolph Hither – e os mapas nacionais da Inglaterra e dos Estados Unidos (mapa com Sagitário ascendendo). <br />`,
 
       `A ferida psicológica mais profunda está ligada ao relacionamento com a mãe na infância. Pode ter sofrido muito, devido a traumas, separações repentinas ou por ver que seu modo de expressar não era aceito por ela. Como resultado, tem dificuldade de aceitar as separações ao longo da vida.
       É muito suscetível a qualquer tipo de reprovação, teme se abrir e buscar o apoio dos outros. Contudo, tem o dom de compreender a fragilidade e o sofrimento alheio, nutrindo emocionalmente aqueles que precisam de sua ajuda.
@@ -1184,51 +1115,51 @@ const data = {
       Você deve resgatar a franqueza e a naturalidade da criança sensível que tem dentro de si. Deve descobrir a criança vulnerável e necessitada que existe em você e cuidar dela. A procura do útero acolhedor finalmente terminará quando conseguir se transformar em sua própria mãe amorosa.
       Você tem muita compaixão pelas comunidades sofredoras e se sentirá recompensado emocionalmente caso possa ajudá-los de algum modo, sente um interesse pessoal por grupos discriminados pela raça ou religião que possuem, ou que tenham passado por situações de guerra ou destruição de suas casas ou países, ou simplesmente pessoas que estão passando por situações difíceis por qualquer razão.
       Você sabe o que elas sentem como se tivesse passado por situação semelhante e procura ajudar de algum modo para sentir-se melhor. Atividades que levem a melhorar o estado de nosso planeta são favoráveis para você.
-      Exemplos: reciclagem de materiais, coletas seletivas de lixo, ecologia, melhoria das condições dos rios e mares, saneamento ou recuperação de áreas já danificadas na natureza, médico ou curador usando tratamentos de saúde naturais com plantas, minerais, música e cores. Atividades que preservam não só o planeta como os seres humanos. -break`,
+      Exemplos: reciclagem de materiais, coletas seletivas de lixo, ecologia, melhoria das condições dos rios e mares, saneamento ou recuperação de áreas já danificadas na natureza, médico ou curador usando tratamentos de saúde naturais com plantas, minerais, música e cores. Atividades que preservam não só o planeta como os seres humanos. <br />`,
 
       `O parceiro ideal é aquele que tenha interesse em construir um lar, uma família, uma casa. Que seja sensível e carinhoso. Podem ser pessoas protetoras, intimistas, caseiras ou familiares.
       De alguma forma, o relacionamento é marcado pelo zelo e pela dedicação. Um dos parceiros pode servir como pai ou mãe.
       Mas também podem ser pessoas que necessitam de muitos cuidados ou muito carentes. O casamento é vivido em clima acolhedor, a menos que suas tendências vingativas sejam estimuladas.
-      Indica uma esposa que será muito apegada a seu lar (no mapa feminino). Impacto do meio infantil inicial sobre o tipo de escolha afetiva e de casamento. -break`,
+      Indica uma esposa que será muito apegada a seu lar (no mapa feminino). Impacto do meio infantil inicial sobre o tipo de escolha afetiva e de casamento. <br />`,
 
       `Mercúrio retrógrado nesta casa indica alguém cuja mentalidade era muito infantil e voltada para o passado. Muito intuitivo, mas extremamente emotivo, o nativo era incapaz de qualquer objetividade.
       Não conseguia ter um distanciamento das suas emoções para fazer julgamentos serenos.  Sedento por segurança emocional e familiar ficava sempre a reboque das opiniões da família.
-      Na vida atual pode manifestar notáveis talentos para compreender as crianças. Mas deve crescer e amadurecer combatendo e dominando suas turbulências dramáticas e afetivas. -break`,
+      Na vida atual pode manifestar notáveis talentos para compreender as crianças. Mas deve crescer e amadurecer combatendo e dominando suas turbulências dramáticas e afetivas. <br />`,
 
       `Em Câncer, signo da tradição e da família, Vênus quando está retrógrado demora-se na infância e na imaturidade de um comportamento mais exigente de atenções do que generoso.
       Muito dependente das suas experiências anteriores, o nativo procura reconstituir sua família de uma encarnação precedente.
       Essa posição de Vênus indica um \"complexo de Édipo\" tanto mais difícil de liquidar quanto é herdado de uma vida passada.
       O nativo se esforça para reconstituir sua vida presente sobre o modelo das suas infâncias passadas: quer amar sem correr riscos.
-      Poderá se libertar quando amadurecer as suas emoções e assumir a fundo a sua paternidade (ou maternidade). -break`,
+      Poderá se libertar quando amadurecer as suas emoções e assumir a fundo a sua paternidade (ou maternidade). <br />`,
 
       `O dinamismo do nativo está bloqueado por sua emotividade. É muito infantil, se vê como uma criança.
       A motivação profunda de suas iniciativas e atitudes é procurar proteção. É atraído por pessoas mais velhas do sexo oposto.
       Tendo-se refeito mal dos traumas da juventude (vivenciados em vidas passadas), tende a recriar o mundo à imagem de sua família passada.
-      Deve agora amadurecer, melhorar o equilíbrio e o controle emocional para obter harmonia no lar. -break`,
+      Deve agora amadurecer, melhorar o equilíbrio e o controle emocional para obter harmonia no lar. <br />`,
 
       `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
       O nativo foi ingênuo em vidas passadas. Tomou-se inocentemente por uma garota bem simples, ou por um bom moço sem complicações, sem ter a menor noção dos abismos de perversidade contidos em todo o ser humano!
       A sua ideia da verdade é mais emocional do que objetiva. Permanece por muito tempo sequioso de segurança afetiva e passa por conflitos interiores que é incapaz de analisar.
-      Nesta vida deve amadurecer. Superar carências e emoções infantis para viver num plano mais prático, realista e objetivo. -break`,
+      Nesta vida deve amadurecer. Superar carências e emoções infantis para viver num plano mais prático, realista e objetivo. <br />`,
 
       `O nativo progride e amadurece lentamente, pois está muito apegado às suas emoções passadas.
       A sua intensa necessidade de proteção o faz procurar contato com uma figura paternal, por quem pode sentir uma afeição apaixonada e exclusiva.
       Em vidas passadas pode ter vivido sob o abrigo, a proteção ou a autoridade de um antigo pai, patrão ou chefe. Na vida atual tem medo de sair da concha e teme não ser aceito pelos outros.
       Só se interessa pelas pessoas mais jovens na medida em que possa ligá-las ao passado, à sua infância, ou à pessoa que ama como pai.
       Pode ser incapaz de apreciar algumas coisas sozinho, e por isso mesmo é preciso novas referências!
-      O seu carma atual é amadurecer as emoções, ganhar autossuficiência, descobrir em si mesmo a segurança, a estrutura, a responsabilidade. -break`,
+      O seu carma atual é amadurecer as emoções, ganhar autossuficiência, descobrir em si mesmo a segurança, a estrutura, a responsabilidade. <br />`,
 
       `Esta posição planetária indica certa desarmonia afetiva. O nativo fica dilacerado entre a sua necessidade infantil de proteção materna e a busca uraniana da liberdade.
       Toda vez que tenta escapar da dominação familiar, para enfim se libertar, experimenta um certo sentimento de frustração. Retorna, então, à família (não sem perceber que a liberdade lhe ensinou muito!).
       Há tendência de reprimir sentimentos e emoções. É preciso desenvolver autonomia afetiva, para que seus sentimentos se desenvolvam.
-      O seu carma é aprender na vida atual que a afeição aos seus familiares e às suas relações íntimas não deve impedi-lo de crescer. O nativo deve conquistar de qualquer maneira a liberdade de que necessita. -break`,
+      O seu carma é aprender na vida atual que a afeição aos seus familiares e às suas relações íntimas não deve impedi-lo de crescer. O nativo deve conquistar de qualquer maneira a liberdade de que necessita. <br />`,
 
       `Esta posição planetária indica um carma familiar no qual o lar se dissolve sem que o interessado compreenda muito bem por quê: desaparecimento dos pais, fuga de um dos cônjuges, escapadas ou fuga dos filhos.
       O nativo se apegava choramingando a uma situação sem esperança, assumindo uma atitude de vítima (que não o faz progredir nada).
       Foi assim que se viram viúvas ou mães que haviam perdido um filho instalar-se para o resto da vida num luto permanente (particularmente depois da Grande Guerra de 1914-1918).
       Ou ainda, pessoas abandonadas pelo cônjuge, que se recusam a tentar compreender por que, dizendo: \"Quanto a mim, sempre fui um perfeito esposo (ou esposa)!\"
       Netuno retrógrado em Câncer indica um carma no qual o nativo deveria apren¬der a reconsiderar seus laços familiares sem sentimento de posse.
-      Aprender a amar os seus com desprendimento, procurar as razões espirituais e cármicas de seu afastamento. Só uma atitude espiritual dinâmica pode ajudar a liquidar os carmas de Netuno retrógrado. -break`,
+      Aprender a amar os seus com desprendimento, procurar as razões espirituais e cármicas de seu afastamento. Só uma atitude espiritual dinâmica pode ajudar a liquidar os carmas de Netuno retrógrado. <br />`,
 
       `Plutão em Câncer leva o nativo a refletir mais sobre a vida privada e familiar. Os primeiros líderes da ecologia, pertencentes a esta geração, questionam se o progresso técnico realmente melhora a qualidade de vida, à qual são mais sensíveis do que seus pais.
       A passagem de Plutão em Câncer coincidiu com um aumento do divórcio. Mas o casamento, tal como era concebido no século XIX, tinha dado margem a tais abusos de poder e encoberto tantos dramas (em nome dos princípios sacrossantos) que era fatal chegar-se a uma rejeição dele, ou então a uma explosão: o papel de Plutão é o de eliminar as escórias.
@@ -1238,7 +1169,7 @@ const data = {
       Ela permitirá aos nativos descobrir que, muito provavelmente, seu cônjuge, assim como seus pais e seus filhos, já o foram numa outra vida!
       Simbolizando Câncer a família, e Plutão o \"retorno das coisas\", trata-se aqui da volta das entidades de outrora a esta vida. Plutão retrógrado indica mais particularmente a volta do mesmo lar e dos mesmos filhos.
       Nem sempre se trata de uma dívida - mas de pessoas que se amaram e se reencarnaram juntas para se ajudar mutuamente.
-      Tal é o caso dos irmãos gêmeos, por exemplo, segundo a Tradição, que resolvem nascer juntos para não serem separados. -break`,
+      Tal é o caso dos irmãos gêmeos, por exemplo, segundo a Tradição, que resolvem nascer juntos para não serem separados. <br />`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
       A ferida psicológica mais profunda está ligada ao relacionamento com a mãe na infância. Pode ter sofrido muito, devido a traumas, separações repentinas ou por ver que seu modo de expressar não era aceito por ela.
@@ -1269,83 +1200,60 @@ const data = {
       Sente um interesse pessoal por grupos discriminados pela raça ou religião que possuem, ou que tenham passado por situações de guerra ou destruição de suas casas ou países, ou simplesmente pessoas que estão passando por situações difíceis por qualquer razão.
       Você sabe o que elas sentem como se tivesse passado por situação semelhante e procura ajudar de algum modo para sentir-se melhor.
       Atividades que levem a melhorar o estado de nosso planeta são favoráveis para você, como por exemplo, reciclagem de materiais, coletas seletivas de lixo, ecologia, melhoria das condições dos rios e mares, saneamento ou recuperação de áreas já danificadas na natureza.
-      Pode encontrar a sua felicidade em profissões como médico ou curador usando tratamentos de saúde naturais com plantas, minerais, música e cores, e muitas outras atividades que preservam não só o planeta como os seres humanos. -break`,
+      Pode encontrar a sua felicidade em profissões como médico ou curador usando tratamentos de saúde naturais com plantas, minerais, música e cores, e muitas outras atividades que preservam não só o planeta como os seres humanos. <br />`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
       É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
       Esta é uma esposa que será muito apegada a seu lar (no mapa feminino). A menos que suas tendências vingativas sejam estimuladas. Impacto do meio infantil inicial sobre o tipo de escolha afetiva e de casamento.
       Costuma valorizar as suas alegrias afetivas íntimas. Decoração do lugar onde mora com o gosto bem personalizado. Relação cármica entre uma união desta vida atual e outra, de uma vida passada.
-      Mas atenção ao considerar esta possibilidade! No mapa de um homem, escolha de uma esposa com características muito maternais e protetoras, mas verificar a posição e os aspectos de sua Lua Natal. -break`,
+      Mas atenção ao considerar esta possibilidade! No mapa de um homem, escolha de uma esposa com características muito maternais e protetoras, mas verificar a posição e os aspectos de sua Lua Natal. <br />`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma /stron (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-        `-stron 1º nível de evolução: /stron`,
+        `<strong> 1º nível de evolução: </strong>`,
 
-        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade. -break`,
+        `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade. <br />`,
 
-        `- stron2º nível de evolução: /stron`,
+        `<strong>2º nível de evolução: </strong>`,
 
-        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais. -break`,
+        `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais. <br />`,
 
-        `-stron 3º nível de evolução: /stron`,
+        `<strong> 3º nível de evolução: </strong>`,
 
-        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. -break`
+        `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Ganhar maturidade e autoridade sem perder a conexão com a criança interior e o mundo afetivo: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Ganhar maturidade e autoridade sem perder a conexão com a criança interior e o mundo afetivo: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `leao`,
+    title: `leao</strong>`,
     text: [
       `Leão é um signo de Fogo, está relacionado ao entusiasmo e poder de liderança. Quem nasce com o Sol em Leão é portador de uma força comparável aos planetas que giram em volta do Sol.
       Suas atitudes refletem seu potencial luminoso, confiante e criativo. Seu reino é o reino do coração, das emoções e dos sentimentos dramáticos.
@@ -1362,7 +1270,7 @@ const data = {
       Devem controlar a autoexigência e a vaidade excessiva, a prepotência, o medo de perder e de errar. Seu símbolo é associado à luz, portanto, o obscuro gera temor.
       Devem aprender a olhar e investigar o que existe por trás dos refletores para que possam complementar sua personalidade forte com mais fé e menos medo de falhar.
       O equilíbrio está no signo oposto, Aquário, que traz as lições de humildade, fraternidade, altruísmo, trabalho em equipe.
-      Para tal, é necessário descer do seu próprio trono, servir à coletividade e conceder a liberdade na medida justa. -break`,
+      Para tal, é necessário descer do seu próprio trono, servir à coletividade e conceder a liberdade na medida justa. <br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
       É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -1380,7 +1288,7 @@ const data = {
       Algumas vezes seu desejo de ser adulado e mimado se manifesta como vaidade infantil. A tendência à dramatização seria insuportável se não fosse sincero em seus esforços de autoaperfeiçoamento.
       A sua necessidade de amar e ser amadas é um impulso emocional saudável e na maioria dos casos contribui para um temperamento alegre e uma expressão construtiva.
       Quem tem esta posição da Lua deseja que os seus filhos estejam sempre bem arrumados e que o seu lar seja uma exposição de beleza e arte.
-      O desafio é aprender a dominar seu orgulho, cultivar um coração generoso, aprender a ceder e a reconhecer quando está errado. -break`,
+      O desafio é aprender a dominar seu orgulho, cultivar um coração generoso, aprender a ceder e a reconhecer quando está errado. <br />`,
 
      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
       O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -1389,12 +1297,12 @@ const data = {
       O mundo, os outros e as circunstâncias em geral podem ser vistos como um grande palco onde a individualidade vai manifestar-se de forma brilhante e poderosa.
       A pessoa com este ascendente tende a dominar as situações com a sua projeção carismática e sua autopromoção.
       O cuidado deve ser para não se tornar autoritário, egocêntrico, orgulhoso ou arrogante. Algumas vezes evita enfrentar situações ou provas para não vivenciar a sensação de erro.
-      -stron É importante dar vazão ao seu potencial criativo e ao seu poder pessoal para não se tornar amargurado ou cínico por não ser reconhecido./stron
+      <strong> É importante dar vazão ao seu potencial criativo e ao seu poder pessoal para não se tornar amargurado ou cínico por não ser reconhecido.</strong>
       Ao longo da vida, esta forte expressão tende a ser posta em prova e a se modificar. Na maturidade, poderá deixar de encarar a vida como um grande palco e passar a vê-la como uma oportunidade criativa.
       Assim, as manifestações pomposas e gratuitas dão lugar a uma atitude verdadeiramente generosa, desinteressada e vitalizante.
       Poderá irradiar calor generoso, cura e energia vital para aqueles que merecem. Leão é associado ao coração, ao centro do corpo, com grande potencial amoroso.
       O aspecto físico ligado a este ascendente e associado a uma atitude naturalmente altiva, quase régia, e a uma cabeleira bonita, volumosa, tipo "juba de leão".
-      Como os olhos são vivos e brilhantes as suas atitudes poderosas costumam chamar a atenção. -break`,
+      Como os olhos são vivos e brilhantes as suas atitudes poderosas costumam chamar a atenção. <br />`,
 
       `Mercúrio no signo de Leão indica uma mente que possui uma vontade forte e um propósito firme.
       Os nativos com esta posição são capazes de concentração dirigida, o que confere energia e força de vontade. Gosta de ser considerado como uma autoridade nas áreas em que escolheu para atuar.
@@ -1404,7 +1312,7 @@ const data = {
       Pode também existir tendência a ignorar as coisas que não se relacionam com o foco de interesse imediato. Como Leão é um signo fixo, as opiniões são formadas lentamente e modificadas com relutância.
       Os nativos possuem continuidade de planejamento e propósitos, o que lhes oferece capacidade executiva. Há também habilidade para o ensino e o trabalho no desenvolvimento intelectual das crianças.
       O teatro, investimentos, Bolsa de Valores, educação, entretenimento e atividades artísticas são prováveis áreas de interesse especial.
-      Esta posição de Mercúrio também pode combinar as viagens de passeio com as viagens de trabalho. -break`,
+      Esta posição de Mercúrio também pode combinar as viagens de passeio com as viagens de trabalho. <br />`,
 
       `O nativo com Vênus em Leão é muito ardente nas relações amorosas e precisa da admiração do seu parceiro para se sentir realmente amado.
       O seu afeto é sincero, mas requer uma atenção sem limite, mimos e presentes que o faça sentir exclusivo e único. Quem nasce com esse posicionamento no mapa gosta de brilhar.
@@ -1415,7 +1323,7 @@ const data = {
       Quem possui essa Vênus sente atração pelo luxo e pelo belo. Apaixona-se por pessoas que demonstram força e autoridade. Não pode amar sem admirar.
       Pode demonstrar uma vaidade exagerada e gostar demais dos prazeres mundanos, parecendo frívolo e superficial. Exigente, rende-se somente àquele amor que se ajoelhar aos seus pés.
       Gostam sempre de manter o comando na relação e usam do seu magnetismo para fazer valer suas vontades. Feitas as ressalvas, sua disposição para apaixonar-se, amar e namorar é grande.
-      Quando está apaixonado, se entrega de corpo e alma. Pode dedicar um amor generoso e devotado e fiel, fazendo de tudo para oferecer o melhor de si ao seu parceiro. -break`,
+      Quando está apaixonado, se entrega de corpo e alma. Pode dedicar um amor generoso e devotado e fiel, fazendo de tudo para oferecer o melhor de si ao seu parceiro. <br />`,
 
       `O nativo com Vênus em Leão é muito ardente nas relações amorosas e precisa da admiração do seu parceiro para se sentir realmente amado.
       O seu afeto é sincero, mas requer uma atenção sem limite, mimos e presentes que o faça sentir exclusivo e único. Quem nasce com esse posicionamento no mapa gosta de brilhar.
@@ -1426,13 +1334,13 @@ const data = {
       Quem possui essa Vênus sente atração pelo luxo e pelo belo. Apaixona-se por pessoas que demonstram força e autoridade. Não pode amar sem admirar.
       Pode demonstrar uma vaidade exagerada e gostar demais dos prazeres mundanos, parecendo frívolo e superficial. Exigente, rende-se somente àquele amor que se ajoelhar aos seus pés.
       Gostam sempre de manter o comando na relação e usam do seu magnetismo para fazer valer suas vontades. Feitas as ressalvas, sua disposição para apaixonar-se, amar e namorar é grande.
-      Quando está apaixonado, se entrega de corpo e alma. Pode dedicar um amor generoso e devotado e fiel, fazendo de tudo para oferecer o melhor de si ao seu parceiro. -break`,
+      Quando está apaixonado, se entrega de corpo e alma. Pode dedicar um amor generoso e devotado e fiel, fazendo de tudo para oferecer o melhor de si ao seu parceiro. <br />`,
 
       `O nativo é ambicioso, desejoso de poder, liderança, dignidade, luxo e exibicionismo. Está capacitado para as atividades ou tarefas públicas. Serve para mandar ou dirigir.
       Pode se destacar como diretor, presidente, empresário, chefe ou capataz. As especulações ou investimentos e as atividades financeiras podem render-lhe bons dividendos.
       Chegará a fazer fortuna se controlar o seu orgulho e os seus excessivos anseios de poder.
       Gosta de utilizar seu tempo livre praticando esportes ou alguma atividade artística. Possui uma forte constituição física e uma grande vitalidade que inspira confiança e respeito.
-      Atribui grande importância à posição social e às honrarias. No afeto, é profundo, sincero e honesto. -break`,
+      Atribui grande importância à posição social e às honrarias. No afeto, é profundo, sincero e honesto. <br />`,
 
       `Saturno no signo de Leão oferece aos nativos uma necessidade de se sentirem importantes e reconhecidos.
       Há também um forte desejo de controlar o ambiente. Assim, procuram atingir posições de poder e liderança.
@@ -1442,7 +1350,7 @@ const data = {
       Os pais com esta posição de Saturno geralmente podem ser severos e rigorosos disciplinadores com os seus filhos.
       Pode haver desilusões no amor ou problemas com os filhos, bem como perdas por intermédio de especulações financeiras.
       Saturno rege o senso prático, a valorização das leis universais, os princípios de responsabilidade social e de justiça. Essas leis não devem ser distorcidas pelo egoísmo e pelo desejo de poder.
-      Portanto, esta posição pode indicar nativos que precisam desenvolver um conjunto de valores adequado para lidar com o amor, o romance, a generosidade, as crianças e a expressão criativa. -break`,
+      Portanto, esta posição pode indicar nativos que precisam desenvolver um conjunto de valores adequado para lidar com o amor, o romance, a generosidade, as crianças e a expressão criativa. <br />`,
 
       `Urano no signo de Leão indica uma geração de pessoas que procuram liberdade no amor e no romance.
       As suas ideias sobre namoro e sexo podem desviar-se dos padrões morais tradicionais, e provavelmente acreditam no amor livre.
@@ -1450,26 +1358,26 @@ const data = {
       Os nativos com esta posição procuram criar um tipo original de expressão para se destacarem em seus esforços. Podem desenvolver novos conceitos em arte, música e teatro.
       Ao invés de se ajustarem aos padrões da sociedade em que vivem, preferem criar os seus próprios padrões. Mas existe o perigo de vaidade com esta posição, pois Urano está em detrimento no signo de Leão.
       Portanto, os nativos deveriam se envolver mais em questões de interesse social ou universal, em detrimento de questões pessoais.
-      Os nativos podem ser teimosos, têm dificuldade para se comprometer ou colaborar com os outros. No seu pior, insistirão em fazer as coisas à sua maneira, a ponto de se recusarem a colaborar. -break`,
+      Os nativos podem ser teimosos, têm dificuldade para se comprometer ou colaborar com os outros. No seu pior, insistirão em fazer as coisas à sua maneira, a ponto de se recusarem a colaborar. <br />`,
 
       `Indica uma geração com grande talento artístico e musical, especialmente interessada no teatro e nas artes interpretativas.
       Com grande necessidade de expressar-se livremente e de brilhar, ser famoso, original. Também inclinada para o romantismo e o idealismo no amor.
       Uma geração de conquistadores e de divas. Por isso, foi neste momento que o cinema alcançou um auge grandioso e nasceu ali pela primeira vez, o mito das grandes estrelas, tal como Rodolfo Valentino.
       Mas é também o período que conduziu o mundo para a crise e a depressão da economia internacional, devido a uma falsa noção de prosperidade.
-      O lado negativo de Netuno traduz-se em desilusões amorosas e problemas na relação com os filhos. -break`,
+      O lado negativo de Netuno traduz-se em desilusões amorosas e problemas na relação com os filhos. <br />`,
 
       `Este período esteve marcado pelo egoísmo, pelo orgulho e pelo desejo de poder dos dirigentes das nações. Os jovens desta geração são os primeiros que, em grande escala, podem ir para a universidade.
       Isso se nota anos mais tarde, na rebeldia perante uma forma de vida carente de sentido. A geração com Plutão em Leão se torna consciente da sua individualidade. A expressão do ego é imperiosa.
       A necessidade de manifestar a própria individualidade, de se projetar e de criar a partir de si mesmo, a resistência por qualquer tipo de norma, controle e poder, estavam em clara oposição à situação em geral, manipulada por toda a espécie de ditadores, tanto na esfera econômica como na política. A geração com Plutão em Leão quebrou todas as regras e se elegeu líder da mesma.
-      Os “teenagers” (adolescentes como fenômeno social diferenciado) e a ampla gama de movimentos dos anos sessenta e setenta, desde os “rockers” aos “beatniks”, deixaram uma marca indelével na história. -break`,
+      Os “teenagers” (adolescentes como fenômeno social diferenciado) e a ampla gama de movimentos dos anos sessenta e setenta, desde os “rockers” aos “beatniks”, deixaram uma marca indelével na história. <br />`,
 
-      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-      -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-      -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-      -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+      `<strong><i> Os Nodos Lunares Norte e Sul </strong></i>  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+      <strong><i> O eixo Cauda / Cabeça do Dragão </strong></i>  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+      <strong><i> A Cauda do Dragão </strong></i>  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+      <strong><i> A Cabeça do Dragão </strong></i>  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
       É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-      -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender o significado de humildade e a trabalhar em grupo, sem perder o brilho interior:/stron
+      <strong><i> O objetivo é equilibrar os dois: </strong></i>  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender o significado de humildade e a trabalhar em grupo, sem perder o brilho interior:</strong>
       Quem tem o Nodo Sul (Cauda do Dragão) em Leão traz memórias de poder, palco e holofotes. De ter sido importante ou ter vivido em posições de destaque. É orgulhoso, dominador, egocêntrico, sedutor, charmoso e jogador.
       Faz tudo para ser admirado, reconhecido, aplaudido, venerado e amado. Traz tendência para exagerar a sua importância e a sua superioridade com poder e ostentação. Com exagerado romantismo e ideal de nobreza, é centrado nos seus desejos.
       Dá importância à imagem, à marca e ao status, em detrimento da vida interior. Traz tendência também para julgar facilmente os outros pela aparência superficial, sem levar em conta o seu interior.
@@ -1478,11 +1386,11 @@ const data = {
       Deve aprender a sair do palco e a juntar-se aos outros. Trabalhar em equipe e ser apenas mais um num mundo de iguais. Aprender a desenvolver o espírito humanitário de igualdade e de solidariedade. Aprender a ganhar simplicidade, compaixão e empatia para com os outros.
       Vencer a necessidade de impressionar os outros e agir por amor próprio e autoestima, sem necessidade de audiência. Aprender a conviver com as pessoas, com a consciência de que cada um tem o seu próprio brilho e é especial à sua maneira.
       Ao mesmo tempo, valorizar suas capacidades criativas. Reconhecer que a rejeição dos outros e as propostas de solidão levam ao mergulho interior para que possa reencontrar os seus talentos adormecidos.
-      O crescimento acontece através das associações com base na partilha mútua, com o envolvimento e a dedicação em causas maiores, coletivas, consciente de que pertence a uma grande família. -break`,
+      O crescimento acontece através das associações com base na partilha mútua, com o envolvimento e a dedicação em causas maiores, coletivas, consciente de que pertence a uma grande família. <br />`,
 
       `Para se sentir a vontade, irradiante e feliz, o indivíduo deve-se expressar emocionalmente e projetar seus sentimentos pessoais em tudo o que toca. Deve ter também alguém a quem possa impressionar.
       A felicidade transforma-se em alegria criativa a medida que a pessoa serve a grandes ideais e a energia criativa é canalizada e sublimada em criações, invenções ou visões que têm importância coletiva.
-      Exemplos: Oliver Cromwell, Victor   Hugo, Sigmund Freud, Pierre Curie, Adolf Shoenberg, Keyserling, Lenin, Benes, Presidente Johnson. -break`,
+      Exemplos: Oliver Cromwell, Victor   Hugo, Sigmund Freud, Pierre Curie, Adolf Shoenberg, Keyserling, Lenin, Benes, Presidente Johnson. <br />`,
 
       `O bloqueio da capacidade de autoexpressão e da criatividade na infância podem levá-lo a ter falta de confiança ao se expressar, ao mesmo tempo em que, inconscientemente, deseja brilhar.
       Em muitos casos, pode ter sido forçado a abrir mão de uma carreira artística promissora, mas encontra compensação para este sofrimento ao incentivar o talento dos outros.
@@ -1505,45 +1413,45 @@ const data = {
       A jornada para encontrar a espontaneidade que perdeu pode exigir certa ousadia: a arte dramática, o canto ou o desenho livre podem ajudar a restabelecer sua autoapreciação. Mas lembre-se, não faça nada disso para impressionar os outros, apenas para se divertir e deixar a criança interna vir à tona.
       Você deve aceitar a criança aparentemente inútil que existe dentro de você, pois é sua parte desajeitada, inadequada e ingênua, sua parte inferior e infantil.
       Você pode se redimir se entrar em contato com experiências passadas de fracasso, rejeição e sofrimento e as aceitar, pois virá junto um sentimento de aceitação de si mesmo, de compaixão por você e pelos outros.
-      A criança dentro de você está viva e precisa de espaço para trazer alegria e felicidade para sua vida. -break`,
+      A criança dentro de você está viva e precisa de espaço para trazer alegria e felicidade para sua vida. <br />`,
 
       `O parceiro ideal é aquele que demonstre interesse por atividades artísticas e criativas, que seja divertido e brincalhão.
       O casal pode ser formado por pessoas belas ou exuberantes, que chamam muita atenção e que estejam sempre se expondo publicamente de forma positiva ou negativa.
       Um casal para frente dos holofotes, que compartilhem seu espírito de liderança. Mas também pode ser pessoas muito egocêntricas, exigentes ou muito imaturas.
-      De qualquer maneira, o casamento ideal é caloroso e dinâmico, onde há amor e paixão. A fertilidade e a criatividade para filhos e projetos em comum estão favorecidas. -break`,
+      De qualquer maneira, o casamento ideal é caloroso e dinâmico, onde há amor e paixão. A fertilidade e a criatividade para filhos e projetos em comum estão favorecidas. <br />`,
 
       `Abusando a todo instante do pronome "eu" (ou da expressão: "quanto a mim”), o nativo utilizava o poder da palavra (escrita ou falada) para submeter os outros ao seu poder.
       Orgulhoso, nutria inveja secreta das proezas dos outros. Esse despeito se manifestava por palavras ou por escritos críticos.
       Considerava-se um gênio e ai de quem cometesse o crime de contrariá-lo, ou de não aplaudi-lo. Na vida atual deve controlar seu orgulho e cultivar humildade.
-      Deve aprender a pedir aos outros, aquilo que necessita (particularmente, conselhos). A reconhecer seus erros e aceitar ser criticado sem se zangar. -break`,
+      Deve aprender a pedir aos outros, aquilo que necessita (particularmente, conselhos). A reconhecer seus erros e aceitar ser criticado sem se zangar. <br />`,
 
       `Em suas vidas passadas, o nativo ficava constantemente preocupado em deslumbrar as suas futuras conquistas, daí uma busca de luxo, de dinheiro, de esnobismo.
       Na sua intimidade, fazia medo aos que você amava, por que talvez foi uma pessoa muito autoritária.
       Superprotetor você queria assumir tudo. Pode demonstrar uma vaidade exagerada e gostar demais dos prazeres mundanos, parecendo frívolo e superficial.
       Exigente, rende-se somente àquele amor que se ajoelhar aos seus pés. Gostam sempre de manter o comando na relação e usam do seu magnetismo para fazer valer suas vontades.
       Deve agora ser mais generoso, procurar relações simples e amistosas com o ser amado, deixando-lhe o direito de existir por si mesmo.
-      Deve ser devotado e fiel, fazendo de tudo para oferecer o melhor de si ao seu parceiro e a relação.  -break`,
+      Deve ser devotado e fiel, fazendo de tudo para oferecer o melhor de si ao seu parceiro e a relação.  <br />`,
 
       `Em vidas passadas, o nativo manipulou as pessoas sem se dar conta dos efeitos de sua força. Foi orgulhoso, imprudente, imediatista e egoísta em suas relações amorosas.
       Nesta vida deve cultivar humildade para pedir mais conselhos e ouvi-los. Que não se deixe levar por seu gosto de poder, herdado de outras vidas.
-      Que aprenda a perder, sem disso fazer um drama. Que cultive mais tolerância e aceite que os outros ajam a seu modo. -break`,
+      Que aprenda a perder, sem disso fazer um drama. Que cultive mais tolerância e aceite que os outros ajam a seu modo. <br />`,
 
       `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
       Com Júpiter retrógrado neste signo, o nativo se crê habilitado a distribuir lições de moral à sua volta, pois cultiva uma elevada opinião sobre si mesmo.
       Não ouvindo nenhum conselho, um dia será obrigado a perceber que, por vezes, os outros têm razão. Gosta de exibir seu poder e suas realizações para bem mostrar sua importância.
-      O seu programa cármico: trabalhar o orgulho e cultivar humildade. Admitir que as opiniões dos outros, diferentes das suas, podem por vezes ser válidas! -break`,
+      O seu programa cármico: trabalhar o orgulho e cultivar humildade. Admitir que as opiniões dos outros, diferentes das suas, podem por vezes ser válidas! <br />`,
 
       `Tudo para a plateia: o nativo só se sente "alguém" através de aplausos, da aprovação dos outros.
       A fim de atingir esse objetivo, assume as responsabilidades, mas tende a se mostrar muitas vezes dominador.
       Confunde um pouco seu direito e seu poder, tende a distorcer as leis a seu favor. Enérgico, realista, corajoso e rígido no combate, pode se tornar um excelente líder.
       Com a condição de saber respeitar honestamente os direitos de todos. O nativo deve aprender a assumir responsabilidades para servir aos outros, e não para sua própria satisfação.
-      Nesta vida pode se engajar numa grande causa social, política ou humanitária. Essa motivação profunda é, na verdade, o seu próprio benefício. -break`,
+      Nesta vida pode se engajar numa grande causa social, política ou humanitária. Essa motivação profunda é, na verdade, o seu próprio benefício. <br />`,
 
       `Enérgico, perfeitamente capaz de se assumir, Urano retrógrado em Leão indica um chefe nato. Segue seu caminho de cabeça erguida e seguro de si.
       Mas seu ponto fraco é que não escuta ninguém. Apega-se muito às próprias ideias. Originais, é verdade, mas há tendência para agredir os que as contestam.
       Como acontece frequentemente com o signo de Leão, manipula os que o cercam para garantir o poder. Sua sede ilimitada de poder e seu temível carácter possessivo provêm devidas passadas.
       Os nativos podem ter colocado os seus seguidores constantemente à prova para verificar sua fidelidade e a lealdade, muitas vezes através do medo e da insegurança.
-      Na vida atual, a posição de Urano o ajudará a melhorar essa atitude autoritária. O nativo compreenderá que a necessidade de liberdade que sente também existe nos outros e deve ser respeitada. -break`,
+      Na vida atual, a posição de Urano o ajudará a melhorar essa atitude autoritária. O nativo compreenderá que a necessidade de liberdade que sente também existe nos outros e deve ser respeitada. <br />`,
 
       `Num primeiro momento, o nativo corria atrás de tudo o que brilha: títulos ruidosos, belas relações, habitações suntuosas, luxo.
       Mas o nativo passou por desilusões e dissabores que, num segundo momento, podem tê-los feito abrir os olhos para ver que nem tudo que brilha é ouro.
@@ -1552,7 +1460,7 @@ const data = {
       Armadilha para pássaros, na qual muitos perderam as asas! Quantas estrelas deslumbrantes não morreram na miséria e na decadência?
       O luxo e o ouro são buscados como prova de poder: "exibe-se" o máximo possível.
       Os nativos poderiam ter abrandado suas decepções utilizando o dinheiro e as amizades - nos períodos faustosos - para ajudar realmente os necessita¬dos.
-      Poderiam utilizar a inspiração de Netuno em Leão para a criação artística e colocar as potencialidades do dinheiro a serviço dos mais pobres. -break`,
+      Poderiam utilizar a inspiração de Netuno em Leão para a criação artística e colocar as potencialidades do dinheiro a serviço dos mais pobres. <br />`,
 
       `Os nativos dessa geração têm a tendência de se afirmar. Comportam-se de maneira muito autoritária.
       Marcada pela guerra e pelo pós-guerra, essa geração usou os poderes criativos e realizadores de Leão para reconstruir.
@@ -1564,7 +1472,7 @@ const data = {
       Nos melhores casos, uma aptidão para gerir, para dirigir e para proteger generosamente os mais fracos.
       O nativo não hesitará em provocar revoltas e revoluções para destruir as estruturas que lhe parecem malsãs. Reconstruirá uma hierarquia dos poderes mais de acordo com o que lhe parece justiça.
       Caso abuse do poder, pode esperar ser violentamente contestado. Os plutonianos retrógrados de Leão respeitam o poder, se julgam que ele é justo. Senão, deve ser substituído. Não podemos deixar de lhes dar razão nessa perspectiva de justiça.
-      Entretanto, alguns julgam também que tal poder é "injusto", porque não está em suas mãos. Então, um poder sucede a outro, e os administrados não veem progresso. Plutão retrógrado em Leão indica um programa cármico de reflexão sobre a autoridade. -break`,
+      Entretanto, alguns julgam também que tal poder é "injusto", porque não está em suas mãos. Então, um poder sucede a outro, e os administrados não veem progresso. Plutão retrógrado em Leão indica um programa cármico de reflexão sobre a autoridade. <br />`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
       O bloqueio da capacidade de auto expressão e da criatividade na infância, o levarão a ter falta de confiança ao se expressar, ao mesmo tempo em que, inconscientemente, desejará brilhar.
@@ -1591,7 +1499,7 @@ const data = {
       Você pode se redimir se entrar em contato com experiências passadas de fracasso, rejeição e sofrimento e as aceitar, pois virá junto um sentimento de aceitação de si mesmo, de compaixão por você e pelos outros.
       A criança dentro de você está viva e precisa de espaço para trazer alegria e felicidade para sua vida.
       Pode ocorrer de ter comportamento sexual incomum, ou preferir abster-se sexualmente fugindo ou negando para si mesmo suas necessidades sexuais.
-      O importante aqui é aprender a amar de corpo e alma, pois integrando a capacidade a amar física e espiritual você poderá chegar à plenitude almejada. -break`,
+      O importante aqui é aprender a amar de corpo e alma, pois integrando a capacidade a amar física e espiritual você poderá chegar à plenitude almejada. <br />`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
       É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
@@ -1599,78 +1507,55 @@ const data = {
       Capacidades e dons artísticos se Vênus, o Sol ou a Lua também mostram essas tendências. Proteção na procriação, que será vista por ela como sua “obra”, “foi feito por mim”.`
     ],
     levels: [
-        `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-        `-stron 1º nível de evolução:/stron`,
+        `<strong> 1º nível de evolução:</strong>`,
 
-        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. -break`,
+        `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. <br />`,
 
-        `-stron 2º nível de evolução:/stron`,
+        `<strong> 2º nível de evolução:</strong>`,
 
-        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. -break
-        A criatividade se manifesta quando busca a sua identidade através da transformação da matéria. -break`,
+        `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. <br />
+        A criatividade se manifesta quando busca a sua identidade através da transformação da matéria. <br />`,
 
-       `-stron 3º nível de evolução:/stron`,
+       `<strong> 3º nível de evolução:</strong>`,
 
-        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original. -break`
+        `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender o significado de humildade e a trabalhar em grupo, sem perder o brilho interior: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender o significado de humildade e a trabalhar em grupo, sem perder o brilho interior: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `virgem`,
+    title: `virgem</strong>`,
     text: [
       `Virgem é um signo do elemento Terra. Critério, discernimento e eficiência são palavras-chave.
-      Com a energia prática do Sol em Virgem, pode aprimorar técnicas de trabalho, incrementar serviços, organizar a rotina, cuidar melhor da alimentação, da saúde, do equilíbrio do corpo e das emoções, em nome de mais qualidade de vida.
+      Com a energia prática do Sol em Virgem, pode aprimorar técnicas de trabalho, incrementar serviços, organizar a rotina, cuidar melhor da alimentação, da saúde, do equilíbrio do corpo e das emoções, em nome de mais qualidade de vida.<br /><br />
       O virginiano está atento aos detalhes. Gosta de se sentir útil, de prestar serviços, cumprir prazos, formatar projetos, analisar, planejar, pensar, repensar e incrementar.
       Virgem é o "ver para crer". O trabalhador metódico e eficiente lança mão da pesquisa, da investigação, da curiosidade e da flexibilidade.
       Esse talento é usado para criar práticas metodológicas com mais precisão e racionalidade.
@@ -1686,7 +1571,7 @@ const data = {
       É preciso cuidar para não se tornar crítico demais, cético e racional demais, cheio de manias ou até mesmo hipocondríaco.
       Ao julgar, classificar, compartimentar, pode ficar preso em detalhes e perder a visão do todo. Podem trabalhar demais e se esquecer do prazer. A vida pode ficar cinza, monótona e sem graça.
       É preciso cultivar autoestima. A magia, o encantamento, o romantismo, a imaginação, a fantasia, a transcendência e a espiritualidade estão lá do outro lado, em Peixes.
-      Virgem é o fio-terra de Peixes e Peixes é a inspiração que falta para Virgem. Eis o caminho do meio! -break`,
+      Virgem é o fio-terra de Peixes e Peixes é a inspiração que falta para Virgem. Eis o caminho do meio! <br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
       É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -1702,7 +1587,7 @@ const data = {
       Não faz perguntas pessoais, a menos que seja necessário. É curioso, porém, somente em relação ao seu trabalho ou às questões práticas. Costuma ser crítico consigo mesmo e pode ser com os outros.
       Pode haver uma preocupação excessiva com detalhes irrelevantes, uma atitude de crítica e censura. O perfeccionismo nos detalhes pode torná-lo cego para questões mais amplas.
       É preciso aprender a perdoar as falhas, tanto as suas quanto às dos outros, ter calma, se estressar menos com os afazeres cotidianos.
-      Com sensibilidade e compreensão o aperfeiçoamento pode ser cultivado de forma mais harmoniosa. -break`,
+      Com sensibilidade e compreensão o aperfeiçoamento pode ser cultivado de forma mais harmoniosa. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
       O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -1712,11 +1597,11 @@ const data = {
       "A qualidade acima da quantidade" poderia ser o lema de sua história e de seu posicionamento.
       Isso muitas vezes significa: desenvolver habilidade e competência no trabalho ou na área criativa escolhida. Seu ideal é ser útil, prestativo e produtivo.
       A preocupação com o bom funcionamento do corpo físico é uma constante. Outra característica é o tratamento prático das necessidades comuns do dia-a-dia. Tudo o que não é construtivo deve ser reconhecido, limpo ou descartado.
-      -stron O perigo é ficar obsessivo com a ordem e a correção. Se deixar que a crítica se torne de tal maneira implacável o-deixará paralisado. A pessoa perde a espontaneidade e a fluidez./stron
+      <strong> O perigo é ficar obsessivo com a ordem e a correção. Se deixar que a crítica se torne de tal maneira implacável o-deixará paralisado. A pessoa perde a espontaneidade e a fluidez.</strong>
       A partir de certa fase da vida, começa a aprender que a perfeição está subjacente a tudo, mas que não tem possibilidades de se manifestar plenamente no plano físico.
       Nessa altura, a tolerância e a compreensão começam a temperar o seu sentido crítico, levando-o a encarar todas as coisas (e a si mesmo) como manifestações terrenas e humanas do arquétipo da Perfeição.
       Um ar limpo, preciso e resistente, ao mesmo tempo aprumado, asseado e simples são qualidades típicas do Ascendente Virgem.
-      O aspecto geral pode ser bastante juvenil, mantendo uma figura delgada e muita vivacidade. -break`,
+      O aspecto geral pode ser bastante juvenil, mantendo uma figura delgada e muita vivacidade. <br />`,
 
       `Mercúrio em Virgem está no signo de sua regência, uma posição que indica uma mente analítica, com grande habilidade de raciocínio prático.
       Estes nativos insistem numa precisão exata e apurada, que pode parecer trivial para outras pessoas.
@@ -1727,7 +1612,7 @@ const data = {
       Mercúrio em Virgem está principalmente interessado em ideias que possuam alguma aplicação prática para obter status e sucesso financeiro.
       O nativo com esta posição é voltado ao trabalho. Pode ser tímido e reservado, preferindo não perder tempo com conversas inúteis.
       Você pode perder de vista as questões amplas e principais devido à preocupação excessiva com os detalhes que assumem uma importância indevida.
-      Medicina, dieta, higiene, matemática, trabalhos detalhados e precisos de todos os tipos atraem sua atenção. -break`,
+      Medicina, dieta, higiene, matemática, trabalhos detalhados e precisos de todos os tipos atraem sua atenção. <br />`,
 
       `O nativo com Vênus neste signo é prestativo e devotado.
       Sente necessidade de relacionamentos estáveis e duradouros, onde a mútua compreensão e os pequenos cuidados diários são sinais de um amor racional e pragmático.
@@ -1736,20 +1621,20 @@ const data = {
       É preciso cuidado para não se tornar crítico demais. Não se deixar encantar por arroubos de afeto que sabe ser apenas fogo de palha.
       Cuida, alimenta, promove a segurança do parceiro e dele deseja fidelidade e sinceridade. Pode fazer qualquer sacrifício para melhorar a vida do casal, tendo prazer nas pequenas coisas do dia-a-dia.
       Seu afeto é sincero, mas pode parecer frio pela ausência de demonstrações passionais, mesmo se é capaz de se expressar nas pequenas coisas do cotidiano.
-      Necessita de rituais nos momentos mais íntimos, mas não tolera exageros. -break`,
+      Necessita de rituais nos momentos mais íntimos, mas não tolera exageros. <br />`,
 
       `O nativo com Marte em Virgem é eficiente, possui habilidade e engenhosidade manual e até mesmo mental. Poderá ter interesse por mecânica ou engenharia.
       A capacidade organizativa poderá se traduzir no bom andamento das tarefas rotineiras que executará com diligência.
       Esta colocação de Marte indica uma boa vitalidade e capacidade de recuperação rápida em caso de doença.
       A sua expressão sexual pode ser cautelosa, nos termos tradicionais, sem arroubos fogosos, mas é capaz de produzir um prazer duradouro. Mas essa posição de Marte indica pouca fertilidade.
       É preciso observar o caráter suscetível, que se aborrece por causa de pequenos detalhes. O descontentamento pode provocar disputas com subalternos e colegas.
-      O espírito excessivamente crítico pode provocar seu envolvimento em discussões. Risco de inflamações ou cirurgias intestinais. -break`,
+      O espírito excessivamente crítico pode provocar seu envolvimento em discussões. Risco de inflamações ou cirurgias intestinais. <br />`,
 
       `Com esta posição o nativo pode ser cético em questões religiosas, adotando uma postura intelectual e um tanto materialista das coisas, em vez de devocional e espiritual.
       Boa posição para um escritor, para um técnico no manejo de computadores. Também para um psicólogo, médico, enfermeiro, nutricionista, veterinário, contabilista e artesão.
       Tem muitíssimas aptidões, mas pode ter dificuldade em fazer fortuna, já que em muitas ocasiões sente insatisfação no que faz e assim perderá boas oportunidades.
       É perfeccionista em todos os sentidos da vida. Considera a limpeza e a ordem como essenciais.
-      Nutre grande interesse pela saúde física e mental, prestando por vezes serviços em hospitais ou instituições educacionais. -break`,
+      Nutre grande interesse pela saúde física e mental, prestando por vezes serviços em hospitais ou instituições educacionais. <br />`,
 
       `Saturno no signo de Virgem indica pessoas práticas, exigentes e trabalhadoras. Elas preocupam-se com detalhes, precisão e eficiência, especialmente no trabalho.
       Com frequência trabalham em áreas de medicina, pesquisa relacionada à saúde e ciência, ou em atividades como contabilistas ou bibliotecários.
@@ -1758,7 +1643,7 @@ const data = {
       Como os nativos são meticulosos a respeito de regras e regulamentos isso pode dificultar os relacionamentos.
       Eles tendem a sobrecarregar os outros e a si mesmos com excesso de trabalho, enquanto ignoram assuntos maiores e mais importantes devido à excessiva preocupação com detalhes.
       Esta posição com frequência indica pessoas austeras, que podem se tornar melancólicas ou deprimidas devido ao excessivo peso do trabalho e da responsabilidade.
-      Elas necessitam tirar uma folga de vez em quando e desenvolver o senso de humor. A preocupação e o excesso de trabalho podem levar à má saúde, problemas de digestão e ansiedade. -break`,
+      Elas necessitam tirar uma folga de vez em quando e desenvolver o senso de humor. A preocupação e o excesso de trabalho podem levar à má saúde, problemas de digestão e ansiedade. <br />`,
 
       `Urano no signo de Virgem indica pessoas que têm ideias originais e práticas ao mesmo tempo com relação a métodos de trabalho, especialmente em áreas de saúde, ciência e tecnologia.
       Enquanto Urano se encontrava em Virgem o signo regido por Mercúrio, o planeta mental, científico, foram criadas muitas invenções eletrônicas, incluindo os computadores, que revolucionaram os negócios e a indústria.
@@ -1766,28 +1651,28 @@ const data = {
       Os nascidos entre 1964 e 1968, quando Urano formava conjunção com Plutão em Virgem, podem exercer uma influência revolucionária nessas áreas.
       Esta geração pode suportar o impacto do árduo trabalho necessário para a regeneração da civilização humana, preparando a para a nova era de Aquário, regida por Urano.
       Os nativos possuem talento incomum para os negócios e enorme habilidade prática para o trabalho. Contudo, podem passar por muitas mudanças e rompimentos no emprego.
-      No seu pior, Urano nesse signo pode causar problemas de saúde. Os nativos podem então se interessar pelos efeitos curativos da dieta correta, pelas terapias alternativas e pelo controle mental das funções corporais. -break`,
+      No seu pior, Urano nesse signo pode causar problemas de saúde. Os nativos podem então se interessar pelos efeitos curativos da dieta correta, pelas terapias alternativas e pelo controle mental das funções corporais. <br />`,
 
       `A geração de Netuno em Virgem teve de viver a Segunda Guerra Mundial.
       Aqueles que nasceram durante este período viveram na sua infância esta grande crise coletiva e sentem que têm de trabalhar muito duramente para a sua existência.
       Viram cortadas as suas faculdades criativas e imaginativas por circunstâncias materiais adversas.
       Por isso, são muito conscientes da importância de manter uma vida ordenada, simples, sem complicações, acima de tudo cuidando da saúde.
-      No lado negativo pode conduzir a excessivas preocupações emocionais, a um materialismo extremo ou ao descuido com os hábitos alimentares, manifestando-se a tendência para sofrer de enfermidades psicossomáticas e neuroses. -break`,
+      No lado negativo pode conduzir a excessivas preocupações emocionais, a um materialismo extremo ou ao descuido com os hábitos alimentares, manifestando-se a tendência para sofrer de enfermidades psicossomáticas e neuroses. <br />`,
 
       `Virgem rege o cotidiano, o mundo do trabalho, o serviço e a saúde, entre outras coisas. São estes conceitos que são afetados pela estadia de Plutão neste signo. Esta geração viveu a alteração dos conceitos sobre a saúde.
       Plutão em Virgem significou um regresso a certas formas do natural, às velhas receitas (o uso das ervas, o vegetarianismo, etc.) e a um forte repúdio dos produtos químicos.
       O homem se preocupa com o seu corpo, enquanto se torna pública a manipulação sobre os alimentos e proliferam as associações em defesa do consumidor, da mesma forma que, noutro âmbito, os sindicatos se pronunciaram em defesa do trabalhador.
       Outra faceta deste período é o “faça você mesmo”, o que também inclui o self-service nos restaurantes. Também foi dado início à preocupação ecológica, assim como a enorme proliferação dos gurus ocidentais.
       Nessa época os computadores produzem uma revolução não só na ciência, como também no comércio, na indústria e em todos os âmbitos da vida quotidiana.
-      Como Plutão rege Escorpião, o signo do sexo, e Virgem é o signo da saúde, este período viu o desenvolvimento de métodos para o controle da natalidade. -break`,
+      Como Plutão rege Escorpião, o signo do sexo, e Virgem é o signo da saúde, este período viu o desenvolvimento de métodos para o controle da natalidade. <br />`,
 
-      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-      -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-      -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-      -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+      `<strong><i> Os Nodos Lunares Norte e Sul </strong></i>  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+      <strong><i> O eixo Cauda / Cabeça do Dragão </strong></i>  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+      <strong><i> A Cauda do Dragão </strong></i>  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+      <strong><i> A Cabeça do Dragão </strong></i>  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
       É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-      -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Desenvolver a fé, aprender a confiar e a deixar a vida fluir sem perder a disciplina:/stron
+      <strong><i> O objetivo é equilibrar os dois: </strong></i>  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+      Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Desenvolver a fé, aprender a confiar e a deixar a vida fluir sem perder a disciplina:</strong>
       Quem tem o Nodo Sul (Cauda do Dragão) em Virgem traz memórias de exagerado perfeccionismo, rigidez mental, responsabilidades, trabalho, ordem e limites. Pode ter assumido obrigações muito pesadas.
       É mental, critico, rígido e exigente consigo mesmo e com os outros. Há dificuldade em aceitar fraquezas e fragilidades, tanto suas quanto dos outros.
       Considera-se indispensável. Tem dificuldade em delegar e em confiar nas forças de uma Ordem Superior que comanda a existência. Por causa de inseguranças mentais, perde-se em detalhes desnecessários.
@@ -1797,11 +1682,11 @@ const data = {
       Aprender a superar a autoexigência, as expectativas de perfeição e ordem para valorizar os sentimentos, o prazer, o bem-estar. Cultivar meditação e silêncio, aprender a descodificar e a ler as sincronicidades, os sinais invisíveis.
       O crescimento acontece quando sai do pequeno e do detalhe e passa a ver o quadro todo. Pode ser através do corpo e da saúde que seja convidado a se religar com o Divino e a aceitar suas imperfeições.
       Deixar ir o pânico, as críticas, o preconceito, o controle. Aprender a relaxar e permitir que os outros relaxem também. Aprender a sentir-se confiante, seguro e ser fiel à sua vontade, mais do que às suas obrigações.
-      Cultivar a fé, fortificar a consciência do mundo espiritual, envolver-se com assuntos metafísicos e transpessoais. Aprender a valorizar o invisível, a arte, a fantasia, a magia, o encantamento, o romantismo, a intuição e o amor incondicional. -break`,
+      Cultivar a fé, fortificar a consciência do mundo espiritual, envolver-se com assuntos metafísicos e transpessoais. Aprender a valorizar o invisível, a arte, a fantasia, a magia, o encantamento, o romantismo, a intuição e o amor incondicional. <br />`,
 
       `A busca pessoal da felicidade e da realização opera através da analise intelectual, da autocrítica, da introversão e do uso de crises na superação de obstáculos.
       A confiança na técnica e em processos fixos de trabalho e também a exclusão, talvez impiedosa, de tudo o que não se enquadra perfeitamente parecem ser necessárias para a conquista da integração e do sucesso pessoal.
-      A devoção absoluta a um SERVIÇO que permita fazer a diferença na vida das pessoas parece constituir a única chave para a realização e a felicidade. -break`,
+      A devoção absoluta a um SERVIÇO que permita fazer a diferença na vida das pessoas parece constituir a única chave para a realização e a felicidade. <br />`,
 
       `O nativo sente necessidade de controlar e organizar rigidamente sua própria vida e também a dos outros. Muitas vezes viverá situações em que é forçado a aprender que nem tudo pode ser controlado.
       Seu imenso desejo de aprimoramento interior poderá levá-lo à busca da autoperfeição, o que lhe trará grande sofrimento, uma vez que sua grande lição na vida é aceitar aquilo que é imperfeito, tanto em si mesmo como no mundo.
@@ -1828,46 +1713,46 @@ const data = {
       Por mais bem intencionado que você seja, aprenda a dar espaço para os outros assumirem suas próprias vidas. Tende a viver preocupado com a saúde e tentando todos os tipos de medicamentos para se curar-se.
       Isso não ocorre para os que seguirem os caminhos da cura dos outros: atividades como professores de yoga ou ginástica de qualquer natureza, terapeutas corporais, médicos, enfermeiros, massagistas são boas formas de canalizar sua necessidade de curar.
       Você tem excesso de energia e precisa canalizá-la de algum modo. Canalize essa energia para as pessoas que precisam dela e sentirá alivio em seus males, pelo simples fato de haver menos pressão interna em você.
-      Mentalize durante alguns minutos diariamente pessoas ou grupos de pessoas que estejam doentes ou frágeis por alguma razão, (os noticiários de TV falam delas todos os dias, além das que conhecemos no dia-a-dia) é uma forma de se livrar desse excesso de energia. -break`,
+      Mentalize durante alguns minutos diariamente pessoas ou grupos de pessoas que estejam doentes ou frágeis por alguma razão, (os noticiários de TV falam delas todos os dias, além das que conhecemos no dia-a-dia) é uma forma de se livrar desse excesso de energia. <br />`,
 
       `O parceiro ideal é aquele que seja um eficiente trabalhador. Juno inspira uma parceria prática e realista. Podem ser pessoas inteligentes, objetivas, analíticas.
       A qualidade de vida é uma prioridade. Mas também podem ser pessoas muito críticas, com mania de perfeição e extremamente detalhistas.
       O relacionamento pode ser marcado pelo esforço ou anulação de um dos parceiros, para que se mantenha a parceria. Ou um dos parceiros pode ser muito servil em relação ao outro.
-      É preciso haver dedicação ao relacionamento. O casal deve estar sempre disposto a ser útil, tanto entre si, quanto para os outros. -break`,
+      É preciso haver dedicação ao relacionamento. O casal deve estar sempre disposto a ser útil, tanto entre si, quanto para os outros. <br />`,
 
       `Mercúrio retrógrado, nesta casa indica tendência ao perfeccionismo. Muitas vezes o nativo tem, em certas áreas, uma obsessão de perfeição que o toma muito infeliz.
       Fica constantemente frustrado, já que a perfeição não existe neste mundo. Pode se mostrar maníaco por certos detalhes, excessivamente inclinado à crítica.
       Bastante nervoso, em sua vida atual fica muitas vezes obcecado pela preocupação com a saúde. Apaixonado por regimes alimentares, preceitos de higiene e está sempre pronto a dar lições de moral.
       Também não é raro teorizar sobre a sexualidade (porque ele próprio teve alguns problemas com isso em suas vidas passadas, e talvez ainda tenha hoje em dia!).
-      Capaz de analisar brilhantemente tudo o que lhe cai na mão, deve aprender a relaxar, a soltar o controle, purgar-se do espírito crítico que podou o entusiasmo dos outros. -break`,
+      Capaz de analisar brilhantemente tudo o que lhe cai na mão, deve aprender a relaxar, a soltar o controle, purgar-se do espírito crítico que podou o entusiasmo dos outros. <br />`,
 
       `Esta posição do planeta indica um ser muito crítico, que traz essa tendência de vidas passadas.
       O nativo, antes de amar, procurava sempre o defeito da pessoa, o que lhe dava um pretexto para não se comprometer numa relação afetiva com ela.
       Deve agora aprender a ser mais tolerante e compassivo para sair da sua atitude destrutiva e egoísta.
-      Deve aprender também a fazer pequenos sacrifícios para melhorar sua convivência diária, encontrando prazer nas pequenas coisas do dia-a-dia. -break`,
+      Deve aprender também a fazer pequenos sacrifícios para melhorar sua convivência diária, encontrando prazer nas pequenas coisas do dia-a-dia. <br />`,
 
       `Tendo vivido em vidas passadas de forma impulsiva em sua rotina, o nativo está agora obcecado pela perfeição.
       Impõe a si mesmo e aos colegas pesadas obrigações. Demasiado crítico e exigente adapta-se melhor às coisas do que às pessoas.
       Para se libertar de sua angústia, deve admitir suas imperfeições e as dos outros.  Deve aprender a se relaxar, a exprimir e a canalizar seus impulsos sexuais bloqueados pelo medo do fracasso.
-      Deve ser mais tolerante e mais cooperativo. Atividades físicas regulares são de grande ajuda. -break`,
+      Deve ser mais tolerante e mais cooperativo. Atividades físicas regulares são de grande ajuda. <br />`,
 
       `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
       Esta posição planetária não é muito alegre: a expansão calorosa de Júpiter é abafada por Virgem.
       O nativo vive um conflito entre a lembrança de elevadíssimas experiências espirituais e a mesquinhez material da vida quotidiana.
       O nativo tem bastante dificuldade em tomar distância para julgar. Espera demais dele mesmo e das pessoas. Impõe-se - e impõe à sua volta - um ideal impossível de viver.
-      É preciso ampliar a visão! A lição cármica da vida atual é a de encontrar um ideal mais abrangente e realista, que lhe permita aceitar com bondade e tolerância as imperfeições humanas. -break`,
+      É preciso ampliar a visão! A lição cármica da vida atual é a de encontrar um ideal mais abrangente e realista, que lhe permita aceitar com bondade e tolerância as imperfeições humanas. <br />`,
 
       `O nativo ama a ordem e o cuidado com os detalhes. Tenta adaptar o mundo exterior à imagem da sua mente precisa, ordenada, um tanto fria e racional.
       Em vidas passadas pode ter imposto aos outros esquemas preconcebidos, temendo a improvisação com muita rigidez.
       Nesta vida isso pode causar, por exemplo, prisão de ventre crônica e ansiedade. É importante agora que admita suas imperfeições e as dos outros.
       Deve cultivar mais flexibilidade e uma visão mais ampla, para que não fique desolado quando for obrigado a fazer as coisas pela metade.
-      E que tempere sua aguda perspicácia com boas doses bondade, tolerância e calor humano. -break`,
+      E que tempere sua aguda perspicácia com boas doses bondade, tolerância e calor humano. <br />`,
 
       `O nativo se esforça para classificar, selecionar e ordenar tanto o mundo exterior quanto seu mundo interior. Beneficia-se de uma mente clara e precisa, mas ignora a paciência.
       Com uma única olhada rápida, pode perceber o objetivo a atingir. Mas enerva-se com a lentidão das pessoas (e das coisas) para chegar aos fins.
       Grande é a sua energia nervosa, a sua eficácia, a sua capacidade de trabalho. Entretanto, é infinitamente mais lúcido sobre os amigos do que sobre si próprio.
       Em vidas passadas o nativo acumulou muitas ideias, que deve agora realizar. Este é o desafio: aprender a trabalhar com perseverança.
-      Ao buscar o autoconhecimento, ficará surpreso ao descobrir que poucas pessoas têm a sua notável capacidade de análise e adquiriram tantos conhecimentos anteriores. -break`,
+      Ao buscar o autoconhecimento, ficará surpreso ao descobrir que poucas pessoas têm a sua notável capacidade de análise e adquiriram tantos conhecimentos anteriores. <br />`,
 
       `Virgem simboliza a medicina. Netuno transitando no signo favoreceu descobertas médicas e farmacêuticas: a penicilina, por exemplo.
       Mas Virgem diz respeito também ao trabalho, às disciplinas intelectuais, à vida animal e vegetal e à saúde, no nível intestinal.
@@ -1876,7 +1761,7 @@ const data = {
       Nos mapas individuais, há uma ligação com o mau uso do trabalho nas vidas passadas. Não se desesperar, saber se distanciar, refletir sobre a maneira pela qual se considera o trabalho.
       Em certos casos, o nativo não pode fazer os estudos que deseja: seja por um impedimento exterior ou por um bloqueio psicológico. Por vezes, eles experimentam um trabalho rotineiro, onde permanecem por muito tempo subalternos.
       Todos esses impedimentos são oportunidades para desenvolver a clarividência, a intuição científica e o dom da análise que notamos, aliás, em toda essa geração nascida com Netuno em Virgem.
-      Se o planeta está retrógrado, o nativo deverá a todo custo ampliar sua visão. É certo que suas vidas passadas foram vividas "sem enxergar um palmo adiante do nariz", sem grandes voos espirituais. Desta vez, seu espírito pode enfim descolar para as alturas. -break`,
+      Se o planeta está retrógrado, o nativo deverá a todo custo ampliar sua visão. É certo que suas vidas passadas foram vividas "sem enxergar um palmo adiante do nariz", sem grandes voos espirituais. Desta vez, seu espírito pode enfim descolar para as alturas. <br />`,
 
       `Virgem é o signo relacionado à saúde, à medicina e à qualidade de vida. Signo de inteligência brilhante, mas de nervos frágeis.
       Quando Plutão transitava por Virgem, a medicina derivada das teorias de Pasteur viu-se contestada.
@@ -1896,7 +1781,7 @@ const data = {
       Os estágios de botânica (particularmente a medicinal) multiplicaram-se. Nessa época a caça e as criações artificiais começaram a ser contestadas.
       Uma "carta dos direitos do animal" foi promulgada em escala internacional.
       Plutão retrógrado em Virgem pode indicar também um carma relativo aos animais. Aqueles que não têm nenhuma piedade do mundo animal também não devem esperar misericórdia da justiça divina.
-      Os nativos que, em suas vidas passadas, caçaram por prazer, por descuido, por perversidade ou para tirar algum lucro, criaram uma dívida cármica por vezes pesada - indicada por Plutão retrógrado em Virgem. -break`,
+      Os nativos que, em suas vidas passadas, caçaram por prazer, por descuido, por perversidade ou para tirar algum lucro, criaram uma dívida cármica por vezes pesada - indicada por Plutão retrógrado em Virgem. <br />`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
       Sente necessidade de controlar e organizar rigidamente sua própria vida, e, também, a dos outros, e muitas vezes você viverá situações em que é forçado a aprender que nem tudo pode ser controlado.
@@ -1928,7 +1813,7 @@ const data = {
       Isso não ocorre para os que seguirem os caminhos da cura dos outros, atividades como professores de yoga ou ginástica de qualquer natureza, terapeutas corporais, médicos, enfermeiros, massagistas são boas formas de canalizar sua necessidade de curar.
       Você tem excesso de energia e precisa canalizá-la de algum modo. Se tentar reter essa energia ficará doente e descobrirá todos os dias uma dor nova.
       Canalize essa energia para as pessoas que precisam dela e sentirá alivio em seus males, pelo simples fato de haver menos pressão interna em você.
-      Mentalizar diariamente e durante alguns minutos as pessoas ou grupos que estejam doentes ou frágeis por alguma razão, enviando energia de cura (os noticiários de TV falam delas todos os dias, além das que conhecemos no dia-a-dia) é uma forma de livrar-se desse excesso de energia. -break`,
+      Mentalizar diariamente e durante alguns minutos as pessoas ou grupos que estejam doentes ou frágeis por alguma razão, enviando energia de cura (os noticiários de TV falam delas todos os dias, além das que conhecemos no dia-a-dia) é uma forma de livrar-se desse excesso de energia. <br />`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
       É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
@@ -1938,76 +1823,53 @@ const data = {
       Boa posição para os artistas. Terapia pela Beleza, que pode ser uma fonte para a regeneração da própria pessoa.`
     ],
     levels: [
-    `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
+      `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-      `-stron 1º nível de evolução:/stron`,
-      `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. -break
-      Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades. -break
-      Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. -break`,
+      `<strong> 1º nível de evolução:</strong>`,
+      `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. <br />
+      Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades. <br />
+      Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. <br />`,
 
-      `-stron 2º nível de evolução:/stron`,
-      `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. -break
-      No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição. -break`,
+      `<strong> 2º nível de evolução:</strong>`,
+      `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. <br />
+      No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição. <br />`,
 
-      `-stron 3º nível de evolução:/stron`,
-      `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta. -break
-      Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. -break
-      Vivencia com amor o serviço da missão da sua alma a favor de um propósito maior do que acredita ser o propósito de sua própria vida. -break`
+      `<strong> 3º nível de evolução:</strong>`,
+      `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta. <br />
+      Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. <br />
+      Vivencia com amor o serviço da missão da sua alma a favor de um propósito maior do que acredita ser o propósito de sua própria vida. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Desenvolver a fé, aprender a confiar e a deixar a vida fluir sem perder a disciplina: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Desenvolver a fé, aprender a confiar e a deixar a vida fluir sem perder a disciplina: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `libra`,
+    title: `libra</strong>`,
     text: [
         `Quando o Sol ingressa em Libra, marca o Equinócio da Primavera no hemisfério sul e o Equinócio de Outono no hemisfério norte.
         Equilíbrio entre o dia e a noite simboliza o ideal de Libra: a capacidade de ponderar as questões, de cultivar harmonia nas relações, bom gosto, educação, cordialidade e beleza.
@@ -2024,7 +1886,7 @@ const data = {
         Mas é preciso cuidado para não perder sua identidade, se tornar dependente, bajulador, hesitante ou condescendente demais.
         A falta de autonomia e poder de decisão pode gerar desequilíbrio, pois fica sem energia para a ação e as iniciativas.
         O equilíbrio está no signo oposto em Áries. O Libriano deve aprender a colocar limites, dizer “não” quando necessário.
-        Expressar suas vontades de forma saudável é importante para encontrarmos o tão almejado caminho do meio na arte dos relacionamentos. -break`,
+        Expressar suas vontades de forma saudável é importante para encontrarmos o tão almejado caminho do meio na arte dos relacionamentos. <br />`,
 
         `A Lua representa a forma como vivemos as nossas emoções.
         É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -2040,7 +1902,7 @@ const data = {
         Esta posição da Lua pode proporcionar talento para relações públicas. Também indica uma ligação com os pais, especialmente a mãe.
         No lado negativo, pode implicar dependência dos outros para adquirir segurança emocional. Há tendência para ser facilmente influenciável.
         Precisa trabalhar para aprender a ter pulso firme, assim quando for necessário poderá evitar que alguém tome as iniciativas em seu lugar.
-        É preciso também aprender a impor as suas vontades, pois muitas vezes você esquece de si mesmo para colocar os outros em primeiro plano. -break`,
+        É preciso também aprender a impor as suas vontades, pois muitas vezes você esquece de si mesmo para colocar os outros em primeiro plano. <br />`,
 
         `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
         O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -2053,10 +1915,10 @@ const data = {
         Justamente por isso, pode ter dificuldade para lidar com circunstâncias que exigem decisões diretas e imediatas.
         Pode se sentir perdido quando tem de atuar sozinho e de escolher por si mesmo. A tendência é de se apoiar nos outros. Ao pesar na balança todos os lados da situação, pode vacilar ou ficar indeciso.
         Em casos mais extremos degenera em sociabilidade exagerada, inércia, preguiça e dependência emocional. É mais fácil deixar outra pessoa decidir para si.
-        -stron Mas o desafio é desenvolver o seu próprio sistema de valores, padrões e ideias sobre os quais possa fundamentar as suas iniciativas./stron
+        <strong> Mas o desafio é desenvolver o seu próprio sistema de valores, padrões e ideias sobre os quais possa fundamentar as suas iniciativas.</strong>
         Aprender a fazer suas próprias escolhas e se responsabilizar pelas consequências. Aprender a colocar suas necessidades de forma saudável, sem se tornar condescendente demais.
         Quando aprende a equilibrar a sua necessidade de ouvir os outros e os seus próprios desejos e vontades, ganha a capacidade de harmonizar com ligeireza e desembaraço todas as polaridades da vida: eu / o outro, pessoal / social, formal / informal, mundano / sagrado, intuição / lógica, masculino / feminino.
-        O tipo físico associado a este ascendente é bem proporcionado, naturalmente ágil e elegante. Conta com charme pessoal, apesar de um pouco roliço e com tendência a ganhar peso devido à preguiça. -break`,
+        O tipo físico associado a este ascendente é bem proporcionado, naturalmente ágil e elegante. Conta com charme pessoal, apesar de um pouco roliço e com tendência a ganhar peso devido à preguiça. <br />`,
 
         `Mercúrio no signo de Balança indica uma mente principalmente preocupada com relações humanas e psicologia.
         Os nativos possuem intensa curiosidade a respeito dos padrões de pensamento e comportamento dos outros.
@@ -2071,7 +1933,7 @@ const data = {
         São muito sensíveis aos odores, à estética, aparência pessoal e conduta dos outros. Consideram os trajes inadequados e o linguajar vulgar como afrontas sociais.
         Gentis e atenciosas em sua comunicação podem ser rígidos quando estão envolvidos princípios.
         Podem cometer o erro de esperar dos outros o mesmo grau de disciplina mental que exigem de si mesmas. Em tipos muito desenvolvidos, essa qualidade conduz à profundidade.
-        Porém as pessoas superficiais com esta posição de Mercúrio podem não ter firmeza em suas convicções, porque tendem a concordar com seus companheiros, visando obter popularidade e aceitação. -break`,
+        Porém as pessoas superficiais com esta posição de Mercúrio podem não ter firmeza em suas convicções, porque tendem a concordar com seus companheiros, visando obter popularidade e aceitação. <br />`,
 
         `Vênus está associada ao prazer, a tudo o que nos é agradável, ao que amamos e valorizamos.
         Em Libra, o signo das parcerias, Vênus quer se apresentar da melhor forma possível para agradar e seduzir. Mas também espera reciprocidade!
@@ -2081,7 +1943,7 @@ const data = {
         Muitas vezes, porém, cede aos caprichos do seu parceiro somente para não desagradar. Pode haver certo distanciamento afetivo na tentativa de evitar conflitos, agressões, grosserias e situações desagradáveis.
         É preciso atenção: isso pode encobrir questões mais profundas nas relações. Os nativos com Vênus em Libra são amantes da beleza e de qualquer demonstração artística.
         Possuem uma necessidade íntima instintiva que os impulsiona a procurar o par ideal, nem que isso resulte numa busca eterna.
-        Capazes de uma sedução sutil e diplomática atraem aquilo que desejam, sem se impor ao parceiro que escolheu. -break`,
+        Capazes de uma sedução sutil e diplomática atraem aquilo que desejam, sem se impor ao parceiro que escolheu. <br />`,
 
         `A pessoa com esse Marte pode focalizar suas iniciativas em favor da arte e principalmente da dança.
         A qualidade do movimento e a expressão corporal são balanceadas pela necessidade de se expressar de forma plástica e bela.
@@ -2090,14 +1952,14 @@ const data = {
         Mesmo com pouco poder de ação, por estar “exilado” em Libra, Marte poderá agir como catalisador, ou seja, a pessoa pode sofrer passivamente a agressividade dos outros.
         É preciso cuidado para não se envolver em conflitos conjugais, disputas e brigas com parceiros ou sócios. Nos grupos sociais terá tendência a promover-se individualmente.
         Aprendizado: agir com a aprovação do outro, agir em conjunto. Expressar a vontade própria sem se indispor. Deve tomar as iniciativas com mais delicadeza, prudência e diplomacia.
-        Pautar as ações com uso da estratégia ao invés de impor as suas vontades. É preciso ter jogo de cintura. -break`,
+        Pautar as ações com uso da estratégia ao invés de impor as suas vontades. É preciso ter jogo de cintura. <br />`,
 
         `O nativo pode obter algum êxito social que lhe permitirá viver com despreocupação. Ganhos podem vir através do casamento ou de sociedades comerciais.
         Mas é preciso cuidado com o cumprimento de contratos, sejam profissionais, comerciais ou matrimoniais, para não perder dinheiro.
         Pode se destacar como advogado e obter benefícios através de pleitos ou litígios. Também como assessor, diplomata, designer, decorador, profissional da beleza ou estilista.
         As atividades culturais o agradam. Nos seus tempos livres gosta de dançar, ir ao cinema, ao teatro ou assistir a espetáculos. Gosta de estudar e viajar em boa companhia.
         Pode ter muitos amigos, contatos e habilidade no trato com o público. A sua grande capacidade para convencer as pessoas sobre certas ideias ou planos faz com que seja um excelente promotor.
-        É do tipo que não cultiva e nem suporta brigas ou discussões conflituosas. -break`,
+        É do tipo que não cultiva e nem suporta brigas ou discussões conflituosas. <br />`,
 
         `Saturno no signo de Libra traz a percepção de que para se conseguir qualquer coisa de valor duradouro, ou mesmo tornar a vida possível, é necessária a colaboração humana.
         Essa colaboração deve ser contínua para ser eficaz. Mas a colaboração contínua só é possível quando todas as partes de um projeto são tratadas com justiça, e a justiça exige regras de conduta e compromisso de todos.
@@ -2110,7 +1972,7 @@ const data = {
         No seu pior, o nativo pode demonstrar atitudes exigentes com as pessoas e a tendência de forçá las a trabalhar. Pode não haver amor, perdão e senso de responsabilidade nos seus relacionamentos.
         Os nativos tendem a aplicar a lei rigorosamente, em vez de compreender a justiça que está implícita em sua essência. O conceito de justiça que executam tão rigorosamente é dissimulado por sua opinião.
         É preciso cuidado para não assumir compromissos demais, que só podem cumprir à custa do excesso de trabalho.
-        Em alguns casos, os nativos não conseguem cumpri lo, e o ressentimento que isso provoca, nos outros só resulta em sua própria queda de status. -break`,
+        Em alguns casos, os nativos não conseguem cumpri lo, e o ressentimento que isso provoca, nos outros só resulta em sua própria queda de status. <br />`,
 
         `Urano em Libra indica uma geração de pessoas com novas ideias sobre casamento, sociedades e conduta social.
         Procuram liberdade no casamento e consideram o relacionamento mais importante do que o contrato legal.
@@ -2118,13 +1980,13 @@ const data = {
         Podem cultivar novos conceitos de justiça e tentarão modificar e modernizar os códigos legais existentes. Essas pessoas possuem um insight aguçado sobre todos os tipos de relações humanas.
         Podem até mesmo desenvolver um conhecimento intuitivo ou telepático das motivações de outras pessoas.
         É preciso trabalhar a tendência para a rebeldia nas questões relativas ao casamento, parcerias ou sociedades.
-        Trabalhar a inquietação e o desejo de liberdade em relacionamentos que exijam responsabilidade mútua. -break`,
+        Trabalhar a inquietação e o desejo de liberdade em relacionamentos que exijam responsabilidade mútua. <br />`,
 
         `É a geração do pós-guerra. Nesta época surgiu um desejo de voltar a recuperar os ideais perdidos e produziu-se um movimento ideológico a favor da paz e da justiça que atingiu o seu auge nos anos 60.
         Mas o idealismo exaltado também produziu certo fanatismo, o qual desembocou num aumento do terrorismo, da hipocrisia aplicada à política e ao sistema judicial. Também deu origem aos rebeldes sem causa.
         Num aspecto mais pessoal, Netuno em Libra produz nostalgia pelo amor perfeito, pela igualdade entre os sexos, pela compreensão mútua e pelo par ideal.
         Na via negativa traz problemas e ilusões em relação ao sexo oposto, pouca força de vontade e de noção das realidades.
-        As pessoas nascidas nesta posição questionam os conceitos acerca das relações, das leis e das obrigações. -break`,
+        As pessoas nascidas nesta posição questionam os conceitos acerca das relações, das leis e das obrigações. <br />`,
 
         `Libra é o signo da justiça, das relações humanas e das associações. Plutão neste signo estimula grandes transformações em relação às parcerias e relacionamentos afetivos.
         Durante o período em que transitava por Libra, vivenciamos questionamentos e mudanças no controle da natalidade, nos direitos humanos e no matrimônio.
@@ -2132,15 +1994,15 @@ const data = {
         A moralidade estreita ou os romantismos sem sentido já não geram estáveis e relacionamentos duradouros. Libra significa reequilibrar, corrigir erros, separar o verdadeiro do falso, pesar o valor de cada coisa.
         É função de Plutão trazer para a luz tudo o que é falso e inútil. Libra é um signo do Ar e Plutão tem de limpar a poluição mental, trazer a capacidade de reorganizar-se.
         Libra oferece a oportunidade de escolha. Tudo o que entendemos por lei — seja civil, religiosa, moral ou ética — pode ser questionado nas suas bases.
-        Plutão faz o seu trabalho regenerador, restabelecendo a igualdade inerente a toda a humanidade. -break`,
+        Plutão faz o seu trabalho regenerador, restabelecendo a igualdade inerente a toda a humanidade. <br />`,
 
-        `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-        -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-        -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-        -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+        `<strong><i> Os Nodos Lunares Norte e Sul </strong></i>  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+        <strong><i> O eixo Cauda / Cabeça do Dragão </strong></i>  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+        <strong><i> A Cauda do Dragão </strong></i>  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+        <strong><i> A Cabeça do Dragão </strong></i>  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
         É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-        -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-        Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a ter autonomia e a ser corajoso sem perder a diplomacia:/stron
+        <strong><i> O objetivo é equilibrar os dois: </strong></i>  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+        Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a ter autonomia e a ser corajoso sem perder a diplomacia:</strong>
         Quem tem o Nodo Sul (Cauda do Dragão) em Libra traz do passado (dessa vida e de vidas passadas) a dependência e a necessidade exagerada do outro para ser feliz e se sentir bem. Devida à falta de identidade, acredita que precisa do outro para se conhecer.
         Acaba vivendo assim à sua sombra. Tem a capacidade de levar harmonia a ambientes tensos, mas corre o risco de se esquecer da sua harmonia interior.
         Há dificuldade para dizer “não”. Costuma ser indeciso e pede conselhos antes de agir. Há tendência para a submissão, a insegurança e o medo de se afirmar.
@@ -2151,12 +2013,12 @@ const data = {
         Fazer de si mesmo uma prioridade e não apenas uma extensão do outro. Ser mais assertivo, corajoso, impulsivo e positivo a enfrentar os conflitos.
         Assumir o seu guerreiro interno e as qualidades de liderança, guiado pelo coração. Confiar mais em si próprio e nas suas capacidades ao ponto de se tornar independente.
         Você veio aprender a passar mais tempo sozinho, a manter sua estabilidade quer o outro esteja ou não. Seguir os seus impulsos, confiar nas suas capacidades e aprender a tomar iniciativas por contra própria.
-        Mas tudo isso sem deixar de considerar os outros com cordialidade, gentileza e equilíbrio nas relações. -break`,
+        Mas tudo isso sem deixar de considerar os outros com cordialidade, gentileza e equilíbrio nas relações. <br />`,
 
         `Neste caso, a felicidade é profundamente afetada pelo curso das associações intimas, por fatores sociais ou pela intrusão de forças espirituais na personalidade.
         Há um anseio de personificar grandes ideais, ou até mesmo Deus – muitas vezes em consequência de uma sensibilidade exagerada ou de uma indecisão psicológica quando frente a frente com a sociedade.
         A tendência para dramatizar-se ou assumir atitudes sociais com a finalidade de alcançar os próprios objetivos e a segurança interior, frequentemente está em evidência.
-        Exemplos: o profeta persa Bab; o Mikado Mutsu-Hito, Franz Lizt, Meher Baba, o Duque de Windsor. -break`,
+        Exemplos: o profeta persa Bab; o Mikado Mutsu-Hito, Franz Lizt, Meher Baba, o Duque de Windsor. <br />`,
 
         `Você pode sentir os relacionamentos como perigosos ou como algo a ser evitado, devido à agressividade no ambiente da infância.
         Porém, pode aprender muito quando encara os aspectos desagradáveis de uma relação afetiva, como a hostilidade e o instinto de competição, aos quais é demasiadamente suscetível.
@@ -2188,43 +2050,43 @@ const data = {
         Você tende a ter relacionamentos íntimos com pessoas que trabalham no campo da cura (médicas, enfermeiras, religiosas, professoras, etc.), mas deve tomar cuidado para não assumir o papel de "doente", isso seria muito destrutivo para você e para o relacionamento.
         Você tem muito a oferecer no campo da cura, da orientação a outras pessoas. Poderá trabalhar seus próprios problemas ao se confrontar com os problemas das pessoas que ajuda. Você é de extrema valia ao ajudar outras pessoas a conquistarem seu próprio espaço na vida e a se descobrirem.
         Você tem uma imagem carismática, que atrai as pessoas. Portanto, cuidado para não abusar desse dom tornando-se egocêntrico. Lembre que sua imagem tende a ser refletida por outras pessoas, influenciando-as.
-        Isso não é muito bom para você e tão pouco para elas, pois você também tem a tendência de se espelhar em outras pessoas, chegando ao ponto de não mais separar o que é seu e o que absorveu dos outros. -break`,
+        Isso não é muito bom para você e tão pouco para elas, pois você também tem a tendência de se espelhar em outras pessoas, chegando ao ponto de não mais separar o que é seu e o que absorveu dos outros. <br />`,
 
         `O parceiro ideal é aquele que seja sociável, tenha forte senso de ética e de justiça, interessado em artes e seja charmoso.
         As parcerias podem ser marcadas pela gentileza, requinte, ambientes refinados e diplomacia. Podem ser pessoas do mundo artístico, diplomatas ou juristas.
         Mas também pode indica nativos indecisos, que mantém apenas as aparências numa parceria, diferente do que seja verdadeiro. De qualquer maneira, Juno neste signo ganha força.
-        Ela representa o casamento e as associações e Libra é um signo que favorece parcerias harmoniosas e equilibradas. Portanto, o relacionamento duradouro está favorecido. -break`,
+        Ela representa o casamento e as associações e Libra é um signo que favorece parcerias harmoniosas e equilibradas. Portanto, o relacionamento duradouro está favorecido. <br />`,
 
         `Em vidas passadas o nativo desenvolveu bom gosto. Era um artista que deveria ter colocado a sua arte a serviço da sociedade. Mas provavelmente não o fez suficientemente.
         Sensível à harmonia, mas demasiado sensível ao detalhe desarmônico, incomodava os outros com suas críticas e com a sua indecisão.
         A sua falta de tato e suas intrigas haviam torpedeado a harmonia do grupo. Pode indicar tendência e encontrar um parceiro desleal em suas associações, ou um cônjuge infiel no casamento.
-        Na vida atual deve se esforçar para levar harmonia a todos, contribuir com sua arte. Que suas palavras tragam paz, que haja um diálogo aberto e íntegro em suas associações. -break`,
+        Na vida atual deve se esforçar para levar harmonia a todos, contribuir com sua arte. Que suas palavras tragam paz, que haja um diálogo aberto e íntegro em suas associações. <br />`,
 
         `Pode haver certo distanciamento afetivo na tentativa de evitar conflitos, agressões, grosserias e situações desagradáveis.
         É preciso atenção: isso pode encobrir questões mais profundas nas relações.
         Em suas vidas passadas, o pior inimigo do nativo foi ele mesmo. Demasiado romântico, demasiado perfeccionista, deve aprender a amar com indulgência, equilibrando amor e firmeza.
-        Ser condescendente, mas ao mesmo tempo aprender a colocar limites de forma saudável. -break`,
+        Ser condescendente, mas ao mesmo tempo aprender a colocar limites de forma saudável. <br />`,
 
         `Em vidas passadas o nativo desperdiçou muito tempo com a vida social e mundana. Traz conflitos e grandes dificuldades em suas relações afetivas e familiares.
         Quando não aguenta mais, explode, e seu contrato voa em pedaços. Mesmo que os acessos de violência sejam raros, ele se comporta inconscientemente como se quisesse destruir seu casamento (ou suas associações).
-        Deve procurar agora encontrar seu equilíbrio em si mesmo. Deve ser mais tolerante, gentil, cordial, diplomático, ponderado, paciente e cooperativo. -break`,
+        Deve procurar agora encontrar seu equilíbrio em si mesmo. Deve ser mais tolerante, gentil, cordial, diplomático, ponderado, paciente e cooperativo. <br />`,
 
         `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
         Nas encarnações precedentes, o nativo adquiriu e cultivou profundamente o sentido da justiça. Mas o nativo pode trazer com ele ressentimentos contra certas injustiças vividas neste passado anterior.
         Tem também a tendência de representar um pouco demais o papel de justiceiro.
         A lição cármica a trabalhar, sem se deixar implicar pessoalmente nas questões dos outros, é a de ponderar sem mágoas, aprender a julgar calmamente.
-        Para alguns, que oscilaram muito entre diferentes ideais, trata-se de encontrar enfim uma filosofia firme e permanente. -break`,
+        Para alguns, que oscilaram muito entre diferentes ideais, trata-se de encontrar enfim uma filosofia firme e permanente. <br />`,
 
         `A posição não é má, uma vez que Saturno está exaltado neste signo. Trata-se de um nativo sério, que tem consciência de suas responsabilidades.
         O carma que trouxe de vidas passadas o leva muitas vezes a ser o conciliador entre partidos opostos.
         Tem um grande poder sobre a orientação do destino dos outros. Pode influenciar muito seus parceiros e colaboradores.
         Deve lutar contra a tentação de utilizar esta influência para benefícios próprios e egoístas.
-        A flexibilidade, a cordialidade, a diplomacia e habilidades sociais devem torná-lo mais versátil e equilibrado. O seu programa é aprender a reconciliar, sem trair a ética, a justiça e a verdade. -break`,
+        A flexibilidade, a cordialidade, a diplomacia e habilidades sociais devem torná-lo mais versátil e equilibrado. O seu programa é aprender a reconciliar, sem trair a ética, a justiça e a verdade. <br />`,
 
         `Em suas vidas passadas, era difícil para o nativo tomar decisões. Desejava ser conciliador, a serviço de todos. Mas essa atitude de flexibilidade excessiva o impedia de se ater a uma escala de valores firmes.
         Muito sensível à qualquer desarmonia, mas ao mesmo tempo morreria de tédio em meio a uma parceria rotineira e sem problemas.
         Assim, pode ser mal compreendido por seus parceiros e colaboradores. Aqueles que deseja ajudar podem acusá-lo de traição.
-        Deve continuar, na vida atual, a amar a todos e a conciliaras pessoas em suas contendas. Mas sempre cultivando sua própria independência de ideias. Ser compreensivo não deve impedi-lo de ser imparcial. -break`,
+        Deve continuar, na vida atual, a amar a todos e a conciliaras pessoas em suas contendas. Mas sempre cultivando sua própria independência de ideias. Ser compreensivo não deve impedi-lo de ser imparcial. <br />`,
 
         `Certos astrólogos observaram que o fim da passagem de Netuno em Libra coincidiu com o fenómeno hippie.
         Esta geração tinha como lema "Faça o amor, e não a guerra" (Libra, regida por Vénus, simboliza o amor e o casamento. Está oposta a Carneiro, símbolo da guerra).
@@ -2232,7 +2094,7 @@ const data = {
         Netuno retrógrado em Libra pode indicar desilusões nesse âmbito: erro sobre o parceiro, falta de realismo dos contratos assinados, embustes em todos os âmbitos.
         Com muita frequência é preciso um divórcio para que a pessoa perceba seus erros de apreciação e reajuste suas percepções.
         Muitos artistas, em geral músicos, sensíveis a todas as formas de beleza, tem bastante dificuldade para enfrentar a dureza da vida e defender seus interesses. É mais fácil, evidentemente, refugiar-se no sonho, na droga ou nos amores marginais.
-        O nativo ficará feliz quando não se deixar mais levar por suas emoções como uma pluma ao vento, quando a menor desarmonia não o lançar mais num pânico febril. E também quando se tornar mais indulgente para com os outros. -break`,
+        O nativo ficará feliz quando não se deixar mais levar por suas emoções como uma pluma ao vento, quando a menor desarmonia não o lançar mais num pânico febril. E também quando se tornar mais indulgente para com os outros. <br />`,
 
         `É um período de transformações, limpezas e purificações nos assuntos ligados à Justiça e ao Casamento (regidos por Libra).
         Assistimos a corajosos esforços para tornar a Justiça mais justa, as prisões mais humanas, a pena de morte mais rara e os contratos de casamento menos constrangedores.
@@ -2240,7 +2102,7 @@ const data = {
         Ou se envolve num casamento que lhe dá oportunidade de reparar erros cármicos, e por isso mesmo se revela profundamente transformador.
         Seu equilíbrio de vida será difícil de atingir; o casamento está sujeito a enfrentar furacões mortais. Em todo caso, há fortes chances de que o nativo (ou a nativa) encontre-se de novo, nesta vida, casado com um cônjuge que já fora o seu numa vida passada.
         O objetivo espiritual de Plutão retrógrado em Libra é o de progredir na consciência da justiça, de ajudar a sociedade, estabelecer um mundo mais justo e equilibrado.
-        O nativo deve aceitar com paciência os transtornos que lhe são impostos, conseguindo com isso certo desprendimento. É meta é a purificação das relações. -break`,
+        O nativo deve aceitar com paciência os transtornos que lhe são impostos, conseguindo com isso certo desprendimento. É meta é a purificação das relações. <br />`,
 
         `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
         Sente os relacionamentos como perigosos ou como algo a ser evitado, devido à agressividade no ambiente da infância. Porém, pode aprender muito quando encara os aspectos desagradáveis de uma relação afetiva, como a hostilidade e o instinto de competição, aos quais é demasiadamente suscetível.
@@ -2274,7 +2136,7 @@ const data = {
         Você tende a ter relacionamentos íntimos com pessoas que trabalham no campo da cura (médicas, enfermeiras, religiosas, professoras, etc.), mas deve tomar cuidado para não assumir o papel de "doente", isso seria muito destrutivo para você e para o relacionamento.
         Da mesma forma busque ser o curador numa relação. Você tem muito a oferecer no campo da cura, da orientação a outras pessoas, e terá que trabalhar seus próprios problemas ao se confrontar com os problemas das pessoas que ajuda.
         Você é de extrema valia ao ajudar outras pessoas a conquistarem seu próprio espaço na vida, e a se descobrirem. Você tem uma imagem carismática, atrai as pessoas e a ser adorado por elas, portanto cuidado para não abusar desse dom tornando-se Egocêntrico.
-        Lembre que sua imagem tende a ser refletida por outras pessoas, influenciando-as e isso não é muito bom para você e tão pouco para elas, pois você também tem a tendência de se espelhar em outras pessoas, chegando ao ponto de não mais separar o que é seu e o que absorveu dos outros. -break`,
+        Lembre que sua imagem tende a ser refletida por outras pessoas, influenciando-as e isso não é muito bom para você e tão pouco para elas, pois você também tem a tendência de se espelhar em outras pessoas, chegando ao ponto de não mais separar o que é seu e o que absorveu dos outros. <br />`,
 
         `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
         É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
@@ -2284,77 +2146,54 @@ const data = {
         A vida social da pessoa com Juno nesta casa se valoriza mais, quando ela se torna a parte de um casal.`
     ],
     levels: [
-        `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-      `-stron 1º nível de evolução:/stron`,
-      `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica. -break`,
+      `<strong> 1º nível de evolução:</strong>`,
+      `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica. <br />`,
 
-      `-stron 2º nível de evolução:/stron`,
-      `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. -break
-      A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. É necessário quebrar o espelho e aceitar uma dolorosa recuperação emocional. -break
-      A maturidade amorosa consiste em digerir este processo de evolução emocional. -break
-      Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade. -break
-      O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana. -break`,
+      `<strong> 2º nível de evolução:</strong>`,
+      `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. <br />
+      A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. É necessário quebrar o espelho e aceitar uma dolorosa recuperação emocional. <br />
+      A maturidade amorosa consiste em digerir este processo de evolução emocional. <br />
+      Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade. <br />
+      O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana. <br />`,
 
-      `-stron 3º nível de evolução:/stron`,
-      `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. -break
-      A tensão amorosa é a força atuante para o crescimento e a consciência. Compreende que só o Amor nos liberta da prisão interior e do separatismo solitário. -break
-      Só o Amor liberta da divisão do mundo e por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade. -break`,
+      `<strong> 3º nível de evolução:</strong>`,
+      `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. <br />
+      A tensão amorosa é a força atuante para o crescimento e a consciência. Compreende que só o Amor nos liberta da prisão interior e do separatismo solitário. <br />
+      Só o Amor liberta da divisão do mundo e por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade. <br />`,
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a ter autonomia e a ser corajoso sem perder a diplomacia: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a ter autonomia e a ser corajoso sem perder a diplomacia: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `escorpiao`,
+    title: `escorpiao</strong>`,
     text: [
         `Escorpião é um signo de Água regido por Plutão, o senhor das profundezas, associado á morte e ao renascimento.
         Escorpião trata dos mistérios, do que está oculto e obscuro, do que está latente, de tudo o que deve ser curado, regenerado, transformado.
@@ -2377,7 +2216,7 @@ const data = {
         Nunca deixa nada pela metade. Esta posição predispõe o nativo a um temperamento duro, rancoroso e difícil, tanto para si próprio como para aqueles que o rodeiam.
         É por vezes intransigente, manipulador, agressivo e até mesmo cruel com aqueles que o rodeiam.
         É preciso não se deixar dominar por sentimentos sombrios, aprender a purificar o veneno da mente e das suas emoções.
-        O equilíbrio está no signo oposto, Touro, com suas lições de mansidão, estabilidade, prazer e brandura. Assim pode obter êxito no que deseja construir e reformar. -break`,
+        O equilíbrio está no signo oposto, Touro, com suas lições de mansidão, estabilidade, prazer e brandura. Assim pode obter êxito no que deseja construir e reformar. <br />`,
 
         `A Lua representa a forma como vivemos as nossas emoções.
         É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -2393,7 +2232,7 @@ const data = {
         Assim como o Escorpião possui o ferrão para se defender, pode usar o seu “veneno” nas situações de desequilíbrio emocional.
         Há também a tendência para a teimosia, devido à ligação emocional com os seus próprios desejos. O desafio é cultivar a doçura para manter as suas relações.
         Contudo, se houver uma direção clara e motivação correta, pode contar com determinação para alcançar um objetivo que valha a pena.
-        Pode também ajudar a curar as dores dos outros, devido à sensibilidade para o sofrimento alheio. -break`,
+        Pode também ajudar a curar as dores dos outros, devido à sensibilidade para o sofrimento alheio. <br />`,
 
         `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
         O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -2404,12 +2243,12 @@ const data = {
         Esta turbulência emocional leva-o ao principal tema de Escorpião - o da morte e transformação.
         Como a cobra que muda de pele, o ascendente em Escorpião acumula a pressão até ocorrer uma explosão renovadora. Derruba e remove as velhas estruturas para que as novas possam ser construídas.
         Ao compreender que a verdadeira batalha é interior, o Escorpião ascendente inicia uma nova fase na sua vida - deixa de lutar contra inimigos exteriores e lança-se na cruzada contra os seus demónios interiores.
-        -stron O desafio é levar a luz da consciência para aquilo que é obscuro e oculto dentro de si: emoções destruidoras tais como ciúme, inveja, avareza, luxúria ou ânsia de poder./stron
+        <strong> O desafio é levar a luz da consciência para aquilo que é obscuro e oculto dentro de si: emoções destruidoras tais como ciúme, inveja, avareza, luxúria ou ânsia de poder.</strong>
         Se essas emoções são reprimidas, elas fervilham por baixo, envenenam a psique e acabem sendo liberadas de forma desregrada.
         É importante reconhecer os sentimentos envolvidos, transformá-los, canalizá-los de forma mais construtiva.
         Somente ao trazer seus inimigos interiores para a luz da consciência é que pode transcendê-los. É nessa altura que descobre em si recursos e capacidades que até então desconhecia.
         Deixa de ser um lutador e torna-se um guerreiro espiritual. Muitos artistas produziram suas melhores obras reestruturando suas paixões, iras e desacertos em alternativas criativas.
-        Olhos penetrantes e de expressão intensa e profunda, sublinhados por sobrancelhas espessas e bonitas, são característicos deste ascendente. -break`,
+        Olhos penetrantes e de expressão intensa e profunda, sublinhados por sobrancelhas espessas e bonitas, são característicos deste ascendente. <br />`,
 
         `Mercúrio no signo de Escorpião proporciona uma mente intuitiva capaz de profundos insights.
         A percepção dos nativos pode levar ao exame crítico das motivações humanas. Eles consideram as coisas com precisão, mas não necessariamente com compaixão.
@@ -2419,7 +2258,7 @@ const data = {
         Quem tem Mercúrio em Escorpião possui uma mente determinada e grande engenhosidade, pode vencer obstáculos que outros considerariam insuperáveis.
         As pessoas com Mercúrio neste signo gostam de vasculhar os porões da mente, são bons detectives, investigadores e pesquisadores. Pode também haver desconfiança dos outros.
         Em tipos muito desenvolvidos, há uma habilidade científica que se origina da sua curiosidade sobre os mecanismos interiores da energia responsável pela manifestação objetiva.
-        Isso pode proporcionar alguns insights dos processos fundamentais de sua transformação. -break`,
+        Isso pode proporcionar alguns insights dos processos fundamentais de sua transformação. <br />`,
 
         `Em Escorpião, Vênus quer intensidade e sedução, quer viver emoções fortes. A sexualidade fica evidenciada.
         A vontade é de se conectar com o outro num nível mais profundo. Vênus rege o signo de Touro, oposto a Escorpião, na verdade ela não se sente muito bem nesse signo.
@@ -2432,7 +2271,7 @@ const data = {
         Passional, visceral, fogoso, enfim, é o amor paixão por excelência. Arrebatador, não conhece limites, nem na cama e nem fora!
         Ao se apaixonar, quem tem Vênus em Escorpião, requer absoluta dedicação de seu parceiro, já que sua paixão é tão profunda que não quer se arriscar a perder o objeto de seu desejo.
         A sua sensualidade irá se expressar de maneira tão intensa que poderá se exceder nos jogos eróticos mais proibidos.
-        Para manter a chama desta Vênus sempre acesa é necessária muita imaginação, pois sem sexo não haverá relacionamento. -break`,
+        Para manter a chama desta Vênus sempre acesa é necessária muita imaginação, pois sem sexo não haverá relacionamento. <br />`,
 
         `Essa posição de Marte acrescenta ‘lenha na fogueira’. Marte é o antigo regente deste signo, podendo se expressar aqui com muita intensidade.
         Indica um grande poder de liderança e muita coragem e espírito de iniciativa. O nativo tem ambição para chegar a lugares de comando, de onde irá dirigir suas ações.
@@ -2440,14 +2279,14 @@ const data = {
         Sujeito a paixões intensas e gosta de sexo erótico como ninguém, não se satisfazendo com amores mornos ou românticos.
         Tem grande fertilidade. É preciso cuidado com paixões violentas, excessos sexuais e expressões onde o sexo e a agressividade estão juntos.
         Cuidado também com disputas, para não impor a sua vontade com uso da violência.
-        Indivíduos menos evoluídos podem ser manipuladores e maquiavélicos, com espírito vingativo e excessivamente ciumento. Ficam sujeitos a sofrer de todo tipo de violência, mesmo sexual. -break`,
+        Indivíduos menos evoluídos podem ser manipuladores e maquiavélicos, com espírito vingativo e excessivamente ciumento. Ficam sujeitos a sofrer de todo tipo de violência, mesmo sexual. <br />`,
 
         `O nativo pode contar com o instinto especial para os negócios e estes podem render-lhe largos dividendos.
         É muito provável que receba dinheiro por herança. Boa posição para o trabalho de investigação, pesquisa, engenharia ou medicina.
         Sente forte atração pelo ocultismo e pela filosofia. Gosta de passar seu tempo livre fazendo amor, meditando ou simplesmente descansando. Possui uma personalidade reservada e sutil.
         Seus discernimentos são sagazes e críticos. Por vezes, o nativo tem um magnetismo especial que atrai as massas, assim como poderes de cura.
         Mas pode ter problemas com amizades estranhas, baseadas em motivos ocultos. O nativo faria melhor se evitasse a sua participação em sociedades ou negócios ilegais ou duvidosos.
-        Também deve evitar iniciar processos jurídicos, porque é mínima a possibilidade de ganhá-los. -break`,
+        Também deve evitar iniciar processos jurídicos, porque é mínima a possibilidade de ganhá-los. <br />`,
 
         `Saturno no signo de Escorpião indica responsabilidade em assuntos financeiros, recursos corporativos, finanças conjuntas, impostos, heranças, seguros e questões relativas a propriedades alheias.
         Os nativos geralmente são perfeccionistas no trabalho. Estão sempre tentando melhorar a estrutura da sociedade. Se esta tendência for levada a extremos, podem adquirir a reputação de chefes muito duros.
@@ -2457,19 +2296,19 @@ const data = {
         São capazes de nutrir ressentimento quando sentem que foram tratadas injustamente. Também podem ter uma devoção quase fanática pelos princípios éticos e morais.
         Tenha atenção, os nativos podem atingir as alturas da espiritualidade ou as profundezas do materialismo e do egoísmo.
         No seu pior, podem ocorrer conflitos a respeito de heranças, impostos e finanças conjuntas, que, com frequência, provocam batalhas legais e perdas através de litígios. Pode também existir tendência a intrigas e conspirações.
-        É preciso cuidado com o desejo de vingança e a incapacidade para esquecer ofensas passadas. -break`,
+        É preciso cuidado com o desejo de vingança e a incapacidade para esquecer ofensas passadas. <br />`,
 
         `Urano no signo de Escorpião está na sua exaltação. Como Urano é o planeta das revoluções e das mudanças drásticas, ele é mais potente em Escorpião, o signo da morte e da regeneração.
         Os nascidos com esta posição de Urano precisam se adaptar às fortes mudanças das instituições, pré-requisito necessário ao nascimento de um novo tipo de civilização.
         Muitas pessoas com Urano em Escorpião vivenciaram a Primeira Guerra Mundial, que levou a era vitoriana a um fim drástico e iniciou um período de rápidas mudanças.
         Os nativos com Urano em Escorpião possuem emoções muito fortes. Acreditam na ação decisiva, não podem tolerar inatividade ou preguiça.
         No seu pior, os nativos podem desenvolver um pensamento violento e uma feroz determinação de realizar mudanças, mesmo destrutivas.
-        Os nativos podem ser muito habilidosos e possuir grande engenhosidade científica e mecânica. Podem ter tendências ocultas, como conhecimento da vida após a morte e percepção das dimensões suprafísicas de energia. -break`,
+        Os nativos podem ser muito habilidosos e possuir grande engenhosidade científica e mecânica. Podem ter tendências ocultas, como conhecimento da vida após a morte e percepção das dimensões suprafísicas de energia. <br />`,
 
         `O sexo é uma das chaves de Netuno em Escorpião. A desordem emocional e sexual caracteriza esta geração. Muitas pessoas estão marcadas pela exploração do sexo com objetivos comerciais.
         Nesta época uma geração começa a viver a ausência de inibições. A moral sexual libertada e a promiscuidade darão lugar à propagação de doenças venéreas e ao uso de drogas como escape emocional.
         Por detrás da expressão aparentemente sexual, existe nos nativos com Netuno em Escorpião um grande desejo de viver experiências místicas e de se fundirem com a pessoa amada através do ato sexual.
-        Esta posição intensifica as emoções, produzindo confusão que se descarrega através de criações artísticas caóticas, psicodélicas, música rock e de contestação. -break`,
+        Esta posição intensifica as emoções, produzindo confusão que se descarrega através de criações artísticas caóticas, psicodélicas, música rock e de contestação. <br />`,
 
         `Escorpião é um signo de Água, elemento que representa as emoções e os sentimentos. Plutão em Escorpião coloca em relevo o imenso poder da emoção.
         Na realidade, o que Escorpião demanda é conhecer a reação dos outros perante a emoção, a amizade e o amor. Sabe que somente o calor do afeto dos outros pode derreter o seu gelo.
@@ -2478,15 +2317,15 @@ const data = {
         Plutão nesse signo pode trazer importantes experiências espirituais. Grupos com uma orientação filosófica ocultista se encontram em primeiro plano.
         Do ponto de vista político, os movimentos coletivos têm cada vez mais poder. “Regeneração ou morte” é a palavra de ordem.
         Neste período oferece a oportunidade de se conseguir a comunhão, a grande comunidade com todos os restantes seres humanos.
-        Mas, se a compreensão, a tolerância e o respeito não forem possíveis, então Plutão ensinará forçosamente o homem através da destruição e da necessidade de se regenerar para se preparar para a era de Aquário. -break`,
+        Mas, se a compreensão, a tolerância e o respeito não forem possíveis, então Plutão ensinará forçosamente o homem através da destruição e da necessidade de se regenerar para se preparar para a era de Aquário. <br />`,
 
-        `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-        -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-        -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-        -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+        `<strong><i> Os Nodos Lunares Norte e Sul </strong></i>  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+        <strong><i> O eixo Cauda / Cabeça do Dragão </strong></i>  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+        <strong><i> A Cauda do Dragão </strong></i>  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+        <strong><i> A Cabeça do Dragão </strong></i>  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
         É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-        -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-        Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a se valorizar integrando as suas sombras:/stron
+        <strong><i> O objetivo é equilibrar os dois: </strong></i>  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+        Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a se valorizar integrando as suas sombras:</strong>
         Quem tem o Nodo Sul (Cauda do Dragão) em Escorpião, traz de vidas passadas memórias de mau uso e manipulação do seu poder sexual, psíquico e mediúnico. Costuma ser charmoso, magnético, cativante pela profundidade da sua pessoa, do seu olhar e do seu toque.
         Vêm de um passado de traição, autodesvalorização, desejos obsessivos e grande envolvimento com os outros. Há tendência para o segredo, a omissão e até mesmo a mentira. Também para dependências em geral: emocional, material, psíquica, física.
         Pode ser desconfiado, manipulador e fechado. É intenso, profundo, intuitivo, capazes de perceber os outros como ninguém. Em momentos de descontrole emocional pode se tornar violento. Gosta de estar sozinho na sua profundidade e tem certo medo de que o outro invada o seu espaço.
@@ -2495,12 +2334,12 @@ const data = {
         Aprender a simplificar a sua vida e sair do drama, a ser mais pacífico, estável, tranquilo e prático. Há necessidade de por limites na sua forma de viver e na interação com os outros para não se deixar arrastar e valorizar-se cada vez mais.
         Deve valorizar também a vida no mundo da matéria, o corpo, o aqui e o agora para concretizar seus projetos. Aprender a desfrutar dos prazeres da vida: comida, massagens, cheiros, sons e interação com a natureza.
         Na infância pode ter sido carente de amor e carinho, por isso vive em busca de compensação dessa carência e vazio emocional. São as rejeições e desilusões que o levam a encontrar a sua própria fonte interior de amor próprio e segurança interior.
-        Deve aprender a confiar na vida e nas pessoas, sentir que a verdade e a transparência simplificam e libertam. Saber perdoar para libertar-se do que já não serve e assim descobrir que merece mais e melhor. -break`,
+        Deve aprender a confiar na vida e nas pessoas, sentir que a verdade e a transparência simplificam e libertam. Saber perdoar para libertar-se do que já não serve e assim descobrir que merece mais e melhor. <br />`,
 
         `A busca da felicidade e de integração da personalidade está interligada com o problema do uso adequado do poder.
         Aqui, poder pode significar poder sexual ou o poder derivado de uma profunda identificação com energias humanas coletivas (ou “ocultas”).
         Ele sempre se relaciona com os frutos finais de algum tipo de associação. A iluminação vem em consequência de uma fecundação interior por algum poder espiritual definido.
-        Exemplos: Lord Byron, Jay Gould, Walt Whitman, papa Pio XI, Carl Jung. -break`,
+        Exemplos: Lord Byron, Jay Gould, Walt Whitman, papa Pio XI, Carl Jung. <br />`,
 
         `Na infância você pode ter tido um contato muito próximo com a morte. Tornou-se, mais tarde, extremamente consciente da fragilidade da vida. Assim, tende a usar o poder para controlar os outros, numa tentativa de evitar possíveis perdas e abandonos.
         Compreender o significado desse impulso para o poder é uma das lições a serem aprendidas. Devido à sua capacidade incomum para enxergar (e aceitar) o lado sombrio da vida e o sofrimento interior, consegue atrair a confiança de outras pessoas e ajudá-las à superar a dor.
@@ -2528,29 +2367,29 @@ const data = {
         Ou ver-se subitamente ludibriado por alguém da família ou sócio que levou seus bens indevidamente, ou que ocupou definitivamente seu lugar na firma enquanto estava em férias. São situações vividas em outras vidas que ressurgem agora resgatando o passado.
         Tenha muito cuidado com suas tendências em buscar o poder pelo modo mais fácil, seja crítico de si mesmo e sempre aja com os demais como gostaria que agissem com você. Este é o método fácil para saber se andamos corretamente na sociedade em que vivemos.
         Talvez seja também necessário abandonar as preocupações, os sofrimentos e seu mau humor. Entrar em contato com sentimentos de alegria, esperança e outras experiências positivas.
-        Conquistar a alegria pode doer menos do que o sofrimento que tem agora. Aprenda a respeitar as pessoas que têm uma vida mais leve e alegre. -break`,
+        Conquistar a alegria pode doer menos do que o sofrimento que tem agora. Aprenda a respeitar as pessoas que têm uma vida mais leve e alegre. <br />`,
 
         `O parceiro ideal é aquele que seja misterioso ou interessado em mistérios, cura e investigação.
         Podem ser pessoas misteriosas, cirurgiões ou curandeiros, muito sensuais, intensas e profundas, pessoas que procuram a finalidade e origem das coisas, investigadoras, analistas de laboratório, arqueologistas, etc.
         Mas é preciso cuidado para não se tornar controlador, manipulador, possessivo ou ciumento numa relação. O tipo de pessoa que esconde suas reais intenções.
-        É preciso haver paixão, sintonia sexual, cumplicidade e intimidade. O casal ideal para Juno neste signo é aquele que está sempre se transformando, se renovando e se purificando com suas descobertas em comum. -break`,
+        É preciso haver paixão, sintonia sexual, cumplicidade e intimidade. O casal ideal para Juno neste signo é aquele que está sempre se transformando, se renovando e se purificando com suas descobertas em comum. <br />`,
 
         `Mercúrio retrógrado indica uma profissão de escritor nas vidas passadas, ou, pelo menos, de intelectual, talvez de jornalista. Em Escorpião, tratava-se talvez de literatura policial ou erótica.
         De uma inteligência fulgurante, desvendando as secretas motivações dos outros, o nativo não fez o uso construtivo de todas as suas excepcionais faculdades mentais.
         Seu magnetismo sexual e intenso lhe emaranhara a submissão apaixonada de muitas pessoas.
         Pode ter usado sua imaginação de forma sádica ou perversa, enquanto envolvia o seu discurso em teorias mágico-religiosas.
         O poder que exercia pela palavra ou pela escrita pode ter levado a consequências prejudiciais.
-        Deve agora usar sua palavra e sua inteligência para curar, ajudar, desenvolvendo uma consciência mais elevada e espiritual. -break`,
+        Deve agora usar sua palavra e sua inteligência para curar, ajudar, desenvolvendo uma consciência mais elevada e espiritual. <br />`,
 
         `Em vidas passadas, o nativo foi insatisfeito, sequioso de novidades, intensas experiências, emoções e paixões destrutivas.
         Suas dificuldades com o sexo oposto têm origem nas outras vidas: o nativo viveu ex¬periências amorosas que lhe haviam provocado um profundo desprezo por si próprio.
         Seu "comportamento de fracasso" tende a provar que o amor é digno de desprezo.
-        Deve essencialmente aprender a perdoar e a esquecer do passado para que possa se abrir ao amor. Deve também buscar uma perspectiva espiritual mais elevada. -break`,
+        Deve essencialmente aprender a perdoar e a esquecer do passado para que possa se abrir ao amor. Deve também buscar uma perspectiva espiritual mais elevada. <br />`,
 
         `O nativo traz de vidas passadas uma grande ebulição interior.
         Sempre em estado de alerta, luta contra a angústia que bate à porta, contra paixões violentas, ciúmes, desejos sexuais e manipulações, nos quais fica sufocado.
         Por vezes, se afoga. Sua fúria de viver o leva a se autodestruir. Nesta vida deve trabalhar-se para se reconstruir. Há necessidade também de aprender a perdoar, a esquecer.
-        Atividades criativas podem ajudá-lo. A busca espiritual também pode levá-lo a canalizar sua grande energia para um objetivo exterior positivo. -break`,
+        Atividades criativas podem ajudá-lo. A busca espiritual também pode levá-lo a canalizar sua grande energia para um objetivo exterior positivo. <br />`,
 
         `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
         Muito perspicaz, o nativo sabe bem que a verdade que tenta impor aos outros não é tão inteiramente verdadeira quanto o proclama em alta voz.
@@ -2558,14 +2397,14 @@ const data = {
         Causa aos outros os sentimentos de o ódio ou amor, a admiração ou o respeito, em essencial é uma pessoa que nunca é indiferente.
         A vida atual lhe oferece todos os dias novas oportunidades de transformação para subtrair às suas tendências negativas.
         Este caráter muito apaixonado tem muito a fazer, no início de sua vida, para canalizar seus apetites sexuais.
-        Mal compreendido pelos que o cercam, trava seu combate inteiramente só, bravamente. Mas não deve causar espanto que ele tenha, para isso, necessi¬dade de uma enorme liberdade. -break`,
+        Mal compreendido pelos que o cercam, trava seu combate inteiramente só, bravamente. Mas não deve causar espanto que ele tenha, para isso, necessi¬dade de uma enorme liberdade. <br />`,
 
         `O nativo já viu tantas coisas, ao longo das suas vidas passadas! Saturno neste signo indica a alma de velho sábio, que foi iniciado em saberes e mistérios.
         Nada escapa ao seu olho de águia. Não tentem esconder-lhe o que quer que seja: farejará logo a mentira. As alegrias e sucessos da vida não o deslumbram: sabe que há algo mais.
         Entretanto, do momento em que fixa um objetivo, nada consegue desviá-lo. Fica até mesmo fascinado pela perpétua tentação de autodestruição.
         Há tendência para se autosabotar e fracassar em tudo o que faz de propósito ou de forma inconscientemente.
         Este kamikaze é na verdade um místico. Nesta vida deve desenvolver sua espiritualidade e transformar a si mesmo.
-        Procurará conhecer mais sobre suas vidas passadas e só ficará feliz quando tiver encontrado a resposta para a questão essencial: "o que é a Verdade?" -break`,
+        Procurará conhecer mais sobre suas vidas passadas e só ficará feliz quando tiver encontrado a resposta para a questão essencial: "o que é a Verdade?" <br />`,
 
         `Urano está exaltado em Escorpião. A sua natureza independente, não conformista e corajosa está bem de acordo com a do signo.
         Esta posição é excelente para um pesquisador científico, um investigador ou um psicoterapeuta: sua visão de raio x pode vasculhar as profundezas e os mínimos re¬cantos onde se esconde a verdade.
@@ -2574,7 +2413,7 @@ const data = {
         Entretanto, deve compreender que a lucidez não exclui a bondade e a indulgência para com os seres (ou para com ele mesmo).
         Que a descoberta dos negrumes do seu tempo não o faça mergulhar na amargura. Ao contrário, que o façam combater com mais força para conduzir os outros ao progresso.
         Quanto à sua vida sexual, pode ser muito movimentada. Leva sempre tudo às últimas consequências, não faz nada pela metade.
-        De qualquer modo a sua grande energia lhe permite ser um líder notável em sua vida. -break`,
+        De qualquer modo a sua grande energia lhe permite ser um líder notável em sua vida. <br />`,
 
         `O nativo possui intuição e percepção para as sutilezas. Sua vista aguda esquadrinha as coisas ignoradas e adivinha verdades ocultas sob a aparência.
         Visionário, clarividente, sua intuição extraordinária ultrapassa de muito longe a dos que e o rodeiam.
@@ -2584,14 +2423,14 @@ const data = {
         Tendo Netuno afinidades com todos os signos de Água (na mitologia, o deus do mar é também o irmão de Plutão e de Júpiter), o planeta é extremamente poderoso em Escorpião.
         O nativo dispõe ao mesmo tempo de um olho no mundo invisível e de uma grande força operacional no do material.
         Mas este carma pode ser vivido negativamente, com um espírito crítico feroz, uma tendência a tudo destruir, inclusive a si mesmo.
-        O nativo em vidas passadas não teve respeito por nada; desencorajou o entusiasmo, a fé e o progresso. Nesta vida deve desenvolver uma escala de valores que seja positiva e construtiva. -break`,
+        O nativo em vidas passadas não teve respeito por nada; desencorajou o entusiasmo, a fé e o progresso. Nesta vida deve desenvolver uma escala de valores que seja positiva e construtiva. <br />`,
 
         `A força transformadora de Plutão exerce total influência aqui. Foi a geração nascida entre 1737 e 1749 que preparou e depois inflamou a Revolução francesa de 1789.
         Os nativos nascidos sob essa configuração são grandes reformadores - ou grandes destruidores, se essa retrogradação do planeta for vivida negativamente.
         Quando criança, pode ter se sentido pessoalmente atingido pelas injustiças do mundo. Se você escolheu essa en¬carnação, foi por um profundo desejo de queimar todas as escórias do passado.
         Entramos assim num grande renascimento, nas escalas planetárias. Os homens serão equipados com poderes parapsicológicos que o Ocidente esquecera reforçados pelos poderes tecnológicos que já temos, e que logo aumentarão.
         As crianças plutonianas retrógradas de Escorpião desenvolverão sistematicamente seus poderes psíquicos (leitura das auras, telepatia, percepção extrassensorial, desdobramento etc.).
-        Mas esses imensos poderes, desenvolvidos com um objetivo egoísta, podem tornar-se infinitamente destruidores. É preciso consciência e amor. -break`,
+        Mas esses imensos poderes, desenvolvidos com um objetivo egoísta, podem tornar-se infinitamente destruidores. É preciso consciência e amor. <br />`,
 
         `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
         Na infância, pode ter tido um contato muito próximo com a morte, tornando-se, mais tarde, extremamente consciente da fragilidade da vida. Assim, tende a usar o poder para controlar os outros, numa tentativa de evitar possíveis perdas e abandonos.
@@ -2629,85 +2468,62 @@ const data = {
         Conquistar a alegria pode doer menos do que o sofrimento que tem agora. Você precisa aprender a respeitar as pessoas que têm uma vida mais "leve" e alegre, elas são diferentes de você, é só isso.
         Você pode sentir-se tentado a avançar nos bens da família ou da sociedade a que pertence, ocupando de modo irregular postos de chefia ou tomando o poder de algum modo.
         Pode se ver subitamente ludibriado por alguém da família ou sócio que levou seus bens indevidamente, ou que ocupou definitivamente seu lugar na firma enquanto estava em férias, são situações vividas em outras vidas que ressurgem agora resgatando o passado.
-        Tenha muito cuidado com suas tendências em buscar o poder pelo modo mais fácil, seja crítico de si mesmo e sempre aja com os demais como gostaria que agissem com você, é o método fácil para saber se andamos corretamente na sociedade em que vivemos. -break`,
+        Tenha muito cuidado com suas tendências em buscar o poder pelo modo mais fácil, seja crítico de si mesmo e sempre aja com os demais como gostaria que agissem com você, é o método fácil para saber se andamos corretamente na sociedade em que vivemos. <br />`,
 
         `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
         É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
         As uniões desta pessoa com Juno neste signo ou setor são vividas com paixão. Sua vida sexual é vivenciada sobre tudo no casamento, ou nas uniões que tiverem.
         Aliás, essa sexualidade, vivida no casamento, libera uma espécie de fogo regenerador para a própria pessoa e para o parceiro/a.
         Se existir uma forte influência de Netuno/Marte/Vênus, perigo de fantasmas que rondam a relação.
-        São pessoas que em matéria de negócios tenderão a investir no que é belo ou no que possui uma certa harmonia. -break`,
+        São pessoas que em matéria de negócios tenderão a investir no que é belo ou no que possui uma certa harmonia. <br />`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-        `-stron 1º nível de evolução:/stron`,
-        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. -break
-        Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade. -break`,
+        `<strong> 1º nível de evolução:</strong>`,
+        `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. <br />
+        Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade. <br />`,
 
-        `-stron 2º nível de evolução:/stron`,
-        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. -break
-        Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade. -break`,
+        `<strong> 2º nível de evolução:</strong>`,
+        `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. <br />
+        Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade. <br />`,
 
-        `-stron 3º nível de evolução:/stron`,
-        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. -break
-        É uma morte psíquica. Acontece normalmente quando a vida o obriga a largar o que julgava ser a sua força, a sua obscura segurança, o seu poder. -break
-        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação. -break`
+        `<strong> 3º nível de evolução:</strong>`,
+        `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. <br />
+        É uma morte psíquica. Acontece normalmente quando a vida o obriga a largar o que julgava ser a sua força, a sua obscura segurança, o seu poder. <br />
+        Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a ter autonomia e a ser corajoso sem perder a diplomacia: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a ter autonomia e a ser corajoso sem perder a diplomacia: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `sagitario`,
+    title: `sagitario</strong>`,
     text: [
         `A afirmação da individualidade é uma qualidade do elemento fogo.
         O sagitariano quer viajar, encontrar algo maior, filosofar, expandir fronteiras, cultivar liberdade de ação e pensamento, buscar mais espaço em todos os sentidos.
@@ -2726,7 +2542,7 @@ const data = {
         É importante praticar esportes que ajudam a queimar as toxinas. É preciso cuidado com o orgulho, a vaidade, o deboche, os excessos, exageros e as posturas dogmáticas de quem se acha o dono da verdade.
         O equilíbrio está no signo oposto, Gêmeos. Flexibilidade e a adaptabilidade impedem que as posturas se tornem impositivas demais, para que possa aceitar opiniões diferentes.
         Aprender com as mudanças, olhar para outras culturas e religiões com respeito e humildade, adaptar os objetivos de acordo com as circunstâncias.
-        Tudo em nome da evolução. De fato, a flecha apontada para o alto só atinge o alvo se o arqueiro possuir flexibilidade e habilidade nos movimentos. -break`,
+        Tudo em nome da evolução. De fato, a flecha apontada para o alto só atinge o alvo se o arqueiro possuir flexibilidade e habilidade nos movimentos. <br />`,
 
         `A Lua representa a forma como vivemos as nossas emoções.
         É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -2741,7 +2557,7 @@ const data = {
         Por causa disso, não possui fácil objetividade no seu ponto de vista sobre as questões sociais. Pode haver intransigência, arrogância, deboche e uma atitude egoísta superior.
         O desafio aqui é evoluir emocionalmente e ser o mais flexível possível na busca de uma compressão mais leve da vida e dos fatos.
         Procurar compreender os sentimentos, transformar emoções e desejos instintivos (que muitas vezes se manifestam de forma amplificada) com base na razão.
-        É preciso também aprender a valorizar o que já foi conquistado, para controlar a insatisfação e aproveitar melhor o que está próximo de seu alcance. -break`,
+        É preciso também aprender a valorizar o que já foi conquistado, para controlar a insatisfação e aproveitar melhor o que está próximo de seu alcance. <br />`,
 
         `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
         O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -2752,11 +2568,11 @@ const data = {
         Os acontecimentos da vida são encarados com significados e uma importância simbólica. Tudo é analisado em relação com uma verdade maior. Seu entusiasmo e idealismo são contagiantes, inspiram as pessoas e contribuem para o bem-estar geral.
         Contudo, corre o risco de se tornar pomposo, arrogante, extravagante ou doutrinário. Quer que os outros acreditem naquilo que acha que está certo e não hesita em ensinar ou até mesmo impor as atitudes e conceitos morais que você considera correto.
         Uma parte de sua natureza aspira nobres ideias, elevadas realizações e grandes alturas. Outra parte é dirigida pelas necessidades mais básicas e pelos instintos animais.
-        -stron O grande aprendizado é encontrar formas criativas para resolver essa diferença e encurtar essa lacuna.
-        Assim, quando deixar de lado a atitude de sabedoria pomposa e passar a compartilhar os seus conhecimentos com humildade você dará um passo importante em direção à sua maturidade./stron
+        <strong> O grande aprendizado é encontrar formas criativas para resolver essa diferença e encurtar essa lacuna.
+        Assim, quando deixar de lado a atitude de sabedoria pomposa e passar a compartilhar os seus conhecimentos com humildade você dará um passo importante em direção à sua maturidade.</strong>
         Esta etapa é alcançada através do controle da fala e dos pensamentos, evitando exageros e indiscrições, encontrando as palavras certas para expressar os mais amplos conceitos.
         Assim pode trazer à sua vida o sentido e a Sabedoria que tanto procurou. Associa-se a este ascendente um aspecto descontraído, inquieto e jovial.
-        Pode ter um rosto aberto, com um grande sorriso e cabelos encaracolados (às vezes arruivados), coxas fortes e tendência a aumentar de peso. -break`,
+        Pode ter um rosto aberto, com um grande sorriso e cabelos encaracolados (às vezes arruivados), coxas fortes e tendência a aumentar de peso. <br />`,
 
         `Mercúrio neste signo indica uma mente preocupada com todas as codificações do pensamento social, seja na forma de espiritualidade, religião, filosofia, direito ou outros estudos relacionados com a educação superior.
         Pode haver maior preocupação pelas atitudes do que pelos fatos. O resultado muitas vezes é construtivo, proporcionando um insight da motivação social e dos acontecimentos subsequentes.
@@ -2769,7 +2585,7 @@ const data = {
         Pode resultar em tendências à desatenção. Essas pessoas têm um discurso direto e dirão exatamente aquilo que pensam.
         Exigem liberdade intelectual, porém as suas ideias raramente divergem dos conceitos tradicionais ou da moral social vigente. Assim, geralmente são respeitadas na comunidade.
         Mas se o conformismo social for levado muito longe, pode conduzir à hipocrisia, pois os seus padrões morais talvez não sejam melhores do que as normas socialmente aceitas.
-        É preciso perceber que uma atitude não está necessariamente correta simplesmente porque é popular ou dominante. -break`,
+        É preciso perceber que uma atitude não está necessariamente correta simplesmente porque é popular ou dominante. <br />`,
 
         `O nativo com Vênus em Sagitário está sempre em busca de algo novo para conquistar e manterá acesa a chama do relacionamento somente se o parceiro não se deixar conquistar muito facilmente!
         O desafio é equilibrar o amor, que quer apego, com a seta sagitariana que aponta rumos distantes.
@@ -2781,7 +2597,7 @@ const data = {
         Esta Vênus detesta rotina e está sempre em busca de novas sensações, por essa razão o parceiro precisa ser interessante e cheio de recursos, físicos e intelectuais.
         O fogo que acende a paixão expressa nesta Vênus não se apagará se a vida dos dois for uma constante aventura, excitante e cheia de surpresas.
         O seu parceiro deverá se manter inatingível e até distante... Caso contrário, a paixão se esvairá tão rapidamente como quando iniciou.
-        As viagens e as aventuras em comum servirão como um estímulo para manter a fogueira acesa. -break`,
+        As viagens e as aventuras em comum servirão como um estímulo para manter a fogueira acesa. <br />`,
 
         `O nativo com Marte nesse signo adora uma boa discussão. Pode se tornar ator, professor ou orador somente para expor a sua opinião.
         As suas ações serão fortes e determinadas, demonstrando franqueza e força de caráter. Sente atração pelos esportes radicais, por exercícios físicos violentos e perigosos, amando as corridas de alta velocidade.
@@ -2789,14 +2605,14 @@ const data = {
         Com pressa de atingir o seu alvo, não poupará esforços para conseguir seus objetivos. Pode dirigir suas ações em atividades ligadas às leis, comercio exterior ou turismo.
         Espaçoso, quem possui Marte nessa posição dificilmente aceita imposições ou limitações. Ardente na expressão sexual pode ser um amante fogoso e eficiente. Tem boa fertilidade.
         É preciso ser cuidadoso ao fazer esportes radicais, pois fica exposto a sofrer acidentes. A imprudência e a temeridade podem fazê-lo cometer excessos na pressa de alcançar seus objetivos.
-        Cético em relação à opinião dos outros, pode expressar suas ideias de forma arrogante e com ar de superioridade. Cuidado com a pressa para evitar acidentes em viagens. -break`,
+        Cético em relação à opinião dos outros, pode expressar suas ideias de forma arrogante e com ar de superioridade. Cuidado com a pressa para evitar acidentes em viagens. <br />`,
 
         `Neste signo Júpiter está em seu domicílio, proporcionando boa fortuna e êxito em geral. Favorável para a literatura, as viagens, as operações com cavalos ou barcos.
         Para esportistas, professores, editores, tradutores ou políticos. Em regra, o nativo é religioso, ético e sincero. Sem dúvida pode utilizar as melhores condições da sua mente.
         Possui muito interesse pelas culturas estrangeiras, pela busca da sabedoria, pelas religiões ou conhecimentos sobre culturas e sistemas sociais diversos.
         É muito difícil que se aborreça: tem sempre alguma coisa para fazer, seja um passatempo, uma aventura ou uma atividade criativa.
         Agrada-lhe o ar livre e os esportes. Pode aprender muito através das viagens. A sua personalidade é alegre, extrovertida e optimista.
-        O seu respeito pela liberdade e a sua conduta imparcial fará que seja admirado e respeitado por todos, até mesmo seus adversários. -break`,
+        O seu respeito pela liberdade e a sua conduta imparcial fará que seja admirado e respeitado por todos, até mesmo seus adversários. <br />`,
 
         `Saturno no signo de Sagitário indica pessoas sérias e responsáveis na busca da filosofia, religião e educação superior.
         Elas geralmente desenvolvem códigos morais rígidos ou uma devoção inabalável a sistemas religiosos e filosóficos.
@@ -2806,33 +2622,33 @@ const data = {
         O desejo de poder e liderança pode se manifestar na vontade de ser considerada uma autoridade em algum dos aspectos nas áreas como da educação superior, da religião, do direito ou da filosofia.
         Há uma profunda necessidade de realização intelectual, filosófica ou espiritual que traga distinção. Esta posição traz a tendência de um intenso orgulho intelectual.
         Os nativos temem a desaprovação e a censura e ficam indignados quando outros pensam ou falam deles injustamente. A sua reputação pessoal é de extrema importância.
-        É preciso cuidado para não se tornar presunçoso, tentar impor o seu sistema filosófico ou religioso aos outros. Se levada a extremos, esta prática resulta em presunção intelectual e espiritual. -break`,
+        É preciso cuidado para não se tornar presunçoso, tentar impor o seu sistema filosófico ou religioso aos outros. Se levada a extremos, esta prática resulta em presunção intelectual e espiritual. <br />`,
 
         `Urano no signo de Sagitário inspira novos conceitos em espiritualidade, religião, filosofia e educação.
         Os nativos com esta posição de Urano podem criar novas formas de religião e educação, com o desejo de revolucionar todos os conceitos religiosos.
         Possuem um forte desejo de incorporar na religião ou espiritualidade os princípios da ciência e do ocultismo, como a reencarnação, a astrologia e a telepatia.
         Podem até se interessar por religiões excêntricas, filosofias sociais ou adotar religiões e filosofias novas ou estrangeiras.
         Urano em Sagitário oferece ao nativo, muita curiosidade sobre culturas estrangeiras. Pode viajar repentinamente, fazendo longas viagens por causa do espírito de aventura.
-        Pode viver muitas experiências singulares em países estrangeiros ou com pessoas estrangeiras. -break`,
+        Pode viver muitas experiências singulares em países estrangeiros ou com pessoas estrangeiras. <br />`,
 
         `Os anos em que Netuno transitava em Sagitário foram marcados por uma forte crise religiosa e pela ausência de uma visão otimista e esperançosa da vida.
         Como consequência, o desejo de recuperar a ligação com o autêntico sentido da vida provocou a expansão da consciência coletiva e a aceitação de determinados saberes espirituais que haviam sido reprimidos.
         Netuno em Sagitário provocou uma moda superficialmente otimista: o esplendor do consumismo. Mas o desfrute material sem sentido acaba por converter o consumo em decepção.
-        Os nativos devem aprender a intervir de forma mais ativa e realista na vida. Ao mesmo tempo, cultivar a fé e desenvolver valores espirituais. -break`,
+        Os nativos devem aprender a intervir de forma mais ativa e realista na vida. Ao mesmo tempo, cultivar a fé e desenvolver valores espirituais. <br />`,
 
         `Sagitário é o signo da filosofia e da religião da mente abstrata. Plutão inspira o interesse dessa geração por realidades extraordinárias e filosofias profundas.
         A necessidade de conhecer e compreender a finalidade da vida pode levar a uma expansão espiritual.
         Depois da crise emocional do trajeto por Escorpião, há uma mudança para os valores espirituais. Novas ideologias e políticas são estabelecidas com o objetivo de construir uma sociedade melhor.
         Uma vez que Sagitário é o signo das grandes viagens, há o desejo de explorar os mais longínquos horizontes, que tem na Terra ou para além dela.
-        Plutão em Sagitário trouxe uma grande transformação no conhecimento de outros mundos através do desenvolvimento das tecnologias, da filosofia quântica e das viagens espaciais. -break`,
+        Plutão em Sagitário trouxe uma grande transformação no conhecimento de outros mundos através do desenvolvimento das tecnologias, da filosofia quântica e das viagens espaciais. <br />`,
 
-        `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
-        -stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
-        -stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
-        -stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+        `<strong><i> Os Nodos Lunares Norte e Sul </strong></i>  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+        <strong><i> O eixo Cauda / Cabeça do Dragão </strong></i>  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+        <strong><i> A Cauda do Dragão </strong></i>  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+        <strong><i> A Cabeça do Dragão </strong></i>  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
         É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
-        -stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-        Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a comunicar a sabedoria com humildade:/stron
+        <strong><i> O objetivo é equilibrar os dois: </strong></i>  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+        Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a comunicar a sabedoria com humildade:</strong>
         Quem tem o Nodo Sul (Cauda do Dragão) em Sagitário traz memórias da necessidade de muita liberdade, interesse por questões filosóficas, conhecimento, viagens e aventura.
         Em vidas passadas pode ter vivido experiências com o sacerdócio, os rituais, os conhecimentos elevados e filosóficos. Pode também ter sido militar ou juízes. Pode haver rigidez de pensamento, valorização das teorias e dogmas.
         Traz uma relação de profundidade com o conhecimento, mas muitas vezes certa arrogância por “saber” o que os outros não sabem. O conhecimento teórico pode ser excessivamente valorizado em detrimento da comunicação trivial do dia-a-dia, das trocas do cotidiano.
@@ -2840,12 +2656,12 @@ const data = {
         Mas com o Nodo Norte (Cabeça do Dragão) em Gêmeos, veio aprender a viver mais o dia a dia, a interagir com todo o tipo de pessoa e situação. As trocas de experiências são muito importantes para o seu crescimento.
         Os intercâmbios o ajudam a encontrar respostas concretas para os seus problemas. Você pode se tornar um comunicador dos novos tempos. Com a sabedoria do uso da palavra pode mobilizar as outras pessoas, despertando-as para novas possibilidades.
         É preciso cultivar movimento, dinamismo, mudanças, interação com as pessoas, alegria, bom humor, viagens curtas e longas.
-        É preciso mostrar-se flexível, gentil, já que viver em sociedade tem as suas regras e exige paciência para com os outros. A meta é vencer qualquer tipo de rigidez e mostrar que não somente coopera, mas que se interessa vivamente pelo que as outras pessoas têm a dizer ou querem trocar. -break`,
+        É preciso mostrar-se flexível, gentil, já que viver em sociedade tem as suas regras e exige paciência para com os outros. A meta é vencer qualquer tipo de rigidez e mostrar que não somente coopera, mas que se interessa vivamente pelo que as outras pessoas têm a dizer ou querem trocar. <br />`,
 
         `Esta posição indica um forte desejo de vastos horizontes mentais, assim como de uma vida livre de limitações e tradições particulares.
         A tendência é de lidar com questões grandes, muitas vezes com algum grau de fanatismo ou então em termos de princípios gerais, puramente abstratos, talvez sem um senso adequado de perspectiva e realismo.
         Nos casos mais elevados, porém, a alegria é experimentada quando o indivíduo da uma forma criativa a abstrações na literatura, na formulação intelectual e na investigação cientifica.
-        Exemplos: o grande astrólogo John Gadbury; o gênio literário e rebelde social (a mulher romântica de muitos amores famosos) George Sand; o poeta Baudelaire; o construtor do império britânico sul-africano, Cecil Rhodes. -break`,
+        Exemplos: o grande astrólogo John Gadbury; o gênio literário e rebelde social (a mulher romântica de muitos amores famosos) George Sand; o poeta Baudelaire; o construtor do império britânico sul-africano, Cecil Rhodes. <br />`,
 
         `A base religiosa herdada no lar, na infância, não reflete as suas necessidades interiores. Você sente necessidade de buscar uma crença na qual encontre significado. Em alguns casos, pode ter a compulsão de transmitir sua verdade aos outros, tentando convertê-los a todo custo.
         Seu otimismo inato geralmente é bloqueado pelos outros, uma vez que você precisa aprender a aceitar os aspectos dolorosos, limitadores e contraditórios da vida atual.
@@ -2869,46 +2685,67 @@ const data = {
         O dom da expansividade e otimismo se encontra bloqueado a fim de facilitar uma expansão da consciência e uma maior compreensão interna.
         Se puder aceitar isso, será capaz de adquirir uma sabedoria prática, bem como uma atividade espirituosa e franca diante da vida. Isto não significa que você deva fazer alguma coisa, basta viver. Se você acredita na presença divina em sua vida, não precisa mais procurá-la.
         Basta viver o aqui e agora, e não estará mais dividido entre o que é e o que não é sagrado, pois terá compreendido que tudo é obra de Deus, portanto, tudo é sagrado.
-        Você está naturalmente ligado ao seu eu Superior, por essa razão sente tanta necessidade de estar em contato com as divindades, com a espiritualidade, com os pontos mais altos da consciência. A busca pelo conhecimento te levará a entender as Verdades Superiores. -break`,
+        Você está naturalmente ligado ao seu eu Superior, por essa razão sente tanta necessidade de estar em contato com as divindades, com a espiritualidade, com os pontos mais altos da consciência. A busca pelo conhecimento te levará a entender as Verdades Superiores. <br />
+        <strong> QUÍRON – O CURADOR FERIDO</strong>
+        Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. <br />
+        Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. <br />
+        Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. <br />
+        É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. <br />
+        Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pcediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. <br />
+        Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. <br />
+        Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. <br />
+        Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. <br />
+        Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. <br />
+        Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. <br />
+        Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. <br />
+        Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. <br />
+        Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? <br />
+        Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. <br />
+        A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. <br />
+        Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. <br />
+        Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? <br />
+        Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. <br />
+        Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. <br />
+        A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. <br />`,
 
         `O parceiro ideal é aquele que tenha interesse em cultura, assuntos filosóficos ou religiosos e que seja alegre e otimista.
         Podem ser pessoas estrangeiras, mestras, sábias, gurus, religiosas ou que tenha classe social, raça e cultura diferente, viajantes, pilotos de avião, pessoas fanáticas ou de crenças arraigadas, universitários.
         De alguma forma, o relacionamento é marcado por algo ou por alguém de locais distantes ou que se contrastam.
         Um dos parceiros pode servir como mestre do outro ou ensinar-lhe algo a respeito do universo. Mas também podem ser aventureiros ou inconsequentes.
-        É importante que haja sintonia filosófica e espiritual no relacionamento. Juno neste signo favorece o compartilhamento de ideias, a busca de conhecimentos, os estudos, as viagens e aventuras em parceria. -break`,
+        É importante que haja sintonia filosófica e espiritual no relacionamento. Juno neste signo favorece o compartilhamento de ideias, a busca de conhecimentos, os estudos, as viagens e aventuras em parceria. <br />`,
 
         `As elucubrações mentais do nativo nunca lhe permitiram fixar-se. Tem uma enorme necessidade dos outros para encontrar-se a si mesmo.
         Seduzido por mil ideias, filosofias e teorias diferentes, outrora se dispersava, sem nunca se aprofundar em nada.
         Era incapaz de concentração mental e deixava-se distrair por todas as sugestões exteriores.
         Os provérbios "quem tudo quer tudo perde" ou "quem vai ao vento, perde o assento" descrevem as suas vidas passadas. Entretanto, seus pensamentos otimistas lhe serão de grande ajuda.
-        É importante que desenvolva um foco na busca do conhecimento e que se aprofunde em seus estudos. -break`,
+        É importante que desenvolva um foco na busca do conhecimento e que se aprofunde em seus estudos. <br />`,
 
         `O indivíduo dá valor antes de tudo à sua independência e à sua liberdade. Por causa disso sacrificou o amor em suas vidas passadas.
         Incapaz de estabilidade afetiva vive muitas vezes sozinho e não suporta o casamento por muito tempo.
         A necessidade de mudança impele o nativo para uma vida amorosa agitada, com múltiplas experiências que duram apenas um certo tempo.
-        Ele se estabilizará se consentir em sacrificar parcialmente a sua liberdade em nome de um relacionamento duradouro e bem sucedido. -break`,
+        Ele se estabilizará se consentir em sacrificar parcialmente a sua liberdade em nome de um relacionamento duradouro e bem sucedido. <br />`,
 
         `Indica vidas anteriores onde o nativo se dispersou na ansiosa busca de liberdade e em objetivos mutantes, sem foco.
         Agora deve se acalmar e refletir antes de agir, para definir melhor seus objetivos e a sua linha de conduta.
-        Deve buscar sabedoria, expandir sua consciência, aprender a coordenar a sua necessidade de um ideal com a sua inquieta sede de novas experiências. -break`,
+        Deve buscar sabedoria, expandir sua consciência, aprender a coordenar a sua necessidade de um ideal com a sua inquieta sede de novas experiências. <br />`,
 
         `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
         A insaciável sede de novas experiências impede o nativo de se estabilizar. É preciso cuidado com a inconstância.
         Entretanto, menos leviano do que se poderia pensar, o nativo tem, por vezes, intuições proféticas (é que ele acumulou muitos conhecimentos do Universo em suas vidas passadas).
         Aprende mais com a vivência do que com os livros. As suas ideias religiosas são muito pouco convencionais e, aí, seu carma é seguir seu instinto.
-        Tem uma vocação especial para transmitir aos outros a sabedoria adquirida e o que conhece da Verdade, mas deve admitir que não seja seu este monopólio. -break`,
+        Tem uma vocação especial para transmitir aos outros a sabedoria adquirida e o que conhece da Verdade, mas deve admitir que não seja seu este monopólio. <br />`,
 
         `Saturno neste signo indica tendência de não ouvir os conselhos dos outros. O nativo é muito independente.
         Quebra as lanças por qualquer ideia ou filosofia que lhe agrade, mas também pode vir a esquecê-las rapidamente.
         Gosta de defender fracos e oprimidos e encorajar seus admiradores a enfrentar proibições. Detesta o que é convencional: sua necessidade de contestação presta serviço à humanidade, fazendo as ideias progredirem.
         Mas o nativo tende a abusar. Nada lhe é mais difícil do que obedecer a alguém. Este contestador deve aprender a não julgar os outros, a ser tolerante, a equilibrar liberdade com responsabilidade.
-        Nesta vida pode se interessar pelas religiões, filosofias e por suas vidas passadas. Pode perfeiçoar-se muito com o tempo. -break`,
+        Nesta vida pode se interessar pelas religiões, filosofias e por suas vidas passadas. Pode perfeiçoar-se muito com o tempo. <br />`,
 
         `Como um cavalo desgarrado, buscou horizontes ilimitados em vidas passadas. Não sossega em nenhum lugar e quer sempre ir mais longe.
         O nativo se cansa muito rápido dos pequenos detalhes prosaicos e repetitivos da vida quotidiana.
         Persevera pouco. Sua natureza é instável, tem necessidade de viagens – reais ou imaginárias. Esse cavaleiro errante sente também dificuldade para se estabilizar no casamento.
         Assim que se lhe impõe o que quer que seja, tem a impressão de estar ameaçado. Muda, portanto, facilmente de cônjuge, mas também de profissão, de religião e de país natal.
-        Assim, o nativo acumula muitas experiências diversas. Pode fazer com que as outras pessoas tirem proveito delas através do ensino, da educação, ou do turismo. Eis aí o seu carma, o seu aprendizado. -break`,
+        Assim, o nativo acumula muitas experiências diversas. Pode fazer com que as outras pessoas tirem proveito delas através do ensino, da educação, ou do turismo. Eis aí o seu carma, o seu aprendizado. <br />`,
 
         `É preciso cuidado com a tendência para o misticismo e os delírios religiosos, apenas pelo prazer de viver uma experiência perigosa e, por isso mesmo, excitante.
         Pode indicar a tendência de um comportamento instável e levar uma vida errante: as viagens lhe permitem fugir das obrigações da vida quotidiana.
@@ -2916,7 +2753,7 @@ const data = {
         Como Netuno é um grande fabricante de ilusões, a pessoa deve ser responsável e realista nas informações que transmite.
         Caso contrário, pode propagar teorias delirantes. Pode ser seduzida por ideias geniais, por gurus fazedores de milagres que podem decepcioná-lo. Grande é sua influência sobre os que o cercam.
         Tem o dom de envolver num sonho sedutor tudo o que transmite. Romântico, pode abrir grandes portas da prisão terrestre, sob o olhar dos seus admiradores fascinados.
-        Dificilmente se integra em uma estrutura rígida como o casamento, a vida profissional conservadora ou sindical. Pode ser um líder, um explorador, um aventureiro, um grande viajante. -break`,
+        Dificilmente se integra em uma estrutura rígida como o casamento, a vida profissional conservadora ou sindical. Pode ser um líder, um explorador, um aventureiro, um grande viajante. <br />`,
 
         `Símbolo Esotérico
         No símbolo de Plutão encontramos o Círculo do Espírito pairando livre acima da ligação entre a Meia-Lua da Alma e a Cruz da Matéria. Isto é muito indicativo das áreas desconhecidas que o homem tem que atravessar antes de finalmente alcançar uma compreensão de si mesmo nos níveis mais profundos.
@@ -2940,7 +2777,7 @@ const data = {
         O crescimento espiritual possível com Plutão Retrógrado é limitado apenas pela mente consciente do indivíduo. Ele pode literalmente se elevar acima de grande parte do Carma de toda sua raça.
         Curiosamente, se tentar evitar elevar o seu Carma, sentirá os Carmas inferiores dos outros à sua volta, de qualquer maneira. Assim, se ele escolher elevar a si mesmo, ele verdadeiramente pode começar a viver a parábola de Jesus de "estar neste mundo, mas sem ser dele".
         A fim de finalmente atingir isto, ele passa por afastamentos temporários durante a primeira metade da vida, até que aprenda a ser impessoal com a intensidade do mundo que percebe fora de si mesmo, para que finalmente chegue ao ponto de não mais senti-lo agindo dentro de si.
-        As pessoas com Plutão Retrógrado serão parte muito importante destas majestosas transformações, ajudando a incentivar o renascimento do Homem: de seu estado de inércia para uma consciência mais elevada e desperta. -break`,
+        As pessoas com Plutão Retrógrado serão parte muito importante destas majestosas transformações, ajudando a incentivar o renascimento do Homem: de seu estado de inércia para uma consciência mais elevada e desperta. <br />`,
 
         `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
         A base religiosa herdada no lar, da infância, não reflete as suas necessidades interiores, que sente a necessidade de buscar uma crença na qual encontre significado. Em alguns casos, pode ter a compulsão de transmitir sua verdade aos outros, tentando convertê-los a todo custo.
@@ -2967,86 +2804,63 @@ const data = {
         O dom da expansividade e otimismo encontra-se bloqueado a fim de facilitar uma expansão da consciência e uma maior compreensão interna. Se puder aceitar isso, será capaz de adquirir uma sabedoria prática, bem como uma atividade espirituosa e franca diante da vida.
         Isto não significa que você deva fazer alguma coisa, basta viver. Se você acredita na presença divina em sua vida, não precisa mais procurá-la, basta viver o aqui e agora, e não estará mais dividido entre o que é e o que não é sagrado, pois terá compreendido que tudo é obra de Deus, portanto, tudo é sagrado.
         Você está naturalmente ligado à seu eu Superior, por essa razão sente tanta necessidade de estar em contato com as divindades, com a espiritualidade, com os pontos mais altos da consciência.
-        Busca conhecimento através de viagens a lugares sagrados e conhecimento de outras culturas, absorvendo conhecimento que o fará mais apto a entender as Verdades Superiores. -break`,
+        Busca conhecimento através de viagens a lugares sagrados e conhecimento de outras culturas, absorvendo conhecimento que o fará mais apto a entender as Verdades Superiores. <br />`,
 
         `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
         É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
         Juno enfatiza aí, a dimensão espiritual da parceria, a sintonia filosófica. A busca de uma parceria ideal que opera em conjunto.
         Esta também é uma posição que favorece mais de uma união, será provável que na segunda ou terceira união a pessoa seja mais bem sucedida.
-        Há também uma tendência para idealizar o parceiro/a que deve corresponder, de alguma forma ou em algum campo a esta idealização. Tendência a legalizar suas uniões e parcerias. -break`,
+        Há também uma tendência para idealizar o parceiro/a que deve corresponder, de alguma forma ou em algum campo a esta idealização. Tendência a legalizar suas uniões e parcerias. <br />`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-        `-stron 1º nível de evolução:/stron`,
-        `Experimenta as viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. -break
-        O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra. -break
-        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. -break`,
+        `<strong> 1º nível de evolução:</strong>`,
+        `Experimenta as viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. <br />
+        O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra. <br />
+        Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. <br />`,
 
-        `-stron 2º nível de evolução:/stron`,
-        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. -break
-        Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores. -break`,
+        `<strong> 2º nível de evolução:</strong>`,
+        `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. <br />
+        Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores. <br />`,
 
-        `-stron 3º nível de evolução:/stron`,
-        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. -break
-        Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar. -break
-        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. -break
-        É a chamada Via dos Mestres, a expressão da sua Sabedoria. -break`
+        `<strong> 3º nível de evolução:</strong>`,
+        `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. <br />
+        Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar. <br />
+        Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. <br />
+        É a chamada Via dos Mestres, a expressão da sua Sabedoria. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a comunicar a sabedoria com humildade: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a comunicar a sabedoria com humildade: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `capricórnio`,
+    title: `capricórnio</strong>`,
     text: [
       `Capricórnio é um signo de Terra que deve aprender a se esforçar para escalar sua própria montanha. Ambição é uma palavra-chave.
 O Sol em Capricórnio ajuda os nativos a brilhar através da competência no trabalho, do empenho e do empreendedorismo.
@@ -3063,7 +2877,7 @@ Com a idade, há tendência para desenvolver patologias nos ossos, na pele e pro
 É importante praticar exercícios de flexibilidade e alongamento para reforçar a sua estrutura óssea. Também exercícios respiratórios para aumentar a sua capacidade torácica.
 O desafio é não se tornar frio, rígido, tirano, duro, soturno (palavra quem vem de Saturno), ranzinza, crítico ou pessimista.
 É preciso aprender a lidar com as emoções sem represá-las, nem suprimi-las. O equilíbrio está no signo oposto, Câncer, com suas lições de carinho, afeto, cuidado e acolhimento.
-Ao se identificar emocionalmente com os outros, não abusa do poder. -break`,
+Ao se identificar emocionalmente com os outros, não abusa do poder. <br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
 É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -3080,7 +2894,7 @@ Por causa disso, procura se justificar pela dignidade pessoal e ambição para v
 Pode haver também tendências calculistas para obter o poder a qualquer custo, sem considerar os sentimentos dos outros.
 Na via positiva, pode desenvolver solidez emocional e assim cultivar a confiança dos outros.
 É capaz de fazer sacrifícios para atender as demandas familiares, dominar bem as emoções ao lidar com as pressões exigidas na construção de uma carreira.
-O desafio é -stron aprender/stron  a expressar os seus sentimentos. Equilibrar o dever e a responsabilidade com mais suavidade e doçura. -break`,
+O desafio é <strong> aprender</strong>  a expressar os seus sentimentos. Equilibrar o dever e a responsabilidade com mais suavidade e doçura. <br />`,
 
      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
 O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -3093,10 +2907,10 @@ O Ascendente em Capricórnio frequentemente, quando jovem, adota uma postura sis
 Na maturidade, é frequente serem mais descontraídos, simpáticos e comunicativos do que foram quando jovens. Envelhece com um bom vinho.
 Essa alegria interior representa o culminar das qualidades de trabalho e de conquistas profissionais associadas a este ascendente.
 É uma "marca de Sabedoria". O ascendente em Capricórnio quer planejar sua vida com cautela, estruturá-la com calma e lógica, conforme suas metas e aspirações.
--stron Por tanto, deve aprender a encarar as obrigações, desenvolver a disciplina e o controle./stron
+<strong> Por tanto, deve aprender a encarar as obrigações, desenvolver a disciplina e o controle.</strong>
 Ao cultivar seu potencial para lidar com assuntos práticos e organizá-los, vive um sentido de realização e pode desfrutar de suas conquistas.
 Um aspecto magro, tenso e seco pode ser associado a este ascendente. As maçãs do rosto são marcadas.
-Algumas pessoas (principalmente as mulheres) têm uma beleza refinada e contam com o equilíbrio de linhas e elegância da estrutura óssea. -break`,
+Algumas pessoas (principalmente as mulheres) têm uma beleza refinada e contam com o equilíbrio de linhas e elegância da estrutura óssea. <br />`,
 
       `Mercúrio neste signo indica uma mente ambiciosa, perspicaz, prática, organizada e preocupada em obter status por intermédio de realizações materiais.
 As pessoas com Mercúrio em Capricórnio são capazes de grande concentração e boa organização.
@@ -3111,7 +2925,7 @@ Contudo, há o perigo de que a sua seriedade e a sua disciplina mental as conduz
 A ambição material desmedida pode levar à avareza e à tendência de usar as pessoas para atingir objetivos materiais, sem considerar os valores humanos.
 O status material pode tornar se um fim em si mesmo, sobrepondo se aos valores humanos e a qualquer outra consideração.
 Uma vez que Capricórnio, como Virgem, é um signo de terra, Mercúrio neste signo considera importantes apenas às ideias que tiverem valor prático.
-Essas pessoas são mais realistas do que idealistas na abordagem de suas metas. Consideram as coisas pelo que são e não se iludem com falsos idealismos. -break`,
+Essas pessoas são mais realistas do que idealistas na abordagem de suas metas. Consideram as coisas pelo que são e não se iludem com falsos idealismos. <br />`,
 
       `O nativo com Vênus em Capricórnio ama de forma pragmática, pensada e realista.
 Pouco romântico e avesso a expressões sentimentais, se expressa através de avaliações e comparações, administrando seus relacionamentos e avaliando riscos, danos e perdas.
@@ -3121,14 +2935,14 @@ O nativo gosta de tomar providências objetivas, realistas e práticas em relaç
 O amor fica menos imaginativo, menos açucarado, é verdade. Mas em compensação, o nativo, parte em busca para a realização dos desejos.
 Procurando um comprometimento sério, dentro dos moldes tradicionais, não hesita em investir no relacionamento, mas suas demonstrações de afeto visam sempre pautar a seriedade de suas intenções.
 Acreditando que as relações se constroem no dia-a-dia, não cria ilusões inúteis e é capaz de investir no longo prazo, visando estabilidade e comprometimento, sempre em vista de conquistar objetivos comuns.
-O nativo com essa Vênus não cai sob as flechas de Cupido, mas prefere um amor pragmático e prático, capaz de criar alicerces sólidos para o futuro, dentro dos moldes da família tradicional. -break`,
+O nativo com essa Vênus não cai sob as flechas de Cupido, mas prefere um amor pragmático e prático, capaz de criar alicerces sólidos para o futuro, dentro dos moldes da família tradicional. <br />`,
 
       `Marte se encontra exaltado neste signo, indicando que quem possui essa característica tem um poder inato para se tornar líder.
 Com força de caráter e grande controle de si próprio, a pessoa age com tenacidade em busca de seus objetivos. Ambicioso, alcança o sucesso com determinação sólida e senso de responsabilidade.
 Possui muita força para exercer sua atividade profissional. Na expressão sexual é firme e sólido, mas dentro dos limites impostos pela moral.
 Quem possui esse tipo de Marte irá se expressar dificilmente num erotismo irracional ou passional. Esse Marte é moderadamente fértil.
 Disposto a se superar sempre, quem possui Marte aflito em Capricórnio deve observar para que não haja o excesso de teimosia e obstinação.
-As suas ações tendem a ser por demais determinadas, podendo parecer impositivas e arrogantes. Disputas com colegas e superiores podem causar prejuízos à carreira. -break`,
+As suas ações tendem a ser por demais determinadas, podendo parecer impositivas e arrogantes. Disputas com colegas e superiores podem causar prejuízos à carreira. <br />`,
 
       `O nativo pode alcançar riqueza através da ambição, da perseverança, da paciência e da habilidade para administrar. Pode se destacar como político, engenheiro, empresário, na filosofia e na religião.
 Conta com grande prudência, cautela e um critério maduro, ainda que possa faltar-lhe criatividade e imaginação.
@@ -3136,7 +2950,7 @@ Mas é necessária uma mudança na consciência e um alinhamento com seus reais 
 Por estar tão embrenhado no seu trabalho e nas suas ambições, descuida de sua família e dos prazeres do lar.
 Deve aprender a desfrutar do seu tempo livre e deixar de lado, nesses momentos, as suas atividades profissionais.
 Pode demonstrar frieza e autoridade. Tem uma mente séria, reflexiva, responsável, engenhosa e com muita retidão.
-A sua paciência e a sua habilidade para administrar podem lhe proporcionar muita riqueza. -break`,
+A sua paciência e a sua habilidade para administrar podem lhe proporcionar muita riqueza. <br />`,
 
       `Saturno no signo de Capricórnio indica forte ambição de poder, status e autoridade, geralmente manifestada nos negócios, na ciência ou na política.
 Os nativos sentem grande necessidade de realizar coisas importantes em sua carreira. Não fazem nenhum esforço sem ter em mente os objetivos práticos e estratégicos. São bons organizadores.
@@ -3160,20 +2974,20 @@ Precisam desenvolver o senso de humor e a compreensão de outros valores além d
 Como e quando o poder e a autoridade serão obtidos, irá depender do nível de consciência e do grau de espiritualidade do nativo.
 No seu melhor, há honestidade e integridade em todos os negócios, contatos profissionais e políticos.
 É preciso cuidado para que não usem meios inescrupulosos para adquirir riqueza e poder. Pode haver uma tendência a usar interpretações literais da lei visando vantagens desonestas.
-Contudo, se esses meios inescrupulosos forem usados, com frequência provocam inversão na sorte, desgraça pública e perda do poder. -break`,
+Contudo, se esses meios inescrupulosos forem usados, com frequência provocam inversão na sorte, desgraça pública e perda do poder. <br />`,
 
       `Urano no signo de Capricórnio indica uma geração de pessoas que podem realizar importantes mudanças nas estruturas de poder governamental e comercial.
 Os nativos desejam mudar o status quo para garantir maior segurança no futuro. Mas precisam ter cuidado para fazê lo de maneira prática, construindo o novo, porém baseando-se no antigo.
 Elas procuram mudanças construtivas, embora relutem em abandonar completamente o passado. Essas pessoas são muito ambiciosas e desejam o sucesso.
 Na ciência e nos negócios, possuem ideias originais que utilizam para favorecer as suas carreiras ou melhorar o seu status. Também são capazes de desenvolver velhas ideias de maneira nova ou incomum.
-Os nativos tendem a se expandir na procura do progresso profissional. No seu pior, pode haver ambição desmedida. -break`,
+Os nativos tendem a se expandir na procura do progresso profissional. No seu pior, pode haver ambição desmedida. <br />`,
 
       `Esta é uma época em que as estruturas, as instituições e as bases em que a nossa sociedade é construída estão em crise.
 As pessoas podem cair massivamente no pessimismo e no receio do futuro, ao perceberem que os recursos estão em risco e estão perdendo a estabilidade econômica de todo o planeta.
 Os nativos nascidos com Netuno em Capricórnio sentem a falta de autoridade (sobretudo paterna ou hierárquica) e a dificuldade do viver em sociedade.
 Em geral, é uma época propícia à destruição do preestabelecido e ao aparecimento de novas alternativas, de novas estruturas governamentais.
 Surge então a necessidade de introduzir a espiritualidade na vida quotidiana, no trabalho, na carreira e nas metas de vida.
-É preciso cultivar a conexão com o propósito de alma para o desenvolvimento de uma carreira consciente e alinhada o plano espiritual. -break`,
+É preciso cultivar a conexão com o propósito de alma para o desenvolvimento de uma carreira consciente e alinhada o plano espiritual. <br />`,
 
       `Plutão transita em Capricórnio, ainda estamos aprendendo e vivenciando o simbolismo deste posicionamento. Estamos no início de um novo ciclo de Plutão em Capricórnio.
 Plutão indica a ruína e a necessidade de transformação das velhas instituições. Podemos viver uma grande alteração nos conceitos básicos sobre Hierarquia, Autoridade e Respeito. Essa alteração vai ser cada vez mais sentida na carne, na experiência da vida.
@@ -3182,15 +2996,15 @@ Cooperação será a tônica de uma nova abordagem coletiva de relacionamentos h
 Paternalismos e manipulações não mais caberão nas nossas expectativas: aquela figura austera, que mantém tudo nos trilhos, está desaparecendo. Num primeiro há muito medo e insegurança, (já se nota no desemprego e na crise financeira e econômica).
 Mas com o tempo, as transformações das estruturas internas e externas se revelam suportáveis e até benéficas, enquanto percebemos que a transformação do que é velho em novo é inexorável, doloroso e necessário. Sempre foi assim.
 O poder será dos que têm "boa vontade", já que só será exercido na medida em que for permitido. Status será dos que souberem "Fazer" e souberem "Ser" e não apenas dos que sabem "Ter".
-Aliás, “Ter” será substituído por "Ser" na escala de valores do inconsciente coletivo. Poder aquisitivo será um acessório, não mais uma premissa. Dificuldades? Sim, muitas. Principalmente antes de termos estabelecido as nossas novas referências em termos de segurança e estabilidade. -break`,
+Aliás, “Ter” será substituído por "Ser" na escala de valores do inconsciente coletivo. Poder aquisitivo será um acessório, não mais uma premissa. Dificuldades? Sim, muitas. Principalmente antes de termos estabelecido as nossas novas referências em termos de segurança e estabilidade. <br />`,
 
-      `-stnit Os Nodos Lunares Norte e Sul /stnit  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
--stnit O eixo Cauda / Cabeça do Dragão /stnit  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
--stnit A Cauda do Dragão /stnit  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
--stnit A Cabeça do Dragão /stnit  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
+      `<strong><i> Os Nodos Lunares Norte e Sul </strong></i>  (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual.
+<strong><i> O eixo Cauda / Cabeça do Dragão </strong></i>  (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser.
+<strong><i> A Cauda do Dragão </strong></i>  (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos.
+<strong><i> A Cabeça do Dragão </strong></i>  (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca.
 É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma.
--stnit O objetivo é equilibrar os dois: /stnit  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
-Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a descobrir a força na fragilidade:/stron
+<strong><i> O objetivo é equilibrar os dois: </strong></i>  usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil).
+Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a descobrir a força na fragilidade:</strong>
 Quem tem o Nodo Sul (Cauda do Dragão) em Capricórnio traz memórias de muita rigidez e de exagerado sentido prático, em detrimento do mundo emocional. Pode ter priorizado a carreira em detrimento da família. Traz necessidade de reconhecimento e leva a vida muito a sério.
 É muito responsável, correto, exigente consigo mesmo e com os outros. Anseia pelo sucesso profissional. Identifica-se bastante com símbolos exteriores de poder e sucesso, tais como roupas de marca, títulos, amizades e relacionamentos que elevam o “status”.
 Costuma ser ambicioso e pragmático na sua busca de poder e reconhecimento, chegando ao ponto de por de lado as suas emoções para atingir seus fins e objetivos.
@@ -3198,12 +3012,12 @@ Acredita que o valor pessoal vem apenas do esforço e do trabalho. Pode ser muit
 Mas com o Nodo Norte (Cabeça do Dragão) em Câncer, veio aprender a valorizar o mundo interior, o mundo das emoções. É uma transição da velhice, do peso e da rigidez para a juventude, a leveza e a sensibilidade. Permitir-se errar, brincar, chorar, desistir sem culpa.
 Há tendência de atrair situações que o obriguem a se fragilizar, a dar prioridade às pessoas e às emoções aso invés da matéria, do poder e imagem. Deve aprender a fluir com a vida, sem correr atrás de uma meta ou objetivo.
 É um convite para cultivar o ninho familiar, as relações de afeto, o cuidado, o carinho que traz a oportunidade de despir a armadura rígida e entrar em contato com a sua humanidade.
-O crescimento requer a construção de uma base emocional sólida, mais do que êxito social, para que os seus sentimentos possam finalmente fluir e serem expressos livremente. -break`,
+O crescimento requer a construção de uma base emocional sólida, mais do que êxito social, para que os seus sentimentos possam finalmente fluir e serem expressos livremente. <br />`,
 
       `Aqui ha profundidade e, às vezes, austeridade e transcendência na busca da felicidade realizada pelo indivíduo.
 A vida pessoal tende a fluir em profundidade, melhor do que em amplitude, mas muitas vezes com uma qualidade exaltada. O senso de responsabilidade social ou espiritual poderá ser dominante.
 Poderá levar a pessoa a acreditar na sua missão ímpar e na sua capacidade de encarnar um novo tipo de ser humano em qualquer esfera onde ela possa atuar, sendo um exemplo no sentido mais pessoal do termo.
-Exemplos: Baha’u’llah, que muitos consideram ter sido uma Encarnação Divina; Nostradamus, o vidente; Annie Besant, Ralph Waldo Emerson; J. P. Morgan, o velho – e (provavelmente) Abraham Lincoln. -break`,
+Exemplos: Baha’u’llah, que muitos consideram ter sido uma Encarnação Divina; Nostradamus, o vidente; Annie Besant, Ralph Waldo Emerson; J. P. Morgan, o velho – e (provavelmente) Abraham Lincoln. <br />`,
 
       `A ferida psicológica mais profunda está ligada ao vínculo com o pai na infância. Você o vê como fraco ou rígido e se esforça ao máximo para ser diferente dele. Sente dificuldade de estabelecer e concretizar suas metas e em geral leva muito tempo para descobrir sua verdadeira vocação.
 Mesmo quando bem sucedido profissionalmente, não consegue evitar o sentimento de fracasso, o que só é superado quando desenvolver a autoestima. Tem o dom de incentivar o crescimento dos outros, dando-lhes afeto e orientação.
@@ -3229,53 +3043,53 @@ Além disso, depois de muito tempo, você pode descobrir que repetiu as caracter
 Você é capaz de estimular o crescimento dos outros, manifestando amor e dando orientação que podem ter faltado antes.
 Pode assumir com seriedade suas obrigações para consigo mesmo e para com os outros. Além disso, não tem medo de enfrentar dificuldades e responsabilidades das quais outros fugiriam assustados.
 Você nasceu com capacidade para comandar, liderar, pode tentar escapar dessa atribuição, mas de um modo ou de outro acabara sendo referencia para os demais.
-Deve aceitar o poder como algo sagrado e por essa razão respeitar seus comandados, liderando-os amorosamente e agindo de modo correto. Sendo você um modelo a ser imitado, cabe a você ser um exemplo digno de ser seguido. -break`,
+Deve aceitar o poder como algo sagrado e por essa razão respeitar seus comandados, liderando-os amorosamente e agindo de modo correto. Sendo você um modelo a ser imitado, cabe a você ser um exemplo digno de ser seguido. <br />`,
 
       `O parceiro ideal é aquele que tenha interesse e seja dedicado a uma profissão. Que seja competente ou ocupe um cargo de poder, que ofereça estabilidade, comprometimento e seriedade.
 Podem ser pessoas habilidosas em negócios, profissionais bem sucedidos, estáveis, que tenham a mesma profissão que o nativo, ou seja, pessoas mais velhas, mais maduras ou mais experientes.
 De alguma forma a parceria tende a ser bem estruturada, marcada pela estabilidade ou pela autoridade.
 Pode haver insensibilidade, pouco amor entre parceiros ou um dos parceiros pode ser muito autoritário. O nativo pode até mesmo trabalhar junto com o parceiro.
-O relacionamento pode ser duradouro quando o casal cultiva confiabilidade, prudência e seriedade, com metas de longo prazo bem traçadas e definidas. -break`,
+O relacionamento pode ser duradouro quando o casal cultiva confiabilidade, prudência e seriedade, com metas de longo prazo bem traçadas e definidas. <br />`,
 
       `O nativo deve tomar cuidado com a tendência para o pessimismo. Cultivou amargura em suas vidas passadas, sem buscar horizontes mais positivos e felizes.
 A atitude crítica e negativa cortou as suas asas. Pode ser uma alma antiga, que vive refletindo há milénios e manifesta reflexões de surpreendente sagacidade.
 Sabe tomar o distanciamento necessário para julgar, sem se deixar perturbar por suas emoções. Mas Mercúrio retrógrado nesta casa indica que o nativo desprezou a sensibilidade dos outros.
 Sua personalidade se tornou fria e ambiciosa, não pensou em aliviar os sofrimentos dos pobres com palavras de bondade.
-Deve agora cultivar a inteligência amorosa, comunicar-se com mais afeto. Identificar e transmutar as crenças limitantes. Cultivar o pensamento e a palavra positiva. -break`,
+Deve agora cultivar a inteligência amorosa, comunicar-se com mais afeto. Identificar e transmutar as crenças limitantes. Cultivar o pensamento e a palavra positiva. <br />`,
 
       `Essa posição de Vênus impele o nativo para um cônjuge mais idoso, que simboliza a autoridade que conheceu e que vivenciou no passado.
 Tem uma tendência a não esquecer nada, a nada perdoar e a se comportar de forma austera. Isso pode ser frustrante para ele e para os outros.
-Este é precisamente um dos casos em que a família é para ele uma prova cármica. Nesta vida o nativo deve cultivar generosidade, amorosidade e afetividade. Superar o medo de dar, de se dar. -break`,
+Este é precisamente um dos casos em que a família é para ele uma prova cármica. Nesta vida o nativo deve cultivar generosidade, amorosidade e afetividade. Superar o medo de dar, de se dar. <br />`,
 
       `O nativo vive um conflito entre uma antiquíssima sabedoria, adquirida em vidas passadas, e a aspereza e a impulsividade de seus desejos.
 Prefere, então, viver e agir com pessoas mais idosas ou mais jovens. A posição de Marte retrógrado em Capricórnio está particularmente ligada ao carma.
-Esta posição deve levar o nativo a compreender o quanto é responsável por todos os seus atos e por tudo o que lhe acontece na vida atual. A grande lição é a responsabilidade. -break`,
+Esta posição deve levar o nativo a compreender o quanto é responsável por todos os seus atos e por tudo o que lhe acontece na vida atual. A grande lição é a responsabilidade. <br />`,
 
       `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
 Dividido entre o entusiasmo e a lucidez, o nativo deve conciliar suas tendências expansivas com a necessidade de disciplina.
 Em alguns casos, esse Júpiter retrógrado pode indicar um materialista bastante pragmático, cuja avidez em acumular dinheiro trai a sua profunda angústia.
-Tem mais sucesso na maturidade com a condição de não abafar as aspirações espirituais que desenvolvera nas encarnações precedentes. -break`,
+Tem mais sucesso na maturidade com a condição de não abafar as aspirações espirituais que desenvolvera nas encarnações precedentes. <br />`,
 
       `Ao trabalhar duro, cultivando ao mesmo tempo a esperança e a perseverança, o nativo é capaz de se isolar, de se fechar a todas as influências para se con¬centrar num único objetivo.
 Secreto, reservado, muitas vezes soturno, é a montanha de gelo cujas arestas cortantes muitas vezes ferem os outros.
 Detesta o que é fútil. Chega a ter a tendência de considerar a beleza, o amor e a vida social como coisas supérfluas que o desviam de seu caminho.
 Esta posição de Saturno indica que o nativo está maduro para completar seu trabalho cármico. Para conquistar o sucesso, deve agora cultivar metas nobres e elevadas.
 Desenvolver uma carreira ou um empreendimento conectado com seu propósito de alma.
-Ao mesmo tempo, abrir o coração também para as relações de afeto, o prazer e a beleza. Assim ganhará mais leveza, sem tanta autoexigência ou tanta rigidez. -break`,
+Ao mesmo tempo, abrir o coração também para as relações de afeto, o prazer e a beleza. Assim ganhará mais leveza, sem tanta autoexigência ou tanta rigidez. <br />`,
 
       `Esta posição sugere que o nativo é uma velha alma, que retomou com muita sabedoria adquirida em vidas passadas. O nativo pode reencontrar nesta vida amigos das vidas precedentes.
 Mas seu apego aos valores passados não o toma muito flexível. Seu carma é refletir sobre o bom uso do poder.
 Essa posição sugere ambição, interesse ou abuso das amizades para satisfazer suas ambições pessoais e obter status.
-O nativo deve se libertar do conservadorismo, mesmo aos trancos. Urano lhe permite entreabrir-se para as novas ideias e novas experiências. -break`,
+O nativo deve se libertar do conservadorismo, mesmo aos trancos. Urano lhe permite entreabrir-se para as novas ideias e novas experiências. <br />`,
 
       `O nativo busca conciliar o misticismo, ou ao menos o idealismo netuniano, com a ambição de Capricórnio.
 Se Netuno está retrógrado, deverá evitar sacrificar seus ideais à sua promoção social. Ou, pelo contrário, sacrificar a carreira e a promoção social numa fuga para o sonho.
 Outra maneira de se esquivar do carma é esconder as ambições pessoais por trás de teorias idealistas.
 Essas ideias devem agora ser habilmente e conscientemente utilizadas, para que permitam ao nativo se promover socialmente ou profissionalmente.
 É verdade que a sobriedade e a austeridade de que o nativo dá provas impressionam os outros, mas ele terá a tendência de se impor com demasiada dureza.
-De qualquer modo, deve enfrentar dissabores e desilusões em suas ambições pessoais. Por isso mesmo, refletir sobre a futilidade de toda promoção social. -break`,
+De qualquer modo, deve enfrentar dissabores e desilusões em suas ambições pessoais. Por isso mesmo, refletir sobre a futilidade de toda promoção social. <br />`,
 
-      `FALTA TEXTO -break`,
+      `FALTA TEXTO <br />`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
 A ferida psicológica mais profunda está ligada ao vínculo com o pai, na infância. Você o vê como fraco ou rígido, e se esforça ao máximo para ser diferente dele. Sente dificuldade de estabelecer e concretizar suas metas e em geral leva muito tempo para descobrir sua verdadeira vocação.
@@ -3303,7 +3117,7 @@ Você pode ter crescido decidido a ser diferente de seus pais, e passa a vida em
 Isso pode ter sido apenas com relação ao pai ou a mãe. Você é capaz de estimular o crescimento dos outros, manifestando amor e dando orientação que podem ter faltado antes.
 Pode assumir com seriedade suas obrigações para consigo mesmo e para com os outros; além disso, não tem medo de enfrentar dificuldades e responsabilidades das quais outros fugiriam assustados.
 Você nasceu com capacidade para comandar, liderar, pode tentar escapar dessa atribuição, mas de um modo ou de outro acabara sendo referencia para os demais.
-Deve aceitar o poder como algo sagrado e por essa razão respeitar seus comandados, liderando-os amorosamente e agindo de modo correto, pois sendo você um modelo a ser imitado, cabe a você ser um exemplo digno de ser seguido. -break`,
+Deve aceitar o poder como algo sagrado e por essa razão respeitar seus comandados, liderando-os amorosamente e agindo de modo correto, pois sendo você um modelo a ser imitado, cabe a você ser um exemplo digno de ser seguido. <br />`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
 É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
@@ -3311,83 +3125,60 @@ Se o asteroide está no Meio do Céu conjunto a este ou mesmo na décima casa, a
 Mas a pessoa com Juno da décima casa terá que aprender a ficar um pouco apagada diante desse parceiro/a, ou pelo menos a partilhar com ele todos os seus louros e sucessos.
 Essa posição por signo, ou casa mostra uma certa predestinação conjugal, a qual permitirá a ela que se afirme no mundo, ou mesmo que trabalhe com essa pessoa.
 Considerar o posicionamento de Júpiter para avaliar o potencial de sucesso social, que pode ser alcançado através de parcerias.
-No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade, prudente e séria. No de um homem, que a esposa que ele escolherá terá estas características. -break`,
+No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade, prudente e séria. No de um homem, que a esposa que ele escolherá terá estas características. <br />`,
     ],
     levels: [
-        `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
+        `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-        `-stron 1º nível de evolução:/stron`,
-        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. -break
-        O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros. -break
-        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. -break
-        Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado. -break
-        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. -break`,
+        `<strong> 1º nível de evolução:</strong>`,
+        `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. <br />
+        O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros. <br />
+        Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. <br />
+        Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado. <br />
+        Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. <br />`,
 
-        `-stron 2º nível de evolução:/stron`,
-        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. -break
-        Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. -break`,
+        `<strong> 2º nível de evolução:</strong>`,
+        `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. <br />
+        Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. <br />`,
 
-        `-stron 3º nível de evolução:/stron`,
-        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. -break
-        Aceita incondicionalmente Ser quem pode Vir a Ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida. -break
-        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável. -break
-        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. -break
-        Nesta fase pode criar novas estruturas. -break`
+        `<strong> 3º nível de evolução:</strong>`,
+        `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. <br />
+        Aceita incondicionalmente Ser quem pode Vir a Ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida. <br />
+        Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável. <br />
+        Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. <br />
+        Nesta fase pode criar novas estruturas. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a descobrir a força na fragilidade: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a descobrir a força na fragilidade: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `aquario`,
+    title: `aquario</strong>`,
     text: [
      `Aquário é um signo de Ar, visionário, inteligente, inovador e pioneiro, que gosta de pensar no coletivo. Gosta de olhar para o futuro, de questionar regras, dogmas e tabus obsoletos.
 O Sol em Aquário inspira o olhar vanguardista, a liberdade, a igualdade e a fraternidade.  Gosta de pensar no coletivo, mas também preza a individualidade.
@@ -3408,7 +3199,7 @@ O melhor remédio para o aquariano é a atividade e a distração. Quando está 
 O Aquariano tem um sentido muito grande da amizade, adora fazer amigos e expandir sua rede social. Porém a tendência é reagir aos sentimentos e à afetividade. O equilíbrio está no signo oposto - Leão.
 Embora sejam pioneiros e originais, os aquarianos devem aprender a confiar mais em seu próprio poder. Desenvolver a alegria de viver e a disciplina, evitar as incertezas e o pessimismo.
 Os aquarianos devem se conectar com o seu coração para sentir que a vida é única.
-Isso sem dúvida vai ajudá-los a se relacionarem mais intimamente, a compreenderem que os objetivos e anseios pessoais podem ser tão nobres quanto os anseios universais. -break`,
+Isso sem dúvida vai ajudá-los a se relacionarem mais intimamente, a compreenderem que os objetivos e anseios pessoais podem ser tão nobres quanto os anseios universais. <br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
 É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -3423,7 +3214,7 @@ Novas relações são sempre bem-vindas. Mas há pouca habilidade para lidar com
 Pode haver uma tendência à perversidade emocional e à teimosia, ou uma inquietação e uma necessidade irracional de liberdade a qualquer custo.
 Também pode haver medo de envolvimentos emocionais devido à ameaça que eles representam para a liberdade pessoal.
 Quanto mais a liberdade for respeitada, mais pode se ligar às pessoas. Mas é preciso aprender a valorizar os laços de afeto e os sentimentos.
-Perceber as necessidades alheias para que possa servir e ajudar os outros, formando assim relações de amizade sinceras e duradouras. -break`,
+Perceber as necessidades alheias para que possa servir e ajudar os outros, formando assim relações de amizade sinceras e duradouras. <br />`,
 
      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
 O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -3442,7 +3233,7 @@ Qualquer uma destas soluções pode permitir a troca de ideias, a cumplicidade e
 Ao compreender que não precisa de se rebelar para ser livre, quem tem este ascendente começa a encarar a vida como uma grande experiência de solidariedade.
 Descobre, então, que tem a capacidade de partilhar com toda a humanidade as suas ideias largas e globais, numa perspectiva de serviço, esperança e fraternidade. As utopias se tornam, então, ideias realizáveis.
 Fisicamente, este ascendente é associado a figuras grandes, altas e a rostos bem delineados e de expressão aberta.
-Em sua aura geralmente há uma carga elétrica ou magnética, que lhe confere um toque excêntrico. -break`,
+Em sua aura geralmente há uma carga elétrica ou magnética, que lhe confere um toque excêntrico. <br />`,
 
       `Mercúrio no signo de Aquário indica uma mente aberta às novas experiências.
 A capacidade de considerar os fatos à luz da verdade impessoal oferece uma mente confiável, não preconceituosa e objetiva. Para os nativos com esta posição, a verdade deve vir em primeiro lugar.
@@ -3458,7 +3249,7 @@ Podem ser excelentes telepatas ou canalizadores. A experiência direta de estado
 Há boa organização mental e concentração, com frequência levando à habilidade matemática e inventiva, uma das razões pelas quais esta posição gera cientistas.
 As pessoas com esta posição de Mercúrio gostam de atuar com outras pessoas. Podem envolver-se em trabalhos de grupo ou de organizações. Buscam estímulo mental nas amizades.
 A capacidade de ver as coisas em termos amplos favorece o humanitarismo e a preocupação com o desenvolvimento espiritual da Humanidade.
-É uma excelente posição para a astrologia e todas as formas de estudos ocultos. -break`,
+É uma excelente posição para a astrologia e todas as formas de estudos ocultos. <br />`,
 
       `O nativo com Vênus em Aquário acredita que o amor, antes de tudo, significa liberdade e amizade.
 Sincero nos relacionamentos acredita que quando se ama verdadeiramente, é preciso respeitar a individualidade e curar o ciúme, a possessividade ou as atitudes que a outra pessoa despreza.
@@ -3467,20 +3258,20 @@ Ao romper com os padrões estabelecidos e olhar para o futuro. Pode amar alguém
 O nativo se sente estimulado ao desafiar o 'status quo', a sociedade tradicional. Avesso aos arroubos das paixões pode romper bruscamente os relacionamentos que procuram cercear sua liberdade.
 O nativo gosta de fugir de situações convencionais, de temperar o romance com situações insólitas e inesperadas. Aceitar as diferenças é também fundamental, sem tentar mudar o outro.
 O amor pode sobreviver mesmo à distância, pela internet, morando em casas separadas ou se encontrando sem prévio aviso, aleatoriamente.
-Até mesmo sem sexo! Não que ele não ame o sexo, mas procura intelectualizá-lo, racionalizá-lo, analisá-lo demais. -break`,
+Até mesmo sem sexo! Não que ele não ame o sexo, mas procura intelectualizá-lo, racionalizá-lo, analisá-lo demais. <br />`,
 
       `O nativo com Marte nesse signo expressa suas ações de forma calculada, mas determinada. Tem habilidade para exercer carreiras ligadas à eletroeletrônica ou à engenharia.
 Com espírito inventivo, alcançará seus objetivos através de ideias originais, que o tornarão pioneiro em muitos sentidos. Pode sentir atração por aviação, moto e alta velocidade.
 Quem tem esse Marte é mais intelectual que físico, porém, pode exercer atividades ligadas às expressões artísticas.
 Pode também exercer profissões ligadas a grandes corporações ou associações, ONGs ou sindicatos e tomará iniciativas humanitárias.
 No amor poderá parecer frio e distante, com pouca expressão ardente. Esse Marte é pouco fértil. É preciso observar se o espírito é por demais independente, rebelde ou brusco.
-Pode se expor demasiadamente em busca de novos objetivos de conquista e podem agir em passeatas, greves e ações públicas. Tenha atenção às disputas podem afastar os amigos. -break`,
+Pode se expor demasiadamente em busca de novos objetivos de conquista e podem agir em passeatas, greves e ações públicas. Tenha atenção às disputas podem afastar os amigos. <br />`,
 
       `A predisposição religiosa cede para dar lugar ao lado mais humanitário de Júpiter. O nativo pode contar com bom o humor e idealismo. Não estabelece distinções de classe social, raça ou religião.
 A posição de Júpiter neste signo indica bons diplomatas, especialistas em relações de trabalho, públicas e humanas.
 A fortuna pode chegar-lhe através de sociedades ou corporações. Seus momentos livres podem ser utilizados para estar junto de amigos e atividades em grupo.
 Sente grande atração pela sabedoria oculta, filosofia e astrologia. É um rebelde, de espírito científico e reformista. Agrada-lhe implantar novas ideias, por vezes demasiado extravagantes.
-É bom organizador e gosta de participar em associações com propósitos científicos e humanitários. -break`,
+É bom organizador e gosta de participar em associações com propósitos científicos e humanitários. <br />`,
 
       `Saturno no signo de Aquário indica boa capacidade de concentração mental. A mente é impessoal e científica, a preocupação com a verdade imparcial é muito valorizada.
 Os nativos muito evoluídos são capazes de esquecer o ego e enxergar todas as questões (sociais ou científicas) à luz da lei universal, imparcial.
@@ -3493,7 +3284,7 @@ Os nativos com esta posição são leais e responsáveis com amigos e grupos nos
 Geralmente se comprometem com organizações fraternais altamente estruturadas, como a maçonaria. Os nativos são sensatos, podem bons conselhos que se baseiam em leis universais.
 No seu pior, os nativos podem se tornar egoístas e autoritários, esperando que os outros joguem de acordo com suas regras e sirvam a seus interesses pessoais.
 Pode haver tendência à frieza e insensibilidade emocional nas relações pessoais. O indivíduo pode ter atitudes formais, exclusivistas e intelectuais sem demonstrar sentimento.
-É preciso muito ter carinho e atenção pessoal, pois há também o perigo do orgulho intelectual. -break`,
+É preciso muito ter carinho e atenção pessoal, pois há também o perigo do orgulho intelectual. <br />`,
 
       `Urano em Aquário está em seu próprio signo. Portanto fica bastante poderoso. As pessoas com esta posição podem ter insights intuitivos sobre as verdades científicas e ocultas.
 Possuem talento inventivo. Em pessoas muito desenvolvidas, existe a capacidade de compreender as energias espirituais e conceitos religiosos num contexto científico.
@@ -3504,12 +3295,12 @@ A experiência direta é seu teste final da determinação da verdade sobre qual
 A sua capacidade para experiências e observações diretas pode se expandir para dimensões mais elevadas através da revelação das suas faculdades de clarividência.
 Os nativos se preocupam com a coletividade, com as soluções para a humanidade como um todo. Acreditam na fraternidade humana e na dignidade do homem.
 A sua receptividade e abertura para novas ideias é uma manifestação das suas tendências humanitárias. Desejam reformar a sociedade e gostam de trabalhar em grupos e organizações.
-No seu pior, pode haver excentricidade e licenciosidade ao invés de liberdade, com uma teimosia irracional nada prática. Pode haver relutância em seguir qualquer rotina, regra ou disciplina. -break`,
+No seu pior, pode haver excentricidade e licenciosidade ao invés de liberdade, com uma teimosia irracional nada prática. Pode haver relutância em seguir qualquer rotina, regra ou disciplina. <br />`,
 
       `No final do Século XX mobilizou-se o descontentamento coletivo e começam a surgir questões que pertencem à Nova Era.
 Na nossa civilização contemporânea, devido à inevitável queda das estruturas políticas e sociais, sentir-se-á um forte desejo de renovar toda a situação mundial.
 Entretanto, as pessoas sofrerão por falta de estruturas que garantam o progresso para um mundo melhor e mais justo, que é o ideal aquariano.
-As pessoas nascidas com Netuno em Aquário sentirão, no seu interior, a solidão provocada pela falta de solidariedade entre os homens. Por isso, será uma forte crise da concepção tecnológica e científica atual. -break`,
+As pessoas nascidas com Netuno em Aquário sentirão, no seu interior, a solidão provocada pela falta de solidariedade entre os homens. Por isso, será uma forte crise da concepção tecnológica e científica atual. <br />`,
 
       `Plutão em Aquário vai trazer uma vontade de enxergar o mundo de uma forma diferente, abrindo novas visões.
 Quando Plutão entra em Aquário todo o movimento de Plutão em Capricórnio faz o movimento de remoer a terra, de mexer e passar para: “O que vamos plantar aqui”, isso vai ter que ter terminado e Plutão em Aquário terá que trazer a semente nova.
@@ -3522,7 +3313,7 @@ Se nós fizermos a depuração de Capricórnio ok, uma “limpa boa” pode ser 
 Precisamos enxergar não só os defeitos nos outros, que Plutão em Capricórnio pode trazer, mas os defeitos em nós e todos fazendo a sua parte.
 Pois não adianta apontarmos o dedo para o outro: “Você tem que se transformar, você é egoísta”. E o seu egoísmo? Você está vendo o seu egoísmo, está o transformando? Pois é fácil dizer que o outro é egoísta, mas às vezes ver o seu egoísmo não é tão fácil.
 Quando chegar o Plutão em Aquário vai ser pedido uma maneira de ajudar as pessoas. Todos nós vamos ter que trabalhar isso quando Plutão entrar em Aquário.
-E essa é uma geração muito preparada para essa visão mais “do todo” de não pensar só em si, que seria o Plutão em Leão, que é o Signo oposto de Aquário. -break`,
+E essa é uma geração muito preparada para essa visão mais “do todo” de não pensar só em si, que seria o Plutão em Leão, que é o Signo oposto de Aquário. <br />`,
 
       `Quem tem o Nodo Sul (Cauda do Dragão) em Aquário traz memórias de dependência e influência dos outros em relação a si mesmo. Tem dificuldade em ficar sozinho, em acreditar em si, na própria noção da sua identidade e de amor próprio.
 Sente-se mais confortável no meio de grupos, de amigos ou de muita gente, numa posição de igualdade. Traz também memórias de rebeldia, de contestação, excentricidade ou de anarquia.
@@ -3533,11 +3324,11 @@ Com o Nodo Norte (Cabeça do Dragão) em Leão, veio aprender a priorizar a cone
 Desenvolver a autoconfiança, autoestima, a capacidade de estar sozinho, e se autonutrir emocionalmente. Deve descobrir os seus talentos criativos e a sua imaginação.
 Desenvolver a capacidade de expressar os seus sentimentos, se tornar um canal de expressão espontânea e livre e. Aprender a ser mais objetivo e não tão idealista, a gozar mais o momento presente, com alegria e prazer, ao invés de aspirar sempre um futuro mais perfeito.
 O objetivo é encontrar potenciais e forças escondidas dentro de si.  Sair do anonimato, vencer a timidez, e a insegurança, aprender a mostrar-se.
-Aprender a investir mais em si do que nas causas e nos projetos dos outros. Aprender a sentir-se orgulhoso de si próprio, dos seus dons, talentos e capacidades. Permitir-se brilhar e divulgar para o mundo as suas criações. -break`,
+Aprender a investir mais em si do que nas causas e nos projetos dos outros. Aprender a sentir-se orgulhoso de si próprio, dos seus dons, talentos e capacidades. Permitir-se brilhar e divulgar para o mundo as suas criações. <br />`,
 
       `O idealismo social e o zelo reformador do tipo aquariano são bem conhecidos. A Roda da Fortuna traz estas qualidades para um foco muito pessoal.
 Por baixo de todas as diferenças de posição, profissão, temperamento individual e destino, ela escolhe a pessoa, que tem tal característica natal, para atuar como um contribuinte para o progresso da civilização, por mais modesta, por mais construtiva ou destrutiva que seja essa contribuição.
-Exemplos: Dante, Emmanuel Kant, Robespierre, Ramakrishna, Havelock Ellis, Richard Wagner, Maria Montessori, Franklin D. Roosevelt, Joseph Stalin. -break`,
+Exemplos: Dante, Emmanuel Kant, Robespierre, Ramakrishna, Havelock Ellis, Richard Wagner, Maria Montessori, Franklin D. Roosevelt, Joseph Stalin. <br />`,
 
       `Você tem dificuldade de aceitar as restrições externas à sua liberdade e de lidar com figuras que representam algum tipo de autoridade. Tende a desiludir-se profundamente ao ver que a vida não corre de acordo com seus ideais espirituais e sociais.
 Aceitar as limitações (suas e dos outros) e conciliar a liberdade individual com as obrigações impostas pelo coletivo são lições a serem aprendidas. Pode usar suas ideias inovadoras para contribuir para o bem estar da sociedade.
@@ -3561,40 +3352,40 @@ Você pode sentir aversão por grupos e pelo coletivo, em parte devido à tendê
 Dentre suas qualidades, destacam-se: a clareza, o desapego, um senso altamente desenvolvido de potencial político ou social e a capacidade de expressar os rumos dentro do coletivo.
 Entretanto, todos esses dons representam uma faca de dois gumes que precisam ser temperadas pela humildade adquirida com o próprio sofrimento e a aceitação das imperfeições inerentes à vida.
 Antes de sair "atirando em todas as direções", ou seja, fazendo de tudo um pouco e de modo superficial, procure conhecer seus verdadeiros dons e se aperfeiçoe na área que tiver mais afinidade.
-Dirija seu trabalho ao bem comum, crescendo socialmente, em conhecimentos e capacidade de desempenhar a tarefa escolhida. Agindo assim, certamente chegará de modo seguro a concretização de seus objetivos pessoais e sociais. -break`,
+Dirija seu trabalho ao bem comum, crescendo socialmente, em conhecimentos e capacidade de desempenhar a tarefa escolhida. Agindo assim, certamente chegará de modo seguro a concretização de seus objetivos pessoais e sociais. <br />`,
 
       `O parceiro ideal é aquele que demonstra interesses diferentes ou que se dedica a algo excêntrico. Pode ser uma parceria que desafie as normas da sociedade.
 Atração por pessoas geniais, inteligentes, inventivas, excêntricas, que sejam mais jovens. Ou ainda comprometidas e imprevisíveis.
 De alguma forma, a parceria é marcada pela excentricidade, pela instabilidade, pelo inusitado, pelo diferente dos padrões da sociedade.
 Juno favorece parcerias onde há amizade, sintonia intelectual, companheirismo e respeito pela individualidade.
-Uma parceria que conviva com amigos, grupos e que desenvolva interesses humanitários e vanguardistas, voltados para o coletivo. -break`,
+Uma parceria que conviva com amigos, grupos e que desenvolva interesses humanitários e vanguardistas, voltados para o coletivo. <br />`,
 
       `O nativo parece ter desconhecido as leis da amizade. Não soube dialogar, partilhar as suas ideias e as suas intuições com os amigos e os grupos nos quais estava inserido.
 É possível também que tenha sido um inventor desconhecido, que não soube ou não quis transmitir suas descobertas avançadas.
 Pode ter cultivado desprezo pelos outros ou uma espécie de deficiência na aptidão para se comunicar. Mas se sofreu o bastante por causa de algo, acabará por encontrar o meio de se libertar!
-Tem nova oportunidade, desta vez, de se fazer conhecer e compreender, de sair do seu isolamento mental e partilhar suas ideias originais e inventivas. -break`,
+Tem nova oportunidade, desta vez, de se fazer conhecer e compreender, de sair do seu isolamento mental e partilhar suas ideias originais e inventivas. <br />`,
 
       `O nativo demonstra mais boa vontade para com os amigos, em detrimento de sua família. É mais generoso com os amigos do que com os seus amores.
 Demasiado independente, reluta em aceitar qualquer compromisso afetivo. Foge assim que fareja a menor obrigação ou necessidade de comprometimento. Por isso se torna solitário.
 Interessa-se no fim da vida pela História, pois procura inconscientemente compreender porque, em suas encarnações precedentes, os outros fugiam dele assim que aparecia.
 Não pede nem procura uma total intimidade com os outros, pois já fica muito feliz em sentir-se aceito, ou mesmo simplesmente tolerado.
-O nativo deve agora se envolver em causas mais solidárias e humanitárias. Assim encontrará um grupo com o qual possa efetivamente colaborar para a comunidade. -break`,
+O nativo deve agora se envolver em causas mais solidárias e humanitárias. Assim encontrará um grupo com o qual possa efetivamente colaborar para a comunidade. <br />`,
 
       `Alma inquieta, o nativo traz de vidas passadas e sede de independência. Isso o impele a rejeitar toda pressão social, cobranças ou compromissos afetivos.
 Como o vento, muda de direção ao sabor dos seus impulsos. Vive experiências inteiramente fora das normas tradicionais.
-Deve agora controlar sua rebeldia, envolvendo-se em causas humanitárias. Trabalhar em grupo para o bem do coletivo. Assim pode tornar-se um revolucionário. -break`,
+Deve agora controlar sua rebeldia, envolvendo-se em causas humanitárias. Trabalhar em grupo para o bem do coletivo. Assim pode tornar-se um revolucionário. <br />`,
 
       `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
 Alegremente não conformista, o nativo detesta o lugar comum e os caminhos já trilhados. Ama a novidade. É visto pelos que o cercam como instável, mas suas ideias novas são interessantes.
 Este pioneiro tem necessidade de liberdade, tanto mental quanto física. Chega a ser, por vezes, claustrofóbico.
 Levado pelas asas do entusiasmo tem medo de ser limitado e aprisionado pelos outros: o casamento lhe parecerá uma prisão.
 O seu carma, nesta vida, é o de fazer com que os outros (os amigos e os grupos com os quais se envolve) se beneficiem da sabedoria que adquiriu no passado.
-Deve ajudá-los a escolher sadia e praticamente, com planejamento, comprometimento e estratégia, as novas ideias, técnicas e soluções. -break`,
+Deve ajudá-los a escolher sadia e praticamente, com planejamento, comprometimento e estratégia, as novas ideias, técnicas e soluções. <br />`,
 
       `Mais independente que todos os outros signos do Zodíaco reunidos, o nativo se interessa pelo que a vida pode oferecer de novo e original.
 Embora pareça muito aberto e não conformista, sua filosofia de vida é, no entanto, bastante estável. Foi forjada nas encarnações anteriores!
 Seu gosto por novidades não o impede de ser fortemente ligado ao passado. Dotado de uma curiosidade universal, tenta compreender tudo.
-Sua missão cármica é ajudar seus contemporâneos a descobrir os valores do futuro, ligando-os ao mesmo tempo aos do passado. Introduzir novas soluções com critério, planejamento, estratégia e responsabilidade. -break`,
+Sua missão cármica é ajudar seus contemporâneos a descobrir os valores do futuro, ligando-os ao mesmo tempo aos do passado. Introduzir novas soluções com critério, planejamento, estratégia e responsabilidade. <br />`,
 
       `O nativo viveu em civilizações antigas muito brilhantes, onde era engenheiro ou cientista. Utilizava as energias cósmicas e terrestres para realizações tecnológicas avançadas.
 Portanto, na vida atual o nativo demonstra grande curiosidade com relação à ciência, um gosto muito nítido do por toda tecnologia de ponta e por toda ideia de vanguarda.
@@ -3602,7 +3393,7 @@ Enxerga muito alto e demasiado longe para ser compreendido. Em virtude disso, é
 O nativo, aliás, não gosta de se envolver estreitamente com alguém. Se a relação se torna demasiado íntima e opressiva, surge a vontade de se afastar.
 É assim que o nativo rompe, ou que "perde" periodicamente seus amigos, seus amores, seus empregos. Assim que sua liberdade fica ameaçada, ele zarpa.
 Mas é um visionário. O nativo pode reencontrar as técnicas que já praticava nas vidas passadas. Revelar-se extremamente original e brilhante.
-Tem o dom da profecia e tem o costume de ver muito mais longe do que os seus contemporâneos. -break`,
+Tem o dom da profecia e tem o costume de ver muito mais longe do que os seus contemporâneos. <br />`,
 
       `O futuro é mais imaginado do que concretizado. O nativo com Netuno retrógrado em Aquário tem muitas ideias, mas poucas passam para a prática.
 Genial e confuso deixa os amigos embasbacados com as ideias e novidades técnicas que pressente, mas que é incapaz de fazer com que suas invenções funcionem!
@@ -3610,9 +3401,9 @@ Muita indefinição, também, no âmbito das amizades: outra prova cármica para
 Por vezes os amigos são duvidosos e enganadores e caso os perca, isso significa uma libertação.
 Teve provavelmente altercações penosas com esses mesmos amigos em vidas passadas e as dívidas são pagas desta vez. O nativo deve refletir sobre o lugar da amizade em sua vida.
 Mais tarde, tendo aprendido a escolher cuidadosamente suas relações, o nativo se mostrará ao mesmo tempo lúcido e indulgente para com elas.
-Esse carma o ensina como são frágeis as amizades terrestres e o encoraja a olhar mais para cima, para o mundo espiritual. -break`,
+Esse carma o ensina como são frágeis as amizades terrestres e o encoraja a olhar mais para cima, para o mundo espiritual. <br />`,
 
-      `FALTA TEXTO -break`,
+      `FALTA TEXTO <br />`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
 Sofre intensamente com as restrições externas à sua liberdade e ao lidar com figuras que representam algum tipo de autoridade. Tende a desiludir-se profundamente ao ver que a vida não corre de acordo com seus ideais espirituais e sociais.
@@ -3636,7 +3427,7 @@ Enquanto não encontrar um limite para sua liberdade interna, poderá temer qual
 Você pode sentir aversão por grupos e pelo coletivo, em parte devido à tendência a ser influenciado e dominado por ideias coletivas. Só se sentirá à vontade quando for responsável por si mesmo ou estiver desempenhando o papel de dissidente.
 Dentre suas qualidades, destacam-se: a clareza, o desapego, um senso altamente desenvolvido de potencial político ou social e a capacidade de expressar os rumos dentro do coletivo, entretanto, todos esses dons representam, facas de dois gumes, que precisam ser temperadas pela humildade adquirida com o próprio sofrimento e a aceitação das imperfeições inerentes à vida.
 Antes de sair "atirando em todas as direções", ou seja, fazendo de tudo um pouco e de modo superficial, procure conhecer seus verdadeiros dons e se aperfeiçoe na área que tiver mais afinidade, dirija seu trabalho ao bem comum, crescendo socialmente junto com seu crescimento em conhecimentos e capacidade de desempenhar a tarefa escolhida.
-Agindo assim, certamente chegará de modo seguro a concretização de seus objetivos pessoais e sociais. -break`,
+Agindo assim, certamente chegará de modo seguro a concretização de seus objetivos pessoais e sociais. <br />`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
 É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
@@ -3644,82 +3435,59 @@ Juno aí permite que a pessoa brilhe em todas as associações e parcerias que s
 Capacidade de viver sua associação conjugal junto com amigos. De construir um casal que pode fazer parte de diversos grupos.
 Tendência para se indagar sobre o que vai acontecer no futuro com sua parceria/casamento, elaborar planos e projetos a serem vividos a dois, ou para o próprio casamento.
 No negativo pode ser uma pessoa que tem muito medo que suas parcerias não deem certo, ou que tema que o casamento lhe coloque limites para sua atuação e participação no mundo.
-Nas parcerias de amizade, fidelidade que não suporta as limitações dos amigos nem as desilusões com eles. -break`,
+Nas parcerias de amizade, fidelidade que não suporta as limitações dos amigos nem as desilusões com eles. <br />`,
     ],
     levels: [
-      `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
+      `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-      `-stron 1º nível de evolução:/stron`,
+      `<strong> 1º nível de evolução:</strong>`,
 
-      `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. -break
-      Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação. -break`,
+      `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. <br />
+      Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação. <br />`,
 
-      `-stron 2º nível de evolução:/stron`,
+      `<strong> 2º nível de evolução:</strong>`,
 
-      `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós. -break
-      O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro. -break`,
+      `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós. <br />
+      O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro. <br />`,
 
-      `-stron 3º nível de evolução:/stron`,
+      `<strong> 3º nível de evolução:</strong>`,
 
-      `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão. -break
-      Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu. -break
-      Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte. -break
-      Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador. -break`
+      `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão. <br />
+      Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu. <br />
+      Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte. <br />
+      Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a se destacar no meio dos outros: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a se destacar no meio dos outros: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
-    title: `peixe`,
+    title: `peixe</strong>`,
     text: [
      `Peixes é o último signo do Zodíaco, o RELIGARE.
 É um signo que trata de assuntos transcendentais, cuja grande lição é dissolver o ego para cultivar a compaixão, desenvolver a fé, aprender a entregar o controle da vida para uma Força Maior.
@@ -3739,7 +3507,7 @@ Apesar disso, o pisciano tem tendência para viver até idade avançada, quando 
 Os enganos, a loucura, a falta de objetividade, o sacrifício, a sensibilidade excessiva que causa sofrimento, a vítima, a religiosidade distorcida.
 O descontrole, a esquizofrenia, a boemia, o isolamento, o claustro. Deve tomar cuidado com as drogas e a bebida.
 Virgem é o signo oposto-complementar e lá está o fio-terra dos piscianos. O critério necessário para separar o que é seu e o que é do outro, o que é útil do que não é, o que é real do que é ilusório.
-O pisciano deve aprender a filtrar o que absorve, a cultivar organização, disciplina e objetividade para que possa realizar seus sonhos, conectado com as inspirações das dimensões superiores. -break`,
+O pisciano deve aprender a filtrar o que absorve, a cultivar organização, disciplina e objetividade para que possa realizar seus sonhos, conectado com as inspirações das dimensões superiores. <br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
 É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
@@ -3754,7 +3522,7 @@ O nativo é sonhador e costuma viver com os pés longe do chão, já que é nas 
 O perigo é idealizar as pessoas de tal forma que seja difícil corresponder às suas expectativas.
 Pode haver também, em alguns casos, tendências neuróticas ou psicóticas, quando é dominado por questões do inconsciente. Em alguns casos, há timidez.
 É preciso aprender a organizar melhor os seus sentimentos. Conhecer-se melhor, desenvolver um lado mais crítico e realista para que possa separar o que é seu e o que é do outro.
-Assim pode expressar sua sensibilidade com mais segurança, estabilidade, equilíbrio e clareza. -break`,
+Assim pode expressar sua sensibilidade com mais segurança, estabilidade, equilíbrio e clareza. <br />`,
 
      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
 O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
@@ -3770,7 +3538,7 @@ Quem tem Peixes no Ascendente pode se manifestar como a vítima, o artista ou o 
 Se conseguir o distanciamento necessário para distinguir entre os seus problemas e os dos outros, a pessoa com este ascendente pode colocar a sua enorme sensibilidade à serviço do coletivo.
 Deixa de oscilar entre os papéis de salvador e vítima, tornando-se capaz de passar da empatia emocional à ajuda efetiva, mesmo que isso implique em sacrifícios pessoais.
 Fisicamente, sua aparência é sonhadora, romântica, sedutora ou misteriosa. Um ar etéreo e um pouco "perdido" pode ser a marca deste signo ascendente.
-Os olhos costumam ser grandes e o corpo arredondado. Alguns conseguem moldar a sua aparência em diversas imagens, refletindo e imitando tudo o que os impressiona. -break`,
+Os olhos costumam ser grandes e o corpo arredondado. Alguns conseguem moldar a sua aparência em diversas imagens, refletindo e imitando tudo o que os impressiona. <br />`,
 
       `Mercúrio neste signo indica uma imaginação ativa e uma capacidade fotográfica para visualizar pensamentos e lembranças.
 Os nativos com esta posição são muito intuitivos e telepatas no nível inconsciente.
@@ -3781,7 +3549,7 @@ Em casos extremos, isso pode levar a imaginação mórbida, complexo de persegui
 São compreensivos, podem imaginar como é estar na situação de outra pessoa, porque já estiveram em situações semelhantes. Às vezes suas emoções são facilmente manipuladas.
 Peixes é um signo mutável e as emoções vacilantes podem provocar hesitação no raciocínio, nas decisões e na comunicação. Pode também haver tendência a sonhar acordado e devanear.
 O fato de os nativos gostarem de ser reservados e guardarem para si mesmos os seus pensamentos pode resultar em timidez e isolamento.
-O nativo talvez seja hipersensível e capaz de perceber uma crítica pessoal mesmo não intencional. É preciso cultivar mais impessoalidade em seu raciocínio e percepção da realidade. -break`,
+O nativo talvez seja hipersensível e capaz de perceber uma crítica pessoal mesmo não intencional. É preciso cultivar mais impessoalidade em seu raciocínio e percepção da realidade. <br />`,
 
       `Essa é a posição de Vênus mais romântica e sonhadora do zodíaco.
 Vênus recebe de braços abertos as qualidades e toda a imensidão de Peixes: sensibilidade, inspiração, magia, encantamento e a compaixão.
@@ -3795,20 +3563,20 @@ Idealizando demais o amor, o nativo pode sofrer decepções e frustrações assi
 Os sonhos se desfazem e o príncipe voltará a ser um sapo ao amanhecer. A imaginação é fértil e o nativo precisa dar vazão às suas fantasias que são mais sensuais que sexuais.
 Precisa de uma união completa com o outro e irá fugir dos relacionamentos passionais que visam somente à satisfação sexual.
 Essa Vênus inspira o amor universal, com os nossos semelhantes e com Deus.
-O amor deve ser compreendido como uma libertação psíquica e espiritual, como uma troca consciente e equilibrada a ser construída com quem partilha os mesmos anseios filosóficos e espirituais.  -break`,
+O amor deve ser compreendido como uma libertação psíquica e espiritual, como uma troca consciente e equilibrada a ser construída com quem partilha os mesmos anseios filosóficos e espirituais.  <br />`,
 
       `O nativo Marte com este signo tem habilidade para desenvolver trabalhos secretos ou isolados, fazer pesquisas, desvendar mistérios. Pode exercer profissões ligadas a hospitais ou à vida noturna.
 É idealista em suas ações e buscará satisfazer seus sonhos, se sentindo atraído por coisas sensacionais.
 Sente atração por cinema, fotografia, música e tudo o que for relacionado às atividades marítimas. Tem tendência a fumar ou a se drogar.
 Pode expressar sua sexualidade em paixões secretas e proibidas, com tendências muito românticas. Apaixonado pelo amor procurará amantes que satisfaçam suas fantasias. A fertilidade é ótima.
 Os indivíduos menos evoluídos podem desenvolver tendência para a criminalidade, sendo vítima de más influências.
-Negócios na clandestinidade, fraudes, máfia. Podem sofrer com roubos, sequestros, traições e todo tipo de ações ilícitas e clandestinas. -break`,
+Negócios na clandestinidade, fraudes, máfia. Podem sofrer com roubos, sequestros, traições e todo tipo de ações ilícitas e clandestinas. <br />`,
 
       `O nativo pode gozar de boa vida, mas é difícil que faça demasiada fortuna, uma vez que é pouco ambicioso e gosta da vida fácil. A indolência pode ser o seu pior defeito na área financeira e laboral.
 Poderá se destacar como detetive, polícia, advogado, escritor de novelas, artista, músico, psicólogo, terapeuta ou médico.
 Gosta de cultivar a fé e pode encontrar a felicidade e a paz no plano de evolução espiritual, mais do que no plano material.
 Utilizar o tempo livre ouvindo música, desenhando ou em atividades artísticas em geral tem o poder de te encantar. A sua personalidade é intuitiva, imaginativa, emocional e compassiva.
-É muito sensível aos problemas dos outros e gosta de ajudar o próximo (especialmente os enfermos, os necessitados e as pessoas que sofrem). -break`,
+É muito sensível aos problemas dos outros e gosta de ajudar o próximo (especialmente os enfermos, os necessitados e as pessoas que sofrem). <br />`,
 
       `Saturno no signo de Peixes indica nativos que podem se tornar presos às lembranças do passado. Uma imaginação hiperativa, extraordinária, pode gerar todos os tipos de ansiedades e neuroses.
 Consequentemente, fica difícil lidar de modo eficaz com as exigências do presente. Em casos extremos, a imaginação cria defeitos pessoais e problemas que na realidade não existem.
@@ -3821,25 +3589,25 @@ Quando levadas ao extremo, estas reações podem levar a tendências neuróticas
 Também deveriam passar algum tempo participando ativamente das questões mundiais, evitando o mau humor e excesso de introversão. É importante que se esforcem para evitar a autopiedade.
 Lamentações inúteis sobre o passado podem destruir a felicidade, a criatividade, a dedicação a si e aos outros.
 Essa posição pede autoanálise objetiva e crítica, para que os nativos possam descobrir seu valor e as suas aptidões pessoais (bem como seus defeitos) e encontrar uma saída para suas dificuldades.
-Devem aprender a esquecer do passado e agir construtivamente no presente. O desenvolvimento espiritual faz parte de suas responsabilidades.  -break`,
+Devem aprender a esquecer do passado e agir construtivamente no presente. O desenvolvimento espiritual faz parte de suas responsabilidades.  <br />`,
 
       `Urano no signo de Peixes indica habilidades intuitivas e uma curiosidade científica sobre a atuação do inconsciente.
 Os nativos podem se atrair pelos mistérios e pelo misticismo, desenvolver interesse pela meditação ou por temas ligados à espiritualidade, com filosofias orientais ou ioga, por exemplo.
 Eles recebem ideias através de sonhos e intuições. A principal motivação de Urano em Peixes é se libertar da influência mental e emocional do passado.
 Há uma luta espiritual para superar as tendências materialistas do passado, associada à procura de uma identidade espiritual mais elevada.
-No seu pior, pode haver um idealismo pouco prático, bem como irresponsabilidade e insinceridade com amigos. Pode também existir a tendência de não enfrentar situações desagradáveis. -break`,
+No seu pior, pode haver um idealismo pouco prático, bem como irresponsabilidade e insinceridade com amigos. Pode também existir a tendência de não enfrentar situações desagradáveis. <br />`,
 
       `Podemos esperar um regresso ao romantismo e aos ideais mais elevados. A arte da cura pode fazer grandes progressos e haverá um enorme desenvolvimento das faculdades espirituais.
 Em geral, Netuno é responsável pelos movimentos artísticos e as modas que dominam uma determinada época. A música e a arte em geral serão desenvolvidas intensamente.
 Durante esse período nascerão grandes místicos, artistas e dirigentes espirituais. Netuno no seu próprio signo é inspirado, espiritual, de grande sensibilidade e até profético.
-No entanto, para revelar o seu imenso potencial criativo, exige um ego sólido, simultaneamente muito flexível e capaz de dar cabimento tanto à dura realidade, como aos ideais de compreensão e amor recíprocos. -break`,
+No entanto, para revelar o seu imenso potencial criativo, exige um ego sólido, simultaneamente muito flexível e capaz de dar cabimento tanto à dura realidade, como aos ideais de compreensão e amor recíprocos. <br />`,
 
       `Plutão em Peixes traz toda uma busca, uma geração que vai focar demais na espiritualidade.
 Plutão em Peixes | Características: Vai ser uma geração muito interessada em assuntos místicos, em religião e em se entregar mais para essa energia espiritual.
 O “Lado B” é que pode ser uma geração de pessoas que pensem muito na fuga da realidade, ou seja, a realidade está dura demais então vai ter o “escapismo”.
--stron Plutão em Peixes/stron  pode trazer um “escapismo”: “Está tudo difícil, então não quero pensar nisso, pois já está denso demais, quero pensar de uma outra maneira”.
+<strong> Plutão em Peixes</strong>  pode trazer um “escapismo”: “Está tudo difícil, então não quero pensar nisso, pois já está denso demais, quero pensar de uma outra maneira”.
 Plutão em Peixes | Dica: É importante trabalhar também o enfrentamento da realidade, não ficar só pensando: “Vou ficar espiritualizado e não vou ver a realidade como ela é”.
-É preciso trabalhar os dois lados: “Vou trabalhar a minha espiritualidade e colocá-la em prática, pois logo em seguida vai vir o Plutão em Áries, que vai pedir a ação, tudo na vida é um ciclo.” -break`,
+É preciso trabalhar os dois lados: “Vou trabalhar a minha espiritualidade e colocá-la em prática, pois logo em seguida vai vir o Plutão em Áries, que vai pedir a ação, tudo na vida é um ciclo.” <br />`,
 
       `-Quem tem o Nodo Sul (Cauda do Dragão) em Peixes traz memórias de extrema sensibilidade, isolamento, contemplação, sofrimento, sacrifício pelos outros e servidor do mundo. Há tendência para a vitimização, para a falta de organização, de eficiência.  Também para a falta de limites internos e externos.
 Vive num mundo próprio e fantasioso. Traz medos e preocupações de vidas passadas por ter se desiludido em seus ideais de um mundo perfeito. É extremamente influenciável pelo estado de espírito dos outros e dos ambientes.
@@ -3850,13 +3618,13 @@ Para tanto deve aprender a harmonizar o mundo visível com o mundo invisível. C
 É importante desenvolver objetivos e trabalhar para eles, usar mais a cabeça e o senso prático, com os pés aterrados no chão. Aprender a ser mais positivo, a viver a realidade, cuidar do corpo, da saúde e a confiar mais na vida.
 Confiar nas oportunidades que o momento presente traz, sem deixar que as memórias do passado o impeçam ou bloqueiem seu sucesso.
 Há necessidade de recolhimento para digerir as situações vividas. Mas o caminho para o seu crescimento passa por aprender a responsabilizar-se, organizar-se, trabalhar e ajudar o próximo.
-Desenvolver métodos e técnicas que ajudem tanto no seu autoaperfeiçoamento, quanto no crescimento dos outros. -break`,
+Desenvolver métodos e técnicas que ajudem tanto no seu autoaperfeiçoamento, quanto no crescimento dos outros. <br />`,
 
       `Peixes é um signo indefinível, que por um lado produz generais e pelo outro produz místicos e musicistas.
 Ele indica um processo de dissolução coletiva, um estado de crise social e cultural no qual velhas formas são destruídas para deixar lugar às novas.
 O índice de personalidade e felicidade localizado aqui mostra a força de vida operando quase que contra si mesmo, a fim de superar-se. A pessoa despreza as coisas menos importantes e deseja avidamente conquistar mundos novos.
 Poderá alcançar o objetivo da sua vida através de crises pessoais ou sociais – através daquilo que as outras pessoas têm a impressão de que são milagres.
-Exemplos: o cientista místico Swedenborg, Napoleão I, Robert Schumann. -break`,
+Exemplos: o cientista místico Swedenborg, Napoleão I, Robert Schumann. <br />`,
 
       `Quíron neste signo indica que o desenvolvimento da individualidade é acompanhado por sentimentos de culpa e de inveja daqueles que demonstram um forte senso de identidade pessoal.
 Costuma se sacrificar exageradamente para ajudar os outros, evitando, assim, entrar em contato com suas feridas mais profundas, mágoas e perdas emocionais não resolvidas.
@@ -3882,35 +3650,35 @@ Você tem facilidade em lidar com os dois hemisférios cerebrais, tornando-o cap
 Tem conhecimento esotérico adquirido em outras vidas, lida com esses temas de modo espontâneo e muitas vezes inconscientemente. Procure reconhecer seus dons ouvindo seu Eu Superior. Busque momentos de isolamento, medite sobre suas leituras e conclua usando-os com seus conhecimentos pessoais.
 Aceite suas intuições e suas impressões sobre as outras pessoas. Analise esses dados que recebeu intuitivamente e muitas vezes descobrirá que estava certo nas impressões que teve. Você é altamente intuitivo.
 Procure usar algum tipo de oráculo (Tarô, Búzios, Runas ou o que sentir afinidade) para auxiliá-lo nessa tarefa aprender a "ler" as mensagens mentais e cósmicas que navegam entre os seres.
-Você é emocionalmente frágil, talvez tente viver numa redoma para proteger-se de decepções emocionais. Melhor será aceitar a forma de amor dos demais e assim não se decepcionará quando não receber o amor que você mesmo é capaz de sentir de modo tão universal. -break`,
+Você é emocionalmente frágil, talvez tente viver numa redoma para proteger-se de decepções emocionais. Melhor será aceitar a forma de amor dos demais e assim não se decepcionará quando não receber o amor que você mesmo é capaz de sentir de modo tão universal. <br />`,
 
       `O parceiro ideal é aquele que tenha imaginação, interesse em música, cinema ou espiritualidade.
 Pode ser um relacionamento de conto de fadas, um casamento com uma princesa ou com um príncipe (como Lady Di, que tinha Juno em Peixes).
 O nativo tende a atrair pessoas espiritualizadas, românticas, artistas ou produtores de cinema. De alguma forma a parceria é marcada pelos sonhos, pela imaginação, pela fantasia ou pelo romance.
 Mas na via negativa, o nativo também pode atrair pessoas viciadas, drogadas, dependentes, indolentes ou prisioneiros.
 A tendência é ignorar os defeitos, querer salvar ou ser salvo. A parceria pode ser marcada pela frustração, dissolução ou desilusão.
-Na via positiva, o ideal é que haja uma busca espiritual em comum, o desenvolvimento de temas transcendentais, artísticos, inspirados e elevados. O casal pode se tornar fonte de inspiração para outros casais. -break`,
+Na via positiva, o ideal é que haja uma busca espiritual em comum, o desenvolvimento de temas transcendentais, artísticos, inspirados e elevados. O casal pode se tornar fonte de inspiração para outros casais. <br />`,
 
       `Em suas encarnações anteriores o nativo viveu a reboque de sua imaginação, muitas vezes delirante.
 Prisioneiro de suas emoções e de suas intuições (incomunicáveis) o nativo passou longos períodos mergulhado em pensamentos de desespero.
 Fazer bolhas só permite a comunicação com os outros Peixes. Os terrenos não entendem nada disso. O nativo deve aprender organizar suas ideias nebulosas. Sair da sua confusão mental.
 Deve se esforçar para racionalizar suas visões intuitivas. Desenvolver mais senso crítico nos seus entusiasmos religiosos e amorosos.
 Esse poeta inato deve aprender a se comunicar com os outros através da palavra e pela escrita.
-Deve também se esforçar para buscar meios práticos e concretos de aliviar o sofrimento dos outros, sem se contentar apenas com belas e vagas palavras compassivas. -break`,
+Deve também se esforçar para buscar meios práticos e concretos de aliviar o sofrimento dos outros, sem se contentar apenas com belas e vagas palavras compassivas. <br />`,
 
       `Muito solitário, o nativo tem a tendência a buscar de novo os fantasmas românticos das vidas anteriores. Impressionável, imaginativo e sensível, seu equilíbrio emotivo e nervoso deixa a desejar.
-Deve procurar libertar-se de um de ilusões (como, por exemplo, buscar de novo a alma irmã perdida em cada encontro amoroso). O auxílio aos outros lhe ensinará a amar de maneira positiva. -break`,
+Deve procurar libertar-se de um de ilusões (como, por exemplo, buscar de novo a alma irmã perdida em cada encontro amoroso). O auxílio aos outros lhe ensinará a amar de maneira positiva. <br />`,
 
       `Em vidas passadas, o nativo não cultivou a força para ações e iniciativas. Essa posição de Marte indica que sua combatividade se dispersa e não se dirige para o objetivo.
 Essa agressividade fraca e desanimada o leva a fugir das dificuldades. O nativo adquiriu hábitos de fraqueza e desânimo nas vidas passadas e se fazia de vítima, tentava justificar-se choramingando.
 Nesta vida deve cultivar a força do guerreiro, aprender a ter autonomia, praticar atividades físicas, movimentar-se.
-Deve cultivar o seu poder de decisão e tornar-se responsável por suas próprias atitudes. -break`,
+Deve cultivar o seu poder de decisão e tornar-se responsável por suas próprias atitudes. <br />`,
 
       `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.
 Em suas encarnações anteriores, pode ter sido sacerdote ou filósofo. Portanto, traz conhecimentos elevados, um saber inato das verdades religiosas e cósmicas.
 Mas é preciso cuidado para não ficar preso à organi¬zação prática da vida e, com sua bondade, iludir-se muito sobre as pessoas.
 Tem necessidade de se "escorar" num parceiro ou num sócio mais prático do que ele, que o ajudará a disciplinar-se.
-A espiritualidade pode e deve ser desenvolvida agora com mais liberdade, disciplina e maturidade. -break`,
+A espiritualidade pode e deve ser desenvolvida agora com mais liberdade, disciplina e maturidade. <br />`,
 
       `Saturno está na casa da espiritualidade e do carma. O nativo se recusou durante várias vidas sucessivas a liquidar suas dívidas.
 Esta fuga e esta falta de coragem se agravaram. O nativo escolheu para si, desta vez, um programa de muita responsabilidade, a fim de se livrar de um pesado carma.
@@ -3918,23 +3686,23 @@ Todas as vezes que o nativo se colocar a serviço daqueles que sofrem (particula
 Caso tenha se tornado prisioneiro ou doente, se aceitar serenamente o fato esse carma se liquidará com mais rapidez.
 O programa de Saturno retrógrado na casa 12 é desenvolver a compaixão para com os outros, o amor universal.
 Aceitar com paciência seu próprio sofrimento, sem fugir dele. Comprometer-se com seu crescimento espiritual.
-Assim, o nativo poderá renascer para uma vida mais luminosa. Talvez até mesmo não mais renascer no mundo da matéria, encontrando enfim a felicidade total. -break`,
+Assim, o nativo poderá renascer para uma vida mais luminosa. Talvez até mesmo não mais renascer no mundo da matéria, encontrando enfim a felicidade total. <br />`,
 
       `Urano retrógrado nesse signo indica tendências proféticas e visionárias. O nativo é generoso, humanitário e desprendido, mas é provável que seus ideais sejam utópicos e pouco práticos.
 Dificilmente concretiza as suas ideias. As suas vidas passadas foram marcadas pela traição, pela fuga diante das responsabilidades ou infidelidade aos amigos.
 Muito idealista, o nativo acaba suportando mal as pressões quotidianas e materiais.
 No âmbito das ideias e dos sentimentos é sempre solícito e está sempre de acordo, mas foge quando se trata de pôr a mão na massa.
 Se tomar consciência disso, pode, na vida atual, tomar-se um excelente amigo, dedicado e fiel.
-Seu aprendizado é desenvolver a espiritualidade e aprender a canalizar objetivamente suas tendências revolucionárias. Comprometer-se com um grupo de trabalho e fortalecer suas amizades. -break`,
+Seu aprendizado é desenvolver a espiritualidade e aprender a canalizar objetivamente suas tendências revolucionárias. Comprometer-se com um grupo de trabalho e fortalecer suas amizades. <br />`,
 
       `Peixes, na via negativa, é a prisão do Zodíaco. Essa posição indica um nativo idealista, mas desti¬nado a alguns sacrifícios.
 O destino não é um acaso, não é coisa que se possa inventar: o nativo o escolheu antes de nascer.
 Podemos supor que é a liquidação de uma dívida anterior muito pesada (o nativo pode ter perseguido inocentes em vidas passadas).
 Netuno é o regente de Peixes, fala sobre os temas transcendentais, a fantasia e a imaginação. É preciso observar se há tendência para fuga da realidade, os sonhos irreais e a autodestruição.
 É fundamental desenvolver a espiritualidade, a conexão com as dimensões sutis e o serviço caridoso ao menos favorecidos da sociedade.
-As aptidões artísticas também podem ser desenvolvidas e representar um canal de expressão para seu idealismo.   -break`,
+As aptidões artísticas também podem ser desenvolvidas e representar um canal de expressão para seu idealismo.   <br />`,
 
-      `FALTA TEXTO -break`,
+      `FALTA TEXTO <br />`,
 
       `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. Dom de cura com as mãos. A posição da Casa de Quíron retrógrado irá descrever o caminho do desenvolvimento desse poderoso vórtice de sensibilidade perceptiva.
 Faz com que em você o desenvolvimento da individualidade seja acompanhado de fortes sentimentos de culpa, e de invejar aqueles que demonstram um forte senso de identidade pessoal.
@@ -3961,87 +3729,64 @@ Tem conhecimento esotérico adquirido em outras vidas e lida com esses temas de 
 Procure reconhecer seus dons ouvindo seu Eu Superior, busque momentos de isolamento, medite sobre suas leituras e conclua usando-os com seus conhecimentos pessoais.
 Aceite suas intuições, suas impressões sobre as outras pessoas, analise esses dados que recebeu intuitivamente e muitas vezes descobrirá que estava certo nas impressões que teve. Você é altamente intuitivo.
 Procure usar algum tipo de oráculo (Tarô, Búzios, Runas, ou o que sentir afinidade) para auxiliá-lo nessa tarefa aprender a "ler" as mensagens mentais e cósmicas que navegam entre os seres. Você é emocionalmente frágil, talvez tente viver numa redoma para proteger-se de decepções emocionais.
-Melhor será aceitar a forma de amor dos demais e assim não se decepcionará quando não receber o amor que você mesmo é capaz de sentir de modo tão universal. -break`,
+Melhor será aceitar a forma de amor dos demais e assim não se decepcionará quando não receber o amor que você mesmo é capaz de sentir de modo tão universal. <br />`,
 
       `Juno é a protetora do casamento. Se este asteroide está retrógrado no mapa, indica que essa união não foi vivida numa vida passada, ou foi interrompida.
 É importante cultivar a estabilidade e a vida afetiva através da capacidade de um viver partilhado com alguém.
 Juno neste signo ou setor sonha com uma união que reproduzirá o céu na terra. Tem medos ocultos de se ligar conjugalmente a alguém, por temer que essa pessoa não corresponda a esse ideal.
 Às vezes essa pessoa pode optar por não se ligar a ninguém por causa destes medos. Mas se liga a alguém, tem um grande potencial de se sacrificar pela manutenção da parceria/casamento.
-Busca de uma união espiritual e mística. Avaliar a posição do signo de Libra e de seu regente Vênus, nas suas relações com Juno para ter ideia da natureza global desta pessoa, de forma pela qual ela vivencia seu ideal afetivo e de que forma esse ideal pode ajudar ou atrapalhar suas associações. -break`,
+Busca de uma união espiritual e mística. Avaliar a posição do signo de Libra e de seu regente Vênus, nas suas relações com Juno para ter ideia da natureza global desta pessoa, de forma pela qual ela vivencia seu ideal afetivo e de que forma esse ideal pode ajudar ou atrapalhar suas associações. <br />`,
     ],
     levels: [
-      `-stron Níveis evolutivos da alma/stron  (reflita para perceber em que nível está): -break`,
+      `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
 
-      `-stron 1º nível de evolução:/stron`,
+      `<strong> 1º nível de evolução:</strong>`,
 
-      `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. -break
-      É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior. -break`,
+      `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. <br />
+      É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior. <br />`,
 
-      `-stron 2º nível de evolução:/stron`,
+      `<strong> 2º nível de evolução:</strong>`,
 
-      `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade. -break
-      Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo. -break`,
+      `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade. <br />
+      Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo. <br />`,
 
-      `-stron 3º nível de evolução:/stron`,
+      `<strong> 3º nível de evolução:</strong>`,
 
-      `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração. -break
-      E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno. -break`
+      `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração. <br />
+      E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno. <br />`
     ],
     nodosLunares: [
-      `-stron Os Nodos Lunares Norte e Sul /stron (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. -break`,
-       `-stron O eixo Cauda / Cabeça do Dragão /stron (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. -break`,
-       `-stron A Cauda do Dragão /stron (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. -break`,
-       `-stron A Cabeça do Dragão /stron (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. -break`,
-       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. -break`,
-       `-stron O objetivo é equilibrar os dois /stron: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). -break`,
-       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. -stron Aprender a se autodisciplinar e a materializar o seu mundo interior: /stron`
+      `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br />`,
+       `<strong> O eixo Cauda / Cabeça do Dragão </strong> (sempre opostos) nos mostra o sentido evolutivo da nossa viagem, da nossa encarnação: do passado para o futuro, do instinto para o espírito, das trevas para a Luz, do condicionado para o opcional. Ao assumir o nosso destino, esse eixo mostra o que devemos vir a Ser. <br />`,
+       `<strong> A Cauda do Dragão </strong> (Nodo Sul) indica os condicionamentos, hábitos e dons adquiridos que trazemos do passado. É nossa zona de conforto, onde ficamos agarrados sem evoluir, mas também onde nos sentimos seguros e protegidos. <br />`,
+       `<strong> A Cabeça do Dragão </strong> (Nodo Norte) indica o propósito desta experiência de vida, objetivo a atingir, o nosso projeto, a proposta evolutiva que a vida nos coloca. <br />`,
+       `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
+       `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
+       `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a se autodisciplinar e a materializar o seu mundo interior: </strong>`
     ],
     parteFortuna: [
-      `-stron O LOTE DA FORTUNA OU PARTE DA FORTUNA: /stron`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. -break`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. -break`,
-      `-stron A Parte da Fortuna /stron é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. -break`,
-      `-stron É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. /stron`,
-      `-stron Ela significa a soma entre a sua atuação no mundo /stron (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua -stron vontade e missão (Sol) /stron.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um -stron \"pote de ouro\" /stron que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` -break`,
-      `-stron Os nascidos no início da Lua nova /stron`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. -break`,
-      `-stron Os nascidos no início da Lua crescente /stron`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. -break`,
-      `-stron Os nascidos no início da Lua cheia /stron`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. -break`,
-      `-stron Os nascidos no início da Lua minguante /stron`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. -break`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: -break`
-    ],
-    quironOCurador: [
-      `QUÍRON – O CURADOR FERIDO`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais. -break`,
-      `Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência. -break`,
-      `Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia. -break`,
-      `É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra. -break`,
-      `Para escapar, Saturno transformou-se num garanhão e deu no pé. O produto dessa união foi Quíron, o primeiro Centauro, nascido metade homem, metade animal. Perturbada por ter dado à luz ao que ela considerava um monstro, Filira pediu aos deuses que a livrassem de qualquer maneira da responsabilidade de criá-lo. -break`,
-      `Como resposta, levaram Quíron e transformaram a mãe ingrata num limoeiro. A primeira mágoa de Quíron é a rejeição da mãe, e onde quer que Quíron se encontre num mapa, esta é a área onde podemos ser mais sensíveis às rejeições. -break`,
-      `Representa a “saída do Paraíso”, que todos vivemos quando somos retirados do útero para a dura realidade do mundo. No corpo físico separado e distinto, perdemos o sentido de unidade com toda a vida. -break`,
-      `Quíron era parte divino e parte animal, nós também somos. Seu posicionamento também mostra onde sentimos mais sutilmente o conflito entre os desejos do nosso físico e algo mais transcendente, puro e divino. Educado por deuses, Quíron cresceu para ser sábio. -break`,
-      `Seu lado animal deu-lhe sabedoria terrena e proximidade com a natureza. Podemos dizer que era um xamã, um sábio curador, bem versado nas propriedades medicinais de várias ervas. Mas também estudou música, ética, caça e astrologia. -break`,
-      `Histórias sobre sua grande sabedoria se espalharam, deuses e nobres mortais levaram seus filhos para serem educados por ele. Tornou-se uma espécie de pai adotivo e mestre de Jasão, Hércules e Aquiles, entre outros. As matérias que mais ensinava eram o bem-estar e a cura, pois estava familiarizado em como criar e curar feridas. -break`,
-      `Hércules feriu acidentalmente o joelho de Quíron com uma seta envenenada. O veneno era da tenebrosa Hidra e fez uma ferida incurável até mesmo para a medicina de Quíron. Fenômeno curioso: o grande médico sofrendo com uma ferida que não podia ser curada. -break`,
-      `Este é sua qualidade mais importante: a posição de Quíron no mapa nos mostra onde fomos feridos de algum modo e, através desta experiência obtemos sensibilidade e autoconhecimento para entender e ajudar melhor os outros. -break`,
-      `Quíron foi associado com o nascimento do interesse popular pela psicoterapia, ao processo de trazer feridas psicológicas à superfície para serem curadas. Na verdade, Quíron aparece num forte posicionamento nos mapas de muitos curadores e terapeutas. Os melhores terapeutas não são aqueles que conhecem bem as suas próprias imperfeições? -break`,
-      `Quíron preparava as pessoas para serem heróis. Seus pupilos estavam aptos a sobreviver no mundo, mas eram também nobres capazes de feitos e proezas a serviço de seus países ou de um todo maior. -break`,
-      `A sua localização no mapa não só é capaz de indicar onde podemos ensinar os outros, mas também onde nosso potencial heroico pode manifestar-se. A área onde podemos ir além do normal, sem perder o contato com a “vida real”. -break`,
-      `Podemos ser intuitivos, inventivos e também ter os pés bem postos no chão. Dale O'Brien diz que trânsitos críticos de Quíron indicam quando e como um indivíduo é desafiado a crescer sobre a adversidade ou mediocridade que cercam a sua vida e a perceber um destino maior envolvendo-o. -break`,
-      `Como prêmio por todos os serviços prestados, Quíron recebeu o dom divino da imortalidade. Mas estava numa posição muito estranha, não podia curar sua ferida nem morrer. Qual a solução? -break`,
-      `Prometeu que roubou o fogo dos deuses e foi banido para os mundos inferiores, seria libertado se alguém ficasse no seu lugar. Quíron, não querendo mais ser imortal, concordou em trocar de lugar com Prometeu. -break`,
-      `Eis a fusão de dois tipos de sabedoria: Quíron pegou a sabedoria terrena e a usou para propósitos mais elevados, enquanto Prometeu tirou o fogo dos deuses, símbolo da criatividade, e o trouxe para a Terra. Nosso desafio é integrar a visão espiritual do fogo criativo com a técnica e o senso prático. -break`,
-      `A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária. -break`
+      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
+      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
+      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
+      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
+      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
+      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
+      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
+      ` <br />`,
+      `<strong> Os nascidos no início da Lua nova </strong>`,
+      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
+      `<strong> Os nascidos no início da Lua crescente </strong>`,
+      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
+      `<strong> Os nascidos no início da Lua cheia </strong>`,
+      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
+      `<strong> Os nascidos no início da Lua minguante </strong>`,
+      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
+      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   }
   ],
   casas: [{
-    title: `Casa 01`,
+    title: `Casa 01</strong>`,
     text: [
        `Quando o Sol está no ascendente, o nativo sente que o ambiente da sua primeira infância apoia seus desejos e ela consegue expressar sua individualidade de maneira espontânea.
 Há forte impulso para ser notado, respeitado e reconhecido pelos outros, além da tendência de se colocar como líder.
@@ -4049,7 +3794,7 @@ Há forte impulso para ser notado, respeitado e reconhecido pelos outros, além 
 Esse posicionamento indica grande carisma, criando um temperamento animado e dando vitalidade física se não houver aspectos tensos. Geralmente persegue o sucesso pessoal.
 Mas o principal desafio é cruzar o abismo entre os sonhos infantis de ser especial e importante e o nível superior das verdadeiras realizações, para que seja único e importante em sua contribuição criativa no mundo.
 A pessoa é sempre ela mesma, nada externo altera sua personalidade. Dificilmente alguém consegue obrigá-la a fazer o que você não quer por muito tempo.
-Quando desenvolve bem as energias do seu signo solar, tem a clara noção de que a sua vida depende mais de si mesma, dando prioridade aos seus próprios desejos, indo atrás das suas próprias aspirações. O conhecimento inato seria da preservação da individualidade. -break`,
+Quando desenvolve bem as energias do seu signo solar, tem a clara noção de que a sua vida depende mais de si mesma, dando prioridade aos seus próprios desejos, indo atrás das suas próprias aspirações. O conhecimento inato seria da preservação da individualidade. <br />`,
 
      `Indica necessidade de uma casa, do ambiente doméstico e da família e pode se sentir infeliz se morar sozinho ou se perder da família.
 Tem natureza tranquila e introvertida, mas intimamente deseja reconhecimento do seu valor. Talvez realize um trabalho para o público ou se exponha publicamente.
@@ -4057,20 +3802,20 @@ Tem tendência a se envolver em atividades humanitárias ou que proporcione bem 
 A mãe exerce uma grande influência e geralmente é uma mulher excepcional, porém pode haver tendência a viver à sombra dela ou de alguma mulher.
 O mar exerce um apelo forte na vida e o trabalho pode estar relacionado com atividades marítimas. Fisicamente é inquieto, gosta de se movimentar, viajar, e prefere viajar com a família.
 Tem apurada sintonia com o corpo, sabe quando está ficando doente e as mudanças de humor podem dominar a personalidade.
-Pode se sentir atraído por profissões ou hobbies que envolva alimentar ou nutrir as outras pessoas. -break`,
+Pode se sentir atraído por profissões ou hobbies que envolva alimentar ou nutrir as outras pessoas. <br />`,
 
       `Mercúrio nessa casa oferece ao nativo um ponto de vista inquisitivo e intelectual com relação à vida. Quase nada do que acontece em seu meio ambiente lhe escapa.
 As suas iniciativas e a sua autoexpressão se baseiam na lógica e no seu raciocínio lógico.
 Com frequência, o nativo tem uma inteligência acima da média. Gosta de se movimentar muito, é inquieto e se expressa por meio da ação.
 Iniciativa mental e força de vontade acompanham esta posição. Portanto, os nativos geralmente são intelectualmente competitivos.
 Pessoas com Mercúrio na casa 1 são bons escritores, médicos, cientistas, pesquisadores, eruditos, bibliotecários e secretários, devido à sua habilidade de expressão e ao elevado grau de inteligência.
-São tagarelas e tendem a escrever bastante devido ao intenso desejo de se expressarem verbalmente. A busca do autoconhecimento pode despertar especial interesse. -break`,
+São tagarelas e tendem a escrever bastante devido ao intenso desejo de se expressarem verbalmente. A busca do autoconhecimento pode despertar especial interesse. <br />`,
 
       `Vênus na Primeira Casa indica pessoas que possuem graça pessoal, modos agradáveis e um comportamento amigável.
 Esta posição é especialmente favorável no horóscopo de uma mulher, porque confere beleza física. Geralmente, a infância é feliz, o que conduz a uma opinião favorável sobre a vida.
 Vênus na casa 1 também mostra que a pessoa é socialmente expansiva e ativa nos seus esforços para desenvolver amizades e romances.
 As pessoas com esta posição gostam de roupas bonitas e de tudo o que realce sua aparência pessoal. Sua capacidade natural para se relacionar socialmente provavelmente resulta em oportunidades românticas, matrimoniais e nos negócios.
-O talento pode manifestar-se na arte, na música ou noutro tipo de expressão artística. -break`,
+O talento pode manifestar-se na arte, na música ou noutro tipo de expressão artística. <br />`,
 
       `Marte na Primeira Casa indica pessoas agressivas, expansivas, que possuem muita energia. O corpo físico com frequência é forte e musculoso, proporcionando uma aparência de força e vigor.
 Elas não se contentam em ser espectadores da vida, precisam estar diretamente envolvidas na ação. São impulsivas, conseguirão melhores resultados se aprenderem a pensar antes de agir.
@@ -4083,7 +3828,7 @@ A energia e a resistência físicas dessas pessoas permitem-lhes realizar duas v
 O nativo deve cultivar autonomia e liberdade de ação pessoal, pois dificilmente tolera a interferência dos outros.
 As capacidades para agir com a autoconfiança e a coragem criam um poder de liderança, mas não necessariamente habilidades administrativas e de organização.
 Os nativos com Marte na Primeira Casa tendem a ter febres altas quando doentes, como as pessoas com Marte em Áries.
-A impulsividade emocional imprudente pode conduzir à negligência com a saúde e a segurança. Com frequência têm uma cicatriz na cabeça ou no rosto. -break`,
+A impulsividade emocional imprudente pode conduzir à negligência com a saúde e a segurança. Com frequência têm uma cicatriz na cabeça ou no rosto. <br />`,
 
       `Júpiter na Primeira Casa indica uma personalidade otimista e sociável. Aqueles que têm Júpiter nesta posição tendem a concentrar-se no lado mais positivo e brilhante da vida.
 Geralmente são honestos, confiáveis, amigáveis e benevolentes. Portanto, populares e benquistos.
@@ -4094,7 +3839,7 @@ Realizam estudos elevados nestas áreas como início de se organizarem na sua bu
 Sendo geralmente felizes durante toda a vida, parecem possuir um tipo de proteção divina, como se a Providência estivesse sempre cuidando delas.
 Júpiter na casa 1 geralmente proporciona fortes convicções religiosas ou morais. Com frequência, esta posição produz líderes espirituais.
 Pode haver tendência a engordar, particularmente nos últimos anos de vida. Além disso, pode haver comodismo e um sentimento exagerado de autoimportância.
-É preciso cuidado com excessos e exageros. Os nativos tendem a prometer mais do que podem cumprir. -break`,
+É preciso cuidado com excessos e exageros. Os nativos tendem a prometer mais do que podem cumprir. <br />`,
 
       `Saturno na Primeira Casa pode indicar uma atitude pessoal digna e um pouco rígida.
 Os nativos aceitam as responsabilidades, são sérios e trabalhadores. Não falam nem agem sem ter em mente um objetivo definido.
@@ -4109,14 +3854,14 @@ Nesses casos, construirão ao seu redor uma parede emocional que os outros não 
 Estas pessoas trabalham muito e durante longo tempo para obter destaque por seus próprios méritos, porque desejam mostrar quem são por meio de realizações que conduzem ao poder e proporcionam status.
 As limitações que impõe a si mesmo para a satisfação de ambições pessoais podem provocar algumas frustrações e consequentemente a hostilidade.
 Esta não assume a forma de violência declarada, mas pode manifestar-se em planos de vingança ou para tirar vantagem dos outros.
-Os nativos precisam aprender a amar e a colaborar com os outros antes de ter satisfação pessoal e felicidade. -break`,
+Os nativos precisam aprender a amar e a colaborar com os outros antes de ter satisfação pessoal e felicidade. <br />`,
 
       `Urano na casa um indica desprezo por tudo o que é convencional e grande necessidade de liberdade para seguir seu próprio caminho.
 Inclinação para a rebeldia. Pode haver aborrecimentos com autoridades, por causa das atitudes e dos padrões anticonvencionais desenvolvidos.
 A personalidade do nativo é inovadora e criativa. Urano traz facilidades para o desenvolvimento científico: matemática, tecnologia (eletrônica) ou engenharia.
 É preciso cuidado com a tendência de se transformar uma pessoa errática, utópica, por demais excêntrica, impraticável ou irrealizável. É preciso saber direcionar a criatividade construtivamente.
 Nos relacionamentos se comporta de forma inquieta e mutável: ora há atenção total, ora rejeição completa. Aproximação se dá de forma original e enigmática.
-Há capacidade para grande intensidade sexual, o que o estimula é a novidade. Gosta de tomar a iniciativa e direcionar o relacionamento. -break`,
+Há capacidade para grande intensidade sexual, o que o estimula é a novidade. Gosta de tomar a iniciativa e direcionar o relacionamento. <br />`,
 
       `Este posicionamento inspira grande imaginação, sensibilidade e idealismo. O nativo corre o risco de perder o foco, é importante dedicar-se algum tempo à realidade mundana.
 É importante também buscar o autoconhecimento, para desenvolver uma noção mais exata de si.
@@ -4125,7 +3870,7 @@ Netuno nessa casa inspira um ideal de doação, romantismo, serviço, dedicaçã
 Mas pode também seduzir os outros para que aceitem o que pretende. Sua personalidade é camaleônica, indica potencial como ator ou artista.
 O nativo deve aprender a orientar sua vida segundo a sua intuição e sensibilidade. Tem boa percepção para o caminho do belo e da virtude, tem potencial sensitivo ou mediúnico.
 Humanitarista e solidário é sensível à situação dos menos favorecidos. É positivo viver em ambientes belos, onde reine o bom gosto e tudo o que de bom oferece este mundo.
-Nada melhor que a Natureza e um modo de viver simples, mas iluminado pela sabedoria, amor e beleza. -break`,
+Nada melhor que a Natureza e um modo de viver simples, mas iluminado pela sabedoria, amor e beleza. <br />`,
 
       `Plutão nesta casa indica um indivíduo com forte autoconsciência e potencial para desenvolver uma poderosa vontade.
 Compreendendo que a essência da vida é a ENERGIA, o nativo pode se interessar por formas avançadas de tecnologia. Em alguns casos, pode desenvolver faculdades de enorme clarividência.
@@ -4135,19 +3880,19 @@ Pode também ser uma pessoa difícil de autoconhecer-se, pois há muito mais coi
 O nativo com esta posição demonstra uma iniciativa considerável, mas às vezes encontra dificuldade em colaborar com os outros ou submeter-se a condutas tradicionais.
 Pode e deve se regenerar através de uma profunda compreensão oculta da vida e da consciência. É cuidadoso com a saúde, mas precisa aprender que é o corpo que serve à mente. E não o contrário.
 O inconformismo e individualismo desta posição com frequência tornam difíceis as relações no lar, no casamento e na profissão.
-Plutão indica forte poder pessoal, de persuasão e força de vontade, que surgem da percepção de que o eu mais profundo é espiritual, como uma consciência que observa a mente e as emoções. -break`,
+Plutão indica forte poder pessoal, de persuasão e força de vontade, que surgem da percepção de que o eu mais profundo é espiritual, como uma consciência que observa a mente e as emoções. <br />`,
 
       `O nodo sul mostra que em vidas passadas o nativo preferiu a independência, a liberdade e a autonomia para suas próprias decisões.
 Traz a tendência de viver demais para si mesmo, olha para fora à procura de quem pode favorecê-lo. O nativo pode ter sido autoritário e egoísta, não se predispondo a se relacionar com os outros.
 O caminho da evolução está em aprender a se relacionar, somar forças e fazer parcerias, integrando seus interesses e dos outros.
 É importante aprender mais sobre cooperação e compromisso, ouvindo mais o que os outros têm a dizer. Desenvolver habilidades sociais, cordialidade, diplomacia, gentileza e consideração.
-Adaptar-se mais facilmente ao que os outros necessitam e requerem, especialmente em relacionamentos íntimos e no casamento. -break`,
+Adaptar-se mais facilmente ao que os outros necessitam e requerem, especialmente em relacionamentos íntimos e no casamento. <br />`,
 
       `O caminho da felicidade e do sucesso é encontrado quando o nativo coloca a si e as suas conquistas (por mais irrelevantes que possam parecer aos outros) como prioridade no seu ajustamento à sociedade e ao seu meio.
 Isto não é, necessariamente, uma indicação de orgulho, mas antes de uma maneira fortemente individual e pessoalmente responsável de enfrentar as situações da vida.
 Indica autonomia e autoafirmação, mas também a vontade de satisfazer a uma necessidade do destino e de fazer isso de maneira nova, revelada por uma avaliação pessoal dos problemas que devem ser encarados.
 O nativo deve buscar a realização pessoal, cultivar seu poder de decisão e o entendimento consigo mesmo. Desenvolver a expressão de sua personalidade de maneira assertiva, pioneira, com coragem e ousadia.
-Mas é preciso cuidado para não se isolar dentro de si mesmo e/ou sentir-se separado dos outros seres humanos. -break`,
+Mas é preciso cuidado para não se isolar dentro de si mesmo e/ou sentir-se separado dos outros seres humanos. <br />`,
 
       `Quíron na casa 1 aponta dificuldades relacionadas com a autoimagem ou com o próprio corpo.
 Pode tratar-se de uma deficiência física ou um trauma psicológico e isso tende a inibir a expressão e a autoestima.
@@ -4156,7 +3901,7 @@ Está disposto a lutar pelos que se sentem oprimidos, mas negligencia a si próp
 O truque é dar conselhos a si mesmo. Quíron na casa 1 confere talento e habilidade para ser um professor que ensina os outros a fazer algo melhor do que ele faz.
 Por exemplo: Quem tem Quíron na casa 1 precisa de um parceiro para sentir que existe. São pessoas que não devem viver sozinhas.
 É preciso cuidado para não se tornar agressivo para encobrir seus sentimentos de inadequação. É possível também que se comporte passivamente para esconder a raiva e a hostilidade interna.
-A solução é encontrar um ponto de equilíbrio, transmitindo aos outros, boas formas de realizar algo que você nunca conseguiu realizar. -break`,
+A solução é encontrar um ponto de equilíbrio, transmitindo aos outros, boas formas de realizar algo que você nunca conseguiu realizar. <br />`,
 
       `Juno nesse mostra uma necessidade de ser valorizado O nativo procurará escolher parceiros/as que lhe permita isto. Aliás, a procura por um parceiro ideal é uma das suas principais preocupações.
 Os relacionamentos são considerados como prioridade, através das relações pode melhorar a autoestima e fortalecer sua personalidade.
@@ -4164,34 +3909,34 @@ Terá sempre a iniciativa para iniciar um romance ou sociedade. Nas sociedades, 
 Pode também estabelecer parcerias em academias de luta ou ginástica, em atividades esportivas, esportes radicais etc.
 Em alguns casos, podemos ver uma pessoa que é capaz de “se casar consigo mesma”. A tendência é de que o nativo tome suas próprias decisões a respeito da parceria, que são muito impulsivas.
 Essas decisões podem ser boas, mas por causa da impulsividade também podem ser ruins para o relacionamento.
-É importante respeitar a individualidade, o espaço de cada um e a autonomia. Se o casamento ou as parcerias não vão bem, pode haver impacto sobre a saúde do nativo. -break`,
+É importante respeitar a individualidade, o espaço de cada um e a autonomia. Se o casamento ou as parcerias não vão bem, pode haver impacto sobre a saúde do nativo. <br />`,
 
       `Na casa do Ascendente, Mercúrio retrógrado afeta profundamente a personalidade da pessoa, que pode reagir como uma criança: egocêntrico, impaciente, agindo sem refletir ou empreendendo várias coisas ao mesmo tempo, sem jamais terminá-las.
 Procura-se a si próprio, busca definir a sua identidade. Essa insaciável curiosidade de se conhecer preenche uma lacuna das vidas passadas e permitirá que um dia o nativo possa enfim se situar enfim na comunidade dos homens.
-Ele sairá do seu egocentrismo e aprenderá a servir aos outros. Enfim, abrandará os seus julgamentos críticos que, no início desta encarnação, podem ter causado inimizades. -break`,
+Ele sairá do seu egocentrismo e aprenderá a servir aos outros. Enfim, abrandará os seus julgamentos críticos que, no início desta encarnação, podem ter causado inimizades. <br />`,
 
       `A casa 1 descreve a pessoa tal como o percebem os outros. Vênus nesta casa indica que a pessoa gosta de si mesma.
 Quando o planeta está retrógrado é provável que a pessoa em suas vidas anteriores tenha levado esse amor ao excesso: era Narciso e deslumbrado.
 O nativo não se sente satisfeito, procura atenção dos outros, tende a não ter medida de dar e receber afeto. Quer viver a própria vida, mas pode ser tornar possessivo com os outros.
 A pessoa não se dedica aos afetos, mas absorve muito das outras pessoas para alimentar sua autoconfiança. Na vida atual, ele tem demasiada tendência a querer agradar.
 Procura atrair para si o amor dos outros, ao invés de dar amor àqueles que dele têm necessidade. É preciso cultivar mais generosidade.
-O nativo deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura. -break`,
+O nativo deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura. <br />`,
 
       `O nativo foi violento, impulsivo e afoito em vidas passadas. Esses traços de carácter de vidas anteriores tendem a se reproduzir na vida atual.
 A agressividade pode ser dirigida para os mesmos objetivos exteriores de outrora.
 Um possível comportamento "machista" provém de vidas nas quais o nativo desenvolveu, sobretudo, suas competências masculinas e viris.
-Deve nesta vida reequilibrar-se e amadurecer para utilizar positivamente essa forte energia criadora, motivadora e sexual. -break`,
+Deve nesta vida reequilibrar-se e amadurecer para utilizar positivamente essa forte energia criadora, motivadora e sexual. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Em suas vidas anteriores, o nativo desenvolveu tendência a achar que as leis são feitas para os outros, mas não para ele.
 Tendência a se dispersar, a desperdiçar sua energia, a abusar da bebida, da boa mesa ou do sexo. Tendência, enfim, a ficar sempre extremamente satisfeito consigo mesmo.
 Como Júpiter simboliza os ideais religiosos e filosóficos, certos nativos, em suas vidas passadas, pode ter se envolvido com religiões distorcidas.
-É possível que tenham sido bastante intolerantes. A lição cármica é aqui o amadurecimento, a busca do autoconhecimento, para que se consciente de suas fraquezas. -break`,
+É possível que tenham sido bastante intolerantes. A lição cármica é aqui o amadurecimento, a busca do autoconhecimento, para que se consciente de suas fraquezas. <br />`,
 
       `O nativo pode ter sido aprisionado em suas vidas precedentes. Suas potencialidades estavam bloqueadas e ele não pode desenvolver sua personalidade.
 Na vida atual deve encontrar e construir suas próprias bases, afirmar-se, ganhar o respeito dos outros. Sem, por isso, adotar uma atitude rabugenta, crítica ou autoexigente.
 Muito pelo contrário, deve aprender a relaxar, cultivar flexibilidade, adaptar-se às pessoas e às circunstâncias.
-O nativo deve compreender que uma atitude demasiado rígida promove não a força, mas a fraqueza de alguém que procura se tornar seguro de si. A autoestima e a autoconfiança são grandes lições. -break`,
+O nativo deve compreender que uma atitude demasiado rígida promove não a força, mas a fraqueza de alguém que procura se tornar seguro de si. A autoestima e a autoconfiança são grandes lições. <br />`,
 
       `Urano na Primeira Casa indica uma pessoa com um forte impulso de liberdade no seu comportamento pessoal. Com frequência possuem talentos intuitivos e científicos incomuns.
 Geralmente são consideradas, excêntricas, diferentes ou avançadas, pois se preocupam pouco com comportamentos convencionais. Procuram amizades e atividades pouco comuns.
@@ -4203,21 +3948,21 @@ Há o desejo de liderança em grupos e organizações, especialmente do tipo que
 Os nativos procuram se envolver com as novidades, assuntos originais, inventivos e pioneiros.
 Estão sujeitos a muitas mudanças de atitudes e propósitos. Tendem a vacilar entre pontos de vista extremos.
 No seu pior, são pouco moderados. Por essas razões, seu comportamento pessoal é imprevisível.
-No seu melhor, pode indicar inteligência superior ou insight intuitivo. Pessoas engenhosas, que podem fazer importantes descobertas nas áreas que escolherem. Tendem a ser de estatura alta. -break`,
+No seu melhor, pode indicar inteligência superior ou insight intuitivo. Pessoas engenhosas, que podem fazer importantes descobertas nas áreas que escolherem. Tendem a ser de estatura alta. <br />`,
 
       `Em vidas passadas, o nativo pode ter esquecido ou recusado o programa espiritual em função do qual se encarnara.
 Refugiado em seus sonhos encantadores e sedutores, pode ter enganado os outros e a si mesmo. A responsabilidade com um caminho espiritual se torna ainda maior.
 É preciso agora cultivar a coragem de manter as promessas, de não mentir, de ser honesto. Trabalhar a fragilidade nervosa ou mental.
 Tomar cuidado com a vulnerabilidade às más influências das amizades e companhias.
 É preciso buscar o autoconhecimento para transmutar a confusão nas ideias, as crises de identidade, os enganos em relação a si mesmo, a sensação de estar perdido ou confuso.
-Práticas como meditação, ioga, Tai-Chi, dança ou atividades que desenvolvam a consciência corporal podem ajudá-lo. -break`,
+Práticas como meditação, ioga, Tai-Chi, dança ou atividades que desenvolvam a consciência corporal podem ajudá-lo. <br />`,
 
       `É importante observar se há excesso de segredo, gosto pelas intrigas tortuosas, ou excessiva busca de poder, desprezo pelos outros, ou pelo menos, dificuldade em cooperar, com respeito e consideração.
 Todos nós escondemos segredos no fundo das gavetas. Mas o nativo enfrenta nesta vida culpas inconscientes geradas por seus desejos loucos: cabe a ele identificá-los, analisá-los e exorcizá-los.
 "Conhece-te a ti mesmo" deverá ser o seu lema; será preciso que empreenda todo um trabalho de investigação psicológica sobre seus próprios esquemas de comportamento.
 O nativo deve purificar o seu ego. Quando tiver desmascarado as distorções do poder, as obsessões e compulsões que tornam a vida tão difícil, tanto para ele como para seus parentes, tudo pode fluir melhor.
 De qualquer modo, esta posição planetária confere ao nativo uma enorme força, uma coragem excepcional.
-Ele tem condições de enfrentar o Minotauro, essa besta imunda encolhida no fundo do seu labirinto pessoal; uma vez domesticado, o mostro se transformará num bravo aliado de poder. -break`,
+Ele tem condições de enfrentar o Minotauro, essa besta imunda encolhida no fundo do seu labirinto pessoal; uma vez domesticado, o mostro se transformará num bravo aliado de poder. <br />`,
 
       `Quíron na casa 1 aponta dificuldades relacionadas com a autoimagem ou com o próprio corpo. Pode tratar-se de uma deficiência física ou um trauma psicológico, isso inibe a expressão e a autoestima, principalmente quando está conjunto ao ascendente.
 A pessoa sente uma forte necessidade de ajudar pessoas deficientes ou desprotegidas, porque assim consegue compreender e superar a sua própria dor.
@@ -4227,15 +3972,15 @@ O truque aqui é dar conselho a si mesmo. Quíron na casa 1 confere talento e ha
 Por exemplo: Quem tem Quíron na casa 1 precisa de um parceiro para sentir que existe. São pessoas que não devem viver sozinhas.
 As dificuldades dos aspectos entre Quíron e Marte envolvem agressão e assertividade. Pessoas com aspectos dinâmicos podem se tornar muito agressivas para encobrir seus sentimentos de inadequação.
 Mas também podem comportar-se passivamente para esconder a raiva e a hostilidade interna.
-A solução de Marte / Quíron é encontrar um ponto de equilíbrio, transmitindo aos outros as boas formas de realizar algo que você nunca conseguiu realizar. -break`,
+A solução de Marte / Quíron é encontrar um ponto de equilíbrio, transmitindo aos outros as boas formas de realizar algo que você nunca conseguiu realizar. <br />`,
 
       `Juno nesse setor ou signo mostra uma necessidade de ser valorizada e procurará escolher um parceiro ou parceiros/as que lhe permita isto.
 Aliás a procura por um parceiro ideal é uma das suas principais preocupações. Para um homem a busca de uma parceira ativa, marciana.
 Sua evolução passa pelo esforço de construir uma relação durável e sólida. Se o casamento ou as parcerias não vão bem, impacto sobre a saúde da pessoa.
 Em alguns casos, podemos vemos uma pessoa que é capaz de “se casar consigo mesma”.
-Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, e que podem ser boas ou ruins para a própria parceria. -break`,
+Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, e que podem ser boas ou ruins para a própria parceria. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -4248,7 +3993,7 @@ Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, 
     ]
   },
   {
-    title: `Casa 02`,
+    title: `Casa 02</strong>`,
     text: [
       `Na casa 2, as questões materiais são predominantes. A segurança financeira é uma forma de definir a identidade e um canal para a autoexpressão.
 Porém, a transferência das necessidades de expressão para bens materiais nunca é plenamente satisfatória e o nativo precisa buscar a riqueza interior, que pode ser refletida através de suas qualidades, talentos e habilidades pessoais.
@@ -4258,26 +4003,26 @@ Sentir-se menos inseguro e não ficar inventariando o que tem, passando a estabe
 Para tanto, é importante construir uma autoafirmação genuína, sem se desviar dos esforços de desenvolvimento pessoal, para que se evite usar a riqueza para exercer domínio sobre as pessoas e garantir a presença da plateia.
 O nativo tem clareza na questão da subsistência. Compreende a importância do que é ganhar o próprio sustento e produzir algo.
 Sabe que a vida não é só planejar e sonhar, mas também realizar, deixar algo de concreto, cultivar seus valores e se distinguir através deles.
-São seus valores, dons e talentos que filtram seu comportamento, suas escolhas e seu estilo de vida. -break`,
+São seus valores, dons e talentos que filtram seu comportamento, suas escolhas e seu estilo de vida. <br />`,
 
       `Indica necessidade de segurança proporcionada pelo dinheiro e pelas posses. Dá muita importância às questões materiais, porém pode haver dificuldade de obter ou conservar os recursos.
 É preciso cuidado com demasiado apego por posses e bens materiais. A necessidade de segurança pode resultar de privações materiais ou emocionais durante a infância.
 Tem habilidade para negócios. É perspicaz e ligeiramente calculista, mas esconde essa tendência atrás do seu jeito agradável de se colocar.
 Mulheres podem influenciar nas finanças dando ajuda financeira ou heranças, como também por ligações familiares.
-Pode se sentir atraído por profissões ou hobbies em áreas como em construção civil, artes, gastronomia, jardinagem, música, dança ou criações do que seja belo e poético. -break`,
+Pode se sentir atraído por profissões ou hobbies em áreas como em construção civil, artes, gastronomia, jardinagem, música, dança ou criações do que seja belo e poético. <br />`,
 
       `Mercúrio na Segunda Casa indica uma preocupação com assuntos comerciais e financeiros. O sistema de valores baseia-se em coisas que podem produzir resultados práticos e concretos.
 Muitos economistas, consultores financeiros e planejadores de organizações possuem Mercúrio na Segunda Casa.
 Existe uma habilidade para a literatura, o jornalismo, divulgação, radiodifusão, intercâmbios, ensino e outros meios de comunicação.
 As pessoas que ganham a vida como secretárias, contabilistas, bibliotecárias, telefonistas ou escritoras também podem ter esta posição de Mercúrio.
 Os nativos com esta posição buscam a educação visando sempre melhorar o seu poder aquisitivo.
-Possuem ideias originais sobre maneiras de ganhar dinheiro e os seus assuntos financeiros são sempre metodicamente planejados. -break`,
+Possuem ideias originais sobre maneiras de ganhar dinheiro e os seus assuntos financeiros são sempre metodicamente planejados. <br />`,
 
       `Vênus na Segunda Casa indica amor à riqueza, a coisas belas, objetos de arte e adornos pessoais. Em geral, todas as coisas adoráveis que o dinheiro pode comprar.
 Os nativos também buscam a riqueza para atingir status social. No romance ou casamento, procuram parceiros ricos, que possam proporcionar-lhes os confortos materiais que desejam.
 Esta posição confere talento nos negócios, especialmente naqueles relacionados à arte. Os artistas com Vênus nesta casa têm boa chance de ganhar dinheiro com a sua arte.
 As mulheres com esta posição de Vênus geralmente são extravagantes e os homens tendem a gastar muito dinheiro com as suas amizades femininas.
-O nativo pode receber ajuda dos amigos e dos contatos sociais, levando a acordos em negócios e a posições que trazem riqueza. -break`,
+O nativo pode receber ajuda dos amigos e dos contatos sociais, levando a acordos em negócios e a posições que trazem riqueza. <br />`,
 
       `Marte na Segunda Casa indica para os nativos um desejo ativo de lucros financeiros e bens materiais.
 Embora a iniciativa nos negócios lhes proporcione boa habilidade para ganhar dinheiro, são impulsivos nos seus gastos e com frequência esgotam os seus recursos financeiros rapidamente.
@@ -4285,13 +4030,13 @@ Consequentemente, precisam verificar cuidadosamente o valor e o objetivo dos seu
 Com frequência preferem iniciá los em vez de entrarem em organizações pertencentes a outras pessoas. São competitivas nas finanças e nos negócios e procuram demonstrar o seu valor por meio da habilidade para ganhar dinheiro.
 Portanto, estão sempre ansiosas para superar os seus concorrentes. Elas lutarão para proteger a sua propriedade pessoal. Quando os outros tomam aquilo que não lhes pertence, ficam indignadas.
 Por outro lado, podem também desfazer-se de mercadorias para obter favores ou causar boa impressão. Pode haver uma preocupação excessiva com os valores materiais.
-Nos horóscopos de tipos menos evoluídos, pode haver brigas e furtos ou outro tipo de desonestidade para adquirir bens materiais ou satisfazer desejos. -break`,
+Nos horóscopos de tipos menos evoluídos, pode haver brigas e furtos ou outro tipo de desonestidade para adquirir bens materiais ou satisfazer desejos. <br />`,
 
       `Júpiter na Segunda Casa indica uma importante habilidade para a expansão dos negócios, proporcionando boa sorte com relação a dinheiro e propriedades.
 Mas é preciso saber poupar, tomar cuidado para que o dinheiro desapareça tão rápido quanto surgiu, ou que os lucros existam apenas no papel.
 O nativo com esta posição com frequência envolve-se em negócios relacionados a bens imobiliários, produtos domésticos, alimentos, hospitais e outras instituições, psicologia, educação, levantamento de fundos, viagens e publicações.
 O nativo também pode estar desatento às contingências imprevistas em empreendimentos nos negócios. É necessário cautela em dívidas contraídas.
-Outro cuidado a se tomar é com a tendência de considerar as coisas como garantidas e se frustrar. -break`,
+Outro cuidado a se tomar é com a tendência de considerar as coisas como garantidas e se frustrar. <br />`,
 
       `Saturno na Segunda Casa indica ambição e trabalho árduo para adquirir dinheiro, bens materiais e o status que eles conferem.
 Os nativos geralmente precisam trabalhar muito para ganhar a vida. São perspicazes nos negócios e podem lucrar em tudo o que compram.
@@ -4303,13 +4048,13 @@ Em muitos casos, essa cautela se origina de um profundo medo da pobreza. Com fre
 Em princípio existe a possibilidade de haver muito trabalho e poucos lucros. Mas a segurança financeira e a aquisição de dinheiro e propriedades, especialmente nos últimos anos de vida.
 A prudência, a competência e a sagacidade nas questões de negócios são adquiridas ao longo da vida. Em geral, as pessoas com esta posição adquirem terras e propriedades de valor duradouro.
 O lucro material por intermédio do pai, patrão, chefes ou pessoas em posições de poder com frequência está indicado.
-O dinheiro pode ser ganho em contratos com o governo, na administração de negócios, mineração e construção. -break`,
+O dinheiro pode ser ganho em contratos com o governo, na administração de negócios, mineração e construção. <br />`,
 
       `O nativo é revolucionário e excêntrico na forma como lida com os valores materiais. Pode haver vontade de se livrar dos deveres e obrigações advindas das coisas adquiridas.
 Sentimento que as coisas adquiridas ao longo da vida são mais um problema do que uma ajuda. Vontade de se livrar do maior número de restrições possível.
 Pode também haver o perigo de gastar dinheiro impulsivamente. Na idade madura pode tomar na vida um caminho inesperado, através de uma ocupação incomum. Gosto incomum.
 No relacionamento afetivo, é necessário tomar muito cuidado ao discutir os próprios valores e princípios éticos, que são muito originais e estranhos para a pessoa comum.
-O nativo pode procurar o relacionamento com uma pessoa que não dependa de dinheiro para a segurança emocional. -break`,
+O nativo pode procurar o relacionamento com uma pessoa que não dependa de dinheiro para a segurança emocional. <br />`,
 
       `O nativo é pouco prático em relação aos valores e bens materiais. A casa onde se situa Netuno indica onde não queremos ver para a realidade, preferimos criar uma visão da vida mais sonhadora e encantada.
 Se o nativo aprendesse a gerir o dinheiro como se fosse de outra pessoa, talvez conseguisse criar algumas regras e responsabilidades.
@@ -4323,44 +4068,44 @@ Caso não desenvolva a sensibilidade Netuniana de forma positiva, pode desenvolv
 Na via positiva pode desenvolver a caridade e ajudar os mais necessitados. Gastar seu dinheiro com coisas que o encantam: música, filmes e lazer, por exemplo.
 Investe na qualidade estética dos objetos pessoais. Conta com o favorecimento da intuição nas gestões comerciais. Pode ganhar dinheiro com arte ou com venda de objetos religiosos.
 O aprendizado é desenvolver o refinamento na forma como deve lidar com a matéria. Aprender a doar, a partilhar, a ser flexível nos valores pessoais.
-Desenvolver a percepção clara do seu valor e perceber que faz parte de um todo. -break`,
+Desenvolver a percepção clara do seu valor e perceber que faz parte de um todo. <br />`,
 
       `Plutão nesta casa indica forte ambição para adquirir dinheiro e recursos materiais. As ambições financeiras pessoais provavelmente irão incluir o dinheiro de outras pessoas.
 Na via positiva indica grande intuição e engenhosidade para ganhar dinheiro, graças à habilidade de perceber possibilidades financeiras ocultas, por insights ou por intermédio de informações confidenciais.
 Na via negativa, significa que o nativo pode se tornar ganancioso e egoísta, o que faz com que perca os amigos e se envolva em problemas legais.
 Nesses casos, podem surgir problemas com impostos, heranças e seguros. Podem ocorrer reveses financeiros por meio de especulações.
-A lição básica de Plutão aqui é aprender a purificar as motivações financeiras e ampliar seus valores pessoais, percebendo que somos simplesmente administradores dos recursos materiais, que devem ser utilizados altruisticamente. -break`,
+A lição básica de Plutão aqui é aprender a purificar as motivações financeiras e ampliar seus valores pessoais, percebendo que somos simplesmente administradores dos recursos materiais, que devem ser utilizados altruisticamente. <br />`,
 
       `O nodo sul mostra que em vidas passadas o nativo valorizou muito seus interesses, viveu apegado à segurança e aos bens matérias, com dificuldade e resistência para fazer mudanças.
 O nativo desenvolveu sistemas de crenças e valores muito rígidos, que precisam ser alterados levando em consideração os pontos de vista e as crenças de outras pessoas.
 Alguns podem achar que, permitir que outros os ajudem financeiramente seja um sinal de fraqueza e que a autossuficiência em tudo é a prioridade.
 O caminho da evolução é aprender a transformar-se interiormente, respeitando os valores e interesses dos outros, superando padrões e conceitos sociais ultrapassados.
 Aprender a soltar, desapegar, compartilhar. Podem ter de aprender que dores e crises, antes de serem coisas a evitar a qualquer custo, muitas vezes trazem oportunidades para crescimento e mudanças positivas.
-O nativo pode ajudar os outros a desenvolver um maior sentido de valor próprio. Ajudar os outros a prosperar. -break`,
+O nativo pode ajudar os outros a desenvolver um maior sentido de valor próprio. Ajudar os outros a prosperar. <br />`,
 
       `O caminho da felicidade e do sucesso é encontrado quando o nativo aprende a manifestar prosperidade em sua vida.
 Atrair “substância social” para si mesmo – dinheiro, propriedade, valores culturais herdados, etc.
 Sentir-se feliz ao fazer isso, especialmente se precisa disso para tornar mais concreto e eficaz o seu processo de autoconhecimento e valorização pessoal.
 O nativo pode e deve procurar apoio e sustento no seu esforço para deixar sua marca no seu meio.
 Pode se tornar um bom administrador. Deve buscar valores materiais, espirituais, éticos e morais, cultivando seus dons, descobrindo seus talentos e sua segurança de forma taurina: com paciência, prazer, constância e sem pressa.
-Aprender o significado da palavra ABUNDÂNCIA e acreditar em seu merecimento para manifestá-la. -break`,
+Aprender o significado da palavra ABUNDÂNCIA e acreditar em seu merecimento para manifestá-la. <br />`,
 
       `Quíron na casa 2 gosta de ensinar e aconselhar. A casa 2 trata do dinheiro, dos bens e valores.
 Você tende a ensinar os outros a cuidar dos seus bens, valores e dinheiro, mas você mesmo não sabe cuidar de seus próprios valores. Na verdade, suas próprias finanças podem estar numa verdadeira bagunça.
 Às vezes esse posicionamento pode levar o nativo a ser um miserável, de forma que o dinheiro que ganha não traz nenhuma satisfação ou fazer com que tenha medo de não ter recursos necessários e pode até mesmo passar por privações.
 Muitas vezes a pessoa tem baixa autoestima e sente que não merece ter nenhum dinheiro. Em outros casos, pode desperdiçar, doar e gastar seu dinheiro sem pensar.
-Quando aprende a dar valor ao que tem, deixa de ter problemas. O senso de autoestima e merecimento é a chave para curar Quíron na casa 2. -break`,
+Quando aprende a dar valor ao que tem, deixa de ter problemas. O senso de autoestima e merecimento é a chave para curar Quíron na casa 2. <br />`,
 
       `Os relacionamentos mais importantes são aqueles que possam proporcionar segurança material e estabilidade financeira.
 A parceria ideal é aquela que se constrói sobre algo concreto: uma casa, bens adquiridos, patrimônio. A casa 2 fala dos valores, do dinheiro. Juno inspira no nativo a vontade de uma vida sólida com o parceiro.
 Pode também estabelecer parceria em instituições financeiras, durante negociações, em bancos, instituições financeiras que lidam com empréstimos e crediários etc.
-O ideal é que o casal ou a parceria aprenda a manifestar Abundância. -break`,
+O ideal é que o casal ou a parceria aprenda a manifestar Abundância. <br />`,
 
       `Esta casa, em analogia com Touro, trata dos bens materiais e dos valores de uma forma geral.
 Mercúrio retrógrado é lunático, mutante, demasiadamente influenciado pelos detalhes da vida quotidiana.
 Isso indica que nas vidas passadas, o nativo se apegou demais à segurança material, cultivou valores materialistas acima de tudo.
 Nenhuma perspectiva espiritual viera desligá-lo da busca dos bens terrestres.
-Atualmente, o nativo deve fazer um esforço para cultivar valores mais elevados, recolocar cada valor em seu devido lugar e procurar o essencial, que é de ordem espiritual. -break`,
+Atualmente, o nativo deve fazer um esforço para cultivar valores mais elevados, recolocar cada valor em seu devido lugar e procurar o essencial, que é de ordem espiritual. <br />`,
 
       `Sequioso de segurança, o nativo permanece apegado demais aos objetos, pessoas e instituições que oferecem segurança, para ele tranquilizadoras.
 Pode ser, com frequência, um excelente artesão, ou artista, mas as suas criações nunca são de vanguarda: ele ficou preso à sensibilidade artística de épocas passadas.
@@ -4371,54 +4116,54 @@ A necessidade por segurança no plano físico e material pode ser tão grande, q
 Não é muito competitiva, pois há preguiça. Experimenta dificuldades com o sexo oposto como resultado da possessividade ou do medo de ser possuído.
 Gosta de fazer as coisas à sua maneira e se aborrece quando sente que os outros estão invadindo seus métodos de fazer as coisas.
 Pode haver um carma de ligação ao amor de uma vida passada e de bem-estar com respeito a pessoas, objetos e circunstâncias.
-O nativo deve cultivar o desapego, transformar o medo de empobrecer com mais fé, espiritualidade e generosidade, para abandonar suas tendências materialistas. -break`,
+O nativo deve cultivar o desapego, transformar o medo de empobrecer com mais fé, espiritualidade e generosidade, para abandonar suas tendências materialistas. <br />`,
 
       `O nativo com essa posição planetária. Comportou-se em vidas passadas como um novo-rico. Viveu preocupado apenas em lucrar e em exibir seus ganhos diante dos outros.
 Tal como um industrial preocupado apenas com sua produção de peças de aço, sem nunca olhar para uma flor, nem ouvir a palavra de uma criança.
 Resta-lhe uma inegável aptidão para manejar os poderes do dinheiro. Que o nativo agora os utilize para patrocinar artistas, amparar obras humanitárias e de caridade.
-Assim, liquidará esse carma de materialismo (até mesmo, por vezes, de desonestidade). -break`,
+Assim, liquidará esse carma de materialismo (até mesmo, por vezes, de desonestidade). <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Esta casa diz respeito às posses, aos bens e ao dinheiro. Se está habitada por um Júpiter retrógrado, podemos pensar que o nativo usou mal seus bens.
 Pode ter desperdiçado a fortuna que herdou da família. Ou pode também ter desviado o dinheiro em seu benefício, ao invés de utilizá-lo a serviço da sociedade.
-O nativo, na vida atual, deve refletir sobre o fato de que o dinheiro só se justifica na perspectiva do auxílio prestado aos outros. A riqueza é, ao mesmo tempo, uma responsabilidade e uma função. -break`,
+O nativo, na vida atual, deve refletir sobre o fato de que o dinheiro só se justifica na perspectiva do auxílio prestado aos outros. A riqueza é, ao mesmo tempo, uma responsabilidade e uma função. <br />`,
 
       `Em vidas passadas, o dinheiro, o lucro e a segurança material proporcionada pelas posses das riquezas foram prioridade para o nativo.
 Pode ter vivido como um burguês, como um aproveitador, não desenvolveu responsabilidade com as questões financeiras ou valores mais elevados.
 A gratificação proporcionada pelo dinheiro e o materialismo também têm os seus limites: "Os ricos também têm as suas preocupações!"
 Na vida atual, de modo algum se pede que os nativos neguem o dinheiro ou a prosperidade.
 É preciso aprender a trabalhar como qualquer ser humano para garantir a segurança material. O mais importante é aprender que a verdadeira segurança é espiritual.
-Trata-se de ampliar a consciência e elevar os valores, deixar para trás a fascinação do dinheiro. A prosperidade espiritual deve ganhar prioridade. -break`,
+Trata-se de ampliar a consciência e elevar os valores, deixar para trás a fascinação do dinheiro. A prosperidade espiritual deve ganhar prioridade. <br />`,
 
       `Urano na Segunda Casa indica nativos com finanças mal organizadas. Tendem a ser impulsivos com o dinheiro, ganhando e perdendo com igual impetuosidade.
 Mas no seu pior, podem se envolver em especulações financeiras pouco práticas. Podem ganhar dinheiro por intermédio de negócios relacionados a invenções, equipamentos eletrônicos ou outras áreas científicas.
 Os nativos tendem a emprestar ou pedir dinheiro emprestado. É preciso cuidado para evitar conflitos sobre dívidas não pagas.
 Os valores relacionados ao uso de recursos naturais são diferentes dos das pessoas comuns.
 Essas pessoas podem considerar os valores convencionais inúteis ou, inversamente, os seus próprios valores podem ser desprezados pelos outros.
-No seu melhor, podem desenvolver talentos e métodos incomuns para obter lucros e ganhos. O dinheiro pode ser utilizado para propósitos humanitários e científicos valiosos. -break`,
+No seu melhor, podem desenvolver talentos e métodos incomuns para obter lucros e ganhos. O dinheiro pode ser utilizado para propósitos humanitários e científicos valiosos. <br />`,
 
       `Netuno retrógrado na casa 2 indica vidas passadas desonestas: trapaças, enganos ou desvios de fundos, abuso dos bens públicos, lucros ilícitos graças a uma alta posição administrativa.
 Podem ter feito fortuna nas costas das pessoas pobres. Estão sujeitos a ser, por sua vez, ludibriados por suas antigas vítimas, e, de qualquer modo, a passar por sérios problemas de dinheiro.
-Na vida atual é preciso desenvolver rigorosa honestidade. Muitas vezes o nativo já pratica isso por si mesmo, em reação contra os seus excessos passados. -break`,
+Na vida atual é preciso desenvolver rigorosa honestidade. Muitas vezes o nativo já pratica isso por si mesmo, em reação contra os seus excessos passados. <br />`,
 
       `Em vidas passadas o nativo não desenvolveu sua honestidade. Caso não manifeste um esforço constante e consciente, pode recair na tentação de se apropriar de tudo o que lhe cai nas mãos.
 Inveja, ciúme, vingança e atitudes passionais, caracterizadas por uma angústia ou frustração, pode estar latente aqui. Nesta vida deve se libertar.
 Suas vidas passadas marcadas pela violência e até mesmo pela criminalidade podem leva-lo a uma tal repulsa por si mesmo, que enfim decidiu se purificar.
 O carma, aqui, é uma reflexão sobre a finalidade dos bens materiais, um exercício de despojamento interior. É preciso transformar e purificar as tendências materialistas trazidas do passado.
-Assim, o nativo pode passar por períodos de ruína ou de perdas financeiras, que são provações escolhidas por ele de antemão, antes do seu nascimento. -break`,
+Assim, o nativo pode passar por períodos de ruína ou de perdas financeiras, que são provações escolhidas por ele de antemão, antes do seu nascimento. <br />`,
 
       `Quíron na casa 2 ensina e aconselha. A casa 2 trata do dinheiro, bens e valores e a tende a ensinar aos outros a cuidar dos seus bens, valores e dinheiro, mas ela mesma não sabe cuidar de seus próprios valores. Na verdade, suas próprias finanças podem estar numa verdadeira bagunça.
 Às vezes esse posicionamento pode levar a pessoa a ser um miserável, de forma que o dinheiro que ganha não lhe traz nenhuma satisfação ou ela tem medo de não ter recursos necessários, e pode até mesmo passar por privações.
 Muitas vezes a pessoa tem baixa autoestima e sente que não merece ter nenhum dinheiro. Em outros casos, pode desperdiçar, doar e gastar o seu dinheiro sem pensar.
-Quando aprende a dar valor ao que tem, deixa de ter problemas. O senso de autoestima é a chave para curar Quíron na casa 2. -break`,
+Quando aprende a dar valor ao que tem, deixa de ter problemas. O senso de autoestima é a chave para curar Quíron na casa 2. <br />`,
 
       `Juno nesse setor ou signo, uma vez que se associa ou se une a alguém não o faz pela metade ou por brincadeira.
 Ela encarará suas parcerias e seu casamento como algo que lhe dará oportunidade de construir algo, mas remos alguém com tendências a ser muito possessiva (mapa feminino), como esposa (se estiver num mapa masculino).
 As tendências possessivas vão ser mais fortes caso não exista nada de concreto que a pessoa, que tem Juno aí, possa construir com seu parceiro.
 Melhora de situação social e financeira que advém de uma união. Uma parte do orçamento desta pessoa estará consagrada ao cuidado com a sua estética, com festas presentes, etc...
-São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras. Este é o tipo de esposa de um homem com Juno em Touro ou na segunda casa. -break`,
+São pessoas que investem no luxo pessoal segundo suas disponibilidades financeiras. Este é o tipo de esposa de um homem com Juno em Touro ou na segunda casa. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -4431,7 +4176,7 @@ São pessoas que investem no luxo pessoal segundo suas disponibilidades financei
     ]
   },
   {
-    title: `Casa 03`,
+    title: `Casa 03</strong>`,
     text: [
      `Os potenciais do Sol na casa 3 são revelados através do desenvolvimento mental, intelectual e da habilidade para se comunicar.
 O prazer e o estímulo para ser único virão da troca de ideias, criando preciosas perspectivas pessoais.
@@ -4443,25 +4188,25 @@ O amadurecimento desse Sol requer abertura para a variedade de expressões indiv
 Isso será importante não só para a própria pessoa, que ficará mais consciente de si mesma e evitará as armadilhas da arrogância intelectual que paralisa o crescimento, como também para as outras pessoas, que aprenderão e crescerão com essa troca.
 A vida para o nativo é troca, é se relacionar com o que está próximo, é ver o que está ao redor, conversar com quem estiver perto, saber o que está acontecendo.
 Ele crê que é preciso participar do mundo imediato e a sua vitalidade é ampliada por ele.
-O interesse pelo mundo ao redor a leva cedo na vida a desenvolver a habilidade de se comunicar, de fazer uma ponte entre ela e o mundo. A sua forma de se comunicar é peculiar e tem uma marca pessoal. -break`,
+O interesse pelo mundo ao redor a leva cedo na vida a desenvolver a habilidade de se comunicar, de fazer uma ponte entre ela e o mundo. A sua forma de se comunicar é peculiar e tem uma marca pessoal. <br />`,
 
      `Indica a necessidade de comunicação e pode se dedicar a viagens, mídia ou educação. Gosta de conversar e racionalizar os sentimentos.
 Tem natureza inquieta e curiosa, mas pouca concentração e se aborrece com facilidade. Busca sempre por novidades.
 Absorve informação casualmente, através dos outros, tendendo a estar constantemente aprendendo e transmitindo informação aos outros.
-Os pais podem ser inteligentes, intelectuais ou apreciarem a leitura. Tem afinidade com profissões ligadas à comunicação, transportes e pode se dedicar a hobbies ligados a essas áreas. -break`,
+Os pais podem ser inteligentes, intelectuais ou apreciarem a leitura. Tem afinidade com profissões ligadas à comunicação, transportes e pode se dedicar a hobbies ligados a essas áreas. <br />`,
 
       `Mercúrio na Terceira Casa está favorecido, tende a proporcionar uma habilidade intelectual superior. Há talento e interesse por todos os tipos de comunicação.
 Os nativos com esta posição são bons escritores e oradores, com muita originalidade e agilidade mental.
 Viagens curtas e constante comunicação com irmãos, irmãs e vizinhos são características desta posição, e grande parte do tempo é gasto no telefone, nas redes sociais ou escrevendo mensagens.
 É preciso cuidado com problemas devido ao discurso indiscreto ou informações falsas, incompletas ou errôneas.
-Os nativos são competentes na busca de soluções práticas para todos os tipos de problemas. São bons secretários, telefonistas, repórteres, editores e redatores de textos. -break`,
+Os nativos são competentes na busca de soluções práticas para todos os tipos de problemas. São bons secretários, telefonistas, repórteres, editores e redatores de textos. <br />`,
 
       `Vênus na Terceira Casa indica interesse intelectual em atividades artísticas e culturais. Há um amor especial pela literatura e pela poesia.
 Capacidade de se comunicar harmoniosamente por meio da fala e da escrita. As pessoas com esta posição podem ser bons artistas, eruditos e escritores.
 Há muita movimentação e viagens curtas, por prazer e obrigação social. As pessoas com Vênus na casa 3 tendem a analisar os relacionamentos românticos e contatos sociais de maneira intelectual.
 Geralmente se comunicam facilmente com os seus cônjuges e amigos íntimos. Têm bom relacionamento com irmãos, irmãs e vizinhos.
 Os contatos sociais e românticos são realizados com vizinhos ou pessoas conhecidas em atividades comunitárias e intelectuais.
-São pessoas que escrevem lindas mensagens de amor e poemas românticos. As relações sociais e românticas estabelecidas por intermédio de jornais ou redes sociais provavelmente são resultado de Vênus na casa 3. -break`,
+São pessoas que escrevem lindas mensagens de amor e poemas românticos. As relações sociais e românticas estabelecidas por intermédio de jornais ou redes sociais provavelmente são resultado de Vênus na casa 3. <br />`,
 
       `Marte na Terceira Casa indica um intelecto agressivo, ativo. A habilidade mental assegura um raciocínio rápido em situações de emergência.
 Contudo, há uma tendência a tirar conclusões precipitadas. Os nativos com Marte na Terceira Casa podem ser diretos, impulsivos e algumas vezes sarcásticos no seu discurso.
@@ -4471,7 +4216,7 @@ As pessoas com esta posição com frequência trabalham com os mecanismos relaci
 Pessoas que trabalham com transporte de máquinas e mecânicos de automóveis também têm probabilidades de ter Marte nesta casa.
 Há muita impulsividade nos movimentos diários e em viagens curtas. É preciso cuidado, esta posição pode produzir motoristas imprudentes.
 Eles tendem a zangar-se com o que consideram estupidez de outros motoristas, porém não percebem que eles próprios muitas vezes são culpados dos mesmos atos.
-É preciso observar se há tendência à discussão. Por causa da imprudência, podem ocorrer problemas com contratos, acordos, publicações e nas relações com irmãos, irmãs e vizinhos. -break`,
+É preciso observar se há tendência à discussão. Por causa da imprudência, podem ocorrer problemas com contratos, acordos, publicações e nas relações com irmãos, irmãs e vizinhos. <br />`,
 
       `Júpiter na Terceira Casa indica uma mentalidade otimista, filosófica e espiritualmente dirigida.
 Há interesse pela expansão mental nas áreas de educação, filosofia, ensino, publicações, religião, comunicação e viagens.
@@ -4479,7 +4224,7 @@ Geralmente o pensamento é compatível com as crenças e os tipos dominantes de 
 Esta posição faz com que o nativo goste de viajar. Por isso muito tempo pode ser gasto em viagens curtas e longas.
 Há muita curiosidade com relação às tendências do pensamento social e dos meios de comunicação manifestados por todas as formas de escrita e discurso.
 Essas pessoas podem ser bons analistas, comentaristas sociais e políticos muito perspicazes. Esta posição pode proporcionar bons relacionamentos com irmãos, irmãs e pessoas próximas.
-É preciso cuidado com excesso de confiança ou imprudência para evitar o perigo de acidentes durante viagens. Contudo, na maioria dos casos, o nativo não é fisicamente prejudicado. -break`,
+É preciso cuidado com excesso de confiança ou imprudência para evitar o perigo de acidentes durante viagens. Contudo, na maioria dos casos, o nativo não é fisicamente prejudicado. <br />`,
 
       `Saturno na Terceira Casa indica disciplina mental e senso prático: as ideias são julgadas por sua utilidade. O discurso tende a ser objetivo e deliberado.
 As habilidades matemáticas e científicas são evidentes, devido à paciência e ao método que Saturno proporciona ao processo de raciocínio.
@@ -4488,13 +4233,13 @@ São bons contadores, secretários, pesquisadores, bibliotecários, escritores e
 Não gostam muito de viajar, a não ser por motivos de negócios. As atividades nos negócios podem exigir muitos intercâmbios de mensagens.
 Podem ocorrer relações difíceis com irmãos, irmãs e vizinhos. É preciso observar se há excesso de preocupações e pensamentos negativos, capazes de provocar queixas e críticas.
 Podem surgir algumas dificuldades ou desilusões na educação ou no treino profissional.
-Mas se houver empenho e perseverança, o nativo consegue adquirir conhecimentos valiosos e aprendizados importantes ao longo da vida, para que avance profissionalmente. -break`,
+Mas se houver empenho e perseverança, o nativo consegue adquirir conhecimentos valiosos e aprendizados importantes ao longo da vida, para que avance profissionalmente. <br />`,
 
       `A mente do nativo é rápida e original. Gosta de experimentar novas ideias e conceitos, especialmente aqueles considerados como radicais pela média das pessoas.
 Há certo prazer em perturbar e chocar as pessoas com palavras. Suas ideias não são tão diferentes, mas pode haver o gosto de desafiar opiniões, especialmente aquelas cristalizadas.
 Quando alguém faz uma declaração sobre o que acredita, frequentemente vem a vontade de argumentar e contradizer essas opiniões para ver qual é a reação.
 É preciso cuidado com a comunicação rebelde. A mente pode ser indisciplinada por não conseguir concentrar-se em um único assunto. Este posicionamento pode trazer algum nervosismo.
-Exercícios de respiração, yoga e terapias de relaxamento são recomendados. A relação com irmãos também pode ser muito mutável. -break`,
+Exercícios de respiração, yoga e terapias de relaxamento são recomendados. A relação com irmãos também pode ser muito mutável. <br />`,
 
       `Netuno nessa casa inspira o nativo a se encantar com as pequenas coisas. Se expressa e aprende melhor através de imagens, emoções e metáforas.
 Pode haver dificuldade para se expressar e comunicar com clareza, gerando confusão e mal entendidos. Na infância, pode ter sido uma criança que fugia da realidade.
@@ -4504,7 +4249,7 @@ O nativo é muito poético e pode aprender a se expressar criativamente, graças
 O desafio é desenvolver a predisposição para lidar com a inspiração, a sensibilidade e a mediunidade. Disponibilizar a sua sensibilidade mental, criativa e artística para fins superiores.
 É conveniente seguir o caminho das artes para canalizar a sua sensibilidade, aptidão e capacidade de expressão pictórica.
 Pode ser um contador de histórias, aprender música, pintura ou literatura. Ou ainda cinema, vídeos e fotografia. O nativo sonha acordado e pode ter alguns insights, ideias intuitivas, visualizações.
-É guiado pela intuição e se adapta bem aos ambientes sociais. Ajudas, respostas e indicações podem surgir do nada. Tende a seguir o caminho do coração e o caminho mais belo. -break`,
+É guiado pela intuição e se adapta bem aos ambientes sociais. Ajudas, respostas e indicações podem surgir do nada. Tende a seguir o caminho do coração e o caminho mais belo. <br />`,
 
       `Plutão nesta casa indica uma mente penetrante, capaz de compreender os motivos fundamentais das experiências e manifestações da vida.
 O nativo com esta posição geralmente tem opiniões fortes, que não expressará a não ser que possa manifestá-las de maneira eficaz.
@@ -4514,39 +4259,39 @@ Esta posição proporciona engenhosidade mental e habilidade científica. Pode t
 Na via negativa, intrigas podem provocar dificuldades com irmãos, irmãs, vizinhos ou pessoas próximas.
 Essa dificuldade também pode ocorrer com colaboradores, instituições que representam os valores da ordem social e inimigos secretos.
 Pelas circunstâncias mais diversas, o nativo geralmente é responsável por informações exclusivas ou secretas, relacionadas a assuntos de grande importância.
-Tudo que transmite e pensa pode ter sérias consequências. O nativo também tende a viajar em segredo por razões misteriosas, passando por estranhas experiências no decorrer de suas viagens. -break`,
+Tudo que transmite e pensa pode ter sérias consequências. O nativo também tende a viajar em segredo por razões misteriosas, passando por estranhas experiências no decorrer de suas viagens. <br />`,
 
       `O nodo sul mostra que em vidas passadas o nativo buscou o desenvolvimento racional. Em seus intercâmbios obteve informações variadas de muitas pessoas.
 Pode haver ênfase demais na mente concreta e lógica, em detrimento da mente intuitiva e abstrata. Perdeu-se dos seus pensamentos e sentimentos, adiando decisões, dispersando-se.
 Há o perigo de se tornar provinciano demais, O caminho da evolução é aprender que o mundo não é só conhecimento e informação.
 Cultivando uma via filosófica ou espiritual, despertará em si qualidades de síntese, falando menos e ouvindo mais, aprofundando a sua reflexão, concentrando-se mais em ideias e menos em palavras.
 Assim pode desenvolver o lado mais intuitivo, criativo e sensível do cérebro. O nativo deve buscar Sabedoria, expandir seu conhecimento explorando outras culturas e sistemas de crença. Viajar o ajuda a ampliar sua perspectiva.
-O nativo pode encontrar seu maior sucesso longe do local de nascimento. Pode partilhar seu conhecimento através do ensino e da comunicação. Para alguns, a vida será muito influenciada por um estrangeiro. -break`,
+O nativo pode encontrar seu maior sucesso longe do local de nascimento. Pode partilhar seu conhecimento através do ensino e da comunicação. Para alguns, a vida será muito influenciada por um estrangeiro. <br />`,
 
       `Essa posição revela boa capacidade de comunicação e de aprendizado. Capacidade para enfrentar os obstáculos encontrados no ambiente imediato para lidar eficazmente com o problema.
 Avaliar e assimilar, de forma inteligente, os valores intelectuais e culturais que o cercam. Em seu processo de crescimento, o nativo se esforça para alcançar estes fins e para comunicar suas ideias ou sentimentos aos outros.
 Esse é o caminho da felicidade. Em certos casos, quando esta tendência natural é frustrada pelas circunstancias, a mente pode ficar tensa, tornar-se impiedosa e destrutiva.
 Tudo está centralizado em torno de uma luta de vontades ou de ideologias. Nos primeiros anos de vida a tendência é procurar um “Exemplo” e seguir seu curso de ação, para depois tentar seguir um passo adiante.
 O nativo deve buscar conhecimento, aprendizado constante, interação, comunicação e mobilidade, de forma geminiana: com análise e reflexão, trocando ideias, cultivando adaptabilidade, sempre questionando e sempre aberto para assimilar novos conceitos.
-É preciso cultivar os dons de comunicação e expressão para alcançar o sucesso que tanto almeja. -break`,
+É preciso cultivar os dons de comunicação e expressão para alcançar o sucesso que tanto almeja. <br />`,
 
       `Quíron na casa 3 representa um desafio com irmãos, vizinhos e comunicação. Se o nativo tem irmãos, eles podem ser a fonte de sofrimentos e problemas.
 Se não tem, o sofrimento é pela falta de irmãos. Da mesma forma, os vizinhos e colegas próximos podem ser fonte de frustração e sofrimento.
 O nativo pode ter problemas para se comunicar, se expressar ou não se sente compreendido.
 Pode existir ainda problemas na fala, audição ou de movimentos. Em alguns casos, indica que não foi muito ouvido quando criança e assim desencadeia um processo de se fazer ouvir.
 Não importa quanto os outros lhe deem atenção, continua a sentir a dor que sentia na infância. Reconhecer essa dor e superá-la é o primeiro passo para se livrar da dor de Quíron na casa 3.
-Essa é uma posição de Quíron que indica um fonoaudiólogo, alguém que se dedica a ajudar aos outros a falar melhor do que a si mesmo, ou um professor de braile para cegos ou para surdos-mudos, por exemplo. -break`,
+Essa é uma posição de Quíron que indica um fonoaudiólogo, alguém que se dedica a ajudar aos outros a falar melhor do que a si mesmo, ou um professor de braile para cegos ou para surdos-mudos, por exemplo. <br />`,
 
       `A comunicação é uma prioridade nos relacionamentos e se tornam significativos quando há troca de ideias e experiências que possam proporcionar aprendizado.
 Pode estabelecer parcerias em áreas de comunicação, áreas de aprendizagem, transporte ou conhecer parceiros durante viagens curtas, através de irmãos e da vizinhança.
 Também e m cursos de línguas ou cursos de pequena duração, pela internet, cartas, telefonemas e outros meios de comunicação.
-Juno nesta casa inspira uma parceria onde sintonia intelectual, estímulos, novidades e constantes intercâmbios. -break`,
+Juno nesta casa inspira uma parceria onde sintonia intelectual, estímulos, novidades e constantes intercâmbios. <br />`,
 
       `O nativo se vê confrontado com um problema de comunicação de origem cármica.
 Nas vidas passadas, não conseguiu se comunicar realmente com os outros. Seu espírito crítico e seus preconceitos o haviam impedido de fazê-lo.
 Demasiadamente racional e intelectual, não sabia promover intercâmbios no plano das emoções, nem partilhar o entusiasmo dos outros.
 Essa posição de Mercúrio indica também um mau contato com irmãos e primos numa vida passada.
-Essa atitude pode e deve ser superada com uma postura mais amorosa, aberta, simples e fraternal para com os parentes e as pessoas próximas. -break`,
+Essa atitude pode e deve ser superada com uma postura mais amorosa, aberta, simples e fraternal para com os parentes e as pessoas próximas. <br />`,
 
       `Neste signo o nativo tem algo a aprender no campo da comunicação com os outros:
 Em vidas passadas, seus discursos agressivos, canhestros ou indelicados haviam afastado os que o cercavam, particularmente seus irmãos e irmãs, primos e na escola até os seus colegas.
@@ -4555,24 +4300,24 @@ Pode sentir um grande amor por uma pessoa enquanto se prepara para estar com ela
 Assim, cria problemas afetivos sem viver os relacionamentos no aqui e no agora. Passa muito tempo analisando tudo o que sente.
 As qualidades mutáveis da casa 3 dificultam a pessoa da sintonia mental com seus próprios sentimentos.
 Sente-se inseguro, especialmente com as pessoas da própria idade. Para sentir-se aceito, pode dizer ou fazer coisas que sabe que não são suas.
-Deverá aprender a se amar, a se controlar, usar de integridade e sinceridade. Sobretudo a usar de mais tato nas relações faladas ou escritas com seus parentes e pessoas próximas. -break`,
+Deverá aprender a se amar, a se controlar, usar de integridade e sinceridade. Sobretudo a usar de mais tato nas relações faladas ou escritas com seus parentes e pessoas próximas. <br />`,
 
       `Esta posição de Marte sugere vidas anteriores nas quais as relações com irmãos, irmãs e primos tinham sido conflituosas e mal vividas.
 O nativo, recusando-se a se dobrar a qualquer disciplina coletiva, era sempre o aluno com problemas, o semeador de desordens e a ovelha negra de todos os professores.
-A lição cármica buscada na vida atual é a aceitação de uma disciplina mental e intelectual, assim como maior prudência nos intercâmbios, na expressão escrita ou falada. -break`,
+A lição cármica buscada na vida atual é a aceitação de uma disciplina mental e intelectual, assim como maior prudência nos intercâmbios, na expressão escrita ou falada. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Como esta casa está relacionada com a atividade mental, deduzimos que o nativo teve problemas escolares.
 Por outro lado, seu juízo não é muito firme. Recusou a disciplina necessária aos estudos. Pode ter havido falta de tato nas palavras, incapacidade de se calar.
 Esta posição de Júpiter supõe uma falta de fé, uma recusa em levar a sério qualquer via espiritual ou religiosa. Há indicações de más relações com irmãos, primos e pessoas próximas.
 O nativo deve se esforçar agora para se desprender do seu ego inferior. Esquecer a si próprio e com humildade aprender a pedir conselhos.
-Deve começar por aplicar a ética e os bons princípios com seus parentes. Não se mostrar demasiado autoritário para com eles. Ter mais cuidado com as palavras, saber se calar. -break`,
+Deve começar por aplicar a ética e os bons princípios com seus parentes. Não se mostrar demasiado autoritário para com eles. Ter mais cuidado com as palavras, saber se calar. <br />`,
 
       `Saturno está num setor do mapa que diz respeito aos irmãos e às irmãs, aos primos, aos colegas da escola e da universidade, à vida intelectual.
 Em algumas de suas vidas anteriores, o nativo foi frio em suas relações, recusava-se a se comunicar com seus semelhantes.
 Provavelmente também tinha responsabilidades familiares para com seus irmãos, primos e irmãs, que não assumiu.
 Essas relações retornam com força na vida atual, solicitando com mais insistência ainda esta pessoa, que só tem, realmente, uma coisa a fazer: ajudar bravamente os seus, não lhes recusar sua afeição, seu tempo e seu dinheiro.
-Deve também aprender a se comunicar com os outros de forma mais calorosa e assertiva. Sem agressividade, nem refúgio no mutismo. -break`,
+Deve também aprender a se comunicar com os outros de forma mais calorosa e assertiva. Sem agressividade, nem refúgio no mutismo. <br />`,
 
       `Urano na Terceira Casa indica pessoas com mentes incomuns, intuitivas. Os nativos são livres-pensadores, formam as suas opiniões baseadas na experiência direta e em factos científicos.
 A sua opinião não é influenciada pelos outros. Impessoais e imparciais na avaliação de ideias, os nativos estão sempre investigando áreas de interesse incomuns.
@@ -4581,30 +4326,30 @@ Consequentemente, muitos inventores e os cientistas também têm Urano no mapa n
 Essas pessoas tendem a expor ideias revolucionárias, procuram amizades e atividades em grupos intelectuais, que lhes proporcionarão estímulo mental e progresso educacional.
 Mesmo os relacionamentos com irmãos, irmãs e vizinhos com frequência são diferentes e estimulantes. Essa posição produz muitos escritores de assuntos astrológicos, científicos ou ocultos.
 Os nativos também podem se envolver com meios de comunicação em massa e redes sociais. No seu pior, a mente pode ser inquieta, pouco prática e volúvel.
-Pode haver muitas conclusões precipitadas e frequentes mudanças de opinião. -break`,
+Pode haver muitas conclusões precipitadas e frequentes mudanças de opinião. <br />`,
 
       `Em vidas passadas, o nativo não conseguiu estabelecer nenhuma relação verdadeira com seus irmãos, seus colegas de escola, com as pessoas de sua geração.
 Os hábitos de desonestidade intelectual adquiridos em sua juventude traduziram-se mais tarde numa personalidade indefinida.
 Em outras palavras, na ausência de uma verdadeira personalidade. Decepcionante para seus companheiros, para seus parentes, pode ter sido um oportunista. Seu juízo estava confuso.
-Na vida atual, deve esforçar-se por ser íntegro e verdadeiro. Esta posição netuniana indica um carma especial para com irmãos e irmãs, primos e pessoas próximas, que o nativo deve ajudar caridosamente. -break`,
+Na vida atual, deve esforçar-se por ser íntegro e verdadeiro. Esta posição netuniana indica um carma especial para com irmãos e irmãs, primos e pessoas próximas, que o nativo deve ajudar caridosamente. <br />`,
 
       `Responsabilidades familiares, esquivadas nas vidas passadas, podem reaparecer: irmãos, irmãs, primos e pessoas próximas, de quem o nativo deveria ter cuidado outrora.
 Nesta vida pode ter que trabalhar para permitir-lhes estudar, muitas vezes sacrificando seus próprios estudos. As provações desta vida presente lhe virão, sobretudo, dessa carga familiar cármica.
 Por vezes também dos seus colegas de escola, quando se exige que responsabilidades anteriores sejam novamente assumidas.
 A transformação é a purificação de Plutão também se dá no campo das ideias, na transformação de crenças e pensamentos limitantes.
-Na forma com que o nativo promove intercâmbios e negociações - estas devem ser justas, íntegras e conscientes. -break`,
+Na forma com que o nativo promove intercâmbios e negociações - estas devem ser justas, íntegras e conscientes. <br />`,
 
       `Quíron na casa 3 representa um desafio com irmãos, vizinhos e comunicação. Se a pessoa tem irmãos, eles podem ser a fonte de sofrimentos e problemas. Se não tem, o sofrimento é pela falta de irmãos.
 Da mesma forma, os vizinhos e colegas próximos podem ser fonte de frustração e sofrimento. Pode ter problemas para se comunicar, se expressar ou a pessoa não se sente compreendida.
 Podem existir ainda problemas na fala, audição ou de movimentos. Em alguns casos, indica que não foi muito ouvido quando criança e assim desencadeia um processo de se fazer ouvir.
 Não importa quanto os outros lhe dê atenção, ela continua a sentir a dor que sentia na infância. Reconhecer essa dor e superá-la, é o primeiro passo para se livrar da dor de Quíron na casa 3.
-Essa é uma posição de Quíron que indica um fonoaudiólogo, alguém que se dedica a ajudar aos outros a falar melhor do que a si mesmo, ou um professor de braile para cegos ou para surdos-mudos. -break`,
+Essa é uma posição de Quíron que indica um fonoaudiólogo, alguém que se dedica a ajudar aos outros a falar melhor do que a si mesmo, ou um professor de braile para cegos ou para surdos-mudos. <br />`,
 
       `Possível sucesso em carreiras de comunicação ou no comércio. Se a pessoa nestas profissões, ocupar um lugar onde se destaque e brilhe.
 Importância de trocas mentais e intelectuais numa parceria. No mapa de um homem mostra uma esposa/parceira, espontânea e esperta, viva.
-Também no casamento essa mulher se comportará sempre de forma muito jovial, e tentará preservar seus comportamentos de juventude. -break`,
+Também no casamento essa mulher se comportará sempre de forma muito jovial, e tentará preservar seus comportamentos de juventude. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -4617,7 +4362,7 @@ Também no casamento essa mulher se comportará sempre de forma muito jovial, e 
     ]
   },
   {
-    title: `Casa 04`,
+    title: `Casa 04</strong>`,
     text: [
       `Na casa 4, a procura da própria identidade passa pelas raízes, pelas heranças familiares, pelos padrões ancestrais e a vida em família.
 É exigida do nativo uma iluminação consciente dos padrões emocionais, através da investigação e integração interiores.
@@ -4628,7 +4373,7 @@ Quando consegue se libertar dos primeiros condicionamentos ou encontra um caminh
 É possível olhar para as bases da infância como o que realmente são: o berço de onde viemos com o objetivo de construir uma vida adulta bem sucedida, permitindo que a individualidade se desenvolva.
 Quando essa consciência se torna mais clara, então deixa de gastar energia seguindo o caminho socialmente aceito ou planejado pela família e vai em busca do prazer do próprio caminho.
 O nativo guarda um sentimento de clã e de família e, quando gosta de alguém, aquela pessoa passa a fazer parte do seu mundo.
-Possui o dom do acolhimento e de tornar especial o local em que vive. Seu interior é aconchegante e pode iluminar a vida íntima, o convívio familiar. -break`,
+Possui o dom do acolhimento e de tornar especial o local em que vive. Seu interior é aconchegante e pode iluminar a vida íntima, o convívio familiar. <br />`,
 
       `A quarta casa é a morada natural da Lua devido a sua associação com o signo de Câncer que é regido pela Lua.
 Há uma tendência de buscar autonomia no trabalho, preferindo realizar uma atividade em casa, num negócio próprio.
@@ -4636,27 +4381,27 @@ Isto porque se sente nervoso diante do mundo exterior e prefere estar em casa. T
 Pode ter pouca confiança em si mesmo devido a problemas na infância. Precisa de amor e afeto, por isso deve evitar pessoas destrutivas que podem magoá-lo.
 Pode ter uma simpatia maior pelos fracos e desamparados e até um amor especial pelos animais.
 Pode se sentir atraído pelo passado e se dedicar a profissões que lidam com antiguidades, ancestralidade, memória ou que guarde valores, como também pode gostar de colecionar.
-Tem um forte impulso de viver e aprecia muito os momentos que podem estar perto do mar. -break`,
+Tem um forte impulso de viver e aprecia muito os momentos que podem estar perto do mar. <br />`,
 
       `Mercúrio na Quarta Casa indica pode haver muita atividade educacional e intelectual no lar. Os nativos com esta posição com frequência possuem pais bem educados.
 Tendem a investigar a sua árvore genealógica e a história dos seus ancestrais. O lar provavelmente será utilizado como um local de trabalho, porque Mercúrio rege Virgem e a Sexta Casa, que lida com o trabalho.
 Com frequência possuem amplas bibliotecas em casa e passam muito tempo com as suas famílias, envolvidos em atividades intelectuais.
 O lar pode se tornar um centro de relações sociais da vizinhança. São pessoas que costumam transformar a leitura do jornal num ritual diário durante o café da manhã.
 Mercúrio nesta casa pode indicar um interesse por bens imobiliários, agricultura, ciências da terra (como Geologia) e pelos problemas ecológicos e ambientais.
-O nativo pode escrever a respeito dessas questões. Possuem condições para mudar de casa ou se movimentar com frequência, viver em trailers ou de algum modo procurar uma vida nômade. -break`,
+O nativo pode escrever a respeito dessas questões. Possuem condições para mudar de casa ou se movimentar com frequência, viver em trailers ou de algum modo procurar uma vida nômade. <br />`,
 
       `Vênus na Quarta Casa indica ligação emocional com o lar e o cenário doméstico. Os relacionamentos com os membros da família tendem a ser harmoniosos.
 Os nativos gostam de receber seus amigos íntimos e namorados em casa, onde podem cozinhar para eles e criar um ambiente aconchegante, acolhedor e pessoal.
 O lar desses nativos é sempre artisticamente decorado, de maneira tão bela quanto suas posses lhes permitam.
 A proximidade emocional com os pais está favorecida e muita alegria pode vir por intermédio deles. Heranças podem vir dos pais.
-Há a promessa de beleza e conforto no final da vida. Há amor pela terra, flores, jardinagem e vegetação exuberante e um amor patriótico pelas belezas naturais da terra natal. -break`,
+Há a promessa de beleza e conforto no final da vida. Há amor pela terra, flores, jardinagem e vegetação exuberante e um amor patriótico pelas belezas naturais da terra natal. <br />`,
 
       `Marte na Quarta Casa indica que muita energia é empregada no lar e existe o desejo de controlar o cenário doméstico. Isso pode ser motivo de desavenças familiares.
 São realizados esforços vigorosos para melhorar o lar. As pessoas com esta posição de Marte frequentemente gostam de fazer consertos.
 Pode haver também um interesse ativo pelos problemas ambientais e ecológicos. Marte nessa casa pode produzir pessoas que trabalham muito para melhorar o meio ambiente.
 Pode haver conflitos com os pais. Essas pessoas necessitam melhorar o equilíbrio e o controle emocional para obter harmonia no lar.
 Com frequência, melhores relações familiares podem ser mantidas se os nativos se afastarem do local de nascimento.
-Esta posição proporciona uma constituição forte e muita energia, que são mantidas até idade avançada. -break`,
+Esta posição proporciona uma constituição forte e muita energia, que são mantidas até idade avançada. <br />`,
 
       `Esta posição de Júpiter oferece relacionamentos familiares agradáveis, segurança, conforto e tranquilidade no lar e em todos os assuntos domésticos.
 Como os nativos geralmente pertencem a famílias financeiramente seguras, com boa posição na comunidade, obtêm muitos benefícios sociais e educacionais.
@@ -4666,7 +4411,7 @@ O nativo geralmente conta com um amplo círculo familiar e casas amplas. O lar p
 Se Júpiter estiver em harmonia com outros planetas, os benefícios materiais e espirituais se originarão no local de nascimento.
 Mas também pode ser uma boa ideia deixar o local de nascimento e se estabelecer em outro lugar.
 É preciso cuidado com exageros e excesso de otimismo, como por exemplo, contrair dívidas em família para mantê los de acordo com o modo de vida ao qual estão habituados.
-É preciso observar se há limitação por crenças religiosas antiquadas impostas por membros da família. -break`,
+É preciso observar se há limitação por crenças religiosas antiquadas impostas por membros da família. <br />`,
 
       `Saturno na Quarta Casa indica pesadas responsabilidades no lar e na família. Os pais dos nativos geralmente são rígidos, conservadores e podem ser um fardo nos últimos anos.
 Pode haver afastamento emocional da família. É preciso aprender a lidar com as frustrações emocionais para superá-las.
@@ -4674,7 +4419,7 @@ Ao longo da vida esses desafios o levarão a amadurecer, mas é preciso cuidado 
 As atividades profissionais e nos negócios provavelmente se dirigem para bens imobiliários, construção, contratos, agricultura ou fabricação de produtos domésticos.
 Esta posição de Saturno indica cuidados na administração do lar, propriedades e possibilidade de receber heranças. O nativo procura preservar essas coisas, para que mais tarde possam ter segurança.
 Se conseguir superar os receios emocionais, torna-se capaz de construir uma família bem estruturada, sendo aquele que oferece segurança.
-Geralmente se tornam mais solitários ou introvertidos nos últimos anos de sua vida. -break`,
+Geralmente se tornam mais solitários ou introvertidos nos últimos anos de sua vida. <br />`,
 
       `Muitas vezes Urano na casa 4 traz indícios de dificuldades na infância ou na juventude, ou de alguma mudança súbita que altera o curso normal nessa época da vida.
 Se os pais conseguem dar o suporte adequado, isso não precisa ser necessariamente um problema. Pode indicar certo desprendimento da família de origem, que pode resultar em um espírito livre de raízes.
@@ -4684,7 +4429,7 @@ Há indicações da possibilidade de afastar-se de um dos pais (ou de ambos) dur
 O ambiente familiar, a residência, pode ser bastante peculiar. Provável desapego pode levar a não ter uma casa própria.
 A dificuldade em viver apenas em um lugar e espírito livre reflete-se na vida afetiva. O coração é como o lar: anseia por mudança.
 Se a outra pessoa necessita de segurança, esse padrão afeito à mudança pode tornar impraticável o relacionamento.
-Por essa razão deve ser escolhida uma pessoa cuja segurança deve ser de dentro para fora e não de fora para dentro. -break`,
+Por essa razão deve ser escolhida uma pessoa cuja segurança deve ser de dentro para fora e não de fora para dentro. <br />`,
 
       `Netuno rege o mar. Portanto, há possibilidade do nativo no litoral. Este planeta também rege os órfãos e orfanatos (locais de restrição em geral).
 O nativo pode ter pais confusos e nebulosos, ausentes das necessidades emocionais dos filhos.
@@ -4698,13 +4443,13 @@ Netuno nessa casa pode se manifestar por vários ângulos, o nativo pode ser vis
 Seus familiares também. Quando adulto, pode optar por uma nova família onde possa viver a sua sensibilidade especial.
 Na via positiva, pode desenvolver o amor incondicional com seus familiares e conquistar o amor e carinho de todos.
 Pode esforçar-se para conseguir entender os elementos da família. Terapias ajudam a processar seu profundo e amplo mundo emocional.
-Aconselhável desenvolver sua sensibilidade artística e espiritualidade. O lar pode se tornar um templo, onde tudo é cuidado com carinho, onde reina a beleza, a boa música e os valores mais elevados. -break`,
+Aconselhável desenvolver sua sensibilidade artística e espiritualidade. O lar pode se tornar um templo, onde tudo é cuidado com carinho, onde reina a beleza, a boa música e os valores mais elevados. <br />`,
 
       `Plutão nesta indica o desejo de ser o senhor de seu próprio lar e do ambiente doméstico. É preciso cuidado com uma atitude excessivamente dominadora, que pode afastar outros membros da família.
 Contudo, uma profunda habilidade para perceber a essência da vida possibilita sustentar e melhorar a situação doméstica.
 Plutão indica que pode ter havido uma perda na família, vivenciada nos primeiros anos de vida do nativo. Há a possibilidade do nativo interessar-se por ocultismo nos anos mais avançados de vida.
 Podem também ocorrer circunstâncias misteriosas ou ocultas com relação ao lar e à família. Existe também o perigo de brigas e segredos com membros da família ou outros moradores da casa.
-Uma forte ligação oculta com a terra pode se manifestar no amor pela natureza, no interesse por ecologia ou conservação, ou na habilidade para conhecer os segredos da terra através de atividades como mergulho, estudo de geologia ou outros meios. -break`,
+Uma forte ligação oculta com a terra pode se manifestar no amor pela natureza, no interesse por ecologia ou conservação, ou na habilidade para conhecer os segredos da terra através de atividades como mergulho, estudo de geologia ou outros meios. <br />`,
 
       `O nodo sul mostra que em vidas passadas houve muito envolvimento familiar, com muita emotividade, excessiva susceptibilidade e imaturidade emocional.
 Ficar preso ao lar, cuidar apenas da casa e da família não é suficiente. É preciso superar os medos, a tendência à reclusão ou à introspecção para que conquiste o sucesso profissional.
@@ -4712,7 +4457,7 @@ O caminho da evolução é aprender a se dedicar a outras esferas da vida além 
 É preciso crescer e amadurecer, aventurando-se no desconhecido, para fora da base do lar. Isso pode contribuir com sua integração no mundo e com a sua maturidade emocional.
 Pode ajudá-lo a equilibrar tendências à introspecções mórbidas ou a esconder o self, encontrando empregos ou carreiras que de algum modo sirvam à coletividade.
 Desenvolver o empreendedorismo, cultivar metas claras, propósitos de projeção profissional.
-Desenvolver também as qualidades de liderança, o sentido da própria autoridade, do poder e utilidade através de uma carreira. -break`,
+Desenvolver também as qualidades de liderança, o sentido da própria autoridade, do poder e utilidade através de uma carreira. <br />`,
 
       `O caminho da felicidade é cultivar o sentimento do lar e das raízes. Procurar uma base adequada para a integração da personalidade, sobre a qual construir a ambição pessoal, deverá ser da maior importância.
 A felicidade exige uma sensação de estabilidade, uma sensação de estar em contato com valores permanentes, conceitos sólidos, ligações emocionais e afetivas.
@@ -4720,7 +4465,7 @@ Em alguns nativos a estabilidade poderá ser encontrada totalmente dentro de si 
 “Lar” requer outras pessoas. A verdadeira integração da personalidade requer um quadro de referencias, uma comunidade que proporcione sentido e propósito aos esforços do indivíduo.
 O nativo deve buscar privacidade e conforto, o seu espaço, seu lugar seguro, de forma canceriana: com cuidado, zelo e capricho. Cultivar sua intuição e sensibilidade.
 O Ponto de iluminação também representa a possibilidade de encontrar satisfação de uma forma mais ampla, através da identificação com um todo social, profissional ou nacional.
-O -stron Presidente Kennedy/stron  é uma ilustração significativa desta posição da Roda da Fortuna na quarta casa. -break`,
+O <strong> Presidente Kennedy</strong>  é uma ilustração significativa desta posição da Roda da Fortuna na quarta casa. <br />`,
 
       `Quando Quíron está na casa 4 pode indicar problemas familiares ou com os pais.
 É provável que passe a vida desejando ter um lar ou uma casa, mas há sempre algo que impede de usufruir de um lar ou do aconchego de uma família.
@@ -4728,18 +4473,18 @@ E mesmo que tenha uma casa, terá tantas obrigações externas que nunca permiti
 Em alguns casos o pai pode ter uma doença crônica ou esteja ausente fisicamente ou emocionalmente, ou ter uma deficiente estrutura familiar, frieza afetiva ou abandono por parte de um dos progenitores.
 Pode passar a infância numa creche ou o sofrimento pode advir devido ao divórcio dos pais ou à morte de um familiar muito querido.
 Assim a pessoa sente necessidade de ajudar pessoas abandonadas pelos pais ou que não tem um lar, porque assim consegue compreender e superar sua dor.
-Existe a tendência a ajudar os outros abrigando-os em sua própria casa ou ajudar outros a terem suas casas e família, enquanto o seu lugar está em ruínas. -break`,
+Existe a tendência a ajudar os outros abrigando-os em sua própria casa ou ajudar outros a terem suas casas e família, enquanto o seu lugar está em ruínas. <br />`,
 
       `A segurança emocional e laços íntimos fortes são essenciais para que um relacionamento se estabeleça.
 O nativo considera mais importantes as pessoas que compartilham de sua intimidade familiar ou do ambiente doméstico.
 Pode estabelecer parcerias com pessoas da família ou durante eventos familiares, na área de administração de imóveis, construções imobiliárias, antiquários, museus, etc.
 A parceria ideal é aquela que costuma valorizar as suas alegrias afetivas íntimas. A decoração do lugar onde mora é realizada com gosto bem personalizado.
-Há possibilidade de uma relação cármica entre uma união desta vida atual e outra, de uma vida passada. -break`,
+Há possibilidade de uma relação cármica entre uma união desta vida atual e outra, de uma vida passada. <br />`,
 
       `A infância exerceu grande importância na vida do nativo, que não se esquece das suas primeiras impressões nesta vida.
 Continua a procurar uma grande segurança afetiva e familiar, como fazia nas vidas anteriores. Na encarnação presente, sua emotividade pode criar bloqueios em seu desenvolvimento intelectual.
 Só poderá se expressar realmente quando tiver progredido afetivamente. Sobretudo quando tiver aceitado crescer e amadurecer.
-Quando tiver renunciado o apego às velhas emoções, mágoas e memórias frustrantes você sairá da imaturidade e sua verdadeira personalidade se revelará enfim (quase sempre na idade madura). -break`,
+Quando tiver renunciado o apego às velhas emoções, mágoas e memórias frustrantes você sairá da imaturidade e sua verdadeira personalidade se revelará enfim (quase sempre na idade madura). <br />`,
 
       `Em suas vidas passadas, o nativo não soube criar um ambiente satisfatório no seu lar (ou a sua pátria, se tinha responsabilidades políticas ou administrativas).
 Seus familiares não se sentiam felizes em sua casa. Isso se deve ao fato de que seu lado afetivo estava subdesenvolvido. Gosta de ter alguém do sexo oposto em quem possa se apoiar.
@@ -4748,44 +4493,44 @@ Seu conceito de amor sempre envolve um grau de proteção dos pais, dos quais, e
 Algumas vezes sente medo das pessoas e, como resultado, tem mais dificuldade para expressar seus gostos para o mundo exterior do que para os de sua intimidade.
 Inconscientemente, limita o número de pessoas e de situações exteriores com as quais possa se sentir confortável.
 Está aprendendo através de um Carma que continua repetindo o começo das experiências de amor até que tenha confiança suficiente para acreditar que, através delas, ganhará a segurança que precisa para expressar seu amor no mundo exterior.
-Em suma: Eterna criança, apavorado com o mundo exterior, não tendo liquidado outrora seu Édipo, deve aprender agora a sair de sua concha para dar ternura e proteção aos seus. -break`,
+Em suma: Eterna criança, apavorado com o mundo exterior, não tendo liquidado outrora seu Édipo, deve aprender agora a sair de sua concha para dar ternura e proteção aos seus. <br />`,
 
       `Parece, de acordo com essa posição de Marte, que o nativo assumiu seu papel de paternidade com uma grande dureza, impondo aos seus uma ditadura familiar muito penosa.
 Ninguém se sentia feliz em sua casa. Ali se vivia oprimido pelo terror daquela autoridade desumana.
 Na vida atual, o nativo ainda faz os seus sofrerem, com um resquício dessa atitude. É possível também que ele próprio seja vítima de um pai autoritário (como ele, outrora).
-Ou ainda que tenha uma dívida cármica para com uma mãe negligenciada ou maltratada. Deve esforçar-se por todos os meios para proporcionar alegria e ternura aos seus. -break`,
+Ou ainda que tenha uma dívida cármica para com uma mãe negligenciada ou maltratada. Deve esforçar-se por todos os meios para proporcionar alegria e ternura aos seus. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! O desenvolvimento da personalidade e das emoções realizou-se de forma retraída.
 Preocupado demais consigo mesmo pode ter ignorado aquelas pessoas que o cercavam.
 Com sua mentalidade "eu em primeiro lugar", não pôde, não quis, ou não teve a oportunidade de expandir sua família em vidas passadas. Hoje, tende a ser emotivo e suscetível demais.
 Tudo fluirá melhor quando compreender que suas reações emocionais são resquícios de atitudes anteriores que não estão mais adaptadas a esta vida, que não condizem mais com sua consciência.
-Poderá então criar sua própria família, cultivar suas relações íntimas, confiar nos seus e deixá-los viver! -break`,
+Poderá então criar sua própria família, cultivar suas relações íntimas, confiar nos seus e deixá-los viver! <br />`,
 
       `A grande lição aqui é trabalhar a frieza, o egoísmo e a avareza, tanto material quanto emocional.
 Com Saturno retrógrado na casa 4, o ambiente familiar do nativo tende a ser sombrio, lúgubre e opressivo. A pessoa não fez nada para alegrar a casa e o convívio com familiares.
 Pelo contrário, impôs muitas limitações com o seu egoísmo. Isso tudo, enfim, numa vida passada. Porque, na vida atual, deve tomar consciência disso e abrir seu coração.
-Zelar pelas relações de afeto com mais carinho. Assim pode zelar pelo conforto de quem ama e gastar um pouco mais para aliviar sua vida quotidiana. -break`,
+Zelar pelas relações de afeto com mais carinho. Assim pode zelar pelo conforto de quem ama e gastar um pouco mais para aliviar sua vida quotidiana. <br />`,
 
       `Urano retrógrado nessa posição indica uma vida familiar e ligações familiares incomuns. Em certos casos, um dos pais é diferente de alguma maneira.
 Os nativos buscam em seus lares a liberdade de ir e vir como quiserem. A própria casa pode possuir uma arquitetura ou decoração incomum, com muitos aparelhos e dispositivos eletrônicos.
 Os amigos íntimos são aceitos como membros da família. O lar com frequência é utilizado como local de encontro para atividades em grupo e empreendimentos ocultos.
 É provável que ocorram mudanças súbitas de residência. Pode haver muitas mudanças em situações familiares e domésticas. Nos últimos anos de vida, podem também surgir circunstâncias incomuns.
-Os nativos não muito são ligados aos pais e à família. No seu pior, pode haver dificuldades com membros da família e perturbações no lar. -break`,
+Os nativos não muito são ligados aos pais e à família. No seu pior, pode haver dificuldades com membros da família e perturbações no lar. <br />`,
 
       `As vidas passadas do nativo, e talvez ainda a atual, foram marcadas pela perda ou pela dissolução de seu lar - por razões que lhe parecem misteriosas.
 Num primeiro estágio, mais antigo, o nativo era responsável por isso, pois não soube fazer reinar a confiança e a ternura em seu lar.
 Nessas encarnações antigas, pode ter sido o próprio nativo que provocou a fuga do cônjuge e dos filhos. Seus enganos com a família haviam gerado outros enganos.
 Deve aprender que a própria base da felicidade familiar é a confiança recíproca.
 Nesta vida, é possível que a pessoa minta, roube e engane, sobretudo em sua juventude: assim seus pais, irmãos e irmãs perdem a confiança nele.
-Seu cônjuge pode ser vítima desse mesmo sentimento de insegurança. O nativo deve compreender que as traições, a fuga, a desconfiança dos outros são a consequência das suas próprias traições do passado. O respeito aos seus familiares exige a retidão com relação a eles. -break`,
+Seu cônjuge pode ser vítima desse mesmo sentimento de insegurança. O nativo deve compreender que as traições, a fuga, a desconfiança dos outros são a consequência das suas próprias traições do passado. O respeito aos seus familiares exige a retidão com relação a eles. <br />`,
 
       `Em vidas passadas o nativo foi manipulador em sua família, pode ter magoado seus familiares. Sua atitude para com eles foi destruidora, a ponto de criar um pesado carma familiar.
 Agarrava-se à família porque tinha uma sede in¬saciável de segurança afetiva. Depois, exasperado com essa dependência emocional, tentava se libertar dela se tornando o mais odioso possível.
 Agredindo seus parentes, oprimindo-os com exigências extravagantes, atraía para si toda a atenção, o tempo e as forças de todos.
 Um vampiro do coração. De tal maneira que não restavam mais à sua família, alternativas senão a da escravidão ou da revolta.
 Nesta vida o nativo deve reconhecer em si essa tendência de abusar dos laços familiares e se esforçar para transformar toda tirania.
-Caso sua família decida de boa vontade morar com ele, é que terá ganhado: será enfim capaz de dar aos outros a ternura e harmonia! -break`,
+Caso sua família decida de boa vontade morar com ele, é que terá ganhado: será enfim capaz de dar aos outros a ternura e harmonia! <br />`,
 
       `Quando Quíron está na casa 4 indica problemas familiares ou com os pais.
 É provável que passe a vida desejando ter um lar ou uma casa, mas há sempre algo que impede de usufruir de um lar ou do aconchego de uma família.
@@ -4793,14 +4538,14 @@ E mesmo que tenha uma casa, terá tantas obrigações externas que nunca permiti
 Em alguns casos o pai pode ter uma doença crônica ou esteja ausente fisicamente ou emocionalmente, ou ter uma deficiente estrutura familiar, frieza afetiva ou abandono por parte de um dos progenitores.
 Pode passar a infância numa creche ou o sofrimento pode advir devido ao divórcio dos pais ou à morte de um familiar muito querido.
 Assim a pessoa sente necessidade de ajudar pessoas abandonadas pelos pais ou que não tem um lar, porque assim consegue compreender e superar sua dor.
-Existe a tendência a ajudar os outros abrigando-os em sua própria casa ou ajudar outros a terem suas casas e família, enquanto o seu lugar está em ruínas. -break`,
+Existe a tendência a ajudar os outros abrigando-os em sua própria casa ou ajudar outros a terem suas casas e família, enquanto o seu lugar está em ruínas. <br />`,
 
       `Esta é uma esposa que será muito apegada a seu lar (no mapa feminino). A menos que suas tendências vingativas sejam estimuladas.
 Impacto do meio infantil inicial sobre o tipo de escolha afetiva e de casamento. Costuma valorizar as suas alegrias afetivas íntimas.
 Decoração do lugar onde mora com o gosto bem personalizado. Relação cármica entre uma união desta vida atual e outra, de uma vida passada.
-Mas atenção ao considerar esta possibilidade! No mapa de um homem, escolha de uma esposa com características muito maternais e protetoras, mas verificar a posição e os aspectos de sua Lua Natal. -break`,
+Mas atenção ao considerar esta possibilidade! No mapa de um homem, escolha de uma esposa com características muito maternais e protetoras, mas verificar a posição e os aspectos de sua Lua Natal. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -4813,7 +4558,7 @@ Mas atenção ao considerar esta possibilidade! No mapa de um homem, escolha de 
     ]
   },
   {
-    title: `Casa 05`,
+    title: `Casa 05</strong>`,
     text: [
       `É na casa 5 que o Sol encontra sua melhor expressão, pois essa é a casa de sua regência. É na busca do prazer, das atividades criativas, do lazer e do romance que desenvolve sua identidade.
 A produção artística, sob forma intelectual, emocional ou material, são importantes para a auto expressão e também um canal das energias do Sol.
@@ -4824,25 +4569,25 @@ Como acaba se sobressaindo por puro entusiasmo, corre o risco de criar personage
 O autoconhecimento e a autoconfiança trazem a possibilidade de desenvolver sua totalidade, o amor à vida, a alegria e o carisma. Existe uma eterna criança brincalhona em quem tem o Sol na Casa 5.
 O nativo deve aprender a ser livre e participar inteiramente da vida. Compreender que a vida também é diversão e gratificação.
 Cultivar a alegria da criança interior, sempre em busca de um desafio, de algo criativo para ser realizado.
-Quer amar com entusiasmo e ser amado. Sabe que na vida é preciso deixar uma marca e a vida sempre precisa ser um show. -break`,
+Quer amar com entusiasmo e ser amado. Sabe que na vida é preciso deixar uma marca e a vida sempre precisa ser um show. <br />`,
 
       `Vivem fortes emoções e procura satisfação romântica ou prática, podendo ter inúmeros casos amorosos.
 Sente atração pelo mundo jovem e infantil, por isso tende a se atrair por profissões que envolva crianças e jovens, especialmente na área de educação, lazer ou atividades esportivas.
 Tem aparência atraente e jovial e também inclinação para se exibir, que pode levar a trabalhos nas áreas de teatro, shows, espetáculos ou que lide com o público, como marketing ou relações públicas.
 Tem forte apego e amor aos filhos. Ter um canal de expressão criativa é uma necessidade emocional, por isso pode desejar ter filhos ou se apega a animais de estimação.
-Há o instinto para criar nas artes em geral e pode se tornar um bom professor, apresentador, escritor ou editor. -break`,
+Há o instinto para criar nas artes em geral e pode se tornar um bom professor, apresentador, escritor ou editor. <br />`,
 
       `Mercúrio na Quinta Casa indica interesse intelectual em muitos empreendimentos artísticos e criativos. Por essa razão, ele pode criar dramaturgos, críticos de arte e escritores em geral.
 Os nativos sentem se atraídos pelas formas de arte que transmitem informações ou que agem como meio de ensino ou propaganda.
 Possuem a capacidade de se expressar de forma dramática e vigorosa na fala e na escrita, e querem ser admirados pelas suas realizações intelectuais.
 Essas pessoas também tendem a preocupar-se e sentir orgulhosas das realizações intelectuais e de seus filhos. Mas é preciso cuidado com excessos de vaidade.
 Uma vez que há interesse pela educação das crianças, muitos importantes professores possuem Mercúrio nesta casa.
-A atração romântica está voltada a tipos intelectuais capazes de proporcionar excitação e estímulo mentais. -break`,
+A atração romântica está voltada a tipos intelectuais capazes de proporcionar excitação e estímulo mentais. <br />`,
 
       `Vênus na Quinta Casa indica uma forte inclinação para o prazer e uma natureza romântica. Há amor pela vida, com um ponto de vista otimista. O romance é de importância fundamental.
 Pode haver felicidade e prazer no romance, com muitas oportunidades românticas. Os nativos com esta posição geralmente são populares e queridos.
 Amam as artes e podem ser muito talentosos, especialmente nas artes dramáticas. Gostam de frequentar teatros e assistem a apresentações musicais em suas atividades sociais e românticas.
-Esta posição de Vênus proporciona amor pelas crianças. Ela também cria pais amorosos, professores e psicólogos infantis. Os filhos desses nativos provavelmente serão meninas com talento artístico e beleza física. -break`,
+Esta posição de Vênus proporciona amor pelas crianças. Ela também cria pais amorosos, professores e psicólogos infantis. Os filhos desses nativos provavelmente serão meninas com talento artístico e beleza física. <br />`,
 
       `Marte na Quinta Casa indica aqueles que buscam o amor e o prazer de maneira ativa. São agressivos e emotivos no sexo e no romance.
 Pode haver desavenças no namoro, resultantes da impaciência e do ciúme sexual. A paixão sexual e a impulsividade podem resultar em gravidez fora do casamento.
@@ -4850,7 +4595,7 @@ Os artistas (especialmente os que trabalham com ferramentas, como os escultores)
 Há preferência também pela dança, pelo movimento e por esportes competitivos ao ar livre. Esta posição geralmente é encontrada nos horóscopos de atletas.
 Com bastante frequência, o interesse pelo trabalho com crianças e jovens confere um senso de liderança, poder e autoridade.
 Treinadores e professores de educação física têm maior probabilidade de possuir Marte nesta posição. Podem se tornar professores talentosos, que despertarão interesse e, assim, obterão resultados com os seus alunos.
-Mas é preciso cuidado com atitudes autoritárias, dominadoras, para com aqueles que estiverem sob os seus cuidados. -break`,
+Mas é preciso cuidado com atitudes autoritárias, dominadoras, para com aqueles que estiverem sob os seus cuidados. <br />`,
 
       `Júpiter na Quinta Casa indica pessoas criativas nas artes, na educação, nos esportes e em todas as áreas relacionadas às crianças.
 Por gostarem muito de crianças os nativos são professores e conselheiros espirituais que estimulam os jovens. Geralmente seus filhos são afortunados, podem alcançar honra e distinção.
@@ -4858,7 +4603,7 @@ Por gostarem muito de crianças os nativos são professores e conselheiros espir
 A não ser que Júpiter esteja em grande desarmonia no mapa, esta posição indica felicidade no amor e a possibilidade de romance com uma pessoa de posses e status.
 
 Os nativos com frequência envolvem-se em negócios relacionados à Bolsa de Valores, investimentos, educação, artes, lazer, entretenimento ou locais de diversão.
-É preciso cuidado com o excesso de otimismo para que não haja grandes perdas financeiras como resultado de especulações ou investimentos imprudentes. -break`,
+É preciso cuidado com o excesso de otimismo para que não haja grandes perdas financeiras como resultado de especulações ou investimentos imprudentes. <br />`,
 
       `Saturno na Quinta Casa indica maiores responsabilidades com os filhos ou dificuldades para tê los.
 Pode indicar também a capacidade de organização e percepção da estrutura na música e nas artes em geral.
@@ -4869,39 +4614,39 @@ Os envolvimentos românticos provavelmente impõem responsabilidades e obrigaç�
 Os nativos são muito reservados em sua expressão criativa e em suas atitudes, com respeito à arte, ao lazer e ao prazer. Sua autocrítica pode dificultar a felicidade e o amor dos outros.
 Pode haver dificuldade no relacionamento com crianças ou uma excessiva rigidez e severidade com elas. É preciso trabalhar a frieza emocional ou a incapacidade para amar.
 É preciso observar se há inibição sexual ou frigidez devido a bloqueios emocionais. Os nativos devem aprender a se entregar e a buscar os outros com amor.
-Somente quando descobrirem uma forma de se expressar aberta e calorosamente é que poderão encontrar a felicidade. Terapias artísticas é um bom caminho. -break`,
+Somente quando descobrirem uma forma de se expressar aberta e calorosamente é que poderão encontrar a felicidade. Terapias artísticas é um bom caminho. <br />`,
 
       `Urano nessa casa indica necessidade de liberdade para ser ou se tornar uma pessoa peculiar. O senso estético não é convencional.
 O nativo sente prazer e gosto pelo exótico, principalmente no lazer e na diversão. Gosto por estar com pessoas diferentes, excitantes.
 É difícil fazer algo que se pareça com trabalho, entretanto é possível envolver-se profundamente em tarefas ligadas a jogos e entretenimento.
 Seguir as regras dos outros não é fácil, trata-se da razão mais provável dos problemas na escola e no trabalho diário.
 Deve ser-lhe dado um ambiente relativamente pouco estruturado para que possa progredir. Este posicionamento de Urano é muito importante para os relacionamentos afetivos.
-A limitação da liberdade de autoexpressão é frustrante. Atrair pessoas imprevisíveis é uma constante, por isso os relacionamentos podem ser muitas vezes instáveis. -break`,
+A limitação da liberdade de autoexpressão é frustrante. Atrair pessoas imprevisíveis é uma constante, por isso os relacionamentos podem ser muitas vezes instáveis. <br />`,
 
       `Há tendência para fugir da realidade através da diversão ou dos romances. Vestir “óculos cor de rosa” para esconder a monotonia da realidade banal. Tendência a amores platônicos.
 O nativo tende a doar-se com incondicionalidade, podendo exagerar na dedicação. Pode até se apaixonar por alguém e querer se sacrificar pela pessoa, acreditar que pode salvá-la.
 O nativo idealiza a sua forma de viver o prazer e o amor. É romântico, suas altas expectativas podem causar decepções amorosas. É preciso cuidado com os vícios, os jogos, a procura de prazer permanentemente.
 Pode ser demasiado condescendente com os filhos. Ou os filhos podem exigir muita atenção. É possível ter de abandonar o trabalho e se sacrificar por causa de sua prole.
 É possível também uma forte telepatia com eles. O nativo é muito criativo, pode desenvolver as artes e a espiritualidade. É invadido constantemente por inspirações e insights.
-Deve aprender a expressar seus sentimentos e sua sensibilidade, partilhar seus dons com os outros. A dedicação às artes pode ser um canal de harmonização muito eficaz. -break`,
+Deve aprender a expressar seus sentimentos e sua sensibilidade, partilhar seus dons com os outros. A dedicação às artes pode ser um canal de harmonização muito eficaz. <br />`,
 
       `Plutão na Quinta Casa indica poder criativo, manifestado na arte, em envolvimentos amorosos intensos ou filhos talentosos.
 O nativo tem potencial para criar obras de arte inspiradas, transformadoras, em níveis de consciência mais elevados. É preciso cuidado com o perigo da autodegradação por excesso sexual.
 O indivíduo tende a dominar ou a ser dominado pelo parceiro e pode ter uma atitude excessivamente severa com os filhos.
-A regeneração espiritual ocorre através do amor e da criatividade. Os filhos do indivíduo podem demonstrar força de vontade, talento e gênio. -break`,
+A regeneração espiritual ocorre através do amor e da criatividade. Os filhos do indivíduo podem demonstrar força de vontade, talento e gênio. <br />`,
 
       `O nodo sul mostra vidas passadas sob os holofotes, sendo importante, orgulhoso e dominador, com desejo de ser reconhecido, recebendo aplausos e sendo amado.
 Existe agora a necessidade de desenvolver um conhecimento social e/ou político, de promover uma causa comum, em vez de ficar preocupado apenas com seus próprios casos, prazeres e interesses.
 É importante agora que o nativo procure se envolver em empreendimentos grupais. Desenvolver projetos em equipe envolver-se em causas humanitárias, expandir a rede de contatos, fazer amigos.
 Desenvolver a consciência da coletividade e circular suas criações para o mundo.
-O caminho da evolução é aprender a compartilhar e ser solidário, capaz de ser quem é sem exigir aplausos e reconhecimento, vendo-se como parte de outros e parte de uma causa maior. -break`,
+O caminho da evolução é aprender a compartilhar e ser solidário, capaz de ser quem é sem exigir aplausos e reconhecimento, vendo-se como parte de outros e parte de uma causa maior. <br />`,
 
       `O impulso de crescimento pessoal é alto. As energias criativas ou emocionais do nativo tendem a transbordar, de uma forma ou de outra.
 A felicidade parece ser o resultado desse derramamento instintivo ou egocêntrico de si mesmo dentro da comunidade a que o indivíduo pertence.
 A exultação emocional poderá ser encontrada na atividade artística criativa ou no desejo de poder.
 O nativo deve cultivar sua criatividade para promover a transformação, tanto de si mesmo, quanto da sociedade.
 Buscar a expressão dos sentimentos para tocar o coração das pessoas, o prazer consciente e a criação para deixar sua marca registrada, de forma leonina.
-Com confiança em seu potencial criativo desenvolver seu estilo próprio, sua personalidade, um orgulho saudável e digno. -break`,
+Com confiança em seu potencial criativo desenvolver seu estilo próprio, sua personalidade, um orgulho saudável e digno. <br />`,
 
       `Quem tem Quíron na casa 5 é um ótimo conselheiro para assuntos românticos, porém sua vida amorosa é um caos.
 Pode ser aquele ou aquela amante que satisfaz seu parceiro ou parceira, mas não tem nenhuma satisfação sexual.
@@ -4912,18 +4657,18 @@ Pessoas com Quíron na casa 5 também podem se tornar ótimos conselheiros para 
 Quíron em Leão dá a capacidade de ajudar os outros usando sua criatividade. Pode ser um professor de arte ou um terapeuta que usa de atividade lúdica ou arte.
 Mas também pode indicar que a criatividade foi sufocada, pode ter sido ridicularizado na infância ou alguém pode ter duvidado de que teria talento.
 Algumas crianças podem reagir ou tentar fazer algo extra para agradar aos pais e estes não estimularem sua criatividade.
-O tratamento de Quíron na casa 5 é buscar a criança interior criativa e reaprender a criar e se divertir. -break`,
+O tratamento de Quíron na casa 5 é buscar a criança interior criativa e reaprender a criar e se divertir. <br />`,
 
       `Juno nessa casa inspira o nativo a se casar ou se associar por amor. Caso isso não aconteça, o nativo tende a esperar que surja essa oportunidade.
 Há possibilidade de realizar seu ideal afetivo no casamento ou numa parceria, mas deve aprender a fazer concessões.
 Os filhos do casal contam com o favorecimento e a proteção de Juno. Que serão vistos como sua “obra”: “foi feito por mim”.
 O mais importante nos relacionamentos é a fertilidade, os filhos, as artes e a expressão criativa.
-Pode estabelecer parcerias em atividades criativas, de lazer ou divertimento, em locais destinados às crianças ou exposição de artes ou por motivo de gravidez. Aliás, diversão e lazer são importantes para essa parceria. -break`,
+Pode estabelecer parcerias em atividades criativas, de lazer ou divertimento, em locais destinados às crianças ou exposição de artes ou por motivo de gravidez. Aliás, diversão e lazer são importantes para essa parceria. <br />`,
 
       `Nas encarnações passadas, o nativo era descuidado, leviano e infiel em seus amores. Talvez também fosse indiscreto, não levando a sério as suas responsabilidades.
 O mesmo aconteceu com relação à família. Foi provavelmente um pai (ou mãe) "omisso".
 Negligenciou a educação dos seus filhos, não se esforçando o bastante para se comunicar com eles. Na verdade, suas más relações com amores e filhos eram provenientes de um excessivo orgulho.
-Deve então, nesta vida, assumir humildemente suas responsabilidades parentais, refletir sobre seus compromissos amorosos, buscar o prazer e o lazer com mais maturidade e responsabilidade. -break`,
+Deve então, nesta vida, assumir humildemente suas responsabilidades parentais, refletir sobre seus compromissos amorosos, buscar o prazer e o lazer com mais maturidade e responsabilidade. <br />`,
 
       `Em suas vidas anteriores, a pessoa estava quase que exclusivamente voltado para o prazer, para o lazer e para os amores inconstantes.
 Era provavelmente um jogador. Pode ter sido pouco ortodoxo em seu comportamento sexual. É possível também que tenha negligenciado os seus filhos em vidas passadas.
@@ -4933,18 +4678,18 @@ Em alguns casos traz consigo o orgulho, que os outros precisam reforçar antes q
 Sente-se melhor quando é capaz de ajudar os outros, considerando-os menos competentes. Uma das dificuldades nesta posição são as frustrações quando se prende a expectativas irrealistas.
 É incapaz de achar a pessoa perfeita que possa preencher tudo o que você acha que precisa. Está aprendendo a lição cármica da satisfação.
 A insatisfação que sente pelos outros é sempre a insatisfação que criou em si. A lição é esperar menos da vida e realizar a felicidade que está procurando.
-Deverá tentar, na vida atual, amar sinceramente e também assumir seus compromissos paternos. -break`,
+Deverá tentar, na vida atual, amar sinceramente e também assumir seus compromissos paternos. <br />`,
 
       `Em vidas passadas, o nativo "utilizava" seus parceiros amorosos como simples objetos sexuais, não sem impor-lhes suas perversões e sua violência física.
 Deve, portanto, hoje, aprender o respeito por qualquer pessoa na relação amorosa. No que concerne às crianças (regidas por essa casa), o nativo parece ter sido sádico ou cruel para com elas.
-Pode até mesmo ter se tornado culpado de abusos sexuais com menores. Razão pela qual os filhos lhe sejam talvez recusados na vida atual. -break`,
+Pode até mesmo ter se tornado culpado de abusos sexuais com menores. Razão pela qual os filhos lhe sejam talvez recusados na vida atual. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Dotado de grande criatividade em vidas passadas, mas de natureza dominadora, deixou de ouvir a opinião dos outros.
 De qualquer modo, não seguiu os con¬selhos. Foi considerado intrometido e exibicionista.
 É preciso cuidado para não exigir o impossível dos filhos, dos seus amores, de seu cônjuge, porque se superestima e tem ambições exageradas.  Numa vida passada, pode ter sido um pai ou uma mãe intransigente.
 Ou um amante execrável, preocupado apenas com sua própria satisfação sexual e afetiva. Pode ter sido também um incorrigível jogador. Para se libertar, deve adotar uma atitude diferente.
-Sobretudo prestar atenção às necessidades de seus filhos e de seu parceiro amoroso. Dedicando muito tempo às atividades de lazer, fará muito bem se zelar pela qualidade destas. -break`,
+Sobretudo prestar atenção às necessidades de seus filhos e de seu parceiro amoroso. Dedicando muito tempo às atividades de lazer, fará muito bem se zelar pela qualidade destas. <br />`,
 
       `Na casa 5, Saturno retrógrado indica que o nativo cumpriu com suas responsabilidade paternas (ou maternas).
 Foi omisso para com seus filhos. Seja porque os negligenciou, seja porque os considerou apenas do ponto de vista do seu próprio prazer, ou de sua comodidade.
@@ -4952,7 +4697,7 @@ Na vida atual, é comum não poder ter filhos. Ou, se os tem, são pouco numeros
 Saturno é o senhor do carma e promove retorno das coisas. Que não se queixe da ingratidão dos filhos, uma vez que ele mesmo, em suas vidas passadas, cometera erros.
 Atualmente, pode sentir grande alegria se nas horas vagas cuidar de crianças órfãs ou deficientes.
 A casa 5 também fala do potencial criativo e dos amores. Em consequência disso, o nativo pode enfrentar nesta vida dissabores amorosos.
-É preciso cultivar mais criatividade e consideração para com os seres amados. Se aprender a dar seu amor de maneira desinteressada e generosa, liquidará esta dívida cármica. Poderá então viver feliz. -break`,
+É preciso cultivar mais criatividade e consideração para com os seres amados. Se aprender a dar seu amor de maneira desinteressada e generosa, liquidará esta dívida cármica. Poderá então viver feliz. <br />`,
 
       `Urano retrógrado nessa casa indica envolvimentos românticos inesperados e incomuns. Os uranianos terminam tão inesperadamente quanto começam.
 Os parceiros podem ser excêntricos, imaginativos ou extraordinários. Os nativos não gostam de seguir a moralidade sexual convencional, pois tendem a buscar excitação em atividades agradáveis.
@@ -4963,7 +4708,7 @@ Se Urano estiver sob tensão, os filhos serão propensos a problemas peculiares 
 Geralmente dão aos filhos muita liberdade, por isso é preciso cuidado, pois os filhos podem ter liberdade demais ou serem negligenciados.
 Investimentos podem ocasionar mudanças precipitadas na sorte, para melhor ou para pior. Os nativos podem se interessar por novas técnicas de educação e ensino.
 Em alguns casos, Urano na Quinta Casa pode produzir muita criatividade artística ou interesse por formas eletrônicas de arte.
-Muitos artistas de cinema, músicos de rock, cantores e personalidades do rádio e televisão possuem Urano na Quinta Casa. -break`,
+Muitos artistas de cinema, músicos de rock, cantores e personalidades do rádio e televisão possuem Urano na Quinta Casa. <br />`,
 
       `Em vidas passadas, a vida amorosa do nativo foi tumultuada e cheia de decepções: ligações desastrosas, múltiplas relações que terminavam sempre mal.
 Pode não ter conseguido estabelecer um lar normal, nem criar filhos. Pois a casa 5, assim como Leão, descreve os amores e os filhos do nativo.
@@ -4971,7 +4716,7 @@ Essa posição indica, nas vidas passadas, um comportamento no âmbito sexual ba
 Uma infalível fuga diante das responsabilidades para com o parceiro amoroso - uma tendência a enganá-lo, a jogar jogo duplo e a mentir.
 A vida precedente parece também ter sido vivida como artista, tendo sido criativo, mas boêmio. As relações amorosas e conjugais foram muito mal vividas nas existências anteriores.
 O nativo deve corrigir seu carma obrigando-se a um enorme respeito pelas pessoas, quer sejam crianças, filhos ou parceiros amorosos.
-Deve também cultivar o lazer de forma madura. Enfim, vencerá melhor as dificuldades escolhendo um (a) parceiro (a) que tenha um nível espiritual elevado. -break`,
+Deve também cultivar o lazer de forma madura. Enfim, vencerá melhor as dificuldades escolhendo um (a) parceiro (a) que tenha um nível espiritual elevado. <br />`,
 
       `Em vidas passadas o nativo pode ter tido um filho fora do casamento. Pode tê-lo abandonado ou pelo menos deixou de reconhecê-lo.
 No entanto, o nativo parece ter gozado de uma posição de liderança, à frente de uma grande família ou de uma tribo, sobre a qual reinava.
@@ -4979,7 +4724,7 @@ Mas o carma sugerido aqui pode ser proveniente de um mau uso da autoridade dos p
 Esta posição de Plutão retrógrado evoca possíveis histórias de escândalos: abusos e violências com crianças, escravos ou subalternos.
 Em respeito à vida amorosa, houve também distorções: orgulho, violência ou exigências sexuais.
 O aprendizado e a purificação cármica nesta vida pode se realizar através de rupturas, de rompimentos, de lutos ou de perdas que levam o nativo a rever sua escala de valores.
-De qualquer modo, nesta vida o nativo deve se preocupar escrupulosamente com crianças e todos que estejam atualmente sob sua responsabilidade. -break`,
+De qualquer modo, nesta vida o nativo deve se preocupar escrupulosamente com crianças e todos que estejam atualmente sob sua responsabilidade. <br />`,
 
       `Quem tem Quíron na casa 5 é um ótimo conselheiro para assuntos românticos, porém sua vida amorosa é um caos.
 Pode ser aquele ou aquela amante que satisfaz seu parceiro ou parceira, mas não tem nenhuma satisfação sexual.
@@ -4990,13 +4735,13 @@ Pessoas com Quíron na casa 5 também podem se tornar ótimos conselheiros para 
 Quíron em Leão dá a capacidade de ajudar os outros usando sua criatividade. Pode ser um professor de arte ou um terapeuta que usa de atividade lúdica ou arte.
 Mas também pode indicar que a criatividade foi sufocada, pode ter sido ridicularizado na infância ou alguém pode ter duvidado de que teria talento.
 Algumas crianças podem reagir ou tentar fazer algo extra para agradar aos pais e estes não estimularem sua criatividade.
-O tratamento de Quíron na casa 5 é buscar a criança interior criativa e reaprender a criar e se divertir. -break`,
+O tratamento de Quíron na casa 5 é buscar a criança interior criativa e reaprender a criar e se divertir. <br />`,
 
       `Juno nessa casa ou signo sempre se casará ou se associará por amor. Senão ela esperará que apareça “o príncipe encantado”.
 Possibilidades de realizar seu ideal afetivo no casamento ou numa parceria, mas se aprender a fazer concessões.
-Capacidades e dons artísticos se Vênus, o Sol ou a Lua também mostram essas tendências. Proteção na procriação, que será vista por ela como sua “obra”, “foi feito por mim”. -break`,
+Capacidades e dons artísticos se Vênus, o Sol ou a Lua também mostram essas tendências. Proteção na procriação, que será vista por ela como sua “obra”, “foi feito por mim”. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -5009,7 +4754,7 @@ Capacidades e dons artísticos se Vênus, o Sol ou a Lua também mostram essas t
     ]
   },
   {
-    title: `Casa 06`,
+    title: `Casa 06</strong>`,
     text: [
      `Na casa 6, a direção na vida e o senso de realização podem ser descobertos através do serviço que presta e dos cuidados com a saúde e dieta.
 Dedicando a essas áreas ajudará na definição de seu senso de identidade única, pois proporcionará canais para uma expressão pessoal.
@@ -5019,27 +4764,27 @@ O Sol na casa 6 faz com que o nativo busque desenvolver suas habilidades e compe
 Assim desenvolve um sentido de valor pessoal e de distinção. O objetivo não é apenas ganhar aplausos, mas criar a sua luz própria.
 A consciência de si mesmo será desenvolvida na arte de viver um dia após o outro, o que poderá ser feito com tanto gosto e sutileza que causará admiração. Sua grandeza está na simplicidade.
 É um artista do cotidiano, da rotina, das pequenas coisas, nas quais vê graça e deixa a sua graça, seu humor, sua vitalidade.
-Brilha naquilo que faz e sabe que tem de se colocar inteiro nas suas tarefas, no seu trabalho. Usar todos os seus recursos e suas habilidades na realização de um Serviço. -break`,
+Brilha naquilo que faz e sabe que tem de se colocar inteiro nas suas tarefas, no seu trabalho. Usar todos os seus recursos e suas habilidades na realização de um Serviço. <br />`,
 
      `Indica a necessidade e o forte impulso para cuidar e suprir as necessidades dos outros, por isso pode trabalhar em alguma profissão assistencial, enfermagem ou na medicina.
 Também poderá se dedicar à produção, beneficiamento ou algo que envolva alimentos, nutricionismo ou em áreas que ajude a manter boa saúde.
 É importante que se envolva emocionalmente com o trabalho. Pode ser extremamente paternalista com os colegas de seu convício diário.
 Portanto, pode desistir de um emprego por não se adaptar ao ambiente ou aos colegas de trabalho.
 Talvez trabalhe como prestador de serviços ou em empregos sem horário fixo ou para várias empresas diferentes.
-É preciso cuidado com a tendência para a crítica, autocrítica ou perfeccionismo. A satisfação emocional está ligada à busca de qualidade e aprimoramento. -break`,
+É preciso cuidado com a tendência para a crítica, autocrítica ou perfeccionismo. A satisfação emocional está ligada à busca de qualidade e aprimoramento. <br />`,
 
       `Mercúrio na Sexta Casa está favorecido, porque esta casa corresponde a Virgem, que é regido por Mercúrio. Portanto, pode indicar capacidade intelectual superior.
 Mercúrio na Sexta Casa indica pessoas que adquirem conhecimento e habilidades especializados, que possam ser aplicados em seu trabalho ou profissão.
 São metódicas, eficientes para lidar com os detalhes de seu trabalho e consideram uma obrigação pessoal manter se informadas sobre técnicas e pesquisas mais recentes na sua área de atuação.
 Esta é uma posição favorável para pessoas envolvidas com a medicina, a engenharia ou a ciência. Indica uma preocupação com os deveres, a higiene pessoal e roupas adequadas.
 Pode indicar tendência ao trabalho excessivo e ao perfeccionismo. Os sentidos profundamente alertas dos nativos tornam desagradável a desordem no ambiente.
-Podem sofrer efeitos psicológicos adversos e até ficar doentes em situações de caos. -break`,
+Podem sofrer efeitos psicológicos adversos e até ficar doentes em situações de caos. <br />`,
 
       `Vênus na casa 6 indica a possibilidade de atividades sociais e envolvimentos românticos estabelecidos no trabalho. O trabalho geralmente está ligado a atividades artísticas, eventos ou acontecimentos sociais.
 É importante cultivar o amor pelo trabalho, relacionamentos harmoniosos e amigáveis com colaboradores, empregados e patrões. As condições de trabalho podem ser belas e harmoniosas.
 As pessoas com esta posição com frequência se casam com alguém que conhecem no seu trabalho, ou desenvolve projetos de trabalho em comum com seu amor.
 Esta posição oferece o gosto por roupas bonitas e habilidade na criação e confecção de roupas. O afeto com frequência é dedicado a animais de estimação.
-A saúde é boa, porém, não muito resistente. Essas pessoas podem ter boa saúde se não abusarem. Após o casamento, muitas vezes a saúde melhora. -break`,
+A saúde é boa, porém, não muito resistente. Essas pessoas podem ter boa saúde se não abusarem. Após o casamento, muitas vezes a saúde melhora. <br />`,
 
       `Marte na Sexta Casa indica energia e habilidade canalizadas para o trabalho, que geralmente envolve o uso de ferramentas afiadas ou mecanismos que consomem ou produzem muita energia.
 Assim, esta posição é encontrada nos horóscopos de maquinistas, construtores de máquinas, mecânicos, operadores de equipamentos pesados, operários siderúrgicos e engenheiros mecânicos.
@@ -5049,7 +4794,7 @@ Demonstram habilidade e precisão no seu trabalho. Sua autoestima origina-se da 
 Podem obter segurança e destaque trabalhando para uma empresa de negócios bem organizada e eficiente.
 É preciso cuidado com a irritabilidade por causa do excesso de trabalho e a impaciência no cotidiano, que pode gerar acidentes.
 Podem também existir envolvimentos em problemas de trabalhadores e conflitos com colaboradores, patrões ou empregados.
-Algumas vezes surgem tendências perfeccionistas e uma preocupação excessiva com detalhes do trabalho, que provocam alguma negligência em relação a assuntos maiores e mais importantes. -break`,
+Algumas vezes surgem tendências perfeccionistas e uma preocupação excessiva com detalhes do trabalho, que provocam alguma negligência em relação a assuntos maiores e mais importantes. <br />`,
 
       `Júpiter na Sexta Casa indica um interesse pelo trabalho construtivo. Os nativos com esta posição desejam realizar algo prático que possa servir aos outros e contribuir para a ordem social.
 Há um interesse na cura do corpo e da mente, com frequência conduzindo ao trabalho em curas espirituais.
@@ -5058,14 +4803,14 @@ Como o trabalho, especialmente o de cura, com frequência está ligado à espiri
 Essas pessoas geralmente são benquistas e respeitadas no seu trabalho. Podem manter relações agradáveis com colaboradores, empregados e patrões porque estão conscientes de seu trabalho e procuram realizá lo bem.
 Se Júpiter estiver desarmônico no mapa, é preciso cuidado com a preguiça e a tendência de empurrar o próprio trabalho para outros.
 É preciso observar se há uma atitude hipócrita em relação ao seu trabalho e ao que se espera das outras pessoas.
-Cuidado também com problemas de saúde devido a excessos, que podem resultar em problemas do fígado. -break`,
+Cuidado também com problemas de saúde devido a excessos, que podem resultar em problemas do fígado. <br />`,
 
       `Saturno na Sexta Casa indica capacidade para o trabalho árduo e eficiência no emprego. O trabalho é levado a sério. Muito conhecimento e habilidades específicas podem ser adquiridos.
 Geralmente existem pesadas responsabilidades no trabalho e uma atitude séria em relação aos cuidados com a saúde.
 Os nativos seguem carreiras na medicina, em processamento de alimentos, vestuário, ciência, engenharia e outras áreas mecânicas que exigem habilidade e precisão.
 Esta posição de Saturno proporciona uma mente cuidadosa e analítica. Os nativos podem alcançar segurança financeira através de suas aptidões e habilidades especializadas.
 No seu melhor, os nativos são respeitados por seus colaboradores, empregados e patrões. Contudo, no seu pior, as relações com essas pessoas são insatisfatórias.
-Com frequência ocorrem doenças por resultado da preocupação e do excesso do seu trabalho. É preciso cuidar devidamente da alimentação, descansar e praticar exercícios físicos regulares. -break`,
+Com frequência ocorrem doenças por resultado da preocupação e do excesso do seu trabalho. É preciso cuidar devidamente da alimentação, descansar e praticar exercícios físicos regulares. <br />`,
 
       `O trabalho que exige rotina, paciência e atenção não é recomendado com este posicionamento. Pode haver muita inquietude para seguir os padrões convencionais de um trabalho estável.
 Impaciência quando tem que deixar para amanhã algo que quer fazer hoje. Gosta de experimentar novidades no dia a dia, há dificuldade em manter-se muito tempo fechado num mesmo lugar.
@@ -5073,7 +4818,7 @@ Gosto por atacar tarefas com métodos novos, não gosta muito de procedimentos e
 Há tendência para o nervosismo e a atração por muitas coisas ao mesmo tempo. A vontade de levar tudo em frente pode exaurir as energias.
 A impulsividade pode levar a acidentes. É necessário desenvolver a autodisciplina para suprimir o lado negativo desta energia e utilizar o lado positivo.
 Facilidade em aprender e ensinar a arte do amor. O nativo pode desenvolver uma visão realista da sexualidade.
-A não hesitação em expressar suas necessidades sexuais verbalmente favorece o mútuo ajustamento na relação. -break`,
+A não hesitação em expressar suas necessidades sexuais verbalmente favorece o mútuo ajustamento na relação. <br />`,
 
       `Pode haver tendência à preguiça na rotina. O nativo é muito sensível e deve tomar cuidado com todo tipo de remédios e drogas.
 Ganham destaque os assuntos ligados à saúde e ao trabalho. Este é um bom posicionamento para médicos, enfermeiros, terapeutas, humanitários e psiquiatras.
@@ -5082,7 +4827,7 @@ O nativo pode trabalhar também em locais netunianos (bares, álcool, espirituai
 As doenças podem se manifestar de forma confusa, erros médicos são comuns. É importante cuidar do sistema nervoso e da imunidade, fortalecer seus dons psíquicos.
 Pode curar-se através de entrega espiritual ou das medicinas alternativas. Compreender que o corpo é um instrumento do espírito.
 Na via positiva, o nativo se entrega ao serviço ao outro, possui grande sensibilidade para desempenhar atividades ligadas à cura. Pode aprender a harmonizar-se, a cuidar de sua higiene alimentar e energética.
-O desafio é trazer os assuntos transcendentais para o dia-a-dia. Para tanto, deve proceder primeiro à sua purificação, ao seu refinamento. -break`,
+O desafio é trazer os assuntos transcendentais para o dia-a-dia. Para tanto, deve proceder primeiro à sua purificação, ao seu refinamento. <br />`,
 
       `Plutão nesta casa indica habilidade para melhorar o serviço, o emprego e os métodos de trabalho.
 As pessoas envolvidas em indústrias de salvamento e as que trabalham em projetos governamentais relacionados à energia atômica também podem ter Plutão localizado nesta casa.
@@ -5090,7 +4835,7 @@ O nativo deve utilizar a sua vontade para melhorar a saúde, o que pode ser cons
 Podem estar presentes poderes ocultos de cura. Com frequência àqueles que realizam curas espirituais podem ter Plutão nesta casa.
 Em alguns nativos, Plutão exige um trabalho sério para melhorar a saúde. Também pode indicar necessidade de mudanças de atitude com relação ao trabalho para adquirir segurança no emprego, pois o nativo tem tendência a ser autoritário ou pouco cooperativo com colaboradores, empregados e patrões.
 A incapacidade de se relacionar no trabalho pode causar desorientação mental. A desonestidade no trabalho pode provocar problemas legais.
-Na via positiva, Plutão indica que o trabalho regenerativo e o poder restaurador consciente pode trazer lucros financeiros, status e reconhecimento. -break`,
+Na via positiva, Plutão indica que o trabalho regenerativo e o poder restaurador consciente pode trazer lucros financeiros, status e reconhecimento. <br />`,
 
       `O nodo sul mostra uma vida passada em que responsabilidades, obrigações, trabalho, ordem e limites foram muito pesados.
 O caminho da evolução é aprender a definir prioridades, deixando de julgar e criticar, ou perdendo-se em detalhes insignificantes.
@@ -5098,7 +4843,7 @@ Deve aceitar as fraquezas humanas, tanto suas quanto dos outros, sendo mais fiel
 É preciso mais simpatia e compreensão para com os outros a fim de equilibrar uma natureza por demais crítica e julgadora.
 O nativo pode ser controlador, metódico ou racional demais, só acreditando naquilo que pode ser visto e provado, medido ou testado.
 Sua necessidade é de cultivar o lado metafísico da vida, abstrato, fortalecendo sua fé e assim encontrar sentido e significado mesmo nas experiências mais difíceis.
-O "coração" precisa ser aberto para que se sintam ligadas a algo maior que elas próprias. A espiritualidade deve ser cultivada. Dessa forma a vida se toma mais rica, transcendental, mágica e significativa. -break`,
+O "coração" precisa ser aberto para que se sintam ligadas a algo maior que elas próprias. A espiritualidade deve ser cultivada. Dessa forma a vida se toma mais rica, transcendental, mágica e significativa. <br />`,
 
       `O nativo quer completar, aperfeiçoar ou compreender a fundo, rapidamente, qualquer coisa que tenha sido iniciada no passado.
 Deste modo, a felicidade pode ser encontrada no trabalho e no autoaperfeiçoamento. Na disciplina e na excelência técnica da formulação.
@@ -5106,7 +4851,7 @@ Consciente ou não consciente disso, o nativo com tal posição da Roda da Fortu
 Quer não só trazer para uma conclusão, mas também transformar esse passado, de modo a torná-lo sensível a uma nova visão da qual ele sente que é o arauto.
 O nativo normalmente é bem-sucedido em períodos de crise, quando as tradições estão sendo desafiadas por uma sociedade inquieta.
 Deve buscar o servir, ser útil, o trabalho em cooperação, o cuidado com o corpo, de forma virginiana: usando suas habilidades e a capacidade de análise e discernimento.
-Aperfeiçoamento e qualidade de vida são os caminhos para encontrar a sua felicidade. -break`,
+Aperfeiçoamento e qualidade de vida são os caminhos para encontrar a sua felicidade. <br />`,
 
       `A tendência de Quíron na casa 6 é ajudar ou ensinar colegas de trabalho a realizar suas tarefas com aptidão.
 Pode se tornar um professor de cursos profissionalizantes, em áreas que eles só conhecem teoricamente, mas nunca exerceram a profissão que ensinam.
@@ -5116,14 +4861,14 @@ Também podem atuar de maneira oposta e exigir os outros devam servi-lo, mas ele
 Quíron em Virgem mostra onde sabemos lidar melhor com detalhes e como lidamos com os problemas de saúde e bem-estar.
 Alguns podem ser excessivamente críticos, obcecados com detalhes insignificantes e mania de limpeza. São pessoas que podem ter sido muito criticadas na infância.
 Outros nativos podem se tornar pessoas muito desorganizadas e até não se importar com a sujeira.
-A preocupação com a qualidade de vida pode e deve ser canalizada construtivamente, com serviços na área da saúde ou aprimoramento de técnicas em geral. -break`,
+A preocupação com a qualidade de vida pode e deve ser canalizada construtivamente, com serviços na área da saúde ou aprimoramento de técnicas em geral. <br />`,
 
       `Juno neste signo inspira fidelidade e lealdade nas parcerias e casamento. Indica um casal que pode prestar serviços juntos.
 É preciso tomar cuidado com as críticas, a sensibilidade, às insuficiências pessoais e do parceiro.
 No mapa de um homem, ele procurará uma parceira que o ajude, e se o casamento em si for a causa de problemas, pode ser que ele não se sinta suficientemente apoiado pela parceira/esposa.
 Talento para profissões que tem relação com a estética ou com funções de acolher as pessoas tipo terapeuta, recepcionista ou aeromoça. Boa posição para os artistas.
 Os relacionamentos mais significativos devem ser práticos, objetivos e realistas, relacionados ao ambiente de trabalho ou em local de ajuda ao próximo.
-Pode estabelecer parcerias em atividades de alimentação, hospedagem, restaurantes, hotéis ou numa prestação de serviços como oficina mecânica, locais de consertos etc. -break`,
+Pode estabelecer parcerias em atividades de alimentação, hospedagem, restaurantes, hotéis ou numa prestação de serviços como oficina mecânica, locais de consertos etc. <br />`,
 
       `Esta casa, em analogia com o signo de Virgem, é a da disciplina no trabalho, da saúde, da vida quotidiana.
 O nativo com Mercúrio retrógrado na casa 6 pode sentir algumas dificuldades no relacionamento com os outros no trabalho.
@@ -5131,7 +4876,7 @@ O nativo com Mercúrio retrógrado na casa 6 pode sentir algumas dificuldades no
 O seu espírito prático é por vezes crítico demais, mesmo para consigo mesmo. Assim, fica frequentemente angustiado e em estado de fragilidade nervosa.
 Falta-lhe a autoconfiança. Quando os outros recusam sua ajuda, fica atormentado. Sente-se mais à vontade na mecânica, do que entre as pessoas.
 Adquiriu grandes competências técnicas no passado, e estas muitas vezes reaparecerão na vida atual.
-É bom que evite cultivar frustrações, que aprenda a se relaxar. Deve agora aprender que as pessoas não são máquinas! -break`,
+É bom que evite cultivar frustrações, que aprenda a se relaxar. Deve agora aprender que as pessoas não são máquinas! <br />`,
 
       `Em vidas passadas, o nativo foi negligente com as leis naturais da higiene. Sua falta de disciplina na alimentação pode ter acarretado má saúde
 Ou ainda, segundo as indicações do resto do mapa astral, teria feito mal uso de sua boa saúde, que lhe havia sido dada para que se colocasse a serviço dos outros.
@@ -5142,26 +4887,26 @@ Pode fazer muitos favores para os outros, mas se satisfaz apenas quando sabe que
 Tende a julgar os outros pelo que eles fazem, medindo suas realizações e atos em comparação com os seus próprios ideais.
 Assim, tem dois padrões, não percebendo que os ideais de todas as pessoas que conhece podem ser tão elevados quanto os seus e que a falta de habilidade deles para viver de acordo com estes ideais, em sua presença, é um reflexo de suas próprias fraquezas humanas.
 Usa a maior parte de sua energia sublimando e reprimindo muitas de suas necessidades. É preciso aprender a admitir a necessidade que tem dos outros.
-O nativo deve, agora, para liquidar seu carma, respeitar uma higiene de vida, cultivar hábitos saudáveis e uma disciplina alimentar sem projetar isso nos outros. Colocar sua experiência a serviço da humanidade sofredora. -break`,
+O nativo deve, agora, para liquidar seu carma, respeitar uma higiene de vida, cultivar hábitos saudáveis e uma disciplina alimentar sem projetar isso nos outros. Colocar sua experiência a serviço da humanidade sofredora. <br />`,
 
       `É provável que o nativo tenha gozado de boa saúde em vidas passadas, mas que tenha desperdiçado essa energia, ou então que tenha destruído essa saúde com abusos.
 Marte retrógrado na casa 6 indica que o nativo deve meditar sobre o respeito e o uso do corpo. Impor-se uma vida saudável, uma higiene corporal e alimentar.
 Essa posição de Marte sugere também vidas passadas nas quais o trabalho quotidiano foi mal vivido (em todo caso, não num espírito de colaboração).
 Pode tratar-se também de um passado no qual a pessoa era cruel com os animais, com seus domésticos e seus subordinados.
-E importante agora cultivar maturidade para respeitar as leis do convívio com colegas, cultivar diplomacia e gentileza para com seus subordinados. -break`,
+E importante agora cultivar maturidade para respeitar as leis do convívio com colegas, cultivar diplomacia e gentileza para com seus subordinados. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Tendo negligenciado sua saúde em suas vidas passadas, é possível que o nativo tenha nesta vida problemas com o fígado.
 Não é impossível que tenha abusado do álcool, ou da comida. Em todo caso, não escapa dos problemas de origem alimentar.
 Nesta vida deve fazer dieta, cultivar alimentação saudável, não beber e fazer exercícios físicos regularmente. Por outro lado, outrora não refletiu suficientemente sobre a noção de auxílio.
-Pode ter sido egoísta, não era apreciado por seus subordinados. Agora vai se sentir melhor se aprender a ajudar os outros, prestar serviços sem buscar glórias ou recompensas. -break`,
+Pode ter sido egoísta, não era apreciado por seus subordinados. Agora vai se sentir melhor se aprender a ajudar os outros, prestar serviços sem buscar glórias ou recompensas. <br />`,
 
       `Em vidas passadas o nativo pode ter trabalhado num serviço público, mas não tinha espírito de colaboração.
 Egoísta, burocrata, rotineiro, foi um funcionário que não compreendeu as dimensões sociais e espirituais de suas funções.
 Na verdade estava mais ao seu próprio serviço, do que a serviço dos outros trabalhadores.
 Esta posição saturniana acarreta, portanto, nesta vida, uma vida quotidiana laboriosa, com uma promoção difícil. O sucesso é tardio.
 É provável também que o nativo sofra de algumas doenças pelo resultado de um mau uso da saúde em vidas passadas.
-O cuidado com o corpo deve ser prioridade. A doença pode obrigá-lo, desta vez, à disciplina que ele não soube impor outrora. -break`,
+O cuidado com o corpo deve ser prioridade. A doença pode obrigá-lo, desta vez, à disciplina que ele não soube impor outrora. <br />`,
 
       `Urano retrógrado aqui indica a utilização de métodos estranhos e avançados no trabalho.
 Pode haver interesse por formas incomuns de cura, como terapia do som, medicina homeopática ou curas espirituais. Aqueles que experimentam diferentes tipos de dieta podem ter Urano nesta casa.
@@ -5173,7 +4918,7 @@ Mas no seu pior, esses relacionamentos podem ser explosivos e desarmoniosos. Ura
 Os nativos são sensíveis às condições de trabalho e de relacionamento com colaboradores, empregados e patrões. É provável que deixem o emprego se esses relacionamentos não forem satisfatórios.
 Os nativos com esta posição de Urano desejam liberdade para realizar o trabalho à sua maneira. Recusam-se a aceitar horários rígidos ou uma supervisão opressiva.
 Pode indicar incapacidade para aceitar a rotina, pode também significar muitas mudanças e situação instável no emprego.
-Com frequência, esses nativos deixam o emprego inesperadamente. É importante buscar terapias para o nervosismo, a inquietação e a irritabilidade. -break`,
+Com frequência, esses nativos deixam o emprego inesperadamente. É importante buscar terapias para o nervosismo, a inquietação e a irritabilidade. <br />`,
 
       `O nativo, nas encarnações passadas, não tinha assimilado a noção de colaboração, de serviço e as consequências destes no trabalho quotidiano. Só tinha em vista seus interesses imediatos.
 Esta posição planetária sugere uma falta de disciplina no trabalho e na rotina diária, um carácter confuso, preguiçoso e ineficaz. Pode ter sido em vidas passadas um doente amargurado, que não aceitava sua doença.
@@ -5182,14 +4927,14 @@ Nesta vida, ainda sofre as consequências disso. É comum ser acometidos de uma 
 Assim, o nativo deve cuidar não só do seu corpo físico, mas, sobretudo de seu corpo etéreo e de seu corpo espiritual.
 O nativo tem uma sensibilidade às drogas e remédios que pode confundir os médicos. Sensível às epidemias, à menor contrariedade, e também à angústia dos outros, ele pode ser tratado com remédios brandos e terapias naturais.
 Recuperando a saúde por esses meios, pode enfim colocar-se a serviço dos outros - e talvez mesmo dos doentes, se atingir maturidade espiritual. Pode também se engajar num combate para melhorar a qualidade de vida ou as condições dos trabalhadores.
-Mas deve fazer tudo num espírito de doação sem retorno, sem cultivar a amargura quando as pessoas são ingratas. Dedicar-se desinteressadamente pode contribuir muito para sua saúde. -break`,
+Mas deve fazer tudo num espírito de doação sem retorno, sem cultivar a amargura quando as pessoas são ingratas. Dedicar-se desinteressadamente pode contribuir muito para sua saúde. <br />`,
 
       `As rupturas dolorosas podem afetar, por um lado, a saúde. Por outro, o trabalho quotidiano.
 Nos piores casos, Plutão nesta casa indica o nativo que tinha dons para a medicina em vidas passadas, mas se serviu para satisfazer suas compulsões e sede de poder.
 Pode ter sido um médico desonesto, que aproveitou seus talentos para encher os bolsos, sem aliviar os pacientes.
 Pode ter sido um militar desumano, ou trabalhado numa organização de serviço público. Serviu-se de seu trabalho para destruir o próximo.
 Em sua vida atual o nativo pode ter problemas de saúde ou uma vida quotidiana difícil no setor do trabalho. Pode se tornar vítima de médicos desumanos ou de funcionários sem piedade.
-É sugerido que o nativo reencontre suas aptidões de outrora para curar os outros e fazer caridade. -break`,
+É sugerido que o nativo reencontre suas aptidões de outrora para curar os outros e fazer caridade. <br />`,
 
       `A tendência de Quíron na casa 6 é ajudar ou ensinar colegas de trabalho a realizar suas tarefas com aptidão.
 Pode se tornar um professor de cursos profissionalizantes, em áreas que eles só conhecem teoricamente, mas nunca exerceram a profissão que ensinam.
@@ -5197,14 +4942,14 @@ Talvez se torne um ótimo conselheiro sobre vida saudável, orientando outros so
 São pessoas que deveriam aprender a cuidar mais de si. Existem duas possibilidades diferentes: hipocondria ou negligência com a saúde.
 Também podem atuar de maneira oposta e exigir os outros devam servi-lo, mas eles nunca estão satisfeitos. Podem ocorrer transtornos alimentares: ou come muito ou se alimenta muito mal.
 Quíron em Virgem mostra onde sabemos lidar melhor com detalhes e como lidamos com os problemas de saúde e bem estar. Alguns podem ser excessivamente críticos, obcecados com detalhes insignificantes e mania de limpeza.
-São pessoas que podem ter sido muito criticadas na infância. Outros podem se tornar muito desorganizados e não se importar com sujeira. -break`,
+São pessoas que podem ter sido muito criticadas na infância. Outros podem se tornar muito desorganizados e não se importar com sujeira. <br />`,
 
       `Juno neste setor ou signo se comportará fiel e lealmente nas parcerias e casamento. Ela prestará serviços a seu parceiro. Sensibilidade às insuficiências pessoais e do parceiro.
 No mapa de um homem, ele procurará uma parceira que o ajude, e se o casamento em si for a causa de problemas, pode ser que ele não se sinta suficientemente apoiado pela parceira/esposa.
 Talento para profissões que tem relação com a estética ou com funções de acolher as pessoas tipo recepcionista, ou aeromoça.
-Boa posição para os artistas. Terapia pela Beleza, que pode ser uma fonte para a regeneração da própria pessoa. -break`,
+Boa posição para os artistas. Terapia pela Beleza, que pode ser uma fonte para a regeneração da própria pessoa. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -5217,7 +4962,7 @@ Boa posição para os artistas. Terapia pela Beleza, que pode ser uma fonte para
     ]
   },
   {
-    title: `Casa 07`,
+    title: `Casa 07</strong>`,
     text: [
     `O Sol na casa 7 leva ao desenvolvimento através dos relacionamentos, das associações e das parcerias amorosas ou sociais.
 A participação em atividades conjuntas permite abrir canais de expressão para sua individualidade.
@@ -5228,32 +4973,32 @@ Procurar alguém grande e forte que lhe diga o que deve fazer de sua vida, como 
 Mas como essa tática se mostra sempre improdutiva e decepcionante, o nativo acaba tendo que assumir suas responsabilidades e enfrentar seus próprios desafios na construção dos relacionamentos.
 Assim pode aprender a ser único com a ajuda de parceiros e colaboradores, fazendo com que todos que a ele se associem possam brilhar também. Sua arte está nas habilidades sociais.
 O nativo entende que ninguém é uma ilha e as pessoas têm impacto umas sobre a vida das outras. Pode desenvolver a política e a diplomacia, a arte do desvio, mas também do enfrentamento.
-Entrando em contato com o outro, encontra a si mesmo e consegue ver o outro com maior clareza, mais do ninguém. -break`,
+Entrando em contato com o outro, encontra a si mesmo e consegue ver o outro com maior clareza, mais do ninguém. <br />`,
 
      `Indica a necessidade de companhia e companheirismo, por isso se dedica para agradar aos outros ou para salvar um relacionamento, mesmo que tenha de abdicar de seus próprios interesses.
 Gosta de trabalhar em cooperação com outras pessoas ou num pequeno grupo. Pode haver a sensação de despersonalização ou tendência para absorver a personalidade de outros, precisando da aprovação e opinião de quem ama.
 Pode ter um sócio ou parceiro temperamental e difícil, mas é possível que consiga entendê-lo mais que outros que não o entendem. Tem mentalidade e boa percepção política nas relações sociais e profissionais.
 Pode se dedicar a algum trabalho assistencial para garantir a justiça ou gerência de pessoal, onde predomina a imparcialidade.
-Sente o apelo do glamour e pode se atrair para o mundo da moda, do design e da música, que também pode ser um hobby. -break`,
+Sente o apelo do glamour e pode se atrair para o mundo da moda, do design e da música, que também pode ser um hobby. <br />`,
 
       `Mercúrio na Sétima Casa indica pessoas preocupadas com a comunicação e a colaboração mental com os outros. Preferem trabalhar em algum tipo de parceria, em vez de atuarem individualmente.
 São competentes para se comunicar com o público. Portanto, podem ter sucesso em suas vendas, relações públicas e direito. Podem possuir habilidades em arbitragem, mediação e aconselhamento.
 Também pode haver aptidão para a psicologia. Mas também haver discórdia no casamento, baseada em diferenças de opinião.
 Os nativos com esta posição de Mercúrio se preocupam com o que os outros pensam. A tendência de buscar parcerias mentais faz com que casem com pessoas intelectuais, inteligentes e bem educadas.
-As outras relações provavelmente também se estabelecerão com tipos intelectuais. Pode ocorrer um casamento com um empregado, colaborador ou parente. -break`,
+As outras relações provavelmente também se estabelecerão com tipos intelectuais. Pode ocorrer um casamento com um empregado, colaborador ou parente. <br />`,
 
       `Vênus na Sétima Casa pode indicar habilidade social e um casamento feliz. Os nativos têm muita popularidade devido às suas maneiras agradáveis e consideração pelos outros.
 Há habilidade para lidar com o público, favorável para aqueles que se dedicam à psicologia, vendas, relações públicas e artes dramáticas.
 O casamento e amizades íntimas são muito importantes para essas pessoas. Elas procuram o casamento para sua satisfação romântica e pela felicidade que ele oferece.
 Geralmente se casam cedo e obtém prosperidade social e financeira por intermédio do casamento. Manifestam amor nos seus relacionamentos pessoais e, consequentemente, recebem amor de volta.
-Essas pessoas raramente precisam se envolver em ações judiciais, porém, quando o fazem, tentam resolver o assunto sem recorrer a um tribunal. -break`,
+Essas pessoas raramente precisam se envolver em ações judiciais, porém, quando o fazem, tentam resolver o assunto sem recorrer a um tribunal. <br />`,
 
       `Marte na Sétima Casa indica uma pessoa agressivamente envolvida em atividades conjuntas ou no trabalho com o público.
 O parceiro no casamento, os amigos íntimos ou os companheiros de trabalho, provavelmente terão uma natureza agressiva, ativa, típica de Marte.
 Os nativos com esta posição preferem trabalhar e agir em colaboração com outras pessoas. Podem realizar muitas coisas agindo dessa forma.
 Contudo, tanto os nativos como os seus associados podem ter um comportamento impulsivo. É preciso observar se há tendência a criar desavenças com associados, discórdia no casamento e divórcio.
 Com frequência, as atividades envolvem finanças conjuntas, o que pode ser motivo de controvérsias. Marte na casa 7 pode produzir vendedores e relações públicas agressivos.
-Há necessidade de aprender a ter tato e diplomacia nos contatos com os outros. É preciso observar também se há tendência a interagir com os outros por razões egoístas ou por senso de competição. -break`,
+Há necessidade de aprender a ter tato e diplomacia nos contatos com os outros. É preciso observar também se há tendência a interagir com os outros por razões egoístas ou por senso de competição. <br />`,
 
       `Júpiter na Sétima Casa indica receptividade, benevolência e amizade, o que traz felicidade no casamento e em sociedades.
 Um forte senso de justiça faz com que os nativos sejam honestos e justos em seus relacionamentos. Por isso esperam honestidade e justiça dos outros.
@@ -5262,7 +5007,7 @@ As parcerias nos negócios também podem prosperar, porque existe bom julgamento
 Em indivíduos mais evoluídos, o amor altruísta é abertamente manifestado. Os nativos desejam o maior bem-estar espiritual e material para os outros.
 Essa sincera preocupação faz com que recebam de volta confiança e amizade. Há habilidade nas áreas relacionadas à lei, relações públicas, atendimento, vendas, negociações e mediação.
 É preciso cuidado com a tendência de considerar as coisas como garantidas e a esperar muito dos outros. Pode haver ingenuidade em sociedades e negócios.
-Isso pode acabar expondo os nativos a charlatães ou pessoas com ideias grandiosas e impraticáveis. -break`,
+Isso pode acabar expondo os nativos a charlatães ou pessoas com ideias grandiosas e impraticáveis. <br />`,
 
       `Há um forte senso de responsabilidade e justiça em todos os relacionamentos importantes e contatos com o público.
 Os nativos podem se casar tarde ou com pessoas sérias, maduras, voltadas à carreira. É preciso desenvolver a maturidade para que o casamento seja estável e duradouro.
@@ -5271,7 +5016,7 @@ As pessoas com Saturno na casa 7 são de alguma forma impelidas a relacionamento
 Podem trabalhar muito e conscienciosamente colaborando com os outros e assumindo a sua quota de responsabilidade.
 Se forem bem aceitas, serão trabalhadores de confiança, dos quais se pode depender em todos os acordos.
 Elas podem se interessar por leis, possuem capacidade para organização e administração de negócios ou formulação de contratos.
-Podem determinar o seu bem estar futuro e progredir em suas carreiras trabalhando com outras pessoas. -break`,
+Podem determinar o seu bem estar futuro e progredir em suas carreiras trabalhando com outras pessoas. <br />`,
 
       `Este posicionamento afeta especialmente as pessoas em fase de amadurecimento ou em idade madura. É fundamental ter relacionamentos em que consiga manter uma considerável liberdade.
 No casamento, o nativo deve buscar uma forma que se adapte ao seu esquema de vida. Frequentemente rebela-se contra os tradicionais papéis e regras do casamento e tenta se livrar deles.
@@ -5281,7 +5026,7 @@ Se fizer sempre concessões, ou arranjar os seus relacionamentos de acordo com a
 Essa vontade reprimida pode em algum momento se materializar num rompimento brusco.
 Com este posicionamento, é preciso estar com outras pessoas que sejam estimulantes e desafiadoras, mesmo que não sejam estáveis.
 Aqui estabilidade não é tão necessária quanto a excitação. O relacionamento deve sempre se reinventar, com propostas inovadoras, originais, criativas e ousadas.
-É válido um caminho de liberdade plena tanto para a pessoa quanto para quem lhe acompanha. Somente assim o relacionamento pode ser uma fonte de riqueza e plenitude na sua vida. -break`,
+É válido um caminho de liberdade plena tanto para a pessoa quanto para quem lhe acompanha. Somente assim o relacionamento pode ser uma fonte de riqueza e plenitude na sua vida. <br />`,
 
       `Com simpatia e empatia, o nativo pode se tornar um terapeuta ou assistente social. Há sensibilidade especial para captar a energia dos ambientes e das pessoas.
 Mas é preciso cuidado com ilusões no romance ao idealizar demais o parceiro. O nativo é romântico, sonha encontrar sua parceria de alma.
@@ -5293,44 +5038,44 @@ Na via positiva, pode viver parcerias belas, artísticas, viver experiências de
 Com consciência, pode viver uma parceria de alma, onde prevalece o requinte, a delicadeza, a beleza e o amor.
 Pode desfrutar do lado encantado e mágico do outro, viver em ambientes belos, onde reine o bom gosto. O nativo pode ser iniciado espiritualmente pelo parceiro.
 O desafio é a entrega total, o nativo tem de estar inteiro nas relações, livre de suas projeções. Buscar discernimento, clareza, definição.
-Precisa cultivar a objetividade e o pragmatismo na sua forma de se ver, viver e sentir a vida. -break`,
+Precisa cultivar a objetividade e o pragmatismo na sua forma de se ver, viver e sentir a vida. <br />`,
 
       `Plutão nesta casa indica pessoas cujas vidas são drasticamente alteradas ou transformadas pelo casamento, por sociedades e relações com os outros.
 O nativo pode atrair um parceiro obstinado e até mesmo dominador, que pode manifestar tendências ocultas. O nativo possui um forte senso de justiça e reage contra qualquer injustiça.
 Na via negativa, pode haver tendência para dominar pessoas cuja vontade é mais fraca ou ser dominado por pessoas cuja vontade é mais forte.
 É preciso aprender a compartilhar a iniciativa e a responsabilidade. Desenvolver a percepção espiritual consciente sobre os relacionamentos.
 Perceber a necessidade de uma colaboração construtiva com os outros e se esforçar positivamente para conseguir essa colaboração.
-Nos melhores casos, uma profunda capacidade intuitiva permite que o nativo tenha insights e percepções sobre os outros, compreendendo as suas motivações. Portanto, esta é uma boa posição para psicólogos, advogados e juízes. -break`,
+Nos melhores casos, uma profunda capacidade intuitiva permite que o nativo tenha insights e percepções sobre os outros, compreendendo as suas motivações. Portanto, esta é uma boa posição para psicólogos, advogados e juízes. <br />`,
 
       `O nodo sul mostra que em vidas passadas o nativo foi dependente dos outros.
 Pode ter mantido relacionamentos insatisfatórios por medo de não conseguir sobreviver sozinho, sendo influenciável, indeciso e com dificuldades de tomar decisões.
 O nativo pode ter permitido que outros o dominassem. Ou se ajustou demais, tentando ser o que os outros precisavam ou queriam que ele fosse.
 O caminho da evolução é aprender a ser independente, encontrando equilíbrio entre suas iniciativas e a receptividade aos outros. É importante agora cultivar autonomia, aprender a ficar de pé sobre seus próprios pés.
-Aprender a dizer “não” quando necessário, tomar decisões e fazer escolhas baseadas naquilo que necessita ou quer para si mesmo. O nativo deve buscar o autoconhecimento e honrar quem é. -break`,
+Aprender a dizer “não” quando necessário, tomar decisões e fazer escolhas baseadas naquilo que necessita ou quer para si mesmo. O nativo deve buscar o autoconhecimento e honrar quem é. <br />`,
 
       `A felicidade é encontrada através das parcerias e da vida social.
 Os relacionamentos devem ser cultivados da melhor forma possível, pois é isso o que determina toda a grande iluminação individual.
 É preciso cuidado para não se tornar excessivamente preocupado com o fato de experimentar um relacionamento ou pode passar a depender dele.
 Sentindo ser este o caso, o nativo pode focalizar a sua ânsia de relacionamento num sentido mais espiritual e transcendente.
-O nativo pode e deve encontrar pessoas certas para suas parcerias, fazendo bons contatos, aprendendo a se relacionar e a enxergar o outro, de forma libriana: partilhando com harmonia, escutando o outro, sendo gentil, ponderado, educado e refinado. -break`,
+O nativo pode e deve encontrar pessoas certas para suas parcerias, fazendo bons contatos, aprendendo a se relacionar e a enxergar o outro, de forma libriana: partilhando com harmonia, escutando o outro, sendo gentil, ponderado, educado e refinado. <br />`,
 
       `As pessoas com Quíron na casa 7 podem decidir por passar toda a sua vida cuidando dos outros ou de um parceiro debilitado.
 Também pode ser alguém que tenha grande habilidade para aconselhamento ou preparação de casamentos, enquanto ela própria não se casa. Isso pode acontecer nas parcerias de negócios.
 É possível que ensine a um sócio a fazer um trabalho melhor do que faria e isso pode levar a uma grande frustação, quando o outro aprende tanto que vai embora para trabalhar sozinho.
 Quíron na casa 7 indica sofrimento afetivo no casamento ou em parcerias. Pode sentir carente de afeto e para obter amor, se submete aos caprichos do outro, tornando-se muito dependente.
 Pode acontecer também da pessoa sentir que deve salvar a outra pessoa, assumindo o papel de pai ou mãe.
-A cura nos relacionamentos, a diplomacia e a harmonização de conflitos é um caminho de desenvolvimento espiritual para quem tem Quíron nesta casa. -break`,
+A cura nos relacionamentos, a diplomacia e a harmonização de conflitos é um caminho de desenvolvimento espiritual para quem tem Quíron nesta casa. <br />`,
 
       `Ela está poderosa nesta casa, favorecendo as parcerias amorosas. Juno é a protetora do casamento e está na casa das parcerias.
 O nativo tende a dar o melhor de si mesmo quando forma uma ligação com alguém. Sobretudo depois de se ter certificado que este engajamento é forte no plano afetivo.
 Este posicionamento indica que há grandes chances de o nativo ser um par ideal para alguém. A vida social tende a ser estimulante na vida do casal.
 Os relacionamentos mais importantes são aqueles em que se forme uma parceria, uma sociedade ou casamento, onde haja troca ou compartilhamento de interesses.
-Pode estabelecer sociedade com o cônjuge ou com pessoas que lidam com justiça, durante audiências, cerimônias, apresentação pública e eventos sociais. -break`,
+Pode estabelecer sociedade com o cônjuge ou com pessoas que lidam com justiça, durante audiências, cerimônias, apresentação pública e eventos sociais. <br />`,
 
       `O nativo teve em suas vidas passadas grandes dificuldades nas parcerias e na vida associativa:
 Por seu espírito crítico demais e por sua inconstância, provocou rupturas em contratos de negócios ou no próprio casamento.
 Seus sócios ou seu cônjuge de uma vida passada reprovavam-no por não manter os seus compromissos, por mentir e por só levar em consideração seus próprios interesses.
-O nativo deve agora aprender a negociar com equilíbrio e justiça, deve cultivar integridade, comprometer-se sinceramente num contrato não sem ter examinado cuidadosamente as cláusulas deste, antes de assiná-lo! -break`,
+O nativo deve agora aprender a negociar com equilíbrio e justiça, deve cultivar integridade, comprometer-se sinceramente num contrato não sem ter examinado cuidadosamente as cláusulas deste, antes de assiná-lo! <br />`,
 
       `O nativo pode viver dissabores no casamento (ou nas associações) por causa das vidas passadas demasiado individualistas. O nativo aceitava o amor que lhe era oferecido e não o retribuía.
 Não respeitava os compromissos assumidos em contratos e "puxava a brasa para a sua sardinha" em todas as circunstâncias.
@@ -5338,29 +5083,29 @@ Seu humor e seus sentimentos são desviados pelo mundo ao seu redor. Pode assumi
 Seus sentimentos são como um pêndulo, balançando de um lado para outro conforme os ventos dos sentimentos de outras pessoas, sempre passando pelo centro, mas raramente ficando lá.
 Nunca tem certeza se é visto ou não como sendo adequado aos olhos dos outros. Muito sensível ao seu meio ambiente externo, inicialmente se submete e se perde nele e então foge para recobrar seu equilíbrio.
 Contudo, não gosta de fazer as suas coisas sozinho. Está vivendo um Carma de experimentar as partes desequilibradas de si mesmo através dos caminhos nos quais os outros o veem.
--stron É preciso aprender a ver o seu verdadeiro reflexo através dos olhos daqueles a quem ama./stron
+<strong> É preciso aprender a ver o seu verdadeiro reflexo através dos olhos daqueles a quem ama.</strong>
 Entretanto, se lutar contra o fato de que muitas de suas ideias, pensamentos e sentimentos parecem ser rejeitados e não compreender o porquê disto, então continuará repetindo o desequilíbrio.
-Deve aprender também a respeitar os direitos dos outros e a desenvolver a harmonia conjugal. A se conduzir de maneira generosa e construtiva em todas as associações nas quais esteja envolvido. -break`,
+Deve aprender também a respeitar os direitos dos outros e a desenvolver a harmonia conjugal. A se conduzir de maneira generosa e construtiva em todas as associações nas quais esteja envolvido. <br />`,
 
       `Essa casa diz respeito a contratos de associação (inclusive o casamento). Marte retrógrado na casa 7 indica que o nativo não era um bom parceiro em suas vidas passadas.
 Na vida atual você deve se esforçar para cooperar, ser leal e gentil sempre que se comprometer.
 Deve sair de seu universo egocêntrico e passional para respeitar os direitos (e a sensibilidade) dos seus associados.
 Se ainda estiver solteiro, o nativo deve refletir e ponderar muito bem antes de se casar, para que sua motivação não seja unicamente uma atração física.
 Neste setor, as paixões violentas não combinam com o respeito aos outros, seja no casamento ou nos negócios.
-Se o nativo repete os comportamentos violentos das vidas anteriores, arrisca-se, na vida atual, a atrair para si o que causou e praticou anteriormente. -break`,
+Se o nativo repete os comportamentos violentos das vidas anteriores, arrisca-se, na vida atual, a atrair para si o que causou e praticou anteriormente. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Em vidas passadas, o nativo não parece ter brilhado por suas qualidades conjugais, ou cultivado parcerias éticas e saudáveis.
 Ele (ou ela) não se preocupava em ser fiel (tanto nas asso¬ciações, quanto no seu casamento).
 O dinheiro tinha, certamente, um papel determinante: procura de um parceiro rico ou perda de dinheiro pelo parceiro ou ainda chantagem exercida sobre este último pelo nativo, que detinha o dinheiro.
 De qualquer modo, tudo lhe servia de meio de domi¬nação: o dinheiro, a lei, os contratos, a influência social.
-Na vida atual, o nativo está sujeito a novos dissabores conjugais (e legais) se não respeitar seus parceiros. Deve aprender a crescer em conjunto, cultivar parcerias equilibradas e justas. -break`,
+Na vida atual, o nativo está sujeito a novos dissabores conjugais (e legais) se não respeitar seus parceiros. Deve aprender a crescer em conjunto, cultivar parcerias equilibradas e justas. <br />`,
 
       `Saturno está no sector das relações sociais, das associações e parcerias. O nativo não assumiu as responsabilidades enquanto parceiro. Ignorou a lealdade e o respeito à palavra dada, deve.
 Em associações de negócios o nativo pode ter traído, usado, ou até mesmo roubado seus sócios. No casamento, revelou-se um cônjuge mesquinho.
 Nesta vida deve empenhar-se em compreender o que é um “acordo de cavalheiros”, um acordo entre parceiros dignos de confiança.
 Deve aprender sobre o respeito aos contratos e não ignorar mais os direitos dos seus associados.
-Cultivar ética e maturidade nas relações. Estudos jurídicos lhe seriam úteis. Caso se case, deve respeitar seus compromissos conjugais. -break`,
+Cultivar ética e maturidade nas relações. Estudos jurídicos lhe seriam úteis. Caso se case, deve respeitar seus compromissos conjugais. <br />`,
 
       `Urano retrógrado mostra desejo de liberdade no casamento e em sociedades, trazido de vidas passadas.
 Os nativos são propensos ao rompimento, pois a extrema necessidade de independência dificulta um compromisso duradouro com um parceiro.
@@ -5370,7 +5115,7 @@ Geralmente, o casamento acontece inesperadamente e sob circunstâncias singulare
 Há o perigo de perdas por meio de processos e relações públicas mal sucedidas que ocorrem devido à má vontade ou incapacidade de colaboração.
 Súbitas mudanças de humor, de opinião e de atitudes podem deixar os outros confusos e insatisfeitos. Em alguns casos, pode ficar desorientado devido ações imprevisíveis de seu parceiro.
 A imprevisibilidade não favorece o envolvimento em política, lei ou relações com o público. Imprevistos podem provocar dificuldades, pelas quais os nativos serão responsabilizados.
-Em geral, experiências incomuns são ocasionadas pelo casamento, em sociedades e relações com o público. -break`,
+Em geral, experiências incomuns são ocasionadas pelo casamento, em sociedades e relações com o público. <br />`,
 
       `É uma indicação provável de dois ou vários casamentos: na verdade, no início de sua vida, o nativo arrisca uma união amorosa sobre bases ruins. Seja enganando o cônjuge, seja ele próprio sendo enganado.
 Ou ainda pode descobrir que, apesar da aliança no dedo, seu cônjuge lhe escondeu algo. Cai das nuvens ao descobrir que o casamento não é, de modo algum, o que pensara! Grande desilusão!
@@ -5379,7 +5124,7 @@ Por outro lado, o que acontece no casamento ocorre também em todas as associaç
 Para uma parceria amorosa duradoura, é preciso tomar consciência dessa fraqueza. Decidir firmemente ser agora, enfim, um bom cônjuge. Alguém que age com um grande respeito pelo outro.
 Consciente desse carma, o nativo deve empreender ao mesmo tempo um trabalho de pesquisa espiritual e um trabalho de terapia para compreender suas más reações emocionais.
 É importante também que ele encontre um cônjuge bastante avançado espiritualmente para compreendê-lo e bastante forte para sustentar seus esforços.
-Caso contrário, pode se iludir com pessoas perdidas, com tendência ao consumo de drogas ou bebidas. Ou ele mesmo evadir-se na bebida, nas drogas ou em todas as fugas netunianas da realidade. -break`,
+Caso contrário, pode se iludir com pessoas perdidas, com tendência ao consumo de drogas ou bebidas. Ou ele mesmo evadir-se na bebida, nas drogas ou em todas as fugas netunianas da realidade. <br />`,
 
       `Plutão retrógrado nesta casa indica disputas de poder e manipulações nas parcerias do passado. O nativo foi um parceiro difícil em suas vidas anteriores.
 Susceptível quando se trata dos seus direitos (mas não muito quando se trata dos seus associados), pode ter sido desonesto e até violento.
@@ -5388,20 +5133,20 @@ Suas exigências haviam levado o (a) parceiro (a) ao desespero, à fuga, ao assa
 num sobressalto de revolta.
 O nativo (ou nativa) deve agora purificar essas tendências através de suas relações. Mas com frequência isso acontece apenas no segundo casamento (o primeiro cônjuge ainda sofre as consequências dessas tendências).
 Pode acontecer também que alguma tentativa de casamento fracasse. Em todo caso, esta vida pode ser marcada por rupturas e rompimentos.
-Lutos, divórcios, separações e processos: lições que podem ensinar os nativos a respeitar os direitos elementares dos seus associados. -break`,
+Lutos, divórcios, separações e processos: lições que podem ensinar os nativos a respeitar os direitos elementares dos seus associados. <br />`,
 
       `As pessoas com Quíron na casa 7 podem passar toda vida cuidando dos outros ou de um parceiro debilitado.
 Também pode ser alguém que tenha grande habilidade para aconselhamento ou preparação de casamentos, enquanto ela própria não se casa. Isso pode funcionar também para parcerias de negócios.
 É possível que ensine a um sócio a fazer um trabalho melhor do que faria e isso pode levar a uma grande frustação, quando o outro aprende tanto que vai embora para trabalhar sozinho.
 Quíron na casa 7 indica sofrimento afetivo no casamento ou em parcerias. Pode sentir carente de afeto e para obter amor, se submete aos caprichos do outro, tornando-se muito dependente.
-Pode acontecer também da pessoa sentir que deve salvar a outra pessoa, assumindo o papel de pai ou mãe. Por exemplo: Netuno ou Peixes na casa 7, são indícios de relacionamentos vitima/salvador. -break`,
+Pode acontecer também da pessoa sentir que deve salvar a outra pessoa, assumindo o papel de pai ou mãe. Por exemplo: Netuno ou Peixes na casa 7, são indícios de relacionamentos vitima/salvador. <br />`,
 
       `Ela está em trono neste signo e neste setor. E nesta casa e signo ela se expande de forma ideal, ou deveria...
 Pode dar o melhor de si mesma, quando forma uma ligação com alguém, sobretudo depois de se ter certificado que este engajamento é forte no plano afetivo.
 Este posicionamento, se não está demasiado tencionado, predestina a pessoa a ser um par ideal para alguém.
-A vida social da pessoa com Juno nesta casa se valoriza mais, quando ela se torna a parte de um casal. -break`,
+A vida social da pessoa com Juno nesta casa se valoriza mais, quando ela se torna a parte de um casal. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -5414,7 +5159,7 @@ A vida social da pessoa com Juno nesta casa se valoriza mais, quando ela se torn
     ]
   },
   {
-    title: `Casa 08`,
+    title: `Casa 08</strong>`,
     text: [
      `Os relacionamentos que expõem paixões ocultas e esbarram em emoções primárias não resolvidas fazem parte do processo de desenvolvimento do Sol na Casa 8.
 Há um grande interesse por tudo o que está oculto ou o que é misterioso. Com o sol nesta casa a vida se mostra de uma forma intensa.
@@ -5426,14 +5171,14 @@ Com esse objetivo, aprende a se expandir e transcender seus limites emocionais, 
 O nativo que tem o Sol na Casa 8 pode buscar tudo aquilo que é profundo, ver sempre o que há por dentro, o âmago de qualquer questão.
 Tem facilidade para descobrir as coisas e para dar diagnósticos, pois vive sempre atrás do que do que é oculto ou disfarçado.
 Entende a arte da intimidade, dos vínculos profundos, dos quais não tem medo. Conhece os sentimentos mais turbulentos e as perdas, mas também o renascimento.
-Sempre se redescobre cada vez que morre e é obrigada a renascer. Muitas vezes, perde para poder ganhar e se encontrar. -break`,
+Sempre se redescobre cada vez que morre e é obrigada a renascer. Muitas vezes, perde para poder ganhar e se encontrar. <br />`,
 
      `Perspicaz ao extremo, entretanto a forma de usar essa qualidade depende de outros fatores do mapa.
 O amor apaixonado, a sensualidade e o sexo são fatores importantes na vida e os maiores êxitos podem ser obtidos através de alguém que proporcione inspiração mental e sexual.
 A Lua nessa posição aumenta ainda mais o comportamento instintivo e reativo do nativo.
 É preciso cuidado com a desonestidade ou as reações emocionais exacerbadas ao se sentir ameaçado, que podem prejudicar a carreira e as chances de sucesso.
 Mulheres podem exercer alguma influência, ajudando a ganhar prestígio e dinheiro. Para os homens, pode significar um casamento ou relacionamento com uma mulher de grandes posses.
-Pode se dedicar a áreas que atenda as necessidades femininas ou trabalhar entre mulheres. Tem interesse pelo ocultismo, pelas questões psíquicas, mediúnicas e espirituais. -break`,
+Pode se dedicar a áreas que atenda as necessidades femininas ou trabalhar entre mulheres. Tem interesse pelo ocultismo, pelas questões psíquicas, mediúnicas e espirituais. <br />`,
 
       `Mercúrio na Oitava Casa indica interesse pelas fases mais profundas da ciência e do oculto.
 O interesse também pode se concentrar em finanças corporativas, impostos, seguros e bens de pessoas falecidas, uma vez que a Oitava Casa é a casa da morte.
@@ -5442,24 +5187,24 @@ Tendem a fazer planos em segredo e são engenhosas na formulação de estratégi
 Com frequência são herdeiras de informações secretas ou importantes documentos. Os nativos não esquecem facilmente das ações, atitudes e desrespeitos dos outros.
 É preciso cuidado com a tendência para guardar rancor, falar em vingança e se envolver em planos secretos vingativos.
 Adoram mistérios, investigações e intrigas. Gostam de ler e escrever histórias de detetives e de mistério.
-Possuem o desejo e a habilidade para desvendar segredos e descobrir as motivações ocultas por trás do comportamento humano, pois desejam chegar à essência das coisas. -break`,
+Possuem o desejo e a habilidade para desvendar segredos e descobrir as motivações ocultas por trás do comportamento humano, pois desejam chegar à essência das coisas. <br />`,
 
       `Vênus na Oitava Casa indica lucros financeiros por intermédio do casamento, outras sociedades e relações sociais.
 Com frequência, esta posição indica uma herança ao longo da vida. O casamento também pode ser motivado pela possibilidade de ganhos financeiros.
 Há tendência a uma natureza sensual. A posição de Vênus na casa 8 proporciona emoções excessivamente intensas.
-É preciso cuidado com o ciúme e a possessividade, porque aqui Vênus está na casa relacionada a Escorpião, o signo de seu detrimento. -break`,
+É preciso cuidado com o ciúme e a possessividade, porque aqui Vênus está na casa relacionada a Escorpião, o signo de seu detrimento. <br />`,
 
       `Com esta posição, existem desejos fortes e intensidade emocional. A energia, a determinação e a persistência são utilizadas para realizar coisas.
 A agressividade em relação ao dinheiro de outras pessoas em finanças conjuntas ou corporativas é característica.
 É preciso cuidado com conflitos a respeito de heranças, impostos e finanças conjuntas.
 Os indivíduos mais evoluídos podem se interessar por estudos de ocultismo, poderes psíquicos e vida após a morte. Em indivíduos menos evoluídos, podem existir tendências criminosas.
-Esta posição cria um poderoso impulso sexual. Os nativos com frequência agem em segredo por uma variedade de motivos, tanto bons quanto maus. -break`,
+Esta posição cria um poderoso impulso sexual. Os nativos com frequência agem em segredo por uma variedade de motivos, tanto bons quanto maus. <br />`,
 
       `Júpiter na Oitava Casa indica possíveis benefícios por intermédio de heranças, seguros e finanças conjuntas.
 Contudo, se Júpiter estiver sob tensão no mapa, pode haver litígios com relação a pesados impostos sobre heranças.
 Nos assuntos religiosos, há um forte interesse pela vida após a morte. É provável que essas pessoas se interessem pelo desenvolvimento espiritual.
 Alguns podem até mesmo contar com dons mediúnicos e se comunicar telepaticamente com habitantes de outras esferas.
-Com frequência, os nativos se sentem atraídos por negócios como casas funerárias, seguros, contabilidade de impostos e levantamento corporativo de fundos. -break`,
+Com frequência, os nativos se sentem atraídos por negócios como casas funerárias, seguros, contabilidade de impostos e levantamento corporativo de fundos. <br />`,
 
       `Saturno na Oitava Casa indica envolvimento com finanças de parcei¬ros, dinheiro corporativo, seguros, impostos e heranças, o que sempre traz responsabilidades.
 Os nativos devem desenvolver seu senso de justiça na utilização de recursos materiais, porque são responsáveis pelas suas propriedades, bem como pelas dos outros.
@@ -5470,13 +5215,13 @@ O nativo pode se casar com uma pessoa pobre ou com renda limitada, o que pode to
 Há também a possibilidade de haver restrições nas inibições profissionais devido à falta de capital.
 Entretanto, o dinheiro pode ser ganho por intermédio da habilidosa administração do dinheiro de outras pessoas e de recursos colocados sob a sua jurisdição.
 É preciso trabalhar os valores espirituais e o medo da morte. São comuns os sonhos angustiantes e experiências psíquicas de efeito psicológico perturbador.
-Se houver essa dedicação, Saturno pode trazer um profundo conhecimento espiritual sobre os mistérios da vida. -break`,
+Se houver essa dedicação, Saturno pode trazer um profundo conhecimento espiritual sobre os mistérios da vida. <br />`,
 
       `Mudanças na vida podem surgir subitamente. Há impaciência com as mudanças lentas: elas têm que acontecer rápido.
 Em tudo há uma grande necessidade de experimentar a paciência para andar em sintonia com o ritmo da natureza e o fluxo da vida.
 O pensamento é frutífero e criativo, cheio de novas ideias. O nativo tem suas próprias opiniões, resiste a todas as pressões de outras pessoas em fazer-lhe a cabeça.
 As paixões e a atração física podem tomar a proporção de um furacão. Os relacionamentos podem trazer algo de fatal e ser muitas vezes subitamente interrompidos.
-Atenção para o mundo afetivo: problemas de saúde podem vir decorrentes de infelicidades emocionais. -break`,
+Atenção para o mundo afetivo: problemas de saúde podem vir decorrentes de infelicidades emocionais. <br />`,
 
       `O nativo possui grande imaginação, pode lidar com assuntos místicos ou ocultismo. Pode desenvolver um canal aberto para as dimensões sutis, intuição, telepatia ou mediunidade.
 Sente-se atraído pelo lado profundo e misterioso da vida. Os sonhos podem ser fonte de conhecimento através de experiências fora do corpo (viagem astral).
@@ -5486,7 +5231,7 @@ Crises e mudanças decorrem em segredo, no íntimo do ser. Pode sentir dificulda
 Deve aprender a dizer não, para não se envolver com pessoas confusas. Há tendência para sonhos estranhos, pesadelos ou insônia.
 Na via positiva, pode desenvolver seu lado mágico, sensível e espiritual. Cultivar a inspiração, o amor às artes e viver uma sexualidade sagrada.
 O desafio é apurar a sensibilidade, cultivar refinamento dos relacionamentos íntimos e viver as grandes transformações emocionais que deles resultam.
-É importante que o nativo vivencie os assuntos ligados à sexualidade com o máximo de beleza e sacralidade possível. -break`,
+É importante que o nativo vivencie os assuntos ligados à sexualidade com o máximo de beleza e sacralidade possível. <br />`,
 
       `Plutão nesta casa exerce poderosa influência, que lida com a compreensão da continuidade da vida e da consciência após a destruição do corpo físico.
 A necessidade de conhecer o mundo espiritual e oculto pode manifestar-se como um interesse pela reencarnação, pelo carma, por astrologia, ioga, meditação e outros assuntos ocultos.
@@ -5497,39 +5242,39 @@ A vida para o nativo é um assunto sério. Geralmente se preocupa somente com as
 Portanto, tendem a se envolver em drásticas situações de vida ou morte, o que algumas vezes faz com que mude a sua maneira de viver ou sua visão moral.
 Nos melhores casos, o nativo é capaz de superar forças malignas pela confiança em poderes espirituais mais elevados.
 Possui a capacidade de restauração e regeneração dos recursos rejeitados pelos outros. Possui também grande força e engenhosidade nas crises.
-Muitas das suas atividades são realizadas em segredo e só aparecem nos estágios finais de desenvolvimento. -break`,
+Muitas das suas atividades são realizadas em segredo e só aparecem nos estágios finais de desenvolvimento. <br />`,
 
       `É preciso observar se há tendência de viver com base nos recursos alheios.
 O nodo sul mostra que em vidas passadas o nativo utilizou seu poder de envolvimento emocional e sexual para manipular os outros.
 Nesta vida deve desenvolver seus próprios recursos e valores, em vez de confiar nos recursos e valores alheios.
 Há a necessidade de ganhar dinheiro por seus próprios meios, mesmo que possam viver sem problemas com o que ganham de outros. Desta forma, desenvolvem um sentido mais verdadeiro de seu próprio valor.
 Há necessidade de entender a si mesmo, desenvolver seus dons e talentos inatos. De aprender e de aceitar o mundo da forma e da matéria.
-O caminho da evolução passa pela construção de seu merecimento, desenvolvendo autoestima e acreditando em suas capacidades para obter a paz e a segurança de que necessita. -break`,
+O caminho da evolução passa pela construção de seu merecimento, desenvolvendo autoestima e acreditando em suas capacidades para obter a paz e a segurança de que necessita. <br />`,
 
       `Esta casa se refere tradicionalmente à morte e ao renascimento, ou a regeneração.
 Mas ela também está muito ligada ao uso que está sendo feito das energias que nascem de todos os tipos de relacionamento, particularmente daquelas que resultam dos acordos contratuais, nos bens compartilhados e na vida íntima.
 Nosso mundo moderno está basicamente apoiado em contratos feitos por indivíduos e/ou grupos. Mas estes contratos mudam com muita frequência – são feitos, desfeitos e refeitos.
 Isto se aplica até mesmo aos casamentos e àquelas associações de trabalho que, no passado, tinham um caráter permanente.
 O nativo com a Parte da Fortuna nessa posição pode se envolver demais em problemas administrativos. É importante administrar com eficiência o poder depositado sobre si.
-Deve abandonar hábitos e comportamentos destrutivos. Deve também buscar introspecção profunda, investigação dos mistérios, desejo e transformação, poder e transcendência de forma escorpiana: mergulhando intensamente, com paixão, renovando-se a cada instante. -break`,
+Deve abandonar hábitos e comportamentos destrutivos. Deve também buscar introspecção profunda, investigação dos mistérios, desejo e transformação, poder e transcendência de forma escorpiana: mergulhando intensamente, com paixão, renovando-se a cada instante. <br />`,
 
       `Quem tem Quíron na casa 8 pode se tornar um bom terapeuta sexual e ajudar outros a encontrar o prazer na vida sexual, porém sua vida sexual não é satisfatória.
 Alguns podem se sentir impotentes como uma fuga do sexo, com medo que outros possam dominá-lo. No outro extremo, há possibilidade ainda da compulsão por sexo.
 O mito de Quíron está muito presente nessa colocação: tem talento para curar ou reabilitar os outros, mas não a si mesmo e isso pode estar presente também na reabilitação de qualquer deficiência, mental ou física.
 Também pode ser incumbido de cuidar de recursos dos outros, enquanto tem muito pouco para si ou ao contrário, depender do dinheiro de outras pessoas ou destinar o que ganha para apoiar os outros.
 Tem a tendência de aceitar os valores da família, grupo ou sociedade rapidamente. A cura de Quíron na casa 8 é confrontar os seus sentimentos mais íntimos de fraqueza.
-Reconhecer e assumir a responsabilidade por seu próprio poder e encontrar maneiras de expressá-lo de forma construtiva. -break`,
+Reconhecer e assumir a responsabilidade por seu próprio poder e encontrar maneiras de expressá-lo de forma construtiva. <br />`,
 
       `As uniões do nativo com Juno neste signo são vividas com paixão. Sua vida sexual é vivenciada sobretudo no casamento.
 Aliás, essa sexualidade vivida no casamento, libera uma espécie de fogo regenerador para a própria pessoa e para o parceiro/a. O sexo adquire ares sagrados.
 É importante afastar os fantasmas e as sabotagens que rondam a relação. Em matéria de negócios, os nativos tendem a investir no que é belo ou no que passa promover harmonia.
 Os relacionamentos mais importantes são aqueles que proporcionam profundidade e intensidade. Onde haja confiança, sexualidade e bens em conjunto.
-Pode estabelecer parcerias através de investimento conjunto, em atividades ocultas, exploração de recursos minerais ou atividades que lidam com artigos e atividades sexuais, em minas, grutas, selvas, durante rituais ou em locais de cura ou ocultismo. -break`,
+Pode estabelecer parcerias através de investimento conjunto, em atividades ocultas, exploração de recursos minerais ou atividades que lidam com artigos e atividades sexuais, em minas, grutas, selvas, durante rituais ou em locais de cura ou ocultismo. <br />`,
 
       `Nas vidas passadas o nativo foi muito materialista. Sentia que as pesquisas espirituais eram algo que absolutamente não lhe diziam respeito.
 O seu comportamento de visão limitada pode ter acarretado muitos fracassos em outras vidas.
 Era também muito duro em seus julgamentos (e continuará a sê-lo, no início desta vida). Mas sua perspicácia psicológica e seu faro causarão espanto.
-Deve agora e se mostrar mais tolerante. Cultivar uma busca mais profunda acerca dos mistérios da vida e procurar um ideal espiritual. -break`,
+Deve agora e se mostrar mais tolerante. Cultivar uma busca mais profunda acerca dos mistérios da vida e procurar um ideal espiritual. <br />`,
 
       `Em suas vidas passadas tudo acabava mal para o nativo, por causa de certos traços de carácter negativos, dos quais ele deve agora se livrar.
 O nativo se complicava nas relações humanas, deixava-se levar a situações inverossímeis por sua necessidade de sexo e de dinheiro.
@@ -5543,18 +5288,18 @@ Muitas vezes existe grande ressentimento, porque se sente enganada ou privada de
 Tende a passar a vida fazendo as coisas da maneira mais difícil, invejando o modo com os outros podem atingir as mesmas metas com menos esforço.
 Experimenta um sentimento de isolamento do mundo. Há alguns resíduos de vidas passadas, de um amor perdido.
 Como resultado, acha difícil confiar inteiramente nas pessoas que encontra na sua vida atual porque, inconscientemente, vê em cada uma delas, uma das partes simbólicas do amor do qual foi privado no passado.
-Lições cármicas: fazer bom uso do dinheiro dos outros, aprender a perdoar para se abrir ao amor, buscar uma perspectiva espiritual mais elevada, que permitirá a pessoa não temer a morte, as perdas e as transformações da vida. -break`,
+Lições cármicas: fazer bom uso do dinheiro dos outros, aprender a perdoar para se abrir ao amor, buscar uma perspectiva espiritual mais elevada, que permitirá a pessoa não temer a morte, as perdas e as transformações da vida. <br />`,
 
       `O nativo se esforçou para corrigir os desvios de comportamento das suas vidas passadas.
 Pode ter sofrido muito com as catástrofes que ele mesmo desencadeara com sua agressividade destruidora: fim brutal das relações afetivas, fracassos dolorosos em seus empreendimentos profissionais, dilapidação de suas heranças, rupturas violentas com amigos e parceiros, etc.
 É provável também que você tenha conhecido uma (ou algumas) morte (s) violenta (s).
-Como sua desonestidade, sua brutalidade ou suas pulsões destruidoras causaram um grande mal, escolheu para esta vida um programa positivo: aprendizado da paciência, controle do mau equilíbrio emocional, transformação, purificação, busca espiritual e progresso na honestidade financeira. -break`,
+Como sua desonestidade, sua brutalidade ou suas pulsões destruidoras causaram um grande mal, escolheu para esta vida um programa positivo: aprendizado da paciência, controle do mau equilíbrio emocional, transformação, purificação, busca espiritual e progresso na honestidade financeira. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! A posição de Júpiter nesta casa sugere que em vidas passadas, o nativo esteve envolvido em mistérios, questões de feitiçaria ou de magia negra ou talvez também com espionagem e polícia secreta.
 Pode ter sido obcecado pelo medo de morrer.  Em todo caso, sua filosofia de vida era pouco ética e sua honestidade financeira, das mais duvidosas.
 Com a busca da espiritualidade e um esforço de discernimento, nesta vida evitará que se deixe cair na armadilha de grupos de fanáticos ou de seitas mal intencionadas.
-Um esforço de honestidade financeira lhe dará razões reais para ficar orgulhoso de si. Enfim (se isso tiver acontecido no passado) cessará de provocar medo nos outros, deixará de usar os assuntos de morte para garantir seu poder. -break`,
+Um esforço de honestidade financeira lhe dará razões reais para ficar orgulhoso de si. Enfim (se isso tiver acontecido no passado) cessará de provocar medo nos outros, deixará de usar os assuntos de morte para garantir seu poder. <br />`,
 
       `Nesta casa, Saturno indica diversas possibilidades. A pessoa foi iniciada em conhecimentos espirituais elevados, mas não utilizou seu saber de maneira construtiva.
 Ou então, tinha a possibilidade de se instruir espiritualmente e negligenciou esses estudos. Ou se recusou a fazê-los.
@@ -5562,14 +5307,14 @@ Terá o nativo praticado magia negra? É possível. A sua atitude negativa se pr
 Esta posição de Saturno indica muitas vezes poderes mediúnicos mal utilizados no passado, mas que permanecem.
 O nativo é agora inspirado a desenvolvê-los numa ótica de auxílio aos outros, de pesquisa espiritual.
 Deve ser prudente na escolha dos grupos religiosos ou esotéricos que frequenta. Sabe muitas coisas sobre a vida e a morte.
-Pode reencontrar, melhor do que ninguém, a história das suas próprias vidas anteriores. Uma vez consciente, pode progredir no conhecimento espiritual e se tomar um guia para os outros. -break`,
+Pode reencontrar, melhor do que ninguém, a história das suas próprias vidas anteriores. Uma vez consciente, pode progredir no conhecimento espiritual e se tomar um guia para os outros. <br />`,
 
       `Urano retrógrado aqui indica preocupação com os mistérios da vida que ultrapassam a simples aparência física visível.
 Como Urano está exaltado na Oitava Casa, pode indicar interesse por ocultismo, telepatia, vida após a morte e áreas científicas, como a física atômica e multidimensional.
 Pode haver insights sobre os mistérios da natureza e do universo. Os nativos com frequência passam por súbitas mudanças da sorte devido a heranças, casamento, sociedades, seguros, impostos e finanças corporativas.
 É importante desenvolver o desapego e um maior distanciamento emocional em relação ao sexo e às riquezas materiais.
 A vida precisa e deve ser considerada como um processo dinâmico: a única coisa certa no reino material é a mudança.
-Esta posição destina-se a criar a percepção de que os valores espirituais são as únicas coisas de importância duradoura. -break`,
+Esta posição destina-se a criar a percepção de que os valores espirituais são as únicas coisas de importância duradoura. <br />`,
 
       `Os nativos que têm Netuno retrógrado na casa 8, traz de vidas passadas experiências obscurecidas pela feitiçaria, pela magia negra ou pelo envolvimento com  seitas distorcidas.
 Podem ter utilizado seus dons mediúnicos ou sensoriais para fins maléficos: explorar a credulidade pública, garantir a promoção social ou ludibriar os incautos.
@@ -5578,25 +5323,25 @@ Portanto, o nativo que desembarca nesta vida com essas lembranças inconscientes
 Ou então se mantém afastado, prudentemente, para não recair nas armadilhas de outrora. A casa 8 é a casa das heranças. O nativo pode ter espoliado ou enganado seus familiares, tomando para si tudo o que podia.
 Nesta vida, as perdas de heranças podem fazê-lo refletir sobre as responsabilidades que o dinheiro acarreta. Alguns nem sempre compreendem isso e desenvolvem um complexo de perseguição, julgando que seus irmãos e irmãs os "despojaram" dos seus direitos "naturais".
 Se você é praticante de uma religião, tende a agarrar-se à tradição, de tal modo está tomado pelo medo de se desviar. Pode adquirir crenças reacionárias ou rígidas, mas tão tranquilizadoras!
-É preciso cuidado com o fanatismo! O caminho é desapegar-se. Tanto de suas crenças rígidas, quanto de seu materialismo. Desenvolver a espiritualidade com liberdade, respeito e tolerância. -break`,
+É preciso cuidado com o fanatismo! O caminho é desapegar-se. Tanto de suas crenças rígidas, quanto de seu materialismo. Desenvolver a espiritualidade com liberdade, respeito e tolerância. <br />`,
 
       `Levado por um forte instinto vital, o nativo dispõe de um excepcional poder. Tanto para o bem, quanto para o mal.
 Que fez ele, em suas vidas anteriores? Muitas experiências sexuais e aventuras na vida noturna. É alguém que "viveu muito" e que, como tal, conhece os recantos secretos da alma humana.
 Tendo usado os poderes do dinheiro em seu proveito e tendo manipulado as pes¬soas para saciar sua própria sede de poder, foi tanto mais negativo quanto grande era a sua influência.
 Tendo desvirtuado os mais altos valores espi¬rituais em seu benefício, abusou da fé dos outros. Assim, semeou a morte em tomo de si, acarretando o fim violento das suas empresas, e das suas relações afetivas.
-Nesta vida Plutão lhe dá podero¬sos meios para mudar o eixo de sua evolução. Seus dons devem ser utilizados para a cura, a transformação, a purificação e o desenvolvimento espiritual. -break`,
+Nesta vida Plutão lhe dá podero¬sos meios para mudar o eixo de sua evolução. Seus dons devem ser utilizados para a cura, a transformação, a purificação e o desenvolvimento espiritual. <br />`,
 
       `Quem tem Quíron na casa 8 pode se tornar um bom terapeuta sexual e ajudar outros a encontrar o prazer na vida sexual, porém sua vida sexual não é satisfatória. Alguns podem se sentir impotentes como uma fuga do sexo, com medo que outros possam dominá-lo.
 Há possibilidade ainda da compulsão por sexo. O mito de Quíron está muito presente nessa colocação: tem talento para curar ou reabilitar os outros, mas não a si mesmo e isso pode estar presente também na reabilitação de qualquer deficiência, mental ou física.
 Também pode ser incumbido de cuidar de recursos dos outros, enquanto tem muito pouco para si ou ao contrário, depender do dinheiro de outras pessoas ou destinar o que ganha para apoiar os outros. A tendência é aceitar os valores da família, grupo ou sociedade muito rapidamente.
-A cura de Quíron na casa 8 é confrontar seus sentimentos mais íntimos de fraqueza. Reconhecer e assumir a responsabilidade por seu próprio poder e encontrar maneiras de expressá-lo de forma construtiva -break`,
+A cura de Quíron na casa 8 é confrontar seus sentimentos mais íntimos de fraqueza. Reconhecer e assumir a responsabilidade por seu próprio poder e encontrar maneiras de expressá-lo de forma construtiva <br />`,
 
       `As uniões desta pessoa com Juno neste signo ou setor são vividas com paixão. Sua vida sexual é vivenciada sobre tudo no casamento, ou nas uniões que tiverem.
 Aliás, essa sexualidade vivida no casamento, libera uma espécie de fogo regenerador para a própria pessoa e para o parceiro/a.
 Se existir uma forte influência de Netuno/Marte/Vênus, perigo de fantasmas que rondam a relação.
-São pessoas que em matéria de negócios tenderão a investir no que é belo ou no que possui uma certa harmonia. -break`,
+São pessoas que em matéria de negócios tenderão a investir no que é belo ou no que possui uma certa harmonia. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -5609,7 +5354,7 @@ São pessoas que em matéria de negócios tenderão a investir no que é belo ou
     ]
   },
   {
-    title: `Casa 09`,
+    title: `Casa 09</strong>`,
     text: [
      `Ao aumentar a compreensão e a perspectiva da vida através de viagens, leituras ou pesquisas filosóficas, o Sol na casa 9 se vitaliza e potencializa.
 A jornada do nativo atravessa diferentes grupos, religiões, filosofias e estudos para criar uma visão pessoal da verdade que ao ser compartilhada com os outros, criará o seu senso de identidade e a sua distinção como ser único.
@@ -5619,28 +5364,28 @@ O grande aprendizado é no sentido de conseguir vivenciar a filosofia e os grand
 Assim as descobertas dos aspectos mais abstratos da vida podem orientar seus compromissos pessoais e iluminar a vida mais mundana.
 A vida jorra do conhecimento e é ali que esse Sol vai buscá-la, transitando com facilidade entre conceitos abstratos, linguagens simbólicas, diferentes culturas, princípios ou leis.
 O nativo descobre que a vida é expansão, por isso quer viajar e pode estar sempre se aventurando. Compreende que a alma precisa ir longe, pois é do longínquo que volta reabastecida.
-Sabe que não é possível ficar apenas com experiências conhecidas, pois só podemos crescer ao sair da área de segurança. -break`,
+Sabe que não é possível ficar apenas com experiências conhecidas, pois só podemos crescer ao sair da área de segurança. <br />`,
 
      `A Lua nessa posição indica uma natureza inquieta e nômade que não cria raízes. O nativo está sempre andando pelo mundo ou diversificando interesses.
 A religião, a filosofia e o conhecimento são necessidades emocionais. Pensa com profundidade e leve em consideração dos aspectos mais profundos da vida.
 É psíquico por natureza própria e é capaz de ver e sentir além das fronteiras do mundo material.
 As viagens ao exterior, o contato com estrangeiros ou com mercadorias importadas podem ter muita importância na vida ou no trabalho.
 Talvez, antes de encontrar o próprio caminho, passe por uma grande busca, uma jornada interior. Entretanto, tem uma visão clara sobre a maneira de fazer as coisas.
-Pode se sentir atraído por profissões ou hobbies nas áreas de ensino (professor ou instrutor) ou que promova intercâmbios com regiões distantes, com viagens, ou com outras visões sobre o mundo. -break`,
+Pode se sentir atraído por profissões ou hobbies nas áreas de ensino (professor ou instrutor) ou que promova intercâmbios com regiões distantes, com viagens, ou com outras visões sobre o mundo. <br />`,
 
       `Mercúrio nesta casa indica interesse por filosofia, leis e educação superior, conduzindo a uma educação elevada e a altos títulos.
 Os nativos com esta posição de Mercúrio adoram viajar e são curiosas a respeito de países e culturas estrangeiras. Podem ser bons historiadores e antropólogos.
 É preciso cuidado com o orgulho e esnobismo intelectual assim como crenças e opiniões sectárias, dogmáticas. Suas decisões se baseiam na ética e na moral, bem como em considerações práticas.
 Percorre longas distâncias para adquirir o conhecimento que considera importante ou para buscar ensinamentos religiosos e gurus que os esclareçam.
 É importante para os nativos com esta posição compreender a evolução das ideias fundamentais que orientam o pensamento social, as leis, a filosofia e a religião dominantes.
-Muitos professores possuem Mercúrio na casa 9. -break`,
+Muitos professores possuem Mercúrio na casa 9. <br />`,
 
       `Vênus na Nona Casa indica amor pela filosofia, pela religião e pela arte. As pessoas com esta posição com frequência fazem longas viagens por prazer.
 Os parceiros no casamento e outros importantes contatos sociais e românticos podem acontecer por intermédio de universidades e igrejas, durante longas viagens ou em países estrangeiros.
 Podem ocorrer fortes ligações com estrangeiros ou pessoas de outras raças e religiões. Os nativos possuem ideais elevados sobre o amor.
 Podem tentar converter as pessoas amadas às suas próprias opiniões religiosas ou filosóficas. Essas pessoas geralmente são bem informadas no que se refere à história cultural e artística.
 Em alguns casos, tornam se especialistas nessas áreas. Vênus nesta casa muitas vezes proporciona amor à música e à arte religiosas.
-Pode haver relacionamentos harmoniosos e lucrativos com as pessoas da família. -break`,
+Pode haver relacionamentos harmoniosos e lucrativos com as pessoas da família. <br />`,
 
       `Marte na Nona Casa indica uma pessoa interessada em viagens, esportes ao ar livre e causas religiosas, filosóficas, sociais ou educacionais. O nativo é um cruzado que defende agressivamente os ideais que abraça.
 Se houver ampla compreensão da vida, esses nativos podem ser muito valiosos na liderança de atos que visam reformas sociais. Trabalham para inspirar atitudes e comportamentos mais éticos ou elevados nas pessoas.
@@ -5652,7 +5397,7 @@ Essa posição também pode criar evangelistas do tipo “fogo do inferno e cond
 Os nativos podem provocar ressentimentos nos outros, se o nível da sua compreensão lhes oferecer um ponto de vista limitado ou fanático.
 Aqueles que lutam agressivamente por suas crenças e organizações e são intolerantes com as abordagens alheias podem ter Marte sob tensão na casa 9.
 A tendência a condenar aqueles com quem não concordam surge da falta de paciência para compreender as circunstâncias e experiências da vida de outras pessoas.
-Além disso, pode haver uma identificação pessoal com alguma crença religiosa, política ou filosófica que proporcione ao indivíduo um sentimento de vaidade. -break`,
+Além disso, pode haver uma identificação pessoal com alguma crença religiosa, política ou filosófica que proporcione ao indivíduo um sentimento de vaidade. <br />`,
 
       `Júpiter na Nona Casa indica profundo amor pela filosofia, pela religião, espiritualidade e educação superior.
 Os nativos com esta posição costumam formular um padrão moral e um sistema de filosofia definidos, pelos quais moldam as suas vidas.
@@ -5662,7 +5407,7 @@ Mas se Júpiter estiver sob tensão no mapa, talvez não tenham oportunidade de 
 Se optarem por um caminho religioso, tornam-se sacerdotes ou ocupam posições de importância dentro da hierarquia da Igreja, pois geralmente são liberais e tolerantes com as pessoas.
 Mas e preciso cuidado com posturas dogmáticas e crenças religiosas extremistas, que podem provocar intolerância.
 Os nativos gostam de viajar, procuram estudar em países estrangeiros, aprender línguas ou visitá-los para aprender as suas culturas.
-As atividades profissionais podem-se relacionar a publicação, instrução, turismo e viagens. -break`,
+As atividades profissionais podem-se relacionar a publicação, instrução, turismo e viagens. <br />`,
 
       `Saturno na Nona Casa indica um sério interesse pela religião, pela filosofia e pela educação superior.
 Os sistemas de crença são julgados por seu valor prático e por sua contribuição para a estabilidade social, especialmente na fase mais avançada da vida.
@@ -5672,14 +5417,14 @@ Procuram posições de poder e autoridade dentro de importantes instituições e
 Muitos professores e membros de universidades podem ter Saturno nesta casa. Elas também se preocupam com a sua reputação moral.
 Os seus padrões religiosos costumam ser conservadores e tradicionais. É preciso observar se há tendência para atitudes autoritárias intolerantes no que se refere à religião e à moralidade.
 As atividades profissionais e os negócios provavelmente se dirigem para leis, ensino, publicações, religião e viagens.
-As pessoas com esta posição de Saturno viajam mais a negócios ou como meio de obter status do que por prazer. -break`,
+As pessoas com esta posição de Saturno viajam mais a negócios ou como meio de obter status do que por prazer. <br />`,
 
       `Urano nessa posição inspira a liberdade de pensamento. A compreensão do mundo o deixa livre para escolher seu próprio caminho.
 Quanto maior a vontade dos outros em submeter o nativo a algum tipo de controle, maior será o anseio deste pela liberdade.
 O pensamento original favorece o estudo da ciência, da tecnologia e da matemática. Pode haver dedicação e interesse por ciências ocultas.
 Atração pelo que é revolucionário. Mas os processos mentais podem ser um tanto indisciplinados e pouco cuidadosos. Pode indicar impaciência com pessoas de resposta lenta.
 O trabalho é uma fonte de excitação desde que seja algo que fuja da rotina. Há preferência por relações livres e mutáveis, que não sejam limitantes.
-Não gosta que ninguém influencie a escolha da própria direção. Quanto mais fácil for o fluir do relacionamento, maior será a sua duração. Especial prazer em explorar novos territórios da experiência sexual. -break`,
+Não gosta que ninguém influencie a escolha da própria direção. Quanto mais fácil for o fluir do relacionamento, maior será a sua duração. Especial prazer em explorar novos territórios da experiência sexual. <br />`,
 
       `O nativo tende a ser mentalmente aberto, impressionável e místico. Pode desenvolver uma filosofia muito refinada e até mesmo ter visões espirituais.
 É inspirado, com potencial para ideias brilhantes e geniais. Mas é preciso cuidado com o excesso de idealismo, com sonhos irreais, para não se iludir com supostos mestres ou professores.
@@ -5688,7 +5433,7 @@ Atenção para a confusão na escolha da faculdade ou dificuldades no estabeleci
 Possibilidade de viagens além-mar, viagens místicas a lugares sagrados. O nativo é atraído por assuntos ligados a outros países, outras culturas.
 Estudos, pesquisas ou trabalhos ligados à arte, cultura e religião. Na via positiva, pode desenvolver uma visão superior, uma força inspiradora que renova suas esperanças e fé.
 Uma visão do mundo bastante generosa, ampla e flexível, onde prevalece a compaixão. O desafio é cultivar dedicação ao caminho do amor, da arte e da espiritualidade como autoconhecimento e aprimoramento.
-Desenvolver o refinamento mental, a mediunidade, a ligação e a comunicação com o divino para ser um canal de inteligências superiores. -break`,
+Desenvolver o refinamento mental, a mediunidade, a ligação e a comunicação com o divino para ser um canal de inteligências superiores. <br />`,
 
       `Plutão nesta casa indica interesse pela regeneração dos sistemas legais, educacionais, morais e filosóficos.
 Isso se manifesta na capacidade para perceber as causas fundamentais dos problemas relacionados à ordem social mais ampla.
@@ -5698,18 +5443,18 @@ O nativo com esta posição não tolera a hipocrisia e a injustiça social. Algu
 Nos piores casos Plutão pode indicar um fanático religioso autoritário, inclinado a impor as suas opiniões aos outros.
 Ou a possibilidade de filosofias antissociais e crenças ateístas. Contudo, o nativo pode eventualmente passar por profundas experiências que o forçam a mudar sua visão religiosa.
 Nos melhores casos, fica evidente a capacidade de liderança espiritual. São realizados empreendimentos significativos.
-Essa pode ser uma boa posição para Plutão, porque aqui a vontade é guiada por um padrão moral. -break`,
+Essa pode ser uma boa posição para Plutão, porque aqui a vontade é guiada por um padrão moral. <br />`,
 
       `O nodo sul mostra que em vidas passadas o nativo teve muita necessidade de liberdade, desenvolveu interesse por questões filosóficas, conhecimento, estudos superiores, viagens ao exterior e aventuras.
 Sua visão intuitiva pode ser boa, a questão agora é integrá-la na vida prática de todo dia. Há necessidade de desenvolver a capacidade de pensar de modo racional e lógico, ao invés de se guiar pela fé cega.
 O caminho da evolução é aprender a viver mais o dia-a-dia, convivendo mais com as pessoas e situações do seu meio mais próximo, irmãos, parentes e vizinhos, que podem ajudar a encontrar as respostas para os seus problemas.
 Comunicar-se com humildade e flexibilidade. Ensinar e compartilhar com os outros o seu conhecimento, sempre aberto para aprender.
-Vale a pena explorar todas as possibilidades que têm à mão, tudo aquilo que o ambiente próximo tem a oferecer, antes de comer para longe à procura de loucas aventuras. -break`,
+Vale a pena explorar todas as possibilidades que têm à mão, tudo aquilo que o ambiente próximo tem a oferecer, antes de comer para longe à procura de loucas aventuras. <br />`,
 
       `Tal posição da Roda da Fortuna acentua a tendência de procurar a felicidade em processos de expansão e autoengrandecimento.
 Pode indicar um forte desejo de viagens a lugares distantes, conhecer outras culturas e descobrir “como vivem outras pessoas”.
 Pode também levar a uma vontade ardente de perder o próprio ego num vasto movimento religioso, num reino de existência transcendente. O caminho é a busca da Sabedoria.
-O nativo deve se aprofundar em estudos superiores e buscar uma compreensão maior da vida, indo além dos limites do cotidiano, explorando, de forma sagitariana: com uma visão ampla, otimista e expansiva. Aventure-se. -break`,
+O nativo deve se aprofundar em estudos superiores e buscar uma compreensão maior da vida, indo além dos limites do cotidiano, explorando, de forma sagitariana: com uma visão ampla, otimista e expansiva. Aventure-se. <br />`,
 
       `Quíron na casa 9 mostra aqueles que podem programar viagens fantásticas para os outros enquanto eles estão presos no escritório fazendo reservas.
 Também pode ser um editor ou professor de redação que prepara com dedicação os livros escritos por outros, enquanto secretamente alimenta o desejo de escrever e publicar seus próprios livros.
@@ -5718,34 +5463,34 @@ Negativamente, também pode significar que pode forçar um filho a estudar uma �
 Alguns pais podem até mesmo privar seus filhos do ensino superior devido à sua própria frustração.
 A casa 9 também trata das crenças e da religião e Quíron na casa 9 pode levar à busca fanática de alguma doutrina religiosa ou de uma crença, com a finalidade de curar todas as feridas interiores, ou uma obsessão por viagens ou estudos esquecendo de outras áreas da vida.
 A questão de Quíron em Sagitário também se relaciona à capacidade de julgamento, a pessoa tende a não ouvir opiniões e conselhos achando que sabe tudo.
-No entanto, Quíron na casa 9 pode produzir grandes sábios e conselheiros porque tem um grande conhecimento, embora sejam muito modestos. -break`,
+No entanto, Quíron na casa 9 pode produzir grandes sábios e conselheiros porque tem um grande conhecimento, embora sejam muito modestos. <br />`,
 
       `Os relacionamentos mais importantes são aqueles em que há respeito pela religião, crenças e dogmas ou que haja os mesmos interesses religiosos ou filosóficos.
 Juno enfatiza aqui a dimensão espiritual da parceria, a sintonia filosófica, a busca de sabedoria, as aventuras e viagens junto com o parceiro. A busca de uma parceria ideal que opera em conjunto.
 Esta também é uma posição que favorece mais de uma união, será provável que na segunda ou terceira união a pessoa seja mais bem sucedida.
 Há também a tendência de idealizar o parceiro(a) que deve corresponder, de alguma forma ou em algum campo a esta idealização. Tendência de legalizar suas uniões e parcerias.
-O nativo pode estabelecer parcerias em universidades, agências de viagens, durante viagens internacionais, num país estrangeiro ou com estrangeiros, igrejas, templos, locais religiosos, durante estudos filosóficos ou em locais onde tenham grandes animais. -break`,
+O nativo pode estabelecer parcerias em universidades, agências de viagens, durante viagens internacionais, num país estrangeiro ou com estrangeiros, igrejas, templos, locais religiosos, durante estudos filosóficos ou em locais onde tenham grandes animais. <br />`,
 
       `Provavelmente o nativo viveu vidas agitadas, desenraizadas, sem foco ou objetivos estáveis.
 É possível que tenha sido muito religioso, mas de maneira dogmática ou fanática. Certamente fez um bocado de inimigos, em virtude dos seus excessos verbais.
 Portanto, deve agora cultivar humildade. Refletir sobre como pode ser mais prático e organizar com bom senso sua vida quotidiana.
 Deve, ao mesmo tempo, procurar uma orientação mais ampla, elevada e espiritual que irá inspirar toda a sua vida.
-Respeitar outras culturas, filosofias e religiões. Respeitar as leis, equilibrando a liberdade com a responsabilidade. -break`,
+Respeitar outras culturas, filosofias e religiões. Respeitar as leis, equilibrando a liberdade com a responsabilidade. <br />`,
 
       `Esta posição de Vênus sugere que o nativo tenha sido um beato nas vidas passadas, praticando uma religião conformista, puramente social.
 Ao mesmo tempo, você poder ter permitido inúmeras distorções da lei que pretendia honrar.
 Além disso, o nativo tem uma grande necessidade por liberdade pessoal e não permite que os outros dificultem ou obstruam o seu espaço.
--stron Em algumas pessoas esta posição se manifesta num grande amor pela vida espiritual./stron
+<strong> Em algumas pessoas esta posição se manifesta num grande amor pela vida espiritual.</strong>
 Há necessidade por um sentido de amplitude na vida e sacrifica a intimidade com as outras pessoas a fim de preencher esta necessidade.
 É uma pessoa independente e por isso não gosta de ser colocado no molde dos desejos dos outros.
 Pode ser uma posição difícil para o casamento ou qualquer outro relacionamento de natureza duradoura, pois não aceita compromissos permanentes.
 Carmicamente traz consigo para esta vida um resíduo muito forte de fazer o que gosta e quando gosta de fazê-lo.
-O nativo deve, portanto, buscar um real progresso espiritual. Praticar amplamente a tolerância religiosa e a abertura para o relacionamento sem medo de perder sua liberdade. -break`,
+O nativo deve, portanto, buscar um real progresso espiritual. Praticar amplamente a tolerância religiosa e a abertura para o relacionamento sem medo de perder sua liberdade. <br />`,
 
       `Terá o nativo representado um papel ativo na Inquisição da Idade Média? Na época dos puritanos na Inglaterra?
 Teria ele sido um reformador intransigente? Talvez tenha chegado a torturar prisioneiros e a condená-los à morte, motivado por um fanatismo religioso estreito.
 Uma coisa é certa: em vidas passadas, o nativo impulsionou filosofias ou religiões dogmáticas e intolerantes. Também pode ter sido um ateu militante, perseguindo sistematicamente os crentes.
-A lição cármica que se destaca dessa posição de Marte é a de trabalhar para propagar a tolerância, o respeito a outras culturas, às liberdades religiosas e cívicas. Acima de tudo, cultivar uma filosofia prática e humana. -break`,
+A lição cármica que se destaca dessa posição de Marte é a de trabalhar para propagar a tolerância, o respeito a outras culturas, às liberdades religiosas e cívicas. Acima de tudo, cultivar uma filosofia prática e humana. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! A casa 9 é a dos ideais que motivam o nativo.
@@ -5753,13 +5498,13 @@ Portanto, Júpiter retrógrado na casa 9 indica um nativo cuja filosofia em vida
 "Puxando a brasa para a sua sardinha", o nativo foi impermeável a qualquer grande causa generosa e desinteressada. Pode ter provocado à dedicação dos outros, para em seguida abusar dela.
 Conquistador, ditador ou guru, vampirizava os seus fiéis, por simples satisfação pessoal. Consequentemente o seu progresso mental e cultural estava bloqueado.
 Na vida atual, deve encontrar uma filosofia que abra mais espaço aos outros: ser tolerante o bastante para admitir a pluralidade das religiões, respeitar as outras culturas e a liberdade das consciências.
-Assim poderá descobrir muitas coisas que lhe haviam escapado até aqui. -break`,
+Assim poderá descobrir muitas coisas que lhe haviam escapado até aqui. <br />`,
 
       `A aptidão para o ensino e para a transmissão dos conhecimentos é ainda mais marcante com Saturno retrógrado na casa 9.
 O nativo viveu como monge, sacerdote ou sacerdotisa, iniciado ou guia espiritual em civilizações passadas. Mas em seu trabalho, pode ter sido intolerante, dogmático, inquisidor ou fanático.
 Arrastado por meras questões partidárias, o nativo não procurou estender os seus conhecimentos. Não ampliou a consciência, não expandiu os horizontes, não cultivou a abertura de espírito.
 Hoje deve liquidar essa dívida estudando com honestidade e tolerante, sem a rigidez de velhas crenças ou filosofias, sem os entraves das correntes religiosas e filosóficas de sua época.
-Que trabalhe com as novas tecnologias, a história das religiões e das culturas ou o direito, com liberdade de pensamento. Esta busca constante e honesta da verdade lhe trará grandes alegrias. -break`,
+Que trabalhe com as novas tecnologias, a história das religiões e das culturas ou o direito, com liberdade de pensamento. Esta busca constante e honesta da verdade lhe trará grandes alegrias. <br />`,
 
       `Urano retrógrado aqui indica ideias avançadas em filosofia, religião, espiritualidade e educação superior, trazidas de vidas passadas.
 As pessoas com esta posição com frequência se afastam de pontos de vista religiosos ortodoxos e se interessam por astrologia, telepatia, ciências ocultas ou a ideia de reencarnação, por exemplo.
@@ -5768,13 +5513,13 @@ Com frequência, cultivam ideias utópicas e os nativos tendem a viajar de repen
 O mistério do passado remoto, de longas distâncias ou de um futuro utópico os fascina. Daí o seu interesse por assuntos como astronomia ou arqueologia.
 No seu pior, pode indicar adesão fanática a cultos esotéricos, filosofias políticas ou sociais. Suas respostas prontas para os males do mundo não têm qualquer fundamento prático.
 Podem ocorrer ideias inspiradas sobre soluções alternativas e mudanças necessárias para a realização de uma ordem social mais humana.
-Escritores e filósofos que se dedicam à astrologia e ao ocultismo com frequência também têm Urano nesta casa em seu Mapa. -break`,
+Escritores e filósofos que se dedicam à astrologia e ao ocultismo com frequência também têm Urano nesta casa em seu Mapa. <br />`,
 
       `Esta casa diz respeito à religião, à filosofia, à expansão da consciência e a buscar espirituais. É provável que o nativo tenha demonstrado, quer muita confusão, quer uma grande intransigência, em suas existências passadas.
 Em virtude dessa intolerância, faltou-lhe compaixão. Talvez tenha sido sacerdote, ou alto dignitário de uma igreja e não tivesse levado aos fiéis o auxílio que estes tinham direito a esperar dele.
 Em suas vidas anteriores, vividas no estrangeiro, Netuno indica que o nativo não desenvolveu a verdadeira pesquisa espiritual (que não se deixa encerrar nos dogmas).
 Talvez inúmeras viagens tivessem constituído o pretexto para essa recusa das responsabilidades.
-Nesta vida deve abrir seu espírito, compreender que os muros que separam as igrejas não sobem até o céu. Liquidará seu carma buscando a sabedoria, procurando se informar o mais ampla e honestamente possível. É importante não julgar nem condene ninguém. -break`,
+Nesta vida deve abrir seu espírito, compreender que os muros que separam as igrejas não sobem até o céu. Liquidará seu carma buscando a sabedoria, procurando se informar o mais ampla e honestamente possível. É importante não julgar nem condene ninguém. <br />`,
 
       `A casa 9 fala dos ideais filosóficas e espirituais, da justiça e da Lei. Portanto, a transformação de Plutão se dá nesses assuntos.
 Nos melhores casos, o planeta indica apenas a continuação de um trabalho que não pôde ser completado numa vida passada.
@@ -5784,7 +5529,7 @@ Era ele um missionário que impunha à força suas ideias religiosas? Tinha ele 
 Tinha ele expor¬tado para um país estrangeiro ideias destruidoras, embaladas numa apre¬sentação sedutora?
 De qualquer modo, uma sede de poder e desejos sexuais dissimulados sob uma autoridade religiosa tinham conduzido o nativo a um comportamento sem piedade.
 Nesta vida, o nativo deve sobre tudo cultivar a tolerância. Pode reencontrar suas antigas vítimas ao sabor das circunstâncias.
-Mas se expandir a consciência, buscar sabedoria e praticar uma espiritualidade generosa, sua dívida cármica será eliminada. -break`,
+Mas se expandir a consciência, buscar sabedoria e praticar uma espiritualidade generosa, sua dívida cármica será eliminada. <br />`,
 
       `Quíron na casa 9 mostra aqueles que podem programar viagens fantásticas para os outros enquanto eles estão presos no escritório fazendo reservas.
 Também pode ser um editor ou um professor de redação que prepara com dedicação os livros escritos por outros, enquanto secretamente alimenta o desejo de escrever e publicar seus próprios livros.
@@ -5793,13 +5538,13 @@ Negativamente, também pode significar que pode forçar um filho a estudar uma �
 Alguns pais podem até mesmo privar seus filhos do ensino superior devido à sua própria frustração.
 A casa 9 também trata das crenças e da religião e Quíron na casa 9 pode levar à busca fanática de alguma doutrina religiosa ou de uma crença, com a finalidade de curar todas as feridas interiores, ou uma obsessão por viagens ou estudos esquecendo de outras áreas da vida.
 A questão de Quíron em Sagitário também se relaciona à capacidade de julgamento, a pessoa tende a não ouvir opiniões e conselhos achando que sabe tudo.
-No entanto, Quíron na casa 9 pode produzir grandes sábios e conselheiros porque tem um grande conhecimento, embora sejam muito modestos. -break`,
+No entanto, Quíron na casa 9 pode produzir grandes sábios e conselheiros porque tem um grande conhecimento, embora sejam muito modestos. <br />`,
 
       `Juno enfatiza aí, a dimensão espiritual da parceria, a sintonia filosófica. A busca de uma parceria ideal que opera em conjunto.
 Esta também é uma posição que favorece mais de uma união, será provável que na segunda ou terceira união a pessoa seja mais bem sucedida.
-Há também uma tendência para idealizar o parceiro/a e que deve se corresponder, de alguma forma ou em algum campo a esta idealização. Tendência a legalizar suas uniões e parcerias. -break`,
+Há também uma tendência para idealizar o parceiro/a e que deve se corresponder, de alguma forma ou em algum campo a esta idealização. Tendência a legalizar suas uniões e parcerias. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -5812,7 +5557,7 @@ Há também uma tendência para idealizar o parceiro/a e que deve se corresponde
     ]
   },
   {
-    title: `Casa 10`,
+    title: `Casa 10</strong>`,
     text: [
      `Quando o Sol ocupa a casa 10, o nativo constrói sua identidade no desenvolvimento da carreira, das conquistas profissionais e do status social.
 Na casa 10, o Sol expressa seus potenciais na busca do reconhecimento de suas habilidades únicas. Há necessidade de ser admirado, de cultivar ambição e realizar seu propósito de vida.
@@ -5824,7 +5569,7 @@ Isso pode causar uma crise de identidade, fazendo-o perder o sentido da vida se 
 Em algum momento da vida algo pode fazer com que o nativo perceba que seu poder vem de si mesmo e não da necessidade que tem da admiração dos outros.
 O nativo entende o mundo, como ele funciona, quais são suas leis, como alguém deve se comportar na esfera pública, pois sabe que dali é sempre observado.
 Entende intuitivamente que só conquista o mundo quem escala sua própria montanha e trabalha dia após dia para isso adaptando-se às regras do mundo.
-Fica claro que, não importa o que os seus antepassados, marido ou esposa fizeram, pois quem precisa fazer algo de significativo e realizar algo é si mesmo. -break`,
+Fica claro que, não importa o que os seus antepassados, marido ou esposa fizeram, pois quem precisa fazer algo de significativo e realizar algo é si mesmo. <br />`,
 
      `A Lua na casa 10 proporciona o impulso interior para brilhar de alguma forma diante do público ou de ajudar a humanidade numa escala grandiosa.
 Pode ter uma carência marcada por acontecimentos desagradáveis que ocorreram na infância.
@@ -5832,7 +5577,7 @@ Também indica popularidade e destaque na sociedade, isso funciona como um efeit
 Os pais, sobretudo a mãe, podem ser muito voltados a uma carreira. Há tendência para querer competir com ela ou com outras mulheres.
 Podem se sentir atraídos por profissões que atendam as necessidades femininas, como em moda, estética, artigos femininos, aparelhos domésticos ou artigos para residência.
 Pode também se sobressair na comunidade, no país ou na profissão. Isso pode representar extrema importância para si e para outros.
-É muito importante que o nativo cultive a força de pensamento e a autoconfiança para alcançar sucesso e projeção profissional. -break`,
+É muito importante que o nativo cultive a força de pensamento e a autoconfiança para alcançar sucesso e projeção profissional. <br />`,
 
       `Mercúrio localizado na Décima Casa indica pessoas que buscam a educação por razões de ambição profissional. Elas desejam aumentar o seu conhecimento visando carreiras lucrativas e influentes.
 Esta posição de Mercúrio oferece aos nativos uma boa habilidade de organização e capacidade para planejar o futuro.
@@ -5841,18 +5586,18 @@ As suas carreiras não são acidentais, mas o resultado de planos deliberados de
 Mercúrio na Décima Casa oferece a capacidade de comunicação com as pessoas em posições de poder e liderança.
 Consequentemente, muitos estrategistas políticos e redatores de discursos possuem esta posição.
 Também pode indicar habilidade executiva e capacidade de comunicação com o público. É a posição de políticos que se destacaram por suas ideias brilhantes.
-Pessoas que pertencem a profissões relacionadas aos meios de comunicação, imprensa, literatura, divulgação, ensino ou oratória também podem ter Mercúrio nesta casa. -break`,
+Pessoas que pertencem a profissões relacionadas aos meios de comunicação, imprensa, literatura, divulgação, ensino ou oratória também podem ter Mercúrio nesta casa. <br />`,
 
       `Vênus na Décima Casa indica ambição social e artística. O indivíduo provavelmente irá escolher uma profissão relacionada às artes e, se possuir talento artístico, tem boa chance de reconhecimento.
 É provável que procure se casar com alguém capaz de lhe proporcionar status e riqueza. Podem existir boas relações e amizade com patrões e pessoas em posições de poder.
 Esta posição de Vênus proporciona ao nativo sucesso nos contatos com o sexo oposto, o que pode favorecer as suas carreiras.
-É preciso cuidado para não se tornar socialmente interesseiro ou alguém que esquece os seus velhos amigos assim que realiza suas ambições sociais. -break`,
+É preciso cuidado para não se tornar socialmente interesseiro ou alguém que esquece os seus velhos amigos assim que realiza suas ambições sociais. <br />`,
 
       `Marte na Décima Casa indica pessoas que desejam fama e status. Como são vigorosas na busca de uma carreira possui um forte impulso competitivo para chegar ao topo.
 Isso com frequência as conduzem a áreas como a política, a administração ou a engenharia. Profissões militares também as atraem. Aqui, Marte é muito poderoso.
 Revela iniciativa e capacidade executiva na realização prática. Ele também pode produzir líderes políticos eficientes e construtivos.
 A ambição profissional competitiva dessas pessoas geralmente lhes traz fama ou notoriedade. É preciso cuidado para não utilizar meios desleais na busca de poder ou posição.
-Quando os erros são revelados, podem resultar em má reputação e mudanças súbitas na sorte. Em casos extremos, pode haver desejo de poder a qualquer custo no que se refere à carreira e ambições. -break`,
+Quando os erros são revelados, podem resultar em má reputação e mudanças súbitas na sorte. Em casos extremos, pode haver desejo de poder a qualquer custo no que se refere à carreira e ambições. <br />`,
 
       `Júpiter na Décima Casa indica destaque e posição elevada na profissão, na maioria das vezes manifestada na última parte da vida.
 Os princípios religiosos e éticos são utilizados em contatos de negócios e responsabilidades públicas. Ações benevolentes podem levá-los a posições de influência.
@@ -5863,7 +5608,7 @@ Os nativos geralmente adquirem boa reputação e são considerados pilares da so
 Na área da educação superior, estes nativos costumam se preparar com afinco para serem dignos de maior confiança e responsabilidade, sendo recompensados com o reconhecimento dos outros.
 Possuí atitudes dignas, especialmente nos últimos anos e pode adquirir riquezas nessa fase da vida.
 Mas a negligência dos assuntos domésticos, enquanto procuram realizar as suas ambições, pode provocar relacionamentos insatisfatórios no lar.
-É preciso observar-se quanto há hipocrisia e vaidade que podem conduzir ao revés da sorte. -break`,
+É preciso observar-se quanto há hipocrisia e vaidade que podem conduzir ao revés da sorte. <br />`,
 
       `Saturno na Décima Casa está poderosamente localizado, porque esta casa corresponde ao signo de Capricórnio, regido por Saturno. Portanto, indica fortes ambições profissionais.
 O desejo de obter status na profissão é ocorre especialmente após a idade de 29 anos e em anos posteriores. Saturno na casa 10 proporciona capacidade de organização e administração.
@@ -5873,13 +5618,13 @@ Os nativos com Saturno nesta casa precisam cultivar responsabilidade e extrema c
 Caso contrário, podem se expor à desgraça ou a pesadas dívidas cármicas. Um preço elevado deve ser pago pela violação da lei universal.
 É importante que a ambição e o sucesso não se tornem fins em si mesmo, mas meios para servir a ordem social mais ampla. Por isso, é exigido um exame cuidadoso dos motivos da busca pelo poder.
 É muito melhor que as posições de liderança jamais sejam alcançadas se forem mal utilizadas, provocando sofrimentos aos outros.
-Os erros resultantes só podem ser corrigidos sob circunstâncias difíceis e desfavoráveis. -break`,
+Os erros resultantes só podem ser corrigidos sob circunstâncias difíceis e desfavoráveis. <br />`,
 
       `O nativo sente necessidade de escolher uma profissão diferente, inovadora ou excêntrica. Urano nessa casa indica muita inquietação, própria de quem quer resolver tudo por seus próprios meios.
 Pode haver problemas com chefes e figuras de autoridade, a começar na infância com os próprios pais e professores.
 É preciso cultivar liberdade, pois acredita que este é o único caminho para a realização. Os trabalhos técnicos e científicos estão favorecidos, mas devem ter um forte vínculo com o futuro da civilização.
 A carreira pode ser desenvolvida com independência e autonomia, com interesses voltados para as novas correntes de pensamento. Pode haver interesse pela Astrologia.
-Reputação de modernidade, criatividade e originalidade no amor. O nativo pode se conectar com as novas tendências, descobrir ou introduzir ideias e conceitos que são imediatamente adotados. -break`,
+Reputação de modernidade, criatividade e originalidade no amor. O nativo pode se conectar com as novas tendências, descobrir ou introduzir ideias e conceitos que são imediatamente adotados. <br />`,
 
       `Netuno nessa casa pode indicar alguma confusão nas escolhas profissionais. Contudo, é um bom posicionamento para uma carreira espiritual ou metafísica.
 Ou para as artes, o serviço humanitário e a medicina. Netuno tem relação com o mar: a biologia marinha, oceanografia, pesca ou marinha mercante também são opções.
@@ -5890,7 +5635,7 @@ Pode também querer fugir de qualquer função social, de compromissos no trabal
 Na via positiva pode tocar o espírito humano de uma forma bela, encantadora, artística, doadora e humanitária. Entregar-se aos ideais humanitários e elevados.
 Com seu trabalho, inspirar nas pessoas a capacidade de sonhar, imaginar e criar. O desafio é estabelecer metas definidas e objetivas.
 Optar por uma profissão que lhe permita desenvolver talentos e qualidades para canalizar sua sensibilidade.
-Desenvolver encanto, carisma, senso refinado de beleza, diplomacia, bons costumes, compaixão, confraternização, espiritualidade, imaginação e sonhos. -break`,
+Desenvolver encanto, carisma, senso refinado de beleza, diplomacia, bons costumes, compaixão, confraternização, espiritualidade, imaginação e sonhos. <br />`,
 
       `Plutão nesta casa indica força de vontade muito desenvolvida e forte impulso de atingir o sucesso. O nativo com esta posição pode se tornar um líder espiritual na reforma das estruturas de poder existentes.
 Também é provável que seja líder na ciência ou no ocultismo. Em alguns casos, pode haver inclinação especial para a cura, a clarividência ou a profecia.
@@ -5898,39 +5643,39 @@ O desejo de reformar e reabilitar o mundo cria amigos e inimigos poderosos. O na
 Crises em suas carreiras podem forçá-las a alterar drasticamente as suas atividades profissionais. Nos piores casos, Plutão pode indicar tendências autoritárias e ambições pessoais egoístas.
 Por vezes, esta posição faz com que os nativos se sintam afastados dos outros devido às suas próprias responsabilidades opressivas.
 Como são hábeis para lidar com pessoas em posições de poder e para compreender as suas motivações, esta é uma posição favorável para a política e outras formas de trabalho público.
-Nos melhores casos, a perspicácia conduz a uma liderança sábia. -break`,
+Nos melhores casos, a perspicácia conduz a uma liderança sábia. <br />`,
 
       `O nodo sul mostra que em vidas passadas o nativo buscou projeção e reconhecimento social, autoridade e poder.
 Mas o lar, a família e a vida emocional não deveriam ser negligenciados pelo sucesso mundano. O nativo pode trazer de outras vidas fortes laços cármicos familiares.
 O caminho da evolução revela que para que haja crescimento, o nativo deve construir uma base emocional sólida.
 São encorajadas atividades que alimentem a vida sentimental do nativo, que aumentem seu autoconhecimento psicológico. O aprendizado vem através do "trabalho interior" do self.
 Mais do que o êxito social, seu aprendizado é cultivar os afetos em relação ao lar e à família para que os seus sentimentos possam finalmente fluir e ser expressos livremente.
-Ao invés de buscar apenas o sucesso profissional, o nativo deve reservar um tempo para desenvolver as esferas privadas e pessoais da vida, especialmente no ambiente familiar. -break`,
+Ao invés de buscar apenas o sucesso profissional, o nativo deve reservar um tempo para desenvolver as esferas privadas e pessoais da vida, especialmente no ambiente familiar. <br />`,
 
       `Aqui lidamos com o empreendedor e o profissional, no sentido mais profundo.
 O indivíduo com a Parte da Fortuna nesta casa aceita cumprir o seu papel na sociedade – um papel que normalmente foi formulado pelas gerações passadas.
 Esta identificação com uma função social ou “destino” nunca é totalmente significativa e criativa, a menos que o nativo também tenha suas bases emocionais e familiares bem construídas.
 Que seja uma pessoa segura e ao mesmo tempo sensível, profundamente enraizada no próprio terreno da personalidade individual.
 Assim pode buscar a projeção profissional e contribuir com algo significativo para o mundo.
-Concretizar seus sonhos de forma capricorniana: sendo realista, paciente, ambicioso na medida certa, aprendendo com os erros. -break`,
+Concretizar seus sonhos de forma capricorniana: sendo realista, paciente, ambicioso na medida certa, aprendendo com os erros. <br />`,
 
       `Não importa a carreira escolhida, Quíron na casa 10 sempre se sente responsável para cuidar dos outros, exceto de si mesmo.
 Quíron na casa 10 tende a ajudar os outros a serem bem sucedidos, mais do que consegue para si próprio. Pode ocorrer de não se sentir apoiado na sua carreira ou realizar tarefas inadequadas às suas reais capacidades.
 Isso pode funcionar quando a pessoa rejeita qualquer ambição ou responsabilidade por medo do fracasso. Talvez os pais possam ter tido muito sucesso e queiram que o filho alcance o mesmo patamar, embora ele não queira seguir os caminhos dos pais.
 Ou pode acontecer do filho ter grande ambição profissional devido ao fracasso profissional do pai. Quíron na casa 10 indica sacrifício e abnegação, que pode estar numa ajuda humanitária.
 O nativo sente uma necessidade de ajudar e quando Quíron está proeminente no mapa ou em aspectos com a casa 10, confere competência curadora, mas negligencia suas próprias dores, sentindo-se desprotegido.
-Esta é uma boa posição para terapeutas e profissionais da área da saúde. -break`,
+Esta é uma boa posição para terapeutas e profissionais da área da saúde. <br />`,
 
       `Os relacionamentos mais significativos são aqueles estabelecidos no ambiente da profissão ou no ambiente social, onde haja interesse mútuo para alcançar status e projeção.
 Pode estabelecer parcerias com pessoas da mesma profissão ou da mesma empresa onde trabalha, instituições governamentais ou sociais. As parcerias que o nativo formar terão algum teor público.
 Mas o nativo com Juno na casa 10 terá que aprender a ficar um pouco apagado diante desse parceiro/a, ou pelo menos a partilhar com ele todos os seus louros e sucessos.
 A posição de Juno nessa casa mostra certa predestinação conjugal. Essa parceria pode auxiliar o nativo a se afirmar no mundo, desenvolver um empreendimento ou mesmo trabalhar junto com o parceiro.
-No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade, prudente e séria. No de um homem, que a esposa que ele escolherá terá estas características. -break`,
+No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade, prudente e séria. No de um homem, que a esposa que ele escolherá terá estas características. <br />`,
 
       `Nas profissões que a pessoa exercia durante certas vidas passadas, tinha tendência a se mostrar indeciso, leviano, irresponsável.
 Tinha dificuldade em assumir seriamente uma carreira. Muito oportunista, só se empenhava na medida dos seus próprios interesses. Isso pode tê-lo impedido de ser bem sucedido.
 Era, entretanto, observador, e possuía o senso do comércio. Pode agora, por exemplo, buscar uma carreira na administração ou no serviço público: ali, aprenderá a inspirar confiança, obrigando-se a uma rigorosa honestidade.
-Em muitos casos, é possível também que o nativo tenha uma dívida cármica para com sua mãe ou seu pai. -break`,
+Em muitos casos, é possível também que o nativo tenha uma dívida cármica para com sua mãe ou seu pai. <br />`,
 
       `O nativo traz frustrações de vidas passadas, o que desejara lhe fora recusado. Almejara particularmente o prestígio, as honras, a glória - ou, pelo menos, a aprovação dos seus chefes.
 O fracasso vem de certos traços negativos de sua personalidade, particularmente a falta de tato e de diplomacia.
@@ -5941,23 +5686,23 @@ Pode se tornar excessivamente preocupado sobre como está se integrando com os o
 Isto tende a fazê-lo se sentir menos confortável em público. Sente fortemente a responsabilidade do passado e não tem certeza se é capaz de viver de acordo com ela.
 No mapa de um homem isto pode trazer dificuldades com as mulheres, como resultado do domínio de uma mulher mais velha no começo da vida.
 Geralmente existe muita habilidade criativa já desenvolvida em encarnações passadas, mas o indivíduo precisa desenvolver a confiança em si mesmo, se quiser expressá-la.
-Carmicamente passa pela vida tentando reunir os sentimentos que lhe darão propósito de que necessita. Tão logo possa fazê-lo, começará a expressar o que esteve procurando em sua vida. -break`,
+Carmicamente passa pela vida tentando reunir os sentimentos que lhe darão propósito de que necessita. Tão logo possa fazê-lo, começará a expressar o que esteve procurando em sua vida. <br />`,
 
       `Uma grande instabilidade profissional é sugerida por esta posição de Marte. O nativo, em vidas passadas, não tinha apreendido todo o alcance da atividade profissional.
 Alimentou conflitos com seus superiores, não respeitou a disciplina ou revoltou-se contra seus chefes. Imediatista, tinha em vista apenas seu próprio interesse e o momento presente.
 Se foi um cirurgião, talvez fizesse com que o dinheiro e o desejo de promoção passassem à frente da saúde de seus pacientes. É possível também que tenha tido, em sua profissão, um comportamento sádico.
-A lição cármica, aqui escolhida pelo nativo, é a de aprender a perseverança nos esforços profissionais. Que o nativo seja prudente, ponderado, e se preserve de sacrificar sua honra às ambições. -break`,
+A lição cármica, aqui escolhida pelo nativo, é a de aprender a perseverança nos esforços profissionais. Que o nativo seja prudente, ponderado, e se preserve de sacrificar sua honra às ambições. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Nas vidas anteriores, o nativo não desenvolveu a expansão nas metas de vida, nas realizações profissionais, na carreira e nos empreendimentos.
 Pode ter sido irresponsável ou desonesto na vida profissional. Ou pode não ter tido a oportunidade de avançar, conquistar o sucesso e a projeção profissional. Agora é preciso redobrar o cuidado para não estragar a carreira por sua própria culpa.
-Na vida atual, escolheu uma nova oportunidade de cultivar e obter sucesso, tanto financeiro, quanto profissional. É preciso cultivar a ética, manter-se digno, responsável, confiante, otimista, leal e honesto. -break`,
+Na vida atual, escolheu uma nova oportunidade de cultivar e obter sucesso, tanto financeiro, quanto profissional. É preciso cultivar a ética, manter-se digno, responsável, confiante, otimista, leal e honesto. <br />`,
 
       `Saturno retrógrado nesta casa indica que o nativo foi e ambicioso em vidas passadas. O culto da personalidade, o poder e a ausência de compaixão para com os outros foi marcante.
 Ou então fugiu dos compromissos profissionais. Os dois extremos são possíveis: seja um abuso de autoridade, seja uma fuga, diante das responsabilidades que esta implica.
 Na vida atual, o nativo deve progredir com empenho e determinação, lentamente. Terá todo o tempo, em cada etapa, para meditar sobre o poder, sobre a autoridade dada em função do serviço para o bem do coletivo.
 Talvez chegue a um cargo de alta responsabilidade, tarde na vida. Terá tido tempo para refletir sobre as motivações da sua ambição.
-Caso consiga utilizar a autoridade com uma preocupação de promover a justiça e o crescimento de todos, liquidará suas dívidas cármicas. -break`,
+Caso consiga utilizar a autoridade com uma preocupação de promover a justiça e o crescimento de todos, liquidará suas dívidas cármicas. <br />`,
 
       `Urano retrógrado aqui indica profissões e reputações incomuns, tendência trazida de vidas passadas.
 Esta posição pode criar líderes nas áreas científicas e humanitárias ou no ocultismo. Eletrônica, matemática e astrologia são profissões típicas.
@@ -5968,14 +5713,14 @@ Muitos executivos das áreas de eletrônica e ciência têm Urano nesta posiçã
 Também existe a possibilidade de muitos empregos diferentes, incapacidade de lidar com chefes e pessoas em posições de autoridade.
 No seu pior, uma súbita ascensão a posições de destaque pode ser seguida de uma queda igualmente repentina para a obscuridade.
 Pode também haver má vontade em se submeter às responsabilidades do dia-a-dia. Os nativos exigem e precisam de liberdade no seu trabalho.
-Os nativos são mais felizes quando tem a oportunidade de dirigir as atividades da sua carreira. -break`,
+Os nativos são mais felizes quando tem a oportunidade de dirigir as atividades da sua carreira. <br />`,
 
       `Em vidas passadas o nativo deteve o poder e não fez bom  uso dele. Como se trata do místico Netuno, este poder pode ter sido de carácter religioso, ligado a uma religião ou a uma doutrina, como, por exemplo, certos chefes de Estado atuais em torno do Mediterrâneo e do golfo Pérsico.
 Um poder oficial combinado com um poder religioso se toma extremamente forte. O nativo não havia conservado o espírito de colaboração e amabilidade para com seus irmãos. Pode ter se transformado num ditador, sempre em nome de uma mística.
 Daí as suas dificuldades profissionais hoje: orientação difícil entre várias profissões, patrões odiosos que o perseguem ou trapaças no emprego. Se o nativo ainda não aprendeu uma lição suficiente das suas vidas passadas, seus superiores, até mesmo os melhores, irão recusar-lhe a confiança.
 Mas é possível também que, tendo compreendido isso, o nativo seja perfeitamente íntegro, embora deva ainda liquidar algumas dívidas para com aqueles que lesara anteriormente.
 Isso se traduz por desilusões nos seus sucessivos empregos. O nativo deve então desenvolver uma atitude de desprendimento com relação à vida profissional.
-Caso consiga, pela inte¬gridade, inspirar confiança, é capaz de ir longe, pois desde muitas vidas passadas tem a experiência das responsabilidades superiores. -break`,
+Caso consiga, pela inte¬gridade, inspirar confiança, é capaz de ir longe, pois desde muitas vidas passadas tem a experiência das responsabilidades superiores. <br />`,
 
       `Plutão retrógrado nesta casa inspira grandes ambições ao nativo. Indica que grandes poderes foram conquistados em vidas passadas. Mas esse poder foi negociado ou usado mal.
 Ou ainda, se esse poder foi perdido gerou uma grande frustração. O nativo reencarna com o desejo apaixonado de retomá-lo. Mas não como ditadores. Seu gosto muito forte pelo poder não chega a tanto.
@@ -5983,21 +5728,21 @@ Muitos dos nativos com Plutão nessa posição já refletiram, de vida em vida, 
 Mas uma vez instalados, uma armadilha os espreita: é a possibilidade de o poder transformar-se num fim em si mesmo.
 O risco é esquecer o objetivo de Serviço que motivou sua reencarnação atual. Quando chegamos muito idosos aos cargos de autoridade, arriscamo-nos a esquecer nosso programa no caminho.
 Esta posição plutoniana indica viva intuição, dons parapsicológicos. O nativo está fortemente ligado aos mundos invisíveis e por vezes é mais clarividente do que os que o cercam.
-De qualquer modo, é um carácter muito complexo, bastante secreto, que muitas pessoas, mesmo entre seus parentes, queixam-se de não entender. -break`,
+De qualquer modo, é um carácter muito complexo, bastante secreto, que muitas pessoas, mesmo entre seus parentes, queixam-se de não entender. <br />`,
 
       `Não importa a carreira escolhida, Quíron na casa 10 sempre se sente responsável para cuidar dos outros, exceto de si mesmo. Quíron na casa 10 tende a ajudar os outros a serem bem sucedidos, mais do que consegue para si próprio.
 Pode ocorrer de não se sentir apoiado na sua carreira ou realizar tarefas inadequadas às suas reais capacidades. Isso pode funcionar quando a pessoa rejeita qualquer ambição ou responsabilidade por medo do fracasso.
 Talvez os pais possam ter tido muito sucesso e queiram que o filho alcance o mesmo patamar, embora ele não queira seguir os caminhos dos pais. Ou pode acontecer do filho ter grande ambição profissional devido ao fracasso profissional do pai.
 Quíron na casa 10 indica sacrifício e abnegação, que pode estar numa ajuda humanitária, principalmente com Quíron em Câncer.
-A pessoa sente uma necessidade de ajudar e quando Quíron está proeminente no mapa ou em aspectos com a casa 10, confere competência curadora, mas negligencia suas próprias dores, sentindo-se desprotegida. -break`,
+A pessoa sente uma necessidade de ajudar e quando Quíron está proeminente no mapa ou em aspectos com a casa 10, confere competência curadora, mas negligencia suas próprias dores, sentindo-se desprotegida. <br />`,
 
       `Se o asteroide está no Meio do Céu conjunto a este ou mesmo na décima casa, as parcerias que esta pessoa formar, terão algum teor público, e serão de alguma forma responsáveis pela forma que esta aparece para os outros. Podem também indicar a união do profissional e do conjugal.
 Mas a pessoa com Juno da décima casa terá que aprender a ficar um pouco apagada diante desse parceiro/a, ou pelo menos a partilhar com ele todos os seus louros e sucessos.
 Essa posição por signo, ou casa mostra uma certa predestinação conjugal, a qual permitirá a ela que se afirme no mundo, ou mesmo que trabalhe com essa pessoa.
 Considerar o posicionamento de Júpiter para avaliar o potencial de sucesso social, que pode ser alcançado através de parcerias.
-No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade, prudente e séria. No de um homem, que a esposa que ele escolherá terá estas características. -break`,
+No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade, prudente e séria. No de um homem, que a esposa que ele escolherá terá estas características. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -6010,7 +5755,7 @@ No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade
     ]
   },
   {
-    title: `Casa 11`,
+    title: `Casa 11</strong>`,
     text: [
      `O Sol na Casa 11 se desenvolve através da participação num grupo, na busca contínua de progresso social e cultural.
 A consciência se volta para a interação entre o individual e o coletivo, com grande sensibilidade para os sofrimentos injustos de homens, animais e da natureza.
@@ -6023,14 +5768,14 @@ O mais importante ingrediente para a própria realização e a própria cura é 
 Esse Sol se alimenta com a esperança na transformação social, nas soluções inovadoras e alternativas, na capacidade que temos de viver juntos de maneira harmônica.
 O nativo sabe que uma das maiores riquezas da vida são os amigos. Nunca se sentirá sem rumo se tiver amigos.
 Sabe que todos nós estamos interligados. Sabe que o destino de uma pessoa não está desvinculado do destino de outros. Vive os fatos e a cultura do seu tempo e com certeza participa dele.
-Gosta de estar de se conectar com o futuro e com as novas correntes de pensamento. Sintoniza-se tanto com o coletivo que muitas vezes personifica em sua vida as tendências de vanguarda. -break`,
+Gosta de estar de se conectar com o futuro e com as novas correntes de pensamento. Sintoniza-se tanto com o coletivo que muitas vezes personifica em sua vida as tendências de vanguarda. <br />`,
 
      `A Lua nessa casa indica necessidade de companhia de amigos ou participação em clubes e grupos. Porém gosta de cultivar independência e não tolera restrições.
 Pode ocultar da família seus planos e sentimentos, pode haver dificuldade de reconhecer suas emoções ou formular planos para o futuro.
 Nutre um forte sentimento de solidariedade, pode se envolver em projetos ligados as causas sociais ou organizar movimentos em grupo.
 Porém, pode cometer alguns erros de julgamento e ser enganado por gente astuta e leviana.
 Alguns objetivos de vida podem sofrer alterações e mudanças radicais devido a circunstâncias além do próprio controle.
-Mulheres podem se tornar importantes na vida e no trabalho, dando apoio e prestando ajuda mesmo que não peça. -break`,
+Mulheres podem se tornar importantes na vida e no trabalho, dando apoio e prestando ajuda mesmo que não peça. <br />`,
 
       `Mercúrio nessa casa indica pessoas profundamente interessadas na comunicação e na troca de ideias com amigos e grupos.
 Buscam em especial associações que estimulem suas mentes e aumentem o seu conhecimento.
@@ -6040,18 +5785,18 @@ Os nativos muitas vezes se interessam por investigações científicas, astrolog
 A sua atitude é impessoal, porém amigável. É preciso cuidado com ideias demasiadamente excêntricas ou pouco práticas.
 Podem usar seus amigos para obter vantagens pessoais, ou os amigos podem orientá lo de forma errada por motivações próprias.
 Os nativos desejam trocar ideias e se comunicar com todos, independentemente da sua educação ou posição social.
-Esta receptividade a toda a humanidade amplia a mente, proporciona compaixão e grande interesse pelas questões sociais mais amplas. -break`,
+Esta receptividade a toda a humanidade amplia a mente, proporciona compaixão e grande interesse pelas questões sociais mais amplas. <br />`,
 
       `Vênus na Décima Primeira Casa indica amizades sinceras e relacionamentos estabelecidos por meio de atividades em grupo.
 A generosidade com os amigos assegura que receberá bom retorno deles. Por essa razão, as esperanças e desejos têm boa chance de se realizarem.
 O nativo com Vênus nesta casa cultiva muitos amigos do sexo oposto. As amizades também são estabelecidas com artistas e músicos.
-O parceiro no casamento com frequência é apresentado por amigos ou conhecido em atividades de grupo. Os amigos com frequência se tornam namorados. E os namorados, amigos. -break`,
+O parceiro no casamento com frequência é apresentado por amigos ou conhecido em atividades de grupo. Os amigos com frequência se tornam namorados. E os namorados, amigos. <br />`,
 
       `Marte na Décima Primeira Casa indica energia orientada às amizades e atividades em grupo. Os amigos provavelmente serão do tipo masculino e agressivo.
 Com frequência seus amigos o ajudam a realizar o seu trabalho e a satisfazer as suas ambições profissionais. Pode haver habilidade mecânica, que produz inventores de equipamentos mecânicos.
 Num indivíduo mentalmente alerta, a energia será utilizada em projetos humanitários e de reforma social.
 Mas pode haver também insatisfação com a ordem social dominante e tendências revolucionárias.
-Essa energia deve ser orientada por esforços de melhoria, e não se voltar à destruição das condições existentes ou desavenças com amigos e associações. -break`,
+Essa energia deve ser orientada por esforços de melhoria, e não se voltar à destruição das condições existentes ou desavenças com amigos e associações. <br />`,
 
       `Júpiter na Décima Primeira Casa indica pessoas que atingem os seus objetivos por intermédio de amizades e atividades em grupo.
 Os nativos são bondosos com os seus amigos e preocupados com o bem-estar da Humanidade. Portanto, são benquistos, atraem amigos generosos e prestativos.
@@ -6061,7 +5806,7 @@ As atividades de grupo com frequência possuem objetivos humanitários e caritat
 As atividades nos negócios podem estar relacionadas a invenções, ciência, assistência social, Ongs ou esforços de organização.
 Porém, se Júpiter estiver sob tensão, a expressão dos conselhos nem sempre são bons ou práticos.
 O nativo pode ter tendência a se aproveitar dos amigos e considerá-los garantidos, negligenciando as responsabilidades para com eles.
-Algumas vezes as amizades se estabelecem por motivos ocultos de lucros pessoais. -break`,
+Algumas vezes as amizades se estabelecem por motivos ocultos de lucros pessoais. <br />`,
 
       `Saturno na Décima Primeira Casa indica senso de responsabilidade nas amizades e associações de grupo. Os nativos procuram conhecer pessoas importantes e influentes como meio de favorecer o status e a carreira.
 No seu melhor, há troca de lealdade e bons conselhos entre amigos, que também podem proporcionar ao nativo, oportunidades de conhecimento e crescimento intelectual.
@@ -6069,13 +5814,13 @@ Indica senso de justiça, manifestado no reconhecimento da necessidade de ajudar
 Se o princípio de justiça for aplicado nas amizades e associações de grupo, todos receberão benefícios iguais da colaboração do grupo e da estrutura da organização.
 Contudo, no seu pior, o nativo e seus amigos podem usar uns aos outros por razões pessoais de lucro e ambição.
 Os nativos com esta posição provavelmente mantém amizade com pessoas mais velhas, sérias, voltadas à carreira, que terão influência no seu amadurecimento.
-Podem ter associações cármicas com pessoas com as quais tiveram contato em vidas passadas. -break`,
+Podem ter associações cármicas com pessoas com as quais tiveram contato em vidas passadas. <br />`,
 
       `Urano aqui está bem posicionado, pois está na casa de sua regência. Indica um interesse natural por inovações, soluções alternativas, redes sociais e novas tecnologias.
 O nativo pode expressar positivamente suas qualidades revolucionárias. Mesmo sendo uma pessoa convencional, pode cultivar amizades variadas, diferentes e anticonvencionais.
 Este posicionamento indica uma preferência trabalhos em grupo, em equipe, por relações através das quais seja possível compartilhar interesses e valores humanitários.
 Isso é mais importante do que uma forte ligação emocional. Os amigos mostram pontos de vista diferentes que permitem muitas descobertas sobre o mundo a partir deles.
-A ligação com o ocultismo pode surgir na sua maturidade. -break`,
+A ligação com o ocultismo pode surgir na sua maturidade. <br />`,
 
       `É importante que suas metas e objetivos sejam bem definidos e pensados, senão corre o risco de permanecer no sonho ao invés de agir. Ou acreditar que sua imaginação seja realidade.
 O nativo é muito aberto às sugestões, opiniões e energia psíquica em geral dos amigos, deve aprender, a saber, filtrar o que é importante e fazer escolhas.
@@ -6085,7 +5830,7 @@ Ao estabelecer um contato mais íntimo, tende a se decepcionar. Pode até ser en
 Na via positiva, pode se relacionar com amigos e grupos envolvidos com arte, espiritualidade, sensibilidade e doação.
 Quando consegue se entregar de forma amorosa e ao mesmo tempo realista, o nativo pode viver a plenitude em seus relacionamentos com os amigos e pessoas em geral.
 O nativo pode seguir o desejo íntimo de “salvar” a comunidade na qual pertence. Entregar-se ao amor e à doação de forma incondicional.
-De forma altruísta, compreender a diferença entre doar-se ou perder-se nos outros. -break`,
+De forma altruísta, compreender a diferença entre doar-se ou perder-se nos outros. <br />`,
 
       `Plutão nessa casa indica tendências reformistas expressadas nas amizades e associações de grupo.
 O nativo pode atrair amigos poderosos e associações que o ajudarão a alcançar progressos científicos e humanitários.
@@ -6094,7 +5839,7 @@ Por outro lado, a colaboração com os outros tornará possíveis sociedades bem
 Há tendência para a liderança de grupo ou trabalho em equipe bem sucedido e dinâmico. Tendem a se unir a organizações ocultas e possuem amigos ocultos.
 Pode indicar também amizades que terminam subitamente e perdas financeiras provocadas por gastos extravagantes com amigos.
 A natureza das motivações do nativo é importantíssima com esta posição de Plutão, uma vez que ela irá determinar se seus associados sentem que ele os está ajudando ou usando.
-Devem ter cuidado para respeitar os direitos dos outros e utilizarem sua própria força de vontade de maneira cooperativa, para que possam atuar criativamente dentro do grupo. -break`,
+Devem ter cuidado para respeitar os direitos dos outros e utilizarem sua própria força de vontade de maneira cooperativa, para que possam atuar criativamente dentro do grupo. <br />`,
 
       `O nodo sul mostra que em vidas passadas o nativo buscou sua projeção através de amigos, grupos e associações, na esperança de realizar certos desejos e aspirações.
 Traz a tendência de preferir as metas e objetivos comunitários, ao invés de definir suas próprias necessidades e desejos.
@@ -6102,13 +5847,13 @@ Ficou mais fácil ser levado pelos outros do que manter-se de pé por si mesmo. 
 O desafio é conseguir sair do encantamento de seus sonhos e esperanças. Há necessidade de individuação.
 O caminho da evolução é aprender que para sua realização, o nativo deve se encontrar como ser individual. O que quer que aumente o seu sentido de ser especial e único pode ser encorajado, ao invés de se misturar à multidão.
 Desenvolver a confiança para sua autoexpressão, seu poder criativo, vivenciando sentimentos nas relações afetivas e integrando-se com outros. A casa 5 também a casa dos romances do lazer e dos filhos, esses são temas a serem desenvolvidos em sua vida.
-O nativo deve cultivar seu potencial fértil, dando mais expressão espontânea ao self e aos sentimentos. -break`,
+O nativo deve cultivar seu potencial fértil, dando mais expressão espontânea ao self e aos sentimentos. <br />`,
 
       `A ampliação da consciência pessoal não somente permite a percepção de grandes questões coletivas, mas também traz a capacidade de participar em empreendimentos importantes destinados a renovar e transformar instituições e valores tradicionais.
 Num sentido mais negativo, esta casa se refere a meros sonhos ou a ideais que não estão em harmonia com o ritmo da humanidade.
 O nativo com a Parte da Fortuna nessa posição pode procurar a felicidade nos sonhos, ou pode procurar uma compensação para seus complexos em atividades revolucionarias.
-Pode também, ser um pioneiro e um reformador de valores sociais, culturais ou espirituais. -stron Darwin/stron , o pai da teoria moderna da evolução das espécies, e -stron Mahatma Gandhi/stron  – ao mesmo tempo sonhadores profetas e estadistas – são exemplos significativos.
-O nativo expandir sua rede de amizades, cultivar o senso de coletividade, buscar caminhos diferentes e novas soluções. Priorizar a inovação e o inusitado de forma aquariana: com originalidade, visão futurista, pronto para mudar. -break`,
+Pode também, ser um pioneiro e um reformador de valores sociais, culturais ou espirituais. <strong> Darwin</strong> , o pai da teoria moderna da evolução das espécies, e <strong> Mahatma Gandhi</strong>  – ao mesmo tempo sonhadores profetas e estadistas – são exemplos significativos.
+O nativo expandir sua rede de amizades, cultivar o senso de coletividade, buscar caminhos diferentes e novas soluções. Priorizar a inovação e o inusitado de forma aquariana: com originalidade, visão futurista, pronto para mudar. <br />`,
 
       `Quíron na casa 11 influencia diretamente sobre os amigos, as esperanças, projetos e desejos. Pode haver dificuldade em ter ou manter os amigos ou pode criar o medo de multidões ou grupos.
 Também ao contrário, pode buscar participar compulsivamente de grupos, associações de classe, especialmente grupos que querem mudar a sociedade a fim de compensar medos interiores da solidão.
@@ -6116,23 +5861,23 @@ Quando o nativo faz amigos apenas para não ficar só, pode ter muitos amigos, m
 Frequentemente pode ser o conselheiro de amigos, porque isso lhe dá uma sensação de controle.
 Mas também, pode ser aquele que sempre busca a opinião e conselho dos amigos a fim de compensar uma carência psicológica que parece nunca ser preenchida.
 Quíron é a ponte entre o que é velho e conservador (Saturno) e o que é inovação (Urano).
-Portanto, é importante não se apegar ao que é velho e obsoleto, mas gradativamente ir criando coisas novas, misturando o antigo com o novo. Esta é a solução para lidar com Quíron na casa 11. -break`,
+Portanto, é importante não se apegar ao que é velho e obsoleto, mas gradativamente ir criando coisas novas, misturando o antigo com o novo. Esta é a solução para lidar com Quíron na casa 11. <br />`,
 
       `Os relacionamentos mais significativos são aqueles no qual a amizade e o companheirismo prevalecem. O casal pode ser ligado aos mesmos grupos ou amigos.
 Há tendência para indagações sobre o futuro da parceria/casamento. É importante elaborar planos e projetos a serem vividos a dois, ou para o próprio casamento.
 Na via negativa, pode haver medo que suas parcerias não deem certo. Ou temer que o casamento coloque limites para sua liberdade, sua independência, sua atuação e participação no mundo.
 Pode estabelecer parcerias trabalhos de equipe, em organizações não governamentais que se dedicam aos problemas sociais, grupo de amigos ou em associações comunitárias.
 Juno favoreceu que o nativo brilhe em todas as associações e parcerias que sejam manifestações da vida associativa ou cultural.
-Capacidade de viver sua associação conjugal junto com amigos. De construir um casamento que pode fazer parte de diversos grupos. -break`,
+Capacidade de viver sua associação conjugal junto com amigos. De construir um casamento que pode fazer parte de diversos grupos. <br />`,
 
       `Nesta casa o nativo teve problemas com seus amigos ou com o grupo no qual estava inserido.
 Eram mal escolhidos e a sua influência foi desastrosa. A inferioridade deles permitia ao nativo valorizar-se, ganhando uma popularidade fácil.
 Em outros casos, ele não tinha amigos, porque não vivenciava as leis da amizade: respeito pelos outros, ajuda desinteressada.
 Na vida atual deve escolher aqueles cuja qualidade espiritual o ajudará a crescer e a amadurecer.
-Liquidará esse carma integrando-se a grupos sociais, humanitários e solidários, centrados no auxílio ao próximo. -break`,
+Liquidará esse carma integrando-se a grupos sociais, humanitários e solidários, centrados no auxílio ao próximo. <br />`,
 
       `Os amigos do nativo em vidas passadas foram tão mal acolhidos que o-impediram de progredir. Seduzido pelas lisonjas interesseiras desses amigos, não tinha coragem de afastá-los.
--stron Na vida atual, o nativo reencontra as suas antigas relações e o mesmo tipo de vida social./stron
+<strong> Na vida atual, o nativo reencontra as suas antigas relações e o mesmo tipo de vida social.</strong>
 O nativo poderá viver uma imensa curiosidade sem direção.
 Procura por satisfação em muitas direções diferentes e algumas vezes, o senso de realidade é tão singular que quase se separa de seu plano terreno de identidade.
 Quer experimentar tudo, mas não sabe por quê. Precisa aprender a discriminar para que cada nova extravagância e ilusão que atraia, seja bonita em si mesma.
@@ -6141,25 +5886,25 @@ Seu secreto desejo de viver experiências por si mesmas o mantém ligeiramente a
 Alguns, com esta posição, passam por experiências sexuais bizarras, uma vez que a necessidade por exploração está sempre tentando transcender as normas da sociedade.
 Em encarnações passadas experimentou tantas coisas diferentes que o agradaram, que se tornou uma pessoa constantemente à procura do que ainda não experimentou.
 Seus sonhos podem ser irrealistas, mas a natureza de sua realidade pessoal é desinibida com as restrições da sociedade convencional.
-Seu futuro é inteiramente baseado no quanto ele se apega às suas fantasias passadas. Deve agora aprender o discernimento e escolher relações mais refinadas, que o ajudarão a se elevar cultural e moralmente. -break`,
+Seu futuro é inteiramente baseado no quanto ele se apega às suas fantasias passadas. Deve agora aprender o discernimento e escolher relações mais refinadas, que o ajudarão a se elevar cultural e moralmente. <br />`,
 
       `Com Marte na casa 11, o nativo se envolveu com más companhias em vidas passadas. Teve como amigos indivíduos perversos ou violentos.
 Não dando qualquer valor à amizade propriamente dita, convivia com as pessoas apenas por bajulação, por interesses financeiros ou sociais.
 Ou mesmo como companhia na devassidão. Más relações passadas são sempre indicadas por um planeta retrógrado na casa 11, mas quando se trata de Marte, acrescentam-se a violência e a sexualidade.
 Nesta vida o nativo deve amadurecer e fazer uma triagem das suas relações. Sem, entretanto, julgar as más, que seguirão seu próprio caminho até o dia em que, enfim, compreenderem e despertarem.
-Enquanto não souber dizer "não", é melhor que se afaste. -break`,
+Enquanto não souber dizer "não", é melhor que se afaste. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Reinar sobre imbecis, sobre bajuladores interesseiros, pessoas pouco exigentes quanto à moralidade: tal é a armadilha na qual o nativo parece ter caído em suas vidas anteriores.
 Padecendo de um sólido complexo de inferioridade, sentia-se mais à vontade num mundo fraudulento, cujos vícios não o obrigavam a progredir.
-Nesta vida deve selecionar melhor seus amigos e os grupos com os quais se envolve. Pode se poupar de muitos dissabores na vida ao evitar se envolver com drogados, vagabundos, escroques ou devassos, por exemplo. -break`,
+Nesta vida deve selecionar melhor seus amigos e os grupos com os quais se envolve. Pode se poupar de muitos dissabores na vida ao evitar se envolver com drogados, vagabundos, escroques ou devassos, por exemplo. <br />`,
 
       `"Diz-me com quem andas e te direi quem és." O nativo, em suas vidas passadas, não entendeu nada sobre leis da amizade.
 Não cultivou a responsabilidade necessária para o cultivo de bons amigos. Não se comprometeu com o trabalho em grupo. Pode ter sido egoísta ou interesseiro.
 Pode ter cultivado amigos “inferiores” para se valorizar. Ou amigos "úteis" para suas ambições. Nesta vida, corre o risco de ficar privado de verdadeiros amigos.
 Pode sofrer com isso e questionar o motivo. É importante que agora escolha seus amigos sem motivações egoístas ou interesses mesquinhos.
 Com abertura para a troca espiritual e afetiva, reen¬contrará pouco a pouco o sentido das amizades.
-O trabalho com assistência social, ongs, causas humanitárias ou os projetos de grupo conscientes também podem ajudá-lo a liquidar essa dívida cármica. -break`,
+O trabalho com assistência social, ongs, causas humanitárias ou os projetos de grupo conscientes também podem ajudá-lo a liquidar essa dívida cármica. <br />`,
 
       `Esta posição indica pessoas liberais, preocupadas com a verdade e os acontecimentos e que não levam em consideração a tradição ou aprovação alheia.
 Os nativos trazem tendências revolucionárias e humanitárias de vidas passadas, um sentimento de fraternidade por pessoas de todas as posições e classes sociais.
@@ -6170,7 +5915,7 @@ Suas motivações egoístas provavelmente atuarão como um bumerangue, pois ning
 As pessoas com Urano nesta posição possuem uma habilidade intuitiva para perceber as leis e os princípios universais.
 Isso geralmente se manifesta num interesse pela ciência e pelo ocultismo ou, em algumas vezes, por ambos os assuntos.
 Geralmente possuem muitos amigos incomuns, mental e espiritualmente estimulantes. Gostam de atividades em grupo que tenham propósitos humanitários ou científicos.
-O seu senso de igualdade as torna tolerantes com aqueles que têm ideias e comportamento semelhantes. Nisso, são muito democráticas. -break`,
+O seu senso de igualdade as torna tolerantes com aqueles que têm ideias e comportamento semelhantes. Nisso, são muito democráticas. <br />`,
 
       `O nativo traz de vidas passadas o desco¬nhecimento dos valores da amizade. Netuno acrescenta aí uma matriz de traição: a entidade seduzia as pessoas, fazia amigos facilmente e os usava.
 Depois abandonava quando não tinha mais nada a oferecer. Todos nós conhecemos pessoas assim: quando se trata de uma brilhante festa, elas se aproximam.
@@ -6179,28 +5924,28 @@ Nesta vida, pode haver dificuldade de fazer amigos: as suas amizades terminam ra
 Os nativos nem sempre são responsáveis por isso, mas o foram, em vidas passadas. Trata-se de velhas dívidas cármicas.
 A incapacidade de ser um bom amigo leal e fiel acarreta, também, ao longo prazo, a incapacidade de ser um amante fiel. As questões do amor e das amizades têm diretamente e indiretamente as mesmas causas.
 De qualquer modo, Netuno retrógrado na casa 11 mostra vidas passadas nas quais o nativo se deixou seduzir por amigos instáveis, desonestos, de ideias confusas e nebulosas.
-Esses mesmos amigos desastrosos podem retornar nesta vida atual: o nativo deve então cultivar muito bom-senso na escolha dos que a cercam. -break`,
+Esses mesmos amigos desastrosos podem retornar nesta vida atual: o nativo deve então cultivar muito bom-senso na escolha dos que a cercam. <br />`,
 
       `Os nativos com Plutão retrógrado nessa casa experimentaram no passado a amargura de decepções com amigos e devem agora aprender a amizade desinteres¬sada.
 Em suas vidas anteriores estavam, antes de tudo, mais preocupados em receber, do que em dar. O nativo deseja conquistar amigos, não importa a que preço.
 Traz a tendência de fechar os olhos para suas próprias motivações e para a qualidade do "amigo", estabelecendo uma relação baseada apenas no interesse e nas manipulações.
 É por isso que esse tipo de amizade muitas vezes acaba mal: o ciúme não demora a se infiltrar. Colhendo o que haviam semeado, pergun¬tam-se hoje por que os amigos lhes fogem.
 Mas caminham em direção à descoberta da verdadeira amizade: simpatia espontânea baseada numa pesquisa espiritual comum.
-Esta só pode existir ao longo prazo, entre dois seres suficientemente conscientes e esclarecidos. -break`,
+Esta só pode existir ao longo prazo, entre dois seres suficientemente conscientes e esclarecidos. <br />`,
 
       `Quíron na casa 11 influencia diretamente sobre os amigos, as esperanças, projetos e desejos. Pode haver dificuldade em ter ou manter os amigos, ou pode criar o medo de multidões ou grupos.
 Também ao contrário, pode buscar participar compulsivamente de grupos, associações de classe, especialmente grupos que querem mudar a sociedade a fim de compensar medos interiores da solidão.
 Quando a pessoa faz amigos apenas para não ficar só, pode ter muitos amigos, mas a maioria dos amigos apenas ambiciona aproveitar de sua amizade.
 Frequentemente pode ser o conselheiro de amigos, porque isso lhe dá uma sensação de controle. Mas também, pode ser aquele que sempre busca a opinião e conselho dos amigos a fim de compensar uma carência psicológica que parece nunca ser preenchida.
-Quíron é a ponte entre o que é velho e conservador (Saturno) e o que é inovação (Urano). Assim não apegar-se ao que é velho, mas gradativamente ir criando coisas novas, misturando o antigo com o novo, é a solução para lidar com Quíron na casa 11. -break`,
+Quíron é a ponte entre o que é velho e conservador (Saturno) e o que é inovação (Urano). Assim não apegar-se ao que é velho, mas gradativamente ir criando coisas novas, misturando o antigo com o novo, é a solução para lidar com Quíron na casa 11. <br />`,
 
       `Juno aí permite que a pessoa brilhe em todas as associações e parcerias que sejam manifestações da vida associativa ou cultural.
 Capacidade de viver sua associação conjugal junto com amigos. De construir um casal que pode fazer parte de diversos grupos.
 Tendência para se indagar sobre o que vai acontecer no futuro com sua parceria/casamento, elaborar planos e projetos a serem vividos a dois, ou para o próprio casamento.
 No negativo pode ser uma pessoa que tem muito medo que suas parcerias não deem certo, ou que tema que o casamento lhe coloque limites para sua atuação e participação no mundo.
-Nas parcerias de amizade, fidelidade que não suporta as limitações dos amigos nem as desilusões com eles. -break`,
+Nas parcerias de amizade, fidelidade que não suporta as limitações dos amigos nem as desilusões com eles. <br />`,
 
-      `25 -break`,
+      `25 <br />`,
     ],
     levels: [
       `...`
@@ -6213,11 +5958,11 @@ Nas parcerias de amizade, fidelidade que não suporta as limitações dos amigos
     ]
   },
   {
-    title: `Casa 12`,
+    title: `Casa 12</strong>`,
     text: [
      `Quando o Sol ocupa a casa 12 há um paradoxo, pois o Sol estabelece, esclarece e desenvolve uma identidade separada e única e a casa 12 trabalha no sentido de dissolver, desestruturar e subverter as fronteiras individuais.
 Há um conflito que requer da pessoa o desenvolvimento do sentido de identidade para além da conscientização normal.
-O -stron ego/stron  e a vontade tem que desempenhar seu papel de servidor da alma, das causas espirituais. O Sol representa o consciente e a casa 12 é a casa do inconsciente.
+O <strong> ego</strong>  e a vontade tem que desempenhar seu papel de servidor da alma, das causas espirituais. O Sol representa o consciente e a casa 12 é a casa do inconsciente.
 Na jornada da casa 12, o nativo deve aprender a manejar o limite sutil entre o que é pessoal, individual e consciente, e o que é universal, coletivo e inconsciente.
 Isso significa ter que gastar muito tempo consigo mesmo, com meditações, retiros, vivências espirituais e mergulhos na alma.
 Durante o processo de formação do ego, há uma luta feroz para impedir a entrada de qualquer coisa mais vaga, irracional, mística ou transpessoal.
@@ -6228,7 +5973,7 @@ Isso implica uma coabitação entre o pessoal e o universal, uma profunda conex�
 Por isso não separa a vida em escaninhos. Percebe que está tudo interligado, que nada acontece por acaso e que a frente de algo pode ser os fundos de outra coisa.
 Sua compreensão tende a ser um pouco mais larga do que a de outras pessoas, porque abrange dimensões mais sutis.
 Não é algo que apareça em sua linguagem, mas que se reflete bastante em suas atitudes, em coisas que acaba fazendo e muitas vezes nem sabe por quê.
-Muitas vezes vê o que ninguém viu e vice-versa, o que é claro para os outros pode não ser óbvio para si. -break`,
+Muitas vezes vê o que ninguém viu e vice-versa, o que é claro para os outros pode não ser óbvio para si. <br />`,
 
      `A Lua nessa casa indica tendência para se esconder ou se isolar do mundo.
 O nativo pode se sentir mais feliz quando cuida de si e da própria vida, quando trabalha e fica dentro de casa. Há uma forte ligação com a mãe.
@@ -6236,7 +5981,7 @@ O nativo é discreto, misterioso e cultiva alguns segredos em sua vida.
 É possível que trabalhe em uma área que precise guardar segredos de outras pessoas e nas relações sociais, pode ser considerada apta a compartilhar de seus segredos.
 É muito sensível e intuitivo, seu universo interior é muito rico. A imaginação abastece a criatividade, que pode levar a criações poéticas, musicais e artísticas.
 Há necessidade de se isolar do mundo para recarregar as energias, pois o stress pode resultar em doenças.
-A necessidade instintiva de cuidar dos outros pode levar a trabalhar na área de enfermagem ou cuidar de animais ou a sacrificar-se pelos outros. -break`,
+A necessidade instintiva de cuidar dos outros pode levar a trabalhar na área de enfermagem ou cuidar de animais ou a sacrificar-se pelos outros. <br />`,
 
       `Mercúrio nessa casa indica que o pensamento do nativo tende a ser fortemente influenciado por lembranças e hábitos inconscientes originados de experiências passadas.
 As decisões podem se basear mais pelos sentimentos do que pelo raciocínio prático, uma vez que muitas impressões fluem da mente inconsciente.
@@ -6244,18 +5989,18 @@ A imaginação é muito ativa. Porém, com frequência são tímidos e hesitam e
 É preciso cuidado com neuroses, ou a fixação em experiências passadas, que não são importantes nas circunstâncias presentes.
 O indivíduo pode achar difícil se relacionar com o ambiente externo e por isso passar por dificuldades no aprendizado.
 Muitas crianças com Mercúrio nessa casa têm problemas de relacionamento durante a educação inicial, o que pode resultar em problemas na leitura ou outros bloqueios mentais.
-Há a possibilidade de se obter ideias e conhecimentos valiosos por intermédio da habilidade psíquica, mediúnica ou intuitiva. -break`,
+Há a possibilidade de se obter ideias e conhecimentos valiosos por intermédio da habilidade psíquica, mediúnica ou intuitiva. <br />`,
 
       `Vênus na Décima Segunda Casa indica amor pela tranquilidade isolamento e solidão. Os contatos pessoais e sociais com frequência são mais reservados. Podem ocorrer casos secretos de amor.
 A timidez social pode levar à solidão ou à frustração romântica. Há harmonia emocional com a mente inconsciente, que pode proporcionar profunda inspiração artística.
 Grande parte do comportamento social é motivada por um nível inconsciente. As pessoas com esta posição são gentis e compreensivas com aqueles que se encontra em uma situação de dificuldade.
-Possui grande sensibilidade e podem se magoar com facilidade. Há muita compaixão nesta posição, porque ela corresponde ao signo de Peixes, no qual Vênus está exaltado. -break`,
+Possui grande sensibilidade e podem se magoar com facilidade. Há muita compaixão nesta posição, porque ela corresponde ao signo de Peixes, no qual Vênus está exaltado. <br />`,
 
       `Marte na Décima Segunda Casa indica desejos e ações fortemente influenciados pela mente inconsciente. O trabalho e outras atividades podem ser realizados em segredo ou isolamento.
 Pode haver tendência a agir em segredo a fim de evitar a oposição aberta de outras pessoas. Os nativos tendem a ser reservados sobre os seus desejos e propósitos.
 Podem também ter envolvimentos sexuais secretos. Com frequência, trabalham em amplas instituições, onde podem ocultar ou perder a sua identidade pessoal.
 Em indivíduos menos evoluídos, pode haver envolvimento com conspirações secretas. Podem ter inimigos secretos ou sentir inimizades por outros.
-É preciso agir com ética e correção, evitar também problemas por razões políticas. É importante que sejam mais honestos e abertos a respeito da sua raiva inconsciente. -break`,
+É preciso agir com ética e correção, evitar também problemas por razões políticas. É importante que sejam mais honestos e abertos a respeito da sua raiva inconsciente. <br />`,
 
       `Júpiter na Décima Segunda Casa indica o interesse pela busca espiritual interior por meio do isolamento, da meditação e do estudo introspectivo.
 O misticismo e a intuição podem ser predominantes. Nesta posição de Júpiter, há também uma profunda compaixão pelos mais necessitados.
@@ -6264,14 +6009,14 @@ Obtêm satisfação emocional ajudando os outros e com frequência trabalham nos
 Com humildade, recebem apoio e amparo em tempos de crise, merecidos pelas suas boas ações passadas.
 Há também a capacidade de transformar inimigos em amigos. Mas se Júpiter estiver sob tensão, podem existir tendências neuróticas, complexo de mártir ou um idealismo pouco prático.
 Os nativos podem se tornar protegidos de instituições religiosas ou de caridade, ou parasitas dos que se compadecem delas.
-Dessa maneira, negligenciam a responsabilidade de desenvolver as suas próprias aptidões para o trabalho criativo e produtividade. Igualmente, há uma tendência a refugiar-se na fantasia. -break`,
+Dessa maneira, negligenciam a responsabilidade de desenvolver as suas próprias aptidões para o trabalho criativo e produtividade. Igualmente, há uma tendência a refugiar-se na fantasia. <br />`,
 
       `Saturno na Décima Segunda Casa indica que o nativo pode passar muito tempo em isolamento ou trabalhando nos bastidores de grandes instituições, como hospitais, universidades, corporações e órgãos, governamentais.
 O trabalho pode ser realizado na área da psicologia ou em instituições de caridade. É preciso observar se há tendência para a solidão ou a depressão.
 É importante se responsabilizar e se comprometer com o crescimento espiritual e trabalhar seus fantasmas emocionais. Pode haver inimigos secretos, que contribuem para a ruína do nativo.
 Mas em muitos casos esses inimigos são imaginários. Tudo vai depender do quanto se dedica a investigar as profundas regiões do inconsciente.
 Os nativos com esta posição precisam se libertar de seus problemas psicológicos por intermédio do serviço aos outros e se energizar através do trabalho prático e construtivo.
-Práticas espirituais e boas terapias podem ajudá-lo na organização interior. Ao assumir a responsabilidade por seus próprios limites e se esforçar para superá-los, inicia seu amadurecimento espiritual. -break`,
+Práticas espirituais e boas terapias podem ajudá-lo na organização interior. Ao assumir a responsabilidade por seus próprios limites e se esforçar para superá-los, inicia seu amadurecimento espiritual. <br />`,
 
       `Urano nessa casa indica tendência para suprimir os sentimentos de individualidade, a favor de viver as expectativas dos outros.
 Entretanto, é fundamental aprender a respeitar a si mesmo, respeitar sua natureza e sua individualidade, porque sem isso podem surgir ressentimentos.
@@ -6279,7 +6024,7 @@ Na maturidade surgem interesses por estudos de assuntos incomuns, interesses pel
 Alguns nativos com este posicionamento reprimem a vontade de serem individualmente diferentes. Essa energia se manifesta em algumas atitudes que não fazem sentido para as pessoas comuns.
 Em sua imaginação, há o desejo de se libertar. Um lado do nativo deseja ser livre e peculiar para viver uma vida excitante e diferente.
 Durante a juventude, algumas experiências trouxeram alguns receios e temores incorporados à personalidade. É importante vencer isso.
-Pode haver um medo interno que esteja reprimindo algum aspecto importante da personalidade e isso precisa ser devidamente analisado e resolvido. -break`,
+Pode haver um medo interno que esteja reprimindo algum aspecto importante da personalidade e isso precisa ser devidamente analisado e resolvido. <br />`,
 
       `A casa 12 é a morada natural de Netuno. Com suficiente autodisciplina, o nativo pode desenvolver forte espiritualidade e dons psíquicos.
 Possui forte imaginação, demasiado ativa. Devido à extrema sensibilidade, experimenta forças do inconsciente que por vezes podem até afetar a saúde.
@@ -6292,7 +6037,7 @@ Na via positiva, pode alimentar sua vida espiritual e o contato com o seu interi
 Tem talento para música, a dança ou outras artes. Pode se tornar uma fonte de sabedoria e compreensão.
 É importante que se dedique a ajudar, a colaborar com o bem-estar e a felicidade geral das pessoas. Desenvolver trabalho humanitário.
 Apurar o gosto pelo serviço, a caridade, através do trabalho espiritual das religiões ou de organizações caridosas, serviço em prol dos necessitados e de pessoas em sofrimento.
-Trabalhar sua sensibilidade e mediunidade através das artes, meditação, yoga, terapias alternativas ou práticas espirituais. -break`,
+Trabalhar sua sensibilidade e mediunidade através das artes, meditação, yoga, terapias alternativas ou práticas espirituais. <br />`,
 
       `Plutão na Décima Segunda Casa indica a necessidade de regenerar a mente inconsciente, trazendo o seu conteúdo para a consciência.
 Isso pode se manifestar como interesse por psicologia, ocultismo ou misticismo. Um Plutão bem desenvolvido nesta casa indica um insight profundo e clarividência.
@@ -6301,21 +6046,21 @@ A preocupação mental com seus próprios problemas faz com que ignorem as ideia
 É preciso estar atento para a possibilidade de indicar inimigos traiçoeiros, problemas neuróticos ou o perigo de envolvimento com forças psíquicas destrutivas.
 Os nativos devem evitar contato com seitas práticas espirituais distorcidas, magias perigosas, drogas e outras situações que provavelmente as envolverão com fenômenos astrais inferiores.
 No seu melhor, Plutão indica solidariedade e capacidade para melhorar as condições de vida dos menos afortunados.
-Os nativos com esta posição são capazes de desenvolver profunda meditação e compreendem os mistérios ocultos, uma habilidade que está evidenciada em poderes intuitivos muito desenvolvidos. -break`,
+Os nativos com esta posição são capazes de desenvolver profunda meditação e compreendem os mistérios ocultos, uma habilidade que está evidenciada em poderes intuitivos muito desenvolvidos. <br />`,
 
       `O nodo sul mostra uma vida passada em isolamento, contemplação, sofrimento, necessidade de recolhimento para refletir sobre as situações vividas.
 Não aceitar as responsabilidades da existência mundana pode provocar muito sonho acordado ou o secreto desejo de serem libertados, salvos e mantidos pelos outros.
 O caminho da evolução é aprender a ser útil, responsabilizar-se e prestar serviços. Só assim poderá ajudar o próximo.
 O nativo deve aprender a se organizar, criar métodos de trabalho que ajudem no seu aperfeiçoamento e também para o crescimento dos outros.
 Desenvolver e aprimorar suas qualidades, talentos, recursos e capacidades práticas proporcionará mais satisfação.
-É preciso prestar mais atenção ao eficiente e prático direcionamento da vida de cada dia. O corpo precisa ser cuidado e respeitado. -break`,
+É preciso prestar mais atenção ao eficiente e prático direcionamento da vida de cada dia. O corpo precisa ser cuidado e respeitado. <br />`,
 
       `Esta casa se refere ao inconsciente coletivo, a espiritualidade, a necessidade de transcendência.
 A Roda da Fortuna nesta casa poderá indicar a capacidade que o indivíduo tem para desenvolver esses temas em sua vida.
 O nativo pode encontrar a felicidade aceitando-se e deste modo, transformando ou dissolvendo o seu próprio carma. Ele pode se tornar uma “semente” para o inconsciente coletivo.
 Em outras palavras, suas realizações poderão se transformar na base de um novo ciclo para a coletividade.
 O nativo pode até mesmo alcançar a imortalidade pessoal: seu legado é capaz de sobreviver a desintegração do corpo físico. Para tanto, o nativo deve buscar conhecer o seu eu interior.
-Compreender o seu ser, seus sonhos e sua intuição de forma pisciana: abrindo-se para outras dimensões da vida e outros planos, com fé e visão interior. -break`,
+Compreender o seu ser, seus sonhos e sua intuição de forma pisciana: abrindo-se para outras dimensões da vida e outros planos, com fé e visão interior. <br />`,
 
       `Quíron sempre mostra o que e onde podemos fazer mais pelos outros do que para nós mesmos.
 Quando Quíron está na casa 12, a tendência é de cuidar compulsivamente dos enfermos e dos infelizes, negligenciando as próprias necessidades ou aquelas de sua própria família.
@@ -6325,20 +6070,20 @@ Outras pessoas ao contrário, fingem uma necessidade de ajuda, mostram-se infeli
 Se o nativo opta por salvar, irá buscar pelo mundo a quem possa salvar, dedicando-se a causas humanitárias quando na verdade não consegue salvar a si mesmo.
 Outros tendem a se fazer de vítima. A solução é usar a imaginação e a criatividade para gerar algo que traga alegria aos outros.
 Algumas vezes pode levar a paixões por pessoas vigaristas, pessoas drogadas ou mentirosas que trazem ruína ou levam à falência.
-Ou aquelas que iludem e enganam para roubar. A cura é dedicar-se às qualidades criativas e artísticas (fazer aula de dança, curso de pintura, de música, etc.). Ou realizar um serviço voluntário. -break`,
+Ou aquelas que iludem e enganam para roubar. A cura é dedicar-se às qualidades criativas e artísticas (fazer aula de dança, curso de pintura, de música, etc.). Ou realizar um serviço voluntário. <br />`,
 
       `O nativo sonha com uma parceria amorosa que reproduzirá o céu na terra. Tem medos ocultos de se ligar conjugalmente a alguém, por temer que essa pessoa não corresponda a esse ideal.
 Às vezes o nativo pode optar por não se ligar a ninguém por causa destes medos.
 Mas quando se liga a alguém, tem um grande potencial de se sacrificar pela manutenção da parceria / casamento. Destino, carma e espiritualidade são temas presentes nesses relacionamentos.
 Na via negativa, pode se envolver em algum sofrimento ou exigir muita dedicação. O nativo também pode estabelecer parcerias em ambientes hospitalares, instituições de caridade ou ate mesmo em atividades ilegais.
 Na via positiva, Juno nessa posição indica a busca de uma união espiritual e mística.
-É importante desenvolver consciência na forma como o nativo vivencia seu ideal afetivo. Observar se esse grande ideal romântico ajuda ou atrapalha suas associações. -break`,
+É importante desenvolver consciência na forma como o nativo vivencia seu ideal afetivo. Observar se esse grande ideal romântico ajuda ou atrapalha suas associações. <br />`,
 
       `Em suas vidas passadas o nativo se descuidou do seu aperfeiçoamento espiritual.
 Tinha muita intuição e imaginação poética, que não foram utilizadas positivamente. Teve tendência a se evadir no sonho, em discursos delirantes e obscuros.
 Recusou-se, provavelmente, a se dedicar aos outros, o que lhe teria exigido uma disciplina e sacrifícios que não estava disposto a fazer.
 Deve utilizar hoje sua viva intuição para cuidar dos outros, particularmente os doentes (seria muito eficiente num hospital). Agir mais do que sonhar (e não contar tudo a todo mundo).
-O nativo deve tomar consciência das suas dívidas cármicas e se tornar um farol de luz nesta vida. -break`,
+O nativo deve tomar consciência das suas dívidas cármicas e se tornar um farol de luz nesta vida. <br />`,
 
       `Em vidas passadas o nativo permaneceu apegado a um amor antigo, um amor que nunca se rompeu.
 O nativo demonstra tendência à autocompaixão, pois sabe, mais ou menos conscientemente, que deixou esse ser amado para trás.
@@ -6352,19 +6097,19 @@ Geralmente, nesta posição, existe muita emoção contida e, embora os outros r
 Pode ser muito criativo se não for forçado, pois tende a gastar muito tempo dentro de si mesma, absorvendo lembranças passadas de momentos nos quais sentiu paz consigo mesmo. Não procura a popularidade exterior.
 Podem surgir casos de amores clandestinos tentando manter no presente um amor do passado. Emocionalmente controlado, tende a permitir que oportunidades da vida a passem para trás.
 Cessará de perder seu tempo em vãs lamentações (cármicas), no dia em que compreender que deve viver plenamente o presente.
-Alcançará a felicidade quando perceber que, por viver no presente, não está realmente perdendo o seu passado. -break`,
+Alcançará a felicidade quando perceber que, por viver no presente, não está realmente perdendo o seu passado. <br />`,
 
       `Do ponto de vista da saúde, o nativo destruiu-se a si mesmo (drogas, bebidas ou uso neurótico de medicamentos perigosos). Em todo caso, faltava-lhe qualquer disciplina na gestão de sua saúde.
 É possível também que o nativo já tenha encarnado várias vezes para liquidar esse carma, sem conseguir: a cada vez, perdeu o pé e se afogou.
 Nesta vida pode se libertar através do auxilio ao próximo e com trabalhos de caridade (cuidar de doentes num hospital ou de prisioneiros, por exemplo).
 Deve cultivar humildade e respeitar seus limites, sem se encarregar de pro¬gramas impossíveis e pesados.
-É preciso aprender a respeitar seus limites energéticos, cuidar da saúde junto com o desenvolvimento da espiritualidade. -break`,
+É preciso aprender a respeitar seus limites energéticos, cuidar da saúde junto com o desenvolvimento da espiritualidade. <br />`,
 
       `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.
 Conclusão: pouco ou nenhum progresso... É preciso recomeçar! A vida atual oferece uma oportunidade para se libertar de seu carma.
 Trata-se provavelmente de uma dívida que a pessoa não conseguiu liquidar em várias encarnações precedentes.
 Estando Júpiter muito bem situado na casa 12, proporciona sua energia de maneira positiva, com a condição de que o nativo trabalhe seus progressos espirituais.
-A ênfase está na compaixão para com os doentes, os marginalizados e os prisioneiros. O nativo encontrará a sua felicidade ao sacrificar seu ego inferior em benefício dos mais pobres e menos afortunados. -break`,
+A ênfase está na compaixão para com os doentes, os marginalizados e os prisioneiros. O nativo encontrará a sua felicidade ao sacrificar seu ego inferior em benefício dos mais pobres e menos afortunados. <br />`,
 
       `Saturno está na casa da espiritualidade e do carma. O nativo se recusou durante várias vidas sucessivas a liquidar suas dívidas.
 Esta fuga e esta falta de coragem se agravaram. O nativo escolheu para si, desta vez, um programa de muita responsabilidade, a fim de se livrar de um pesado carma.
@@ -6372,24 +6117,24 @@ Todas as vezes que o nativo se colocar a serviço daqueles que sofrem (particula
 Caso tenha se tornado prisioneiro ou doente, se aceitar serenamente o fato esse carma se liquidará com mais rapidez.
 O programa de Saturno retrógrado na casa 12 é desenvolver a compaixão para com os outros, o amor universal.
 Aceitar com paciência seu próprio sofrimento, sem fugir dele. Comprometer-se com seu crescimento espiritual.
-Assim, o nativo poderá renascer para uma vida mais luminosa. Talvez até mesmo não mais renascer no mundo da matéria, encontrando enfim a felicidade total. -break`,
+Assim, o nativo poderá renascer para uma vida mais luminosa. Talvez até mesmo não mais renascer no mundo da matéria, encontrando enfim a felicidade total. <br />`,
 
       `Urano na Décima Segunda Casa indica uma busca oculta no inconsciente.
 A procura de uma identidade espiritual mais elevada e de mergulhos no inconsciente pode manifestar-se no interesse pela ioga, pela meditação e outras formas de misticismo.
 Pode haver aptidões intuitivas e mediúnicas. Com frequência, os nativos com esta posição se tornam confidentes dos segredos dos seus amigos. Muitas vezes se juntam a organizações secretas.
 Possuem capacidade para trabalhar nos bastidores na busca de objetivos científicos e humanitários. Mas, no seu pior, haver tendências mediúnicas ilusórias, baseadas em motivações neuróticas.
-A dedicação superficial a fenómenos psíquicos negativos, ao invés de permitir que a intuição se desenvolva naturalmente, pode criar muita confusão e desilusão na vida desses indivíduos. -break`,
+A dedicação superficial a fenómenos psíquicos negativos, ao invés de permitir que a intuição se desenvolva naturalmente, pode criar muita confusão e desilusão na vida desses indivíduos. <br />`,
 
       `Netuno está em sua casa titular, aquela que corresponde ao signo de Peixes. Daí sua importância. O nativo nascido com Netuno retrógrado na 12 é uma alma velhíssima, que chega no fim de um ciclo.
 A entidade se encarnou pelo menos 11 vezes anteriormente e experimentou um ciclo zodiacal completo.
 Entretanto, algo não foi perfeito: como a casa 12 está ligada à 6 (o auxílio) e representa a caridade universal, é provável que o nativo não tenha prestado os serviços que lhe eram solicitados.
 De qualquer modo, não na perspectiva espiritual necessária. Esta posição planetária indica que o nativo fora escolhido como mensageiro espiritual e havia abusado disso.
-Desta vez ainda, a mesma oportunidade lhe é dada: levar alegria, amor e luz aos outros. Programa belo e difícil, que implica responsabilidade e sacrifícios. -break`,
+Desta vez ainda, a mesma oportunidade lhe é dada: levar alegria, amor e luz aos outros. Programa belo e difícil, que implica responsabilidade e sacrifícios. <br />`,
 
       `O nativo vivenciou conhecimentos espirituais elevados e iniciáticos em vidas passadas. Foi destinado, por um ritual religioso, a um ofício preciso, que não realizou.
 Bloqueado por inibições, neuroses ou obsessões de todo tipo, que a encerravam numa prisão mental, não pode soltar o controle do ego para se tomar útil.
 Nesta vida pode desenvolver ainda mais sua espiritualidade e se libertar. Pode se transformar através de terapias, escolhendo, quando sentir-se melhor, um ofício que preste serviço aos outros.
-O trabalho em hospitais, assistência social e associações de caridade, lhe serão muito convenientes. Permitirão aliviar os sofrimentos dos outros - o que não fizera outrora. -break`,
+O trabalho em hospitais, assistência social e associações de caridade, lhe serão muito convenientes. Permitirão aliviar os sofrimentos dos outros - o que não fizera outrora. <br />`,
 
       `Quíron sempre mostra o que e onde podemos fazer mais pelos outros do que para nós mesmos.
 Quando Quíron está na casa 12 ou em Peixes, a tendência é de cuidar compulsivamente dos enfermos e dos infelizes, negligenciando as próprias necessidades ou aquelas de sua própria família.
@@ -6399,11 +6144,11 @@ Outras pessoas ao contrário, fingem uma necessidade de ajuda, mostram-se infeli
 Se a pessoa opta por salvar, irá buscar pelo mundo a quem possa salvar, dedicando-se a causas humanitárias quando na verdade não consegue salvar nem a si mesmo.
 Outros tendem a se fazer de vítima ou vitimam a si mesmo. A solução é usar a imaginação e criatividade para gerar algo que traga alegria aos outros.
 Algumas vezes podem levar a paixões por pessoas vigaristas, drogadas ou mentirosas que trazem ruína ou levam à falência; ou aquelas que enganam para roubar.
-A cura é dedicar-se às qualidades criativas, fazer uma aula de dança, um curso de pintura ou realizar um serviço voluntário. -break`,
+A cura é dedicar-se às qualidades criativas, fazer uma aula de dança, um curso de pintura ou realizar um serviço voluntário. <br />`,
 
       `Juno neste signo ou setor sonha com uma união que reproduzirá o céu na terra. Tem medos ocultos de se ligar conjugalmente a alguém, por temer que essa pessoa não corresponda a esse ideal.
 Às vezes essa pessoa pode optar por não se ligar a ninguém por causa destes medos. Mas se liga a alguém, tem um grande potencial de se sacrificar pela manutenção da parceria/casamento.
-Busca de uma união espiritual e mística. Avaliar a posição do signo de Libra e de seu regente Vênus, nas suas relações com Juno para ter ideia da natureza global desta pessoa, de forma pela qual ela vivencia seu ideal afetivo e de que forma esse ideal pode ajudar ou atrapalhar suas associações. -break`,
+Busca de uma união espiritual e mística. Avaliar a posição do signo de Libra e de seu regente Vênus, nas suas relações com Juno para ter ideia da natureza global desta pessoa, de forma pela qual ela vivencia seu ideal afetivo e de que forma esse ideal pode ajudar ou atrapalhar suas associações. <br />`,
 
       `25`,
     ],
