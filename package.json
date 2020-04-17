@@ -4,9 +4,13 @@
   "description": "Sign stars project in which we have a better way to improve my brother-s work",
   "main": "app",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp-babel5": "^5.4.2"
   },
   "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
     "concat": "^1.0.3",
     "grunt": "^1.0.4",
     "grunt-cli": "^1.3.2",
@@ -17,6 +21,8 @@
     "grunt-contrib-watch": "^1.1.0",
     "grunt-sass": "^3.1.0",
     "grunt-strip-debug": "^2.0.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
     "gulp-strip-debug": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "node-sass": "^4.13.1"

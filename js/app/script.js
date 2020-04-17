@@ -580,8 +580,8 @@ define(['jquery'], function($) {
             });
 
             $resetInput('input[type=\"reset\"]').addEventListener('click', (ev) => {
-                docQuery('.listOfItems-2').removeAttribute('disabled');
-                docQuery('.listOfItems-3').removeAttribute('disabled');
+                docQuery('.listOfItems-2').setAttribute('disabled', true);
+                docQuery('.listOfItems-3').setAttribute('disabled', true);
                 return;
             });
 
