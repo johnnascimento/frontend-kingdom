@@ -1,5 +1,5 @@
 // `Data` part
-// ------------------------------------------------------------------------
+// -------------------------------------------------------------------
 const data = {
   planets: [
     {
@@ -979,20 +979,23 @@ const data = {
       Tudo para que não perca as referências de ordem e estabilidade nas tensões emocionais, na turbulência interior e nas questões afetivas. <br /><br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
-      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
-      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
-      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
-      As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
+      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional.<br /><br />
+      O que é que precisamos para nos sentirmos seguros?
+      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?<br /><br />
+      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.<br /><br />
+      As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.<br /><br />
       A Lua em Câncer se encontra no signo de sua regência, indicando profundidade e intensidade de emoções.
-      A sensibilidade encontra terra fértil nos relacionamentos mais íntimos. Pode haver fortes ligações com a mãe à família e o lar.
+      A sensibilidade encontra terra fértil nos relacionamentos mais íntimos. Pode haver fortes ligações com a mãe à família e o lar.<br /><br />
       O nativo com esta configuração pode ser bom cozinheiro ou boa dona de casa. A segurança e o casamento são importantes.
-      É intuitivo para perceber as necessidades das pessoas que ama e tem um talento lindo para cuidar.
-      Quem tem a Lua em Câncer possui uma sensibilidade aos humores e sentimentos dos outros que pode beirar a mediunidade.
+      É intuitivo para perceber as necessidades das pessoas que ama e tem um talento lindo para cuidar.<br /><br />
+      Quem tem a Lua em Câncer possui uma sensibilidade aos humores e sentimentos dos outros que pode beirar a mediunidade.<br /><br />
       É facilmente influenciado pela atmosfera dos encontros. Sua extrema sensibilidade às opiniões e reações dos outros pode levá-lo a imaginar desfeitas, mesmo não sendo propositais.
-      Evita encontros quando há possibilidade de desamparo. Consequentemente, tende a retrair-se e perder se em pensamentos.
+      Evita encontros quando há possibilidade de desamparo.<br /><br />
+      Consequentemente, tende a retrair-se e perder se em pensamentos.
       Quando não é tomado por ressentimentos, pode fazer com que as pessoas se sintam paradas ao seu lado, pois sua ternura e sensibilidade são cativantes.
-      Mas é também sonhador, vulnerável, instável e carente. Isso fica evidente em situações de estresse emocional. Por isso, sentir-se seguro e ter suas necessidades afetivas atendidas são importantes.
-      Pode haver tendência para sufocar os filhos com o seu amor, a ponto de desejarem dominar as suas vidas. É preciso aceitar a realidade e aprender a dar limites para sua fragilidade emocional.
+      Mas é também sonhador, vulnerável, instável e carente. Isso fica evidente em situações de estresse emocional.<br /><br />
+      Por isso, sentir-se seguro e ter suas necessidades afetivas atendidas são importantes.
+      Pode haver tendência para sufocar os filhos com o seu amor, a ponto de desejarem dominar as suas vidas. É preciso aceitar a realidade e aprender a dar limites para sua fragilidade emocional.<br /><br />
       Com mais praticidade, a consciência do momento presente, a memória do passado e a intuição do futuro, pode encontrar um caminho para sua segurança e seu bem-estar emocional. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
@@ -1274,20 +1277,21 @@ const data = {
       Para tal, é necessário descer do seu próprio trono, servir à coletividade e conceder a liberdade na medida justa. <br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
-      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
-      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
-      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
-      As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
+      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?<br /><br />
+      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?<br /><br />
+      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.<br /><br />
+      As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.<br /><br />
       A Lua no signo de Leão indica uma pessoa emocionalmente orgulhosa, com talento para artes dramáticas.
-      Com frequência procura estar em evidência, pois há necessidade inconsciente de sentir‑se admirado e apreciado. Quem tem a Lua em Leão precisa de romance e afeto.
+      Com frequência procura estar em evidência, pois há necessidade inconsciente de sentir‑se admirado e apreciado.<br /><br />
+      Quem tem a Lua em Leão precisa de romance e afeto.
       O nativo pode gostar de crianças, festas, arte, esportes, lazer e todos os tipos de divertimento.
-      Conta com disposição para se apaixonar, seja por uma pessoa ou por um projeto, abrindo o coração quando afetado pela sintonia do encontro.
+      Conta com disposição para se apaixonar, seja por uma pessoa ou por um projeto, abrindo o coração quando afetado pela sintonia do encontro.<br /><br />
       As emoções são intensas e algumas vezes agem com necessidade de dramatizar os sentimentos.
-      Tem grande poder de expressão, pode usar seu brilho e seu magnetismo para impor sua vontade. Há tendência para o egocentrismo e, consequentemente, a teimosia.
+      Tem grande poder de expressão, pode usar seu brilho e seu magnetismo para impor sua vontade. Há tendência para o egocentrismo e, consequentemente, a teimosia.<br /><br />
       Tem uma tendência também para dominar os outros e especialmente aqueles que convivem no seu cenário doméstico.
-      Pode até aparentar ser uma fortaleza quando, na verdade, procura esconder as suas fragilidades.
-      Algumas vezes seu desejo de ser adulado e mimado se manifesta como vaidade infantil. A tendência à dramatização seria insuportável se não fosse sincero em seus esforços de autoaperfeiçoamento.
-      A sua necessidade de amar e ser amadas é um impulso emocional saudável e na maioria dos casos contribui para um temperamento alegre e uma expressão construtiva.
+      Pode até aparentar ser uma fortaleza quando, na verdade, procura esconder as suas fragilidades.<br /><br />
+      Algumas vezes seu desejo de ser adulado e mimado se manifesta como vaidade infantil. A tendência à dramatização seria insuportável se não fosse sincero em seus esforços de autoaperfeiçoamento.<br /><br />
+      A sua necessidade de amar e ser amadas é um impulso emocional saudável e na maioria dos casos contribui para um temperamento alegre e uma expressão construtiva.<br /><br />
       Quem tem esta posição da Lua deseja que os seus filhos estejam sempre bem arrumados e que o seu lar seja uma exposição de beleza e arte.
       O desafio é aprender a dominar seu orgulho, cultivar um coração generoso, aprender a ceder e a reconhecer quando está errado. <br />`,
 
@@ -1575,18 +1579,19 @@ const data = {
       Virgem é o fio-terra de Peixes e Peixes é a inspiração que falta para Virgem. Eis o caminho do meio! <br />`,
 
       `A Lua representa a forma como vivemos as nossas emoções.
-      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
-      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
-      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
-      As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
-      A Lua no signo de Virgem indica uma natureza prática, trabalhadora e exigente. Há grande preocupação com o asseio e a higiene pessoal, a limpeza e a organização do lar.
-      Quem tem a Lua em Virgem é preocupado com a saúde, por isso é cuidadoso com a alimentação e com dietas. É bom cozinheiro, mas saúde é mais importante do que o paladar.
+      É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?<br /><br />
+      A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?<br /><br />
+      Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.<br /><br />
+      As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.<br /><br />
+      A Lua no signo de Virgem indica uma natureza prática, trabalhadora e exigente. Há grande preocupação com o asseio e a higiene pessoal, a limpeza e a organização do lar.<br /><br />
+      Quem tem a Lua em Virgem é preocupado com a saúde, por isso é cuidadoso com a alimentação e com dietas. É bom cozinheiro, mas saúde é mais importante do que o paladar.<br /><br />
       É também tímido e reservado, prefere trabalhar tranquilamente nos bastidores. Presta muita atenção aos detalhes e deseja servir.
-      Tanto o signo de Virgem quanto a Lua estão relacionados à fertilidade e a fecundidade.
+      Tanto o signo de Virgem quanto a Lua estão relacionados à fertilidade e a fecundidade.<br /><br />
       Por isso, quem nasce com essa configuração gosta de cultivar boa qualidade em suas relações, cuidar do ambiente familiar e das pessoas mais queridas.
-      Classificar os sentimentos traz segurança, que é abalada quando se defronta com emoções incompreensíveis e inomináveis. A objetividade e a praticidade são tendências visíveis.
-      Não faz perguntas pessoais, a menos que seja necessário. É curioso, porém, somente em relação ao seu trabalho ou às questões práticas. Costuma ser crítico consigo mesmo e pode ser com os outros.
-      Pode haver uma preocupação excessiva com detalhes irrelevantes, uma atitude de crítica e censura. O perfeccionismo nos detalhes pode torná-lo cego para questões mais amplas.
+      Classificar os sentimentos traz segurança, que é abalada quando se defronta com emoções incompreensíveis e inomináveis.<br /><br />
+      A objetividade e a praticidade são tendências visíveis.
+      Não faz perguntas pessoais, a menos que seja necessário. É curioso, porém, somente em relação ao seu trabalho ou às questões práticas. Costuma ser crítico consigo mesmo e pode ser com os outros.<br /><br />
+      Pode haver uma preocupação excessiva com detalhes irrelevantes, uma atitude de crítica e censura. O perfeccionismo nos detalhes pode torná-lo cego para questões mais amplas.<br /><br />
       É preciso aprender a perdoar as falhas, tanto as suas quanto às dos outros, ter calma, se estressar menos com os afazeres cotidianos.
       Com sensibilidade e compreensão o aperfeiçoamento pode ser cultivado de forma mais harmoniosa. <br />`,
 
@@ -1893,18 +1898,20 @@ const data = {
         Expressar suas vontades de forma saudável é importante para encontrarmos o tão almejado caminho do meio na arte dos relacionamentos. <br />`,
 
         `A Lua representa a forma como vivemos as nossas emoções.
-        É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
-        A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
-        Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
-        As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.
+        É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?<br /><br />
+        A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?<br /><br />
+        Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.<br /><br />
+        As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.<br /><br />
         A Lua em Libra indica forte sensibilidade às atitudes e reações dos outros, especialmente os parceiros no casamento e companheiros de trabalho.
-        Quem tem a Lua em Libra considera a vulgaridade desagradável. Conta com charme e elegância na sua aparência e maneiras pessoais. O senso estético é apurado.
+        Quem tem a Lua em Libra considera a vulgaridade desagradável. Conta com charme e elegância na sua aparência e maneiras pessoais.<br /><br />
+        O senso estético é apurado.
         Sua casa geralmente é um lugar bonito e com frequência um local de reunião para atividades sociais.
-        É amável, cordial, encantador e bondoso com todos, porque seu bem‑estar emocional depende da aprovação dos outros. Prefere ceder a enfrentar situações de conflito. Raramente age por impulso.
+        É amável, cordial, encantador e bondoso com todos, porque seu bem‑estar emocional depende da aprovação dos outros. Prefere ceder a enfrentar situações de conflito.<br /><br />
+        Raramente age por impulso.
         Os seus relacionamentos são pautados no equilíbrio, seus sentimentos são analisados de acordo com a sua razão.
-        A indecisão pode ser fruto desse excesso de cuidado. Fica facilmente perturbado por relacionamentos desarmoniosos, que têm efeito prejudicial sobre a sua saúde.
+        A indecisão pode ser fruto desse excesso de cuidado. Fica facilmente perturbado por relacionamentos desarmoniosos, que têm efeito prejudicial sobre a sua saúde.<br /><br />
         Esta posição da Lua pode proporcionar talento para relações públicas. Também indica uma ligação com os pais, especialmente a mãe.
-        No lado negativo, pode implicar dependência dos outros para adquirir segurança emocional. Há tendência para ser facilmente influenciável.
+        No lado negativo, pode implicar dependência dos outros para adquirir segurança emocional. Há tendência para ser facilmente influenciável.<br /><br />
         Precisa trabalhar para aprender a ter pulso firme, assim quando for necessário poderá evitar que alguém tome as iniciativas em seu lugar.
         É preciso também aprender a impor as suas vontades, pois muitas vezes você esquece de si mesmo para colocar os outros em primeiro plano. <br />`,
 
@@ -2223,7 +2230,7 @@ const data = {
         O equilíbrio está no signo oposto, Touro, com suas lições de mansidão, estabilidade, prazer e brandura. Assim pode obter êxito no que deseja construir e reformar. <br />`,
 
         `A Lua representa a forma como vivemos as nossas emoções.
-        É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?
+        É o que já é familiar, conhecido, nossa zona de conforto, onde buscamos nutrição emocional. O que é que precisamos para nos sentirmos seguros?<br /><br />
         A Lua também representa nossos condicionamentos, a repetição de padrões de comportamento, os instintos que nos levam a ser reativos. O que nos afeta emocionalmente?
         Para a Astrologia Cármica, a Lua representa a memória do passado do passado: infância, ancestralidade, hereditariedade e vidas passadas. Já o Sol representa o futuro.
         As qualidades do signo solar indicam um caminho de cura para equilibrar as questões relativas à Lua. Por isso, a Lua deve estar ao serviço do Sol, sendo um canal de expressão da vontade solar.

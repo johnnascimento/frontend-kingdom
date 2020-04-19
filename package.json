@@ -4,6 +4,7 @@
   "description": "Sign stars project in which we have a better way to improve my brother-s work",
   "main": "app",
   "dependencies": {
+    "amd-optimize": "^0.6.1",
     "gulp-babel5": "^5.4.2"
   },
   "devDependencies": {
@@ -23,6 +24,10 @@
     "grunt-strip-debug": "^2.0.0",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-ruby-sass": "^4.0.0",
     "gulp-strip-debug": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "node-sass": "^4.13.1"
