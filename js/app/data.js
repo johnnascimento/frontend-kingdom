@@ -3,27 +3,26 @@
 const data = {
   defaultText: {
     parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
+      `<span class=\"title\">O LOTE DA FORTUNA OU PARTE DA FORTUNA: </span>
+      Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br /><br />
+      Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br /><br />
+      <strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br /><br />
+      <em><strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong></em><br /><br />
+      <strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.<br /><br />
+      Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.<br /><br />
+      <strong> Os nascidos no início da Lua nova </strong><br />
+      Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br /><br />
+      <strong> Os nascidos no início da Lua crescente </strong><br />
+      Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br /><br />
+      <strong> Os nascidos no início da Lua cheia </strong><br />
+      Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br /><br />
+      <strong> Os nascidos no início da Lua minguante </strong><br />
+      Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br /><br />
+      <em>No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir:<em> <br /><br />`
     ],
     quironCurador: [
-      `<span class=\"title\">QUÍRON – O CURADOR FERIDO</span>`,
-      `Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais.<br /><br />
+      `<span class=\"default-text-title title\">QUÍRON – O CURADOR FERIDO</span>
+      Em 1977, foi descoberto um pequeno planetoide entre as órbitas de Saturno e Urano. Para a astrologia, a descoberta de um corpo celeste sempre anuncia uma mudança de consciência na sociedade e reflete desenvolvimentos históricos cruciais.<br /><br />
       Por exemplo: a descoberta de Urano em 1781 está ligada a um período de rebeliões, revoluções e luta pela independência.<br /><br />
       Netuno foi localizado em 1846, coincidindo com o Romantismo. Plutão é descoberto no início do século e está sincronizado com o aparecimento do fascismo, do totalitarismo e também com o de uma nova ciência, a Psicologia.<br /><br />
       É preciso olhar para a mitologia para estabelecer a conexão de Quíron com a evolução do coletivo e compreender seu significado arquetípico. O pai de Quíron foi Saturno. Sua mãe, Filira, era uma das filhas de Oceano. De acordo com a lenda a esposa de Saturno, pegou o marido e Filira no flagra.<br /><br />
@@ -45,8 +44,8 @@ const data = {
       A atitude de Quíron com relação à morte e seu entendimento acerca da saúde, da cura e da educação são os sinais dos nossos tempos. Quando a humanidade desperta para sua essência divina, para a busca do autoconhecimento e expansão da consciência a fim de promover a cura individual e planetária.<br />`
     ],
     junosCasasSignos: [
-      `<span class=\"title\">JUNO NAS CASAS E NOS SIGNOS:</span>`,
-      `A chave de sua interpretação se encontra na questão associativa e de parcerias. Da estabilização da vida afetiva através da capacidade de um viver partilhado com alguém. Estes assuntos evocam Vênus, mas a diferença entre Juno e Vênus é considerável.<br /><br />
+      `<span class=\"default-text-title title\">JUNO NAS CASAS E NOS SIGNOS:</span>
+      A chave de sua interpretação se encontra na questão associativa e de parcerias. Da estabilização da vida afetiva através da capacidade de um viver partilhado com alguém. Estes assuntos evocam Vênus, mas a diferença entre Juno e Vênus é considerável.<br /><br />
       A deusa nascida das espumas do mar misturadas ao esperma de Urano concerne a sensibilidade individual, através da qual, cada um vive sua vida sentimental e afetiva. Ou a maneira que cada um de nós, conjuga o verbo amar.<br /><br />
       Vênus, porém representa um fator não exatamente conjugal, e num nível mais elevado ela poderia simbolizar, o parceiro/o ideal ou desejado do ponto de vista afetivo. Certamente não há como negar a correspondência que existe entre Juno e Vênus. O que as faz diferentes e a forma que cada uma delas evolui, como a maneira de vivê-las.<br /><br />
       Com Vênus aprendemos a viver melhor, a considerar o outro como ele mesmo a aprendermos a partilhar com ele, as zonas que possuímos em comum. Mas a relação afetiva em relação ao mundo que nos cerca é vivenciada através das energias de Juno.<br /><br />
@@ -321,21 +320,22 @@ const data = {
       De alguma forma são parcerias desafiantes. Mas também podem ser pessoas impulsivas, violentas ou conquistadoras que apreciam apenas a conquista e formam relacionamentos de curta duração.<br /><br />
       Representa a busca de uma parceria dinâmica e ativa, marciana. Sua evolução passa pelo esforço de construir uma relação durável e sólida, na qual a individualidade é respeitada. <br />`,
 
-      // PAREIA AQUI !!!!!!!
-      `Em suas vidas passadas o nativo pode ter sido um comerciante e como tal, agia de forma agressiva, impaciente ou intolerante. <br />
-      Faltava-lhe paciência nas suas negociações, chegando até a insultar os seus parceiros. Se foi um estudante ou intelectual, tinha uma tendência infantil a se vangloriar do seu desempenho intelectual.
-      Talvez também tivesse professado opiniões militaristas extremistas que haviam incitado as pessoas a lutarem entre si.
+      `Em suas vidas passadas o nativo pode ter sido um comerciante e como tal, agia de forma agressiva, impaciente ou intolerante.
+      Faltava-lhe paciência nas suas negociações, chegando até a insultar os seus parceiros.<br /><br />
+      Se foi um estudante ou intelectual, tinha uma tendência infantil a se vangloriar do seu desempenho intelectual.
+      Talvez também tivesse professado opiniões militaristas extremistas que haviam incitado as pessoas a lutarem entre si.<br /><br />
       Uma coisa é certa: o nativo deve transformar seu discurso impulsivo e agressivo, com o qual feriu muita gente. Deve aprender a ouvir, a se comunicar com mais maturidade e compaixão. <br />`,
 
-      `O nativo desconfia dos outros: tem dificuldade em assumir o casamento, em virtude de uma grande desconfiança em relação ao amor. <br />
-      Ficará feliz quando compreender as virtudes do diálogo: ouvir mais, deixar o ser amado se expressar, sem lhe impor sempre uma direção ou um comando.
+      `O nativo desconfia dos outros: tem dificuldade em assumir o casamento, em virtude de uma grande desconfiança em relação ao amor.<br /><br />
+      Ficará feliz quando compreender as virtudes do diálogo: ouvir mais, deixar o ser amado se expressar, sem lhe impor sempre uma direção ou um comando.<br /><br />
       Essa Vênus imediatista, impulsiva, autoritária e exigente deve aprender a paciência. Deve aprender a transcender seus desejos infantis e buscar outros valores, se quiser viver uma história duradoura. <br />`,
 
-      `O enorme sentimento de insegurança que o nativo experimenta é na verdade, herdado de vidas passadas. <br />
-      Foi pouco consciente do mundo que o cerca: impulsivo, imaturo, imprudente, imediatista, impaciente, apaixonado e violento. Faltou-lhe objetividade.
-      Nesta vida deve buscar o autoconhecimento. Pode se libertar ao tomar consciência de suas próprias tendências negativas.
+      `O enorme sentimento de insegurança que o nativo experimenta é na verdade, herdado de vidas passadas.<br /><br />
+      Foi pouco consciente do mundo que o cerca: impulsivo, imaturo, imprudente, imediatista, impaciente, apaixonado e violento. Faltou-lhe objetividade.<br /><br />
+      Nesta vida deve buscar o autoconhecimento. Pode se libertar ao tomar consciência de suas próprias tendências negativas.<br /><br />
       Ao invés de se voltar contra os outros, deve olhar para si mesmo, com mais ponderação. Exercitar as virtudes da tolerância, da diplomacia, da gentileza e da paciência. <br />`,
 
+      // PAREI AQUI !!!!!!!
       `A palavra-chave de Júpiter é \"expansão\". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas. <br />
       Com Júpiter retrógrado em Áries, é preciso cuidado com as ideias preconcebidas! A pessoa tende a ser um tanto sincero e direto demais, é preciso cultivar flexibilidade em face das circunstâncias da vida.
       Há tendência para julgar os indivíduos segundo critérios pouco realistas e categorias demasiado estanques ou dogmáticas.
@@ -422,25 +422,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a cooperar, a formar parcerias sem perder a sua identidade. </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -700,25 +681,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a cultivar o desapego, a atribuir valor ao mundo das emoções e ao invisível </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -1003,25 +965,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a ganhar sabedoria sem perder a simplicidade e humildade </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -1303,25 +1246,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Ganhar maturidade e autoridade sem perder a conexão com a criança interior e o mundo afetivo: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -1603,25 +1527,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender o significado de humildade e a trabalhar em grupo, sem perder o brilho interior: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -1921,25 +1826,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Desenvolver a fé, aprender a confiar e a deixar a vida fluir sem perder a disciplina: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -2250,25 +2136,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a ter autonomia e a ser corajoso sem perder a diplomacia: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -2581,25 +2448,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a ter autonomia e a ser corajoso sem perder a diplomacia: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -2920,25 +2768,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a comunicar a sabedoria com humildade: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -3238,25 +3067,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a descobrir a força na fragilidade: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -3549,25 +3359,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a se destacar no meio dos outros: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   },
   {
@@ -3849,25 +3640,6 @@ const data = {
        `É o novo que precisamos cultivar, onde novas faculdades e talentos são encontrados e usados como contribuição ao mundo. Ao cultivá-lo a vida fluir com mais significado. É o caminho da Alma. <br />`,
        `<strong> O objetivo é equilibrar os dois </strong>: usar a sabedoria trazida do Nodo Sul para chegar ao Nodo Norte. A segurança do Nodo Sul para conquistar o Nodo Norte. Todos nós, numa primeira fase, procuramos ser quem fomos (Nodo Sul - mais fácil). <br />`,
        `Numa segunda etapa de vida podemos despertar para a verdadeira identidade desta encarnação - Nodo Norte. <strong> Aprender a se autodisciplinar e a materializar o seu mundo interior: </strong>`
-    ],
-    parteFortuna: [
-      `<strong> O LOTE DA FORTUNA OU PARTE DA FORTUNA: </strong>`,
-      `Foi atribuído aos legendários Nechepso e Petosiris, um faraó e seu sacerdote. Também chamada pelos antigos de Parte da Lua, é usada para descrever a forma básica que conecta uma pessoa ao mundo físico e material. <br />`,
-      `Assim, é um dos significadores do corpo e da saúde, e significador principal de profissão e prosperidade, já que a profissão é um dos meios para conseguirmos prosperidade. <br />`,
-      `<strong> A Parte da Fortuna </strong> é criada a partir das longitudes do Sol, da Lua e do Ascendente e, por ser composta a partir de três dos quatro lugares principais do mapa, ela se torna tão importante quanto eles. <br />`,
-      `<strong> É um ponto afortunado de sorte e facilidades conforme indicada em seu mapa de nascimento. </strong>`,
-      `<strong> Ela significa a soma entre a sua atuação no mundo </strong> (Ascendente), seu passado, suas emoções e suas necessidades (Lua), e tudo isto em equilíbrio com a sua <strong> vontade e missão (Sol) </strong>.`,
-      `Portanto, indica onde você encontrará realização pessoal se investir no assunto daquela casa e signo em que ela está localizada. É como um <strong> \"pote de ouro\" </strong> que está à espera no final de nosso próprio arco-íris pessoal.`,
-      ` <br />`,
-      `<strong> Os nascidos no início da Lua nova </strong>`,
-      `Roda da Fortuna na 1ª. Casa (Ascendente): Deve buscar a realização pessoal e entender a si mesmo. <br />`,
-      `<strong> Os nascidos no início da Lua crescente </strong>`,
-      `Roda da Fortuna 4ª. Casa (Fundo do Céu): Deve buscar o entendimento com a sua família e suas origens. <br />`,
-      `<strong> Os nascidos no início da Lua cheia </strong>`,
-      `Roda da Fortuna na 7ª. Casa (Descendente): Precisa aprender a se relacionar e a entender os outros. <br />`,
-      `<strong> Os nascidos no início da Lua minguante </strong>`,
-      `Roda da Fortuna na 10ª. Casa (Meio do Céu): Precisa deixar a sua contribuição impessoal ao mundo, fazendo algo significativo. <br />`,
-      `No seu Mapa a casa ocupada pela roda fortuna indicará o que deve buscar e o signo complementará indicando a maneira de agir: <br />`
     ]
   }],
   casas: [{

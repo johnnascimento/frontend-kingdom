@@ -185,8 +185,19 @@ body {
           }
         }
 
+        .default-text-title {
+          display: block;
+          position: relative;
+          padding: ($gutter/4) 0;
+        }
+
+        .title {
+          font-weight: bold;
+        }
+
         .arrayKlass-title,
-        .arrayKlass-title-secondary {
+        .arrayKlass-title-secondary,
+        .title {
           color: $casal;
           text-transform: uppercase;
         }
