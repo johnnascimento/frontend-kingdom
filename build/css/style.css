@@ -122,12 +122,14 @@ body {
             height: 20px;
             display: inline-block;
             position: relative;
-            text-align: center;
-            color: #F1F1F1;
-            background-color: #265868;
             border: none;
-            font-size: 16px; }
-        body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title {
+            background-color: #265868;
+            color: #F1F1F1;
+            font-size: 16px;
+            text-align: center;
+            line-height: 20px; }
+        body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title,
+        body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title-secondary {
           color: #265868;
           text-transform: uppercase; }
   body .formSpot {
