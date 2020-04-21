@@ -5,6 +5,7 @@
   "main": "app",
   "dependencies": {
     "amd-optimize": "^0.6.1",
+    "gem": "^2.4.3",
     "gulp-babel5": "^5.4.2"
   },
   "devDependencies": {
@@ -28,6 +29,7 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-ruby-sass": "^4.0.0",
+    "gulp-sass": "^4.0.2",
     "gulp-strip-debug": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "node-sass": "^4.13.1"

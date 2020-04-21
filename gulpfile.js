@@ -3,7 +3,7 @@ var gulp = require('gulp'),
     babel = require('gulp-babel'),
     clean = require('gulp-clean'),
     cleanCSS = require('gulp-clean-css'),
-    sass = require('gulp-ruby-sass');
+    sass = require('gulp-sass');
 
 // Clean task
 // Delete files and folders related to js
@@ -41,19 +41,18 @@ gulp.task('scripts', function() {
 // ______________________________________
 gulp.task('styles', function() {
     console.log('Styles is being invoked');
-    return sass('./css/**/*.scss')
-                .on('error', function(err) {
-                    console.log(err.message);
-                })
-                .pipe(gulp.dest('css/assets/cssConverted'));
+    return gulp.src('css/style.scss')
+                .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+                .pipe(gulp.dest('css/converted/'));
 });
 
 
 // Watch task
 // Js
 // ______________________________________
-gulp.task('watch', function() {
-    return gulp.watch('js/app/*.js', gulp.series('scripts'));
+gulp.task('watch', async function() {
+    gulp.watch('js/app/*.js', gulp.series('scripts'));
+    gulp.watch('css/**/*.scss', gulp.series('styles'));
 })
 
 gulp.task('default',

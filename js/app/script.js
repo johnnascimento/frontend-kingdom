@@ -261,7 +261,7 @@ define(['jquery'], function($) {
                 break;
 
                 case 'juno':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Juno na ' : '<strong>Quíron em ';
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Juno na ' : '<strong>Juno em ';
                 break;
 
                 case 'mercúrio retrógado':
