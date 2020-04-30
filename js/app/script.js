@@ -6,7 +6,6 @@ define(['jquery'], function($) {
     }
 
     var returnedModule = function(options) {
-
         this.options = Object.assign({}, defaults, options);
 
         this.setOptions = function(options) {
