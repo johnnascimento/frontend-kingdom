@@ -462,20 +462,20 @@ const data = {
       Acomodar-se emocionalmente é um risco que deve ser equilibrado com o aprendizado do desapego, aceitando as transformações da vida como algo natural e renovador. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
       A primeira impressão do ascendente em Touro é vivenciada através do elemento Terra: segurança e continuidade na concretização de objetivos.
-      Deve encarar a vida com calma, ponderação e segurança.  Estruturar, planejar, trabalhar de modo sistemático para alcançar suas metas.
-      Há que avançar sem pressa, experimentar bem o terreno e medir cada passo. O avanço pode ser mais lento, porém é mais seguro: uma vez conquistado o terreno, raramente se dá um recuo.
-      Pode contar com uma habilidade natural em lidar com os recursos materiais, tendo em vista estabilidade e a abundância material. A abordagem é prática, física e sensorial.
+      Deve encarar a vida com calma, ponderação e segurança.  Estruturar, planejar, trabalhar de modo sistemático para alcançar suas metas.<br /><br />
+      Há que avançar sem pressa, experimentar bem o terreno e medir cada passo. O avanço pode ser mais lento, porém é mais seguro: uma vez conquistado o terreno, raramente se dá um recuo.<br /><br />
+      Pode contar com uma habilidade natural em lidar com os recursos materiais, tendo em vista estabilidade e a abundância material. A abordagem é prática, física e sensorial.<br /><br />
       Pode haver uma sensualidade forte, simples e desinibida, com tendência à gula e, em geral, uma grande capacidade de apreciar os confortos e prazeres da vida.
-      O perigo consiste em ficar preguiçoso indolente e ou resistente às mudanças necessárias da vida.
+      O perigo consiste em ficar preguiçoso indolente e ou resistente às mudanças necessárias da vida.<br /><br />
       Ciúmes e possessividade também devem ser trabalhados, pois podem ser a fonte de muitos problemas.
-      <strong> É preciso olhar para dentro de si mesmo, enfrentar, examinar e desenvolver maior domínio sobre as emoções ao se relacionar. Aprender quando segurar e quando soltar.
+      <strong> É preciso olhar para dentro de si mesmo, enfrentar, examinar e desenvolver maior domínio sobre as emoções ao se relacionar. Aprender quando segurar e quando soltar.<br /><br />
       Limpar e eliminar o que tem guardado dentro de si, modificando assim velhos padrões de comportamento que não servem mais.</strong>
-      O senso estético, que está quase sempre presente, pode ser também simples e um pouco rústico, com preferência ao que é natural, duradouro e confortável.
+      O senso estético, que está quase sempre presente, pode ser também simples e um pouco rústico, com preferência ao que é natural, duradouro e confortável.<br /><br />
       O tipo físico pode ser de constituição sólida, terrestre, pesada, uma aparência saudável, o pescoço grosso típico do taurino, com tendência a aumentar de peso.
-      Ou pode apresentar uma aparência mais delicada, elegante e fina, enfatizando o lado estético e feminino de Vênus, regente do signo.
-      Com a maturidade, a necessidade de segurança material e financeira pode ser gradualmente substituída pela segurança emocional e pela estabilidade interior.
+      Ou pode apresentar uma aparência mais delicada, elegante e fina, enfatizando o lado estético e feminino de Vênus, regente do signo.<br /><br />
+      Com a maturidade, a necessidade de segurança material e financeira pode ser gradualmente substituída pela segurança emocional e pela estabilidade interior.<br /><br />
       Assim o ascendente em Touro descobre a sua faceta mais espiritualizada, capaz de vislumbrar beleza e transcendência nas formas mais concretas. <br />`,
 
       `Mercúrio no signo de Touro indica o nativo cujo raciocínio e decisões são determinantes para tudo que possui uma aplicação prática e material.
@@ -684,7 +684,7 @@ const data = {
     ]
   },
   {
-    title: `gemeos</strong>`,
+    title: `gêmeos</strong>`,
     text: [
       `Quando o Sol ingressa no signo de Gêmeos, a natureza começa a mudar e a entrar em mutação.
       No hemisfério norte, a primavera dá passagem para o verão, que chega em Câncer. No hemisfério sul, o outono vai recebendo o inverno. Por isso Gêmeos é um signo mutável.<br /><br />
@@ -719,16 +719,16 @@ const data = {
       É importante estabelecer objetivos para não dispersar sentimentos, nem se tornar uma pessoa ambígua ou superficial. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-      A primeira abordagem da vida pelo ascendente em Gêmeos é feita através do elemento Ar: aprendizagem, comunicação e experimentação no plano mental. Vive de forma ligeira, curiosa e um tanto dispersa.
+      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
+      A primeira abordagem da vida pelo ascendente em Gêmeos é feita através do elemento Ar: aprendizagem, comunicação e experimentação no plano mental. Vive de forma ligeira, curiosa e um tanto dispersa.<br /><br />
       <strong> Há forte necessidade de compreender as coisas mentalmente e de apreender todas as faces da realidade com versatilidade e adaptabilidade.</strong>
-      A diversidade da vida diária, com todos os seus pequenos e variados acontecimentos, é um elemento-chave para a expressão imediata da individualidade.
+      A diversidade da vida diária, com todos os seus pequenos e variados acontecimentos, é um elemento-chave para a expressão imediata da individualidade.<br /><br />
       A comunicação é também uma importante via de expressão pessoal e de impacto junto ao meio ambiente.
-      Há tendência natural para se identificar com as ideias (\"sou aquilo que penso\"), embora estas possam estar continuamente em mudança.
+      Há tendência natural para se identificar com as ideias (\"sou aquilo que penso\"), embora estas possam estar continuamente em mudança.<br /><br />
       <strong> O perigo é se perder numa teia de superficialidade, inconstância e inconsequências.</strong>
       Quando aprende a seguir um rumo de pensamento, entre a multiplicidade dos seus apelos mentais, o ascendente em Gêmeos começa a manifestar o que de mais elevado existe no signo.
-      Ou seja, a capacidade de relativizar e de compreender, no plano mental, todas as faces de um assunto ou situação.
-      Fisicamente apresenta aspecto ágil, flexível, mãos finas e habilidosas. Aliás, as mãos e braços podem estar em evidência, tanto pelo gesticular contínuo como pela sua elegância e delicadeza.
+      Ou seja, a capacidade de relativizar e de compreender, no plano mental, todas as faces de um assunto ou situação.<br /><br />
+      Fisicamente apresenta aspecto ágil, flexível, mãos finas e habilidosas. Aliás, as mãos e braços podem estar em evidência, tanto pelo gesticular contínuo como pela sua elegância e delicadeza.<br /><br />
       A aparência tende a ser um tanto andrógina, pode manter o aspecto juvenil até muito tarde. O rosto pode ser vivo, móvel, expressivo e marcado por um ar de eterna adolescência. <br />`,
 
       `Mercúrio neste signo está em sua regência. Portanto, o raciocínio puro, lógico, pode ser levado à sua expressão mais elevada.
@@ -968,7 +968,7 @@ const data = {
     ]
   },
   {
-    title: `cancer</strong>`,
+    title: `câncer</strong>`,
     text: [
       `Câncer é o primeiro signo do elemento Água, regido pela Lua.
       Traz lições sobre a sensibilidade, a intimidade, as emoções, o cuidado, a proteção e o acolhimento. Evoca também o passado, a ancestralidade, a história e a memória emotiva.<br /><br />
@@ -1010,17 +1010,17 @@ const data = {
       Com mais praticidade, a consciência do momento presente, a memória do passado e a intuição do futuro, pode encontrar um caminho para sua segurança e seu bem-estar emocional. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      O ascendente traz pistas sobre o aspecto físico, a \"máscara\" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
       A primeira impressão da vida é sentida através do elemento Água: ação motivada pelos sentimentos.
-      Expressão cautelosa e grande necessidade de segurança emocional são características de quem tem Ascendente em Câncer.
+      Expressão cautelosa e grande necessidade de segurança emocional são características de quem tem Ascendente em Câncer.<br /><br />
       A expressão da individualidade é cautelosa. Para proteger-se emocionalmente, por vezes desenvolve uma dura casca externa.
-      <strong> Sua tarefa é encontrar meios para expressar a própria sensibilidade, ao invés de ser esmagado por ela. Respeitar, compreender, reconhecer e liberar os sentimentos.</strong>
+      <strong> Sua tarefa é encontrar meios para expressar a própria sensibilidade, ao invés de ser esmagado por ela. Respeitar, compreender, reconhecer e liberar os sentimentos.</strong><br /><br />
       Há uma qualidade mimética, camaleônica na expressão pessoal: confundir-se com o ambiente para não se mostrar competitivo ou chamar a atenção.
-      Assim evita também ser ameaçado ou agredido. Por vezes apresenta comportamentos desprotegidos, inseguros ou mesmo infantis.
-      Pode manter-se sempre muito próximo da mãe ou da família de origem (do ponto de vista físico, emocional ou ambos). Esta camuflagem, contudo, pode ser apenas aparente.
-      Por detrás se esconde uma grande tenacidade e uma capacidade de se agarrar teimosamente aos sentimentos e às situações em que sinta familiaridade e segurança, mesmo que esta segurança seja feita à custa de outros.
+      Assim evita também ser ameaçado ou agredido. Por vezes apresenta comportamentos desprotegidos, inseguros ou mesmo infantis.<br /><br />
+      Pode manter-se sempre muito próximo da mãe ou da família de origem (do ponto de vista físico, emocional ou ambos). Esta camuflagem, contudo, pode ser apenas aparente.<br /><br />
+      Por detrás se esconde uma grande tenacidade e uma capacidade de se agarrar teimosamente aos sentimentos e às situações em que sinta familiaridade e segurança, mesmo que esta segurança seja feita à custa de outros.<br /><br />
       À medida que desenvolve certo grau de maturidade, pode desfrutar toda sensibilidade e riqueza emocional associada a este signo.
-      <strong> Você cresce em autoconhecimento quando desenvolve as qualidades de cuidar, alimentar, proteger, nutrir. Seja de uma pessoa, uma família, um negócio ou um ideal.</strong>
+      <strong> Você cresce em autoconhecimento quando desenvolve as qualidades de cuidar, alimentar, proteger, nutrir. Seja de uma pessoa, uma família, um negócio ou um ideal.</strong><br /><br />
       O aspecto físico ligado a este ascendente é arredondado, agradável, suave e um pouco infantil.
       Um rosto redondo e um tronco desenvolvido são características comuns, com propensão a engordar e reter líquidos. Alguns, contudo, apresentam um rosto oblongo e uma figura esguia. <br />`,
 
@@ -1249,7 +1249,7 @@ const data = {
     ]
   },
   {
-    title: `leao</strong>`,
+    title: `leão</strong>`,
     text: [
       `Leão é um signo de Fogo, está relacionado ao entusiasmo e poder de liderança. Quem nasce com o Sol em Leão é portador de uma força comparável aos planetas que giram em volta do Sol.
       Suas atitudes refletem seu potencial luminoso, confiante e criativo. Seu reino é o reino do coração, das emoções e dos sentimentos dramáticos.<br /><br />
@@ -1288,16 +1288,16 @@ const data = {
       O desafio é aprender a dominar seu orgulho, cultivar um coração generoso, aprender a ceder e a reconhecer quando está errado. <br />`,
 
      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
       O ascendente em Leão está em busca da sua segurança na expressão de sua própria identidade.
-      Quem tem este ascendente entra na vida com grandes passadas: a expressão pessoal é calorosa, quente, entusiasmada, digna e poderosa. A necessidade de protagonismo é imperativa e quase constante.
+      Quem tem este ascendente entra na vida com grandes passadas: a expressão pessoal é calorosa, quente, entusiasmada, digna e poderosa. A necessidade de protagonismo é imperativa e quase constante.<br /><br />
       O mundo, os outros e as circunstâncias em geral podem ser vistos como um grande palco onde a individualidade vai manifestar-se de forma brilhante e poderosa.
-      A pessoa com este ascendente tende a dominar as situações com a sua projeção carismática e sua autopromoção.
-      O cuidado deve ser para não se tornar autoritário, egocêntrico, orgulhoso ou arrogante. Algumas vezes evita enfrentar situações ou provas para não vivenciar a sensação de erro.
-      <strong> É importante dar vazão ao seu potencial criativo e ao seu poder pessoal para não se tornar amargurado ou cínico por não ser reconhecido.</strong>
-      Ao longo da vida, esta forte expressão tende a ser posta em prova e a se modificar. Na maturidade, poderá deixar de encarar a vida como um grande palco e passar a vê-la como uma oportunidade criativa.
+      A pessoa com este ascendente tende a dominar as situações com a sua projeção carismática e sua autopromoção.<br /><br />
+      O cuidado deve ser para não se tornar autoritário, egocêntrico, orgulhoso ou arrogante. Algumas vezes evita enfrentar situações ou provas para não vivenciar a sensação de erro.<br /><br />
+      <strong> É importante dar vazão ao seu potencial criativo e ao seu poder pessoal para não se tornar amargurado ou cínico por não ser reconhecido.</strong><br /><br />
+      Ao longo da vida, esta forte expressão tende a ser posta em prova e a se modificar. Na maturidade, poderá deixar de encarar a vida como um grande palco e passar a vê-la como uma oportunidade criativa.<br /><br />
       Assim, as manifestações pomposas e gratuitas dão lugar a uma atitude verdadeiramente generosa, desinteressada e vitalizante.
-      Poderá irradiar calor generoso, cura e energia vital para aqueles que merecem. Leão é associado ao coração, ao centro do corpo, com grande potencial amoroso.
+      Poderá irradiar calor generoso, cura e energia vital para aqueles que merecem. Leão é associado ao coração, ao centro do corpo, com grande potencial amoroso.<br /><br />
       O aspecto físico ligado a este ascendente e associado a uma atitude naturalmente altiva, quase régia, e a uma cabeleira bonita, volumosa, tipo "juba de leão".
       Como os olhos são vivos e brilhantes as suas atitudes poderosas costumam chamar a atenção. <br />`,
 
@@ -1569,16 +1569,16 @@ const data = {
       Com sensibilidade e compreensão o aperfeiçoamento pode ser cultivado de forma mais harmoniosa. <br />`,
 
       `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
       O ascendente em Virgem vive a aprendizagem e a experimentação das coisas concretas. Para quem tem este ascendente, a vida é um projeto que busca a perfeição.
-      Todas as atitudes, funções, relações e comunicações são, por isso, sujeitas a forte crítica e autocrítica, revelando-se sempre aquém de tão exigentes expectativas.
+      Todas as atitudes, funções, relações e comunicações são, por isso, sujeitas a forte crítica e autocrítica, revelando-se sempre aquém de tão exigentes expectativas.<br /><br />
       A expressão pessoal tende a ser precisa, funcional, ordenada e ergonômica. Tudo é feito com método, funcionalidade, detalhe e eficiência, tendo em vista a ideia de perfeição.
-      "A qualidade acima da quantidade" poderia ser o lema de sua história e de seu posicionamento.
-      Isso muitas vezes significa: desenvolver habilidade e competência no trabalho ou na área criativa escolhida. Seu ideal é ser útil, prestativo e produtivo.
-      A preocupação com o bom funcionamento do corpo físico é uma constante. Outra característica é o tratamento prático das necessidades comuns do dia-a-dia. Tudo o que não é construtivo deve ser reconhecido, limpo ou descartado.
-      <strong> O perigo é ficar obsessivo com a ordem e a correção. Se deixar que a crítica se torne de tal maneira implacável o-deixará paralisado. A pessoa perde a espontaneidade e a fluidez.</strong>
-      A partir de certa fase da vida, começa a aprender que a perfeição está subjacente a tudo, mas que não tem possibilidades de se manifestar plenamente no plano físico.
-      Nessa altura, a tolerância e a compreensão começam a temperar o seu sentido crítico, levando-o a encarar todas as coisas (e a si mesmo) como manifestações terrenas e humanas do arquétipo da Perfeição.
+      \"A qualidade acima da quantidade\" poderia ser o lema de sua história e de seu posicionamento.<br /><br />
+      Isso muitas vezes significa: desenvolver habilidade e competência no trabalho ou na área criativa escolhida. Seu ideal é ser útil, prestativo e produtivo.<br /><br />
+      A preocupação com o bom funcionamento do corpo físico é uma constante. Outra característica é o tratamento prático das necessidades comuns do dia-a-dia. Tudo o que não é construtivo deve ser reconhecido, limpo ou descartado.<br /><br />
+      <strong> O perigo é ficar obsessivo com a ordem e a correção. Se deixar que a crítica se torne de tal maneira implacável o-deixará paralisado. A pessoa perde a espontaneidade e a fluidez.</strong><br /><br />
+      A partir de certa fase da vida, começa a aprender que a perfeição está subjacente a tudo, mas que não tem possibilidades de se manifestar plenamente no plano físico.<br /><br />
+      Nessa altura, a tolerância e a compreensão começam a temperar o seu sentido crítico, levando-o a encarar todas as coisas (e a si mesmo) como manifestações terrenas e humanas do arquétipo da Perfeição.<br /><br />
       Um ar limpo, preciso e resistente, ao mesmo tempo aprumado, asseado e simples são qualidades típicas do Ascendente Virgem.
       O aspecto geral pode ser bastante juvenil, mantendo uma figura delgada e muita vivacidade. <br />`,
 
@@ -1870,19 +1870,21 @@ const data = {
         É preciso também aprender a impor as suas vontades, pois muitas vezes você esquece de si mesmo para colocar os outros em primeiro plano. <br />`,
 
         `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-        O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
+        O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
         Com Libra no ascendente, a expressão pessoal é pensada, medida e considerada, levando sempre em conta a opinião ou a reação dos outros.
-        Tudo o que os outros querem ou precisam é levado em consideração com julgamentos reflexivos.
+        Tudo o que os outros querem ou precisam é levado em consideração com julgamentos reflexivos.<br /><br />
         A abordagem da vida é dirigida para o relacionamento, a sociabilidade e a comunicação. A atitude geral é de cooperação, de busca de harmonia.
-        Pode haver interesse pelas artes e também por sistemas abstratos, como política e a matemática.
+        Pode haver interesse pelas artes e também por sistemas abstratos, como política e a matemática.<br /><br />
         Pode haver uma qualidade estética e uma elegância natural nos gestos, na fala, na escolha de roupas, acessórios e adornos.
-        O sentido de justiça, prudência e equilíbrio inerentes a este signo conferem-lhe graça e harmonia.
+        O sentido de justiça, prudência e equilíbrio inerentes a este signo conferem-lhe graça e harmonia.<br /><br />
         Justamente por isso, pode ter dificuldade para lidar com circunstâncias que exigem decisões diretas e imediatas.
-        Pode se sentir perdido quando tem de atuar sozinho e de escolher por si mesmo. A tendência é de se apoiar nos outros. Ao pesar na balança todos os lados da situação, pode vacilar ou ficar indeciso.
-        Em casos mais extremos degenera em sociabilidade exagerada, inércia, preguiça e dependência emocional. É mais fácil deixar outra pessoa decidir para si.
+        Pode se sentir perdido quando tem de atuar sozinho e de escolher por si mesmo. A tendência é de se apoiar nos outros.<br /><br />
+        Ao pesar na balança todos os lados da situação, pode vacilar ou ficar indeciso.
+        Em casos mais extremos degenera em sociabilidade exagerada, inércia, preguiça e dependência emocional. É mais fácil deixar outra pessoa decidir para si.<br /><br />
         <strong> Mas o desafio é desenvolver o seu próprio sistema de valores, padrões e ideias sobre os quais possa fundamentar as suas iniciativas.</strong>
-        Aprender a fazer suas próprias escolhas e se responsabilizar pelas consequências. Aprender a colocar suas necessidades de forma saudável, sem se tornar condescendente demais.
-        Quando aprende a equilibrar a sua necessidade de ouvir os outros e os seus próprios desejos e vontades, ganha a capacidade de harmonizar com ligeireza e desembaraço todas as polaridades da vida: eu / o outro, pessoal / social, formal / informal, mundano / sagrado, intuição / lógica, masculino / feminino.
+        Aprender a fazer suas próprias escolhas e se responsabilizar pelas consequências.<br /><br />
+        Aprender a colocar suas necessidades de forma saudável, sem se tornar condescendente demais.<br /><br />
+        Quando aprende a equilibrar a sua necessidade de ouvir os outros e os seus próprios desejos e vontades, ganha a capacidade de harmonizar com ligeireza e desembaraço todas as polaridades da vida: eu / o outro, pessoal / social, formal / informal, mundano / sagrado, intuição / lógica, masculino / feminino.<br /><br />
         O tipo físico associado a este ascendente é bem proporcionado, naturalmente ágil e elegante. Conta com charme pessoal, apesar de um pouco roliço e com tendência a ganhar peso devido à preguiça. <br />`,
 
         `Mercúrio no signo de Balança indica uma mente principalmente preocupada com relações humanas e psicologia.
@@ -2139,7 +2141,7 @@ const data = {
     ]
   },
   {
-    title: `escorpiao</strong>`,
+    title: `escorpião</strong>`,
     text: [
         `Escorpião é um signo de Água regido por Plutão, o senhor das profundezas, associado á morte e ao renascimento.
         Escorpião trata dos mistérios, do que está oculto e obscuro, do que está latente, de tudo o que deve ser curado, regenerado, transformado.<br /><br />
@@ -2182,19 +2184,19 @@ const data = {
         Pode também ajudar a curar as dores dos outros, devido à sensibilidade para o sofrimento alheio. <br />`,
 
         `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-        O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-        Para o Ascendente em Escorpião a expressão pessoal é intensa, carismática, poderosa e sempre um tanto secreta. Para ele, a vida é uma batalha, onde vitórias e derrotas marcam e transformam a expressão individual.
-        Com intensa necessidade de segurança vive sempre em um processo de transformação emocional. Aliás, todos os aspectos da vida são sentidos com grande intensidade, mas também com uma profunda contradição interior.
+        O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
+        Para o Ascendente em Escorpião a expressão pessoal é intensa, carismática, poderosa e sempre um tanto secreta. Para ele, a vida é uma batalha, onde vitórias e derrotas marcam e transformam a expressão individual.<br /><br />
+        Com intensa necessidade de segurança vive sempre em um processo de transformação emocional. Aliás, todos os aspectos da vida são sentidos com grande intensidade, mas também com uma profunda contradição interior.<br /><br />
         O indivíduo com este ascendente pode ver-se como um lutador, um reformista ou um investigador. O seu carisma que começa por ser fascinante, pode torná-lo incomodativo ou mesmo belicoso.
-        Perante qualquer desafio imediato (em coisas simples do dia-a-dia), reage com um misto de atração e repulsa, avidez e desconfiança, desejo e negação do próprio desejo.
+        Perante qualquer desafio imediato (em coisas simples do dia-a-dia), reage com um misto de atração e repulsa, avidez e desconfiança, desejo e negação do próprio desejo.<br /><br />
         Esta turbulência emocional leva-o ao principal tema de Escorpião - o da morte e transformação.
-        Como a cobra que muda de pele, o ascendente em Escorpião acumula a pressão até ocorrer uma explosão renovadora. Derruba e remove as velhas estruturas para que as novas possam ser construídas.
-        Ao compreender que a verdadeira batalha é interior, o Escorpião ascendente inicia uma nova fase na sua vida - deixa de lutar contra inimigos exteriores e lança-se na cruzada contra os seus demónios interiores.
-        <strong> O desafio é levar a luz da consciência para aquilo que é obscuro e oculto dentro de si: emoções destruidoras tais como ciúme, inveja, avareza, luxúria ou ânsia de poder.</strong>
+        Como a cobra que muda de pele, o ascendente em Escorpião acumula a pressão até ocorrer uma explosão renovadora. Derruba e remove as velhas estruturas para que as novas possam ser construídas.<br /><br />
+        Ao compreender que a verdadeira batalha é interior, o Escorpião ascendente inicia uma nova fase na sua vida - deixa de lutar contra inimigos exteriores e lança-se na cruzada contra os seus demónios interiores.<br /><br />
+        <strong> O desafio é levar a luz da consciência para aquilo que é obscuro e oculto dentro de si: emoções destruidoras tais como ciúme, inveja, avareza, luxúria ou ânsia de poder.</strong><br /><br />
         Se essas emoções são reprimidas, elas fervilham por baixo, envenenam a psique e acabem sendo liberadas de forma desregrada.
-        É importante reconhecer os sentimentos envolvidos, transformá-los, canalizá-los de forma mais construtiva.
-        Somente ao trazer seus inimigos interiores para a luz da consciência é que pode transcendê-los. É nessa altura que descobre em si recursos e capacidades que até então desconhecia.
-        Deixa de ser um lutador e torna-se um guerreiro espiritual. Muitos artistas produziram suas melhores obras reestruturando suas paixões, iras e desacertos em alternativas criativas.
+        É importante reconhecer os sentimentos envolvidos, transformá-los, canalizá-los de forma mais construtiva.<br /><br />
+        Somente ao trazer seus inimigos interiores para a luz da consciência é que pode transcendê-los. É nessa altura que descobre em si recursos e capacidades que até então desconhecia. Deixa de ser um lutador e torna-se um guerreiro espiritual.<br /><br />
+        Muitos artistas produziram suas melhores obras reestruturando suas paixões, iras e desacertos em alternativas criativas.
         Olhos penetrantes e de expressão intensa e profunda, sublinhados por sobrancelhas espessas e bonitas, são característicos deste ascendente. <br />`,
 
         `Mercúrio no signo de Escorpião proporciona uma mente intuitiva capaz de profundos insights.
@@ -2451,7 +2453,7 @@ const data = {
     ]
   },
   {
-    title: `sagitario</strong>`,
+    title: `sagitário</strong>`,
     text: [
         `A afirmação da individualidade é uma qualidade do elemento fogo.
         O sagitariano quer viajar, encontrar algo maior, filosofar, expandir fronteiras, cultivar liberdade de ação e pensamento, buscar mais espaço em todos os sentidos.<br /><br />
@@ -2489,20 +2491,16 @@ const data = {
         Procurar compreender os sentimentos, transformar emoções e desejos instintivos (que muitas vezes se manifestam de forma amplificada) com base na razão.<br /><br />
         É preciso também aprender a valorizar o que já foi conquistado, para controlar a insatisfação e aproveitar melhor o que está próximo de seu alcance. <br />`,
 
-        `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-        O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-        Quem tem ascendente em Sagitário tende a entrar na vida como quem começa uma viagem: com entusiasmo, curiosidade, otimismo e boa disposição.
-        Na sua abordagem existe sempre um componente de aventura, descoberta, experiência e aprendizagem.
-        O ascendente em Sagitário lança-se à descoberta de uma nova fronteira, de uma nova ideia ou da solução para os problemas globais com o mesmo entusiasmo e convicção com que parte em busca de um tesouro, descobre um novo disco ou explora a despensa em busca de guloseimas.
-        É otimista, acredita sempre que coisas boas podem acontecer e que a vida, afinal, não é assim tão má. Com a sua fé jovial e inabalável, não hesita em correr riscos.
-        Os acontecimentos da vida são encarados com significados e uma importância simbólica. Tudo é analisado em relação com uma verdade maior. Seu entusiasmo e idealismo são contagiantes, inspiram as pessoas e contribuem para o bem-estar geral.
-        Contudo, corre o risco de se tornar pomposo, arrogante, extravagante ou doutrinário. Quer que os outros acreditem naquilo que acha que está certo e não hesita em ensinar ou até mesmo impor as atitudes e conceitos morais que você considera correto.
-        Uma parte de sua natureza aspira nobres ideias, elevadas realizações e grandes alturas. Outra parte é dirigida pelas necessidades mais básicas e pelos instintos animais.
-        <strong> O grande aprendizado é encontrar formas criativas para resolver essa diferença e encurtar essa lacuna.
-        Assim, quando deixar de lado a atitude de sabedoria pomposa e passar a compartilhar os seus conhecimentos com humildade você dará um passo importante em direção à sua maturidade.</strong>
-        Esta etapa é alcançada através do controle da fala e dos pensamentos, evitando exageros e indiscrições, encontrando as palavras certas para expressar os mais amplos conceitos.
-        Assim pode trazer à sua vida o sentido e a Sabedoria que tanto procurou. Associa-se a este ascendente um aspecto descontraído, inquieto e jovial.
-        Pode ter um rosto aberto, com um grande sorriso e cabelos encaracolados (às vezes arruivados), coxas fortes e tendência a aumentar de peso. <br />`,
+        `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
+        Quem tem ascendente em Sagitário tende a entrar na vida como quem começa uma viagem: com entusiasmo, curiosidade, otimismo e boa disposição. Na sua abordagem existe sempre um componente de aventura, descoberta, experiência e aprendizagem.<br /><br />
+        O ascendente em Sagitário lança-se à descoberta de uma nova fronteira, de uma nova ideia ou da solução para os problemas globais com o mesmo entusiasmo e convicção com que parte em busca de um tesouro, descobre um novo disco ou explora a despensa em busca de guloseimas.<br /><br />
+        É otimista, acredita sempre que coisas boas podem acontecer e que a vida, afinal, não é assim tão má. Com a sua fé jovial e inabalável, não hesita em correr riscos. Os acontecimentos da vida são encarados com significados e uma importância simbólica.<br /><br />
+        Tudo é analisado em relação com uma verdade maior. Seu entusiasmo e idealismo são contagiantes, inspiram as pessoas e contribuem para o bem-estar geral.<br /><br />
+        Contudo, corre o risco de se tornar pomposo, arrogante, extravagante ou doutrinário. Quer que os outros acreditem naquilo que acha que está certo e não hesita em ensinar ou até mesmo impor as atitudes e conceitos morais que você considera correto.<br /><br />
+        Uma parte de sua natureza aspira nobres ideias, elevadas realizações e grandes alturas. Outra parte é dirigida pelas necessidades mais básicas e pelos instintos animais. O grande aprendizado é encontrar formas criativas para resolver essa diferença e encurtar essa lacuna.<br /><br />
+        Assim, quando deixar de lado a atitude de sabedoria pomposa e passar a compartilhar os seus conhecimentos com humildade você dará um passo importante em direção à sua maturidade.<br /><br />
+        Esta etapa é alcançada através do controle da fala e dos pensamentos, evitando exageros e indiscrições, encontrando as palavras certas para expressar os mais amplos conceitos.<br /><br />
+        Assim pode trazer à sua vida o sentido e a Sabedoria que tanto procurou. Associa-se a este ascendente um aspecto descontraído, inquieto e jovial. Pode ter um rosto aberto, com um grande sorriso e cabelos encaracolados (às vezes arruivados), coxas fortes e tendência a aumentar de peso. <br />`,
 
         `Mercúrio neste signo indica uma mente preocupada com todas as codificações do pensamento social, seja na forma de espiritualidade, religião, filosofia, direito ou outros estudos relacionados com a educação superior.
         Pode haver maior preocupação pelas atitudes do que pelos fatos. O resultado muitas vezes é construtivo, proporcionando um insight da motivação social e dos acontecimentos subsequentes.
@@ -2807,20 +2805,15 @@ const data = {
       É capaz de fazer sacrifícios para atender as demandas familiares, dominar bem as emoções ao lidar com as pressões exigidas na construção de uma carreira.
       O desafio é <strong> aprender</strong>  a expressar os seus sentimentos. Equilibrar o dever e a responsabilidade com mais suavidade e doçura. <br />`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-      Quem tem o Ascendente em Capricórnio entra na vida com os passos firmes, medidos e planeados de quem escala uma montanha.
-      Não brinca em serviço: a expressão pessoal é séria, responsável, convencional, retraída e um pouco seca. A ação é prática e concreta.
-      Costuma avaliar a si mesmo e aos outros pelas conquistas profissionais, a carreira e o estatuto social. As figuras de autoridade o impressionam. Há tendência para a inibição, a rigidez e a depressão.
-      Longe de ser nefasta, essa depressão se revela fundamental para o crescimento da individualidade. Abala a rigidez, permitindo uma reestruturação em moldes mais abrangentes e flexíveis.
-      As qualidades de resistência, planejamento e estratégia passam, então, a ajudar no processo de crescimento e transformação.
-      O Ascendente em Capricórnio frequentemente, quando jovem, adota uma postura sisuda, triste e desmotivada. Porém, ao longo dos anos, aprende a gozar as coisas boas da vida e pode até rejuvenescer com a idade.
-      Na maturidade, é frequente serem mais descontraídos, simpáticos e comunicativos do que foram quando jovens. Envelhece com um bom vinho.
-      Essa alegria interior representa o culminar das qualidades de trabalho e de conquistas profissionais associadas a este ascendente.
-      É uma "marca de Sabedoria". O ascendente em Capricórnio quer planejar sua vida com cautela, estruturá-la com calma e lógica, conforme suas metas e aspirações.
-      <strong> Por tanto, deve aprender a encarar as obrigações, desenvolver a disciplina e o controle.</strong>
-      Ao cultivar seu potencial para lidar com assuntos práticos e organizá-los, vive um sentido de realização e pode desfrutar de suas conquistas.
-      Um aspecto magro, tenso e seco pode ser associado a este ascendente. As maçãs do rosto são marcadas.
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
+      Quem tem o Ascendente em Capricórnio entra na vida com os passos firmes, medidos e planeados de quem escala uma montanha. Não brinca em serviço: a expressão pessoal é séria, responsável, convencional, retraída e um pouco seca. A ação é prática e concreta.<br /><br />
+      Costuma avaliar a si mesmo e aos outros pelas conquistas profissionais, a carreira e o estatuto social. As figuras de autoridade o impressionam. Há tendência para a inibição, a rigidez e a depressão.<br /><br />
+      Longe de ser nefasta, essa depressão se revela fundamental para o crescimento da individualidade. Abala a rigidez, permitindo uma reestruturação em moldes mais abrangentes e flexíveis.<br /><br />
+      As qualidades de resistência, planejamento e estratégia passam, então, a ajudar no processo de crescimento e transformação.<br /><br />
+      O Ascendente em Capricórnio frequentemente, quando jovem, adota uma postura sisuda, triste e desmotivada. Porém, ao longo dos anos, aprende a gozar as coisas boas da vida e pode até rejuvenescer com a idade.<br /><br />
+      Na maturidade, é frequente serem mais descontraídos, simpáticos e comunicativos do que foram quando jovens. Envelhece com um bom vinho. Essa alegria interior representa o culminar das qualidades de trabalho e de conquistas profissionais associadas a este ascendente.<br /><br />
+      É uma "marca de Sabedoria". O ascendente em Capricórnio quer planejar sua vida com cautela, estruturá-la com calma e lógica, conforme suas metas e aspirações. <strong> Por tanto, deve aprender a encarar as obrigações, desenvolver a disciplina e o controle.</strong><br /><br />
+      Ao cultivar seu potencial para lidar com assuntos práticos e organizá-los, vive um sentido de realização e pode desfrutar de suas conquistas. Um aspecto magro, tenso e seco pode ser associado a este ascendente. As maçãs do rosto são marcadas.<br /><br />
       Algumas pessoas (principalmente as mulheres) têm uma beleza refinada e contam com o equilíbrio de linhas e elegância da estrutura óssea. <br />`,
 
       `Mercúrio neste signo indica uma mente ambiciosa, perspicaz, prática, organizada e preocupada em obter status por intermédio de realizações materiais.
@@ -3070,7 +3063,7 @@ const data = {
     ]
   },
   {
-    title: `aquario</strong>`,
+    title: `aquário</strong>`,
     text: [
      `Aquário é um signo de Ar, visionário, inteligente, inovador e pioneiro, que gosta de pensar no coletivo. Gosta de olhar para o futuro, de questionar regras, dogmas e tabus obsoletos.<br /><br />
       O Sol em Aquário inspira o olhar vanguardista, a liberdade, a igualdade e a fraternidade.  Gosta de pensar no coletivo, mas também preza a individualidade.
@@ -3110,24 +3103,20 @@ const data = {
       Quanto mais a liberdade for respeitada, mais pode se ligar às pessoas. Mas é preciso aprender a valorizar os laços de afeto e os sentimentos.
       Perceber as necessidades alheias para que possa servir e ajudar os outros, formando assim relações de amizade sinceras e duradouras. <br />`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-      Quem tem Ascendente em Aquário cultiva sua identidade única através de uma visão objetiva, global e impessoal da vida.
-      Costumam apreciar os acontecimentos, as pessoas, as situações e a si mesmo de uma perspectiva mais afastada, buscando uma imagem mais completa e mais ampla do contexto social.
-      Algo maior que o self deve ser levado em consideração. Os ideais são igualitários: fraternidade, justiça e liberdade para todos.
-      Sua expressão pessoal é baseada numa aparente contradição: tem uma necessidade imperativa (embora por vezes disfarçada) de ser único, diferente e inconvencional, mas ao mesmo tempo quer ser aceito pelo coletivo, pela sociedade.
-      Em outras palavras: tem de ser diferente e, ao mesmo tempo, igual. É simultaneamente rebelde e gregário. A solução deste conflito interno varia de pessoa para pessoa.
-      Alguns nativos podem até sufocar o seu individualismo em prol da sua aceitação social.
-      Mantém-se numa atitude de falso conformismo, mas correm o risco de explodir em rebeldia a qualquer momento. Outros se proclamam "espíritos livres" e preferem se manter à margem da sociedade.
-      Ganham liberdade para serem inconvencionais, teimosos, excêntricos e rebeldes de uma forma até chocante, mas perdem o prazer da companhia humana.
-      Na maioria dos casos, contudo, a faceta experimental e pioneira deste signo no Ascendente consegue encontrar soluções originais e equilibradas (geralmente depois de várias tentativas).
-      Pode unir-se a grupos diferentes e originais que lhe deem espaço e liberdade de expressão.
-      Pode ter diversos grupos de amigos, que representem diversas facetas da sua personalidade. Ou pode tentar compartilhar o seu "mundo paralelo", onde reina a busca da liberdade e a visão do futuro.
-      Qualquer uma destas soluções pode permitir a troca de ideias, a cumplicidade em ideologias e pontos de vista. Assim o Ascendente em Aquário se sente acompanhado na sua diferença.
-      Ao compreender que não precisa de se rebelar para ser livre, quem tem este ascendente começa a encarar a vida como uma grande experiência de solidariedade.
-      Descobre, então, que tem a capacidade de partilhar com toda a humanidade as suas ideias largas e globais, numa perspectiva de serviço, esperança e fraternidade. As utopias se tornam, então, ideias realizáveis.
-      Fisicamente, este ascendente é associado a figuras grandes, altas e a rostos bem delineados e de expressão aberta.
-      Em sua aura geralmente há uma carga elétrica ou magnética, que lhe confere um toque excêntrico. <br />`,
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
+      Quem tem Ascendente em Aquário cultiva sua identidade única através de uma visão objetiva, global e impessoal da vida.<br /><br />
+      Costumam apreciar os acontecimentos, as pessoas, as situações e a si mesmo de uma perspectiva mais afastada, buscando uma imagem mais completa e mais ampla do contexto social. Algo maior que o self deve ser levado em consideração.<br /><br />
+      Os ideais são igualitários: fraternidade, justiça e liberdade para todos.<br /><br />
+      Sua expressão pessoal é baseada numa aparente contradição: tem uma necessidade imperativa (embora por vezes disfarçada) de ser único, diferente e inconvencional, mas ao mesmo tempo quer ser aceito pelo coletivo, pela sociedade.<br /><br />
+      Em outras palavras: tem de ser diferente e, ao mesmo tempo, igual. É simultaneamente rebelde e gregário. A solução deste conflito interno varia de pessoa para pessoa. Alguns nativos podem até sufocar o seu individualismo em prol da sua aceitação social.<br /><br />
+      Mantém-se numa atitude de falso conformismo, mas correm o risco de explodir em rebeldia a qualquer momento. Outros se proclamam "espíritos livres" e preferem se manter à margem da sociedade.<br /><br />
+      Ganham liberdade para serem inconvencionais, teimosos, excêntricos e rebeldes de uma forma até chocante, mas perdem o prazer da companhia humana.<br /><br />
+      Na maioria dos casos, contudo, a faceta experimental e pioneira deste signo no Ascendente consegue encontrar soluções originais e equilibradas (geralmente depois de várias tentativas). Pode unir-se a grupos diferentes e originais que lhe deem espaço e liberdade de expressão.<br /><br />
+      Pode ter diversos grupos de amigos, que representem diversas facetas da sua personalidade. Ou pode tentar compartilhar o seu "mundo paralelo", onde reina a busca da liberdade e a visão do futuro.<br /><br />
+      Qualquer uma destas soluções pode permitir a troca de ideias, a cumplicidade em ideologias e pontos de vista.<br /><br />
+      Assim o Ascendente em Aquário se sente acompanhado na sua diferença. Ao compreender que não precisa de se rebelar para ser livre, quem tem este ascendente começa a encarar a vida como uma grande experiência de solidariedade.<br /><br />
+      Descobre, então, que tem a capacidade de partilhar com toda a humanidade as suas ideias largas e globais, numa perspectiva de serviço, esperança e fraternidade. As utopias se tornam, então, ideias realizáveis.<br /><br />
+      Fisicamente, este ascendente é associado a figuras grandes, altas e a rostos bem delineados e de expressão aberta. Em sua aura geralmente há uma carga elétrica ou magnética, que lhe confere um toque excêntrico. <br />`,
 
       `Mercúrio no signo de Aquário indica uma mente aberta às novas experiências.
       A capacidade de considerar os fatos à luz da verdade impessoal oferece uma mente confiável, não preconceituosa e objetiva. Para os nativos com esta posição, a verdade deve vir em primeiro lugar.
@@ -3362,7 +3351,7 @@ const data = {
     ]
   },
   {
-    title: `peixe</strong>`,
+    title: `peixes</strong>`,
     text: [
      `Peixes é o último signo do Zodíaco, o RELIGARE.
       É um signo que trata de assuntos transcendentais, cuja grande lição é dissolver o ego para cultivar a compaixão, desenvolver a fé, aprender a entregar o controle da vida para uma Força Maior.<br /><br />
