@@ -1,0 +1,103 @@
+﻿/**
+*
+* Mixins and helpers
+*
+*/
+
+//  =======================
+//  ::: Sass mixins ::::
+// ========================
+
+//
+//  CSS animations - transitions
+//  _____________________________________________
+
+@mixin transition ($time: 0.2s) {
+    -webkit-transition: all $time ease-out;
+    -moz-transition: all $time ease-out;
+    -ms-transition: all $time ease-out;
+    -o-transition: all $time ease-out;
+    transition: all $time ease-out;
+}
+
+/* Parametric mixin to add background sprite */
+
+@mixin bg-sprite ($position: 0 0) {
+    background-image: url('../images/sprite.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-position: $position;
+}
+
+@mixin font-size($sizeValue) {
+    $remValue: $sizeValue;
+    $pxValue: ($sizeValue * 10);
+
+    font-size: #{$pxValue}px;
+    font-size: #{$remValue}rem;
+}
+
+//
+//  some utils classes
+//  _____________________________________________
+
+@mixin pseudo {
+    content: " ";
+    font-size: 0;
+    display: block;
+}
+
+@mixin clear {
+    &::before,
+    &::after {
+        @include pseudo;
+
+        clear: both;
+    }
+}
+
+//
+//  Image helper
+//  _____________________________________________
+
+@mixin img-cropWrapper {
+    position: relative;
+    overflow: hidden;
+    line-height: 0;
+    font-size: 0;
+    padding-top: 10%;
+
+    > img {
+        top: -150%;
+        bottom: -150%;
+        left: -150%;
+        right: -150%;
+        position: absolute;
+        margin: auto;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        max-width: none;
+        max-height: none;
+    }
+}
+
+@mixin imgc {
+    @include img-cropWrapper();
+}
+
+@mixin imgcI {
+    top: -150%;
+    bottom: -150%;
+    left: -150%;
+    right: -150%;
+    position: absolute;
+    margin: auto;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    max-width: none;
+    max-height: none;
+}

@@ -70,7 +70,7 @@ gulp.task('styles', function() {
                     )
                 )
                 .on('error', console.error.bind(console))
-                .pipe(gulp.dest('css/converted/'))
+                .pipe(gulp.dest('css/'))
                 .pipe(livereload());
 });
 
