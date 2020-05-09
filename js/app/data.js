@@ -3390,21 +3390,18 @@ const data = {
       Em alguns casos, há timidez. É preciso aprender a organizar melhor os seus sentimentos. Conhecer-se melhor, desenvolver um lado mais crítico e realista para que possa separar o que é seu e o que é do outro.
       Assim pode expressar sua sensibilidade com mais segurança, estabilidade, equilíbrio e clareza. <br />`,
 
-      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas.
-      O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.
-      Uma espécie de névoa vaga, transcendental e intangível parece permear a expressão pessoal de quem tem Peixes no Ascendente.
-      Esta "névoa" confere empatia e permeabilidade, mas ao mesmo tempo traz certo isolamento e distanciamento.
-      A necessidade de cultivar um sentido concreto de identidade entra em conflito com forças que provocam a dissolução e a transcendência das limitações.
-      Assim, a pessoa com este Ascendente pode ter sentimentos e comportamentos um tanto contraditórios. Sua percepção é sensível ao todo, sua aprendizagem se faz através do sentir.
-      Em determinadas situações, pode entrar em empatia emocional com toda a Humanidade e procurar redimi-la dos seus sofrimentos.
-      Quando isso acontece, a sua sensibilidade se manifesta como compaixão, expressão artística ou devoção mística. No momento seguinte, contudo, pode focar-se apenas em suas próprias necessidades emocionais.
-      Cai então num caos emocional, numa autopiedade da qual só sairá (segundo julga) se alguém vier "salvá-lo". A solução requer o desenvolvimento de uma identidade que não exclua a consciência de que ela faz parte de algo maior.
-      Encontrar o caminho do meio: uma identidade rígida demais tornaria a transcendência impossível. Uma identidade por demais difusa criaria dificuldades na hora de lidar com as questões práticas, de forma eficiente com a vida.
-      Quem tem Peixes no Ascendente pode se manifestar como a vítima, o artista ou o curandeiro / salvador. É preciso cuidado com excessos, com apetites autodestrutivos, com a tendência para a fuga da realidade e sacrifícios sobre-humanos.
-      Se conseguir o distanciamento necessário para distinguir entre os seus problemas e os dos outros, a pessoa com este ascendente pode colocar a sua enorme sensibilidade à serviço do coletivo.
-      Deixa de oscilar entre os papéis de salvador e vítima, tornando-se capaz de passar da empatia emocional à ajuda efetiva, mesmo que isso implique em sacrifícios pessoais.
-      Fisicamente, sua aparência é sonhadora, romântica, sedutora ou misteriosa. Um ar etéreo e um pouco "perdido" pode ser a marca deste signo ascendente.
-      Os olhos costumam ser grandes e o corpo arredondado. Alguns conseguem moldar a sua aparência em diversas imagens, refletindo e imitando tudo o que os impressiona. <br />`,
+      `O signo que se encontra no Ascendente indica a primeira impressão que causamos e a forma como iniciamos as coisas. O ascendente traz pistas sobre o aspecto físico, a "máscara" exterior (tanto física, como emocional e intelectual), alguns hábitos e maneirismos pessoais.<br /><br />
+      Uma espécie de névoa vaga, transcendental e intangível parece permear a expressão pessoal de quem tem Peixes no Ascendente. Esta "névoa" confere empatia e permeabilidade, mas ao mesmo tempo traz certo isolamento e distanciamento.<br /><br />
+      A necessidade de cultivar um sentido concreto de identidade entra em conflito com forças que provocam a dissolução e a transcendência das limitações. Assim, a pessoa com este Ascendente pode ter sentimentos e comportamentos um tanto contraditórios.<br /><br />
+      Sua percepção é sensível ao todo, sua aprendizagem se faz através do sentir. Em determinadas situações, pode entrar em empatia emocional com toda a Humanidade e procurar redimi-la dos seus sofrimentos.<br /><br />
+      Quando isso acontece, a sua sensibilidade se manifesta como compaixão, expressão artística ou devoção mística. No momento seguinte, contudo, pode focar-se apenas em suas próprias necessidades emocionais.<br /><br />
+      Cai então num caos emocional, numa autopiedade da qual só sairá (segundo julga) se alguém vier "salvá-lo". A solução requer o desenvolvimento de uma identidade que não exclua a consciência de que ela faz parte de algo maior.<br /><br />
+      Encontrar o caminho do meio: uma identidade rígida demais tornaria a transcendência impossível. Uma identidade por demais difusa criaria dificuldades na hora de lidar com as questões práticas, de forma eficiente com a vida.<br /><br />
+      Quem tem Peixes no Ascendente pode se manifestar como a vítima, o artista ou o curandeiro / salvador. É preciso cuidado com excessos, com apetites autodestrutivos, com a tendência para a fuga da realidade e sacrifícios sobre-humanos.<br /><br />
+      Se conseguir o distanciamento necessário para distinguir entre os seus problemas e os dos outros, a pessoa com este ascendente pode colocar a sua enorme sensibilidade à serviço do coletivo.<br /><br />
+      Deixa de oscilar entre os papéis de salvador e vítima, tornando-se capaz de passar da empatia emocional à ajuda efetiva, mesmo que isso implique em sacrifícios pessoais.<br /><br />
+      Fisicamente, sua aparência é sonhadora, romântica, sedutora ou misteriosa. Um ar etéreo e um pouco "perdido" pode ser a marca deste signo ascendente. Os olhos costumam ser grandes e o corpo arredondado.<br /><br />
+      Alguns conseguem moldar a sua aparência em diversas imagens, refletindo e imitando tudo o que os impressiona. <br />`,
 
       `Mercúrio neste signo indica uma imaginação ativa e uma capacidade fotográfica para visualizar pensamentos e lembranças.
       Os nativos com esta posição são muito intuitivos e telepatas no nível inconsciente.
