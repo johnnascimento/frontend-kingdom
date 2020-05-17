@@ -1,16 +1,9 @@
-// Source files
-@import 'source/variables.scss';
-@import 'source/core.scss';
-@import 'source/extended-components.scss';
-
-// diagramation
-$gutter: 16px;
-
-// local variables
+﻿// local variables
 $selectHSize: 60px;
 $trashCanSize: 40px;
-$titleHSize: 19px;
 
+// ALL DEVICES
+// ______________________________________________________________
 
 * {
   box-sizing: border-box;
@@ -196,20 +189,6 @@ body {
 
         .title {
           font-weight: bold;
-
-          &.fixed {
-            position: absolute;
-            display: inline-block;
-            position: absolute;
-            top: 0;
-            right: ($gutter);
-            bottom: auto;
-            left: auto;
-            height: $titleHSize;
-            line-height: $titleHSize;
-            margin: ($gutter) 0;
-            padding: 0;
-          }
         }
 
         .arrayKlass-title,
@@ -483,3 +462,14 @@ body {
     }
   }
 }
+
+// MOBILE DEVICES
+// ______________________________________________________________
+
+@media (max-width: $tabl-bk) {}
+
+
+// DESKTOP DEVICES
+// ______________________________________________________________
+
+@media (min-width: $tabl-bk) {}

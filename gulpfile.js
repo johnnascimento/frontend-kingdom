@@ -3,7 +3,27 @@ var gulp = require('gulp'),
     babel = require('gulp-babel'),
     clean = require('gulp-clean'),
     cleanCSS = require('gulp-clean-css'),
-    sass = require('gulp-sass');
+    sass = require('gulp-sass'),
+    server = require('gulp-webserver'),
+    livereload = require('gulp-livereload');
+
+// CoOnsole log function
+// function errorLog(error) {
+//     console.error.bind(error);
+//     this.emit('end');
+// }
+
+// Gulp webserver
+// ______________________________________
+gulp.task('server', function() {
+  gulp.src('./')    // <-- your app folder
+    .pipe(server({
+      livereload: true,
+      open: true,
+      port: 35730    // set a port to avoid conflicts with other local apps
+    }));
+});
+
 
 // Clean task
 // Delete files and folders related to js
@@ -33,7 +53,9 @@ gulp.task('scripts', function() {
                     presets: ['@babel/preset-env']
                 }))
                 .pipe(uglify())
-                .pipe(gulp.dest('js/minJs/minified'));
+                .on('error', console.error.bind(console))
+                .pipe(gulp.dest('js/minJs/minified'))
+                .pipe(livereload());
 });
 
 // Styles task
@@ -42,8 +64,14 @@ gulp.task('scripts', function() {
 gulp.task('styles', function() {
     console.log('Styles is being invoked');
     return gulp.src('css/style.scss')
-                .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
-                .pipe(gulp.dest('css/converted/'));
+                .pipe(
+                    sass(
+                        { outputStyle: 'compressed' }
+                    )
+                )
+                .on('error', console.error.bind(console))
+                .pipe(gulp.dest('css/'))
+                .pipe(livereload());
 });
 
 
@@ -60,6 +88,7 @@ gulp.task('default',
         'clean-styles',
         'clean-scripts',
         gulp.parallel('styles', 'scripts'),
-        'watch'
+        'watch',
+        'server'
     )
 );
