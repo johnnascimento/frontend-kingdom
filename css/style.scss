@@ -7,6 +7,7 @@ $gutter: 16px;
 // local variables
 $selectHSize: 60px;
 $trashCanSize: 40px;
+$titleHSize: 19px;
 
 
 * {
@@ -193,6 +194,20 @@ body {
 
         .title {
           font-weight: bold;
+
+          &.fixed {
+            position: absolute;
+            display: inline-block;
+            position: absolute;
+            top: 0;
+            right: ($gutter);
+            bottom: auto;
+            left: auto;
+            height: $titleHSize;
+            line-height: $titleHSize;
+            margin: ($gutter) 0;
+            padding: 0;
+          }
         }
 
         .arrayKlass-title,

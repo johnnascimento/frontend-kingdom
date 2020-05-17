@@ -548,12 +548,25 @@ define(['jquery'], function($) {
             // Control the buttons' behaviour
             // ------------------------------------------------------------------------------------------
             docQuery('.listOfItems-1').addEventListener('change', (ev) => {
-                if (ev.target.selectedIndex === 0) {
-                    docQuery('.listOfItems-2').setAttribute('disabled', true);
-                    docQuery('.listOfItems-3').setAttribute('disabled', true);
-                } else {
-                    docQuery('.listOfItems-2').removeAttribute('disabled');
-                    docQuery('.listOfItems-3').removeAttribute('disabled');
+                let firstListOfItems = ev.target.selectedIndex;
+
+                switch(firstListOfItems) {
+                    case 0:
+                        docQuery('#resetForm').click();
+                        docQuery('.listOfItems-2').setAttribute('disabled', true);
+                        docQuery('.listOfItems-3').setAttribute('disabled', true);
+
+                        break;
+
+                    case 3:
+                        docQuery('.listOfItems-3').selectedIndex = 0;
+                        docQuery('.listOfItems-2').removeAttribute('disabled', true);
+                        docQuery('.listOfItems-3').setAttribute('disabled', true);
+                        break;
+
+                    default: 
+                        docQuery('.listOfItems-2').removeAttribute('disabled');
+                        docQuery('.listOfItems-3').removeAttribute('disabled');
                 }
             });
 
