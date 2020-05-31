@@ -423,11 +423,13 @@ define(['jquery'], function($) {
 
             // Use the criarEl method to create this one
             // ------------------------------------------------------
-            var textBlockWrapper = '';
-            var klassAssigner = '';
-            var templateArray = [];
-            var selectedItemsArray = [];
-            var textBlockCounterRef = textBlockCounter;
+            var textBlockWrapper = '',
+                klassAssigner = '',
+                templateArray = [],
+                selectedItemsArray = [],
+                textBlockCounterRef = textBlockCounter,
+                idAssigner = '';
+
             let getSelectedIndexInArray = defineSelectedIndexInAnArray(true, true);
 
             // Used in the function bellow

@@ -1,15 +1,16 @@
 requirejs.config({
-    baseUrl: 'js/libs',
+    baseUrl: './js/minJs',
 
     paths: {
-        app: '../app'
+        jquery: '../libs/jquery',
+        app: '../minJs/*'
     }
 });
 
 requirejs([
     'jquery',
-    'app/data',
-    'app/script',
+    'data',
+    'script',
     // 'app/textLineBreak'
     ],
     function(
