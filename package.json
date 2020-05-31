@@ -8,8 +8,8 @@
     "gulp-babel5": "^5.4.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
     "amd-optimize": "^0.6.1",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
