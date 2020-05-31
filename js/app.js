@@ -11,19 +11,16 @@ requirejs([
     'jquery',
     'data',
     'script',
-    // 'app/textLineBreak'
     ],
     function(
         $,
         data,
         script,
-        // textLineBreak
     ) {
-    console.log('App initialized! ', $('body'));
+    console.log('App initialized! ');
 
     var script = new script();
 
     // Initiating the functions
-    // _________________________
     script.init();
 });
