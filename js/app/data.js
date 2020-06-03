@@ -1,4 +1,4 @@
-// `Data` part
+// Data part
 // -------------------------------------------------------------------
 const data = {
       defaultText: {
@@ -3853,9 +3853,6 @@ const data = {
             ],
             nodosLunares: [
                   `...`
-            ],
-            parteFortuna: [
-                  `...`
             ]
       },
       {
@@ -4037,9 +4034,6 @@ const data = {
                   `...`
             ],
             nodosLunares: [
-                  `...`
-            ],
-            parteFortuna: [
                   `...`
             ]
       },
@@ -4225,9 +4219,6 @@ const data = {
                   `...`
             ],
             nodosLunares: [
-                  `...`
-            ],
-            parteFortuna: [
                   `...`
             ]
       },
@@ -4424,9 +4415,6 @@ const data = {
             ],
             nodosLunares: [
                   `...`
-            ],
-            parteFortuna: [
-                  `...`
             ]
       },
       {
@@ -4621,9 +4609,6 @@ const data = {
                   `...`
             ],
             nodosLunares: [
-                  `...`
-            ],
-            parteFortuna: [
                   `...`
             ]
       },
@@ -4832,9 +4817,6 @@ const data = {
             ],
             nodosLunares: [
                   `...`
-            ],
-            parteFortuna: [
-                  `...`
             ]
       },
       {
@@ -5031,9 +5013,6 @@ const data = {
             ],
             nodosLunares: [
                   `...`
-            ],
-            parteFortuna: [
-                  `...`
             ]
       },
       {
@@ -5227,9 +5206,6 @@ const data = {
                   `...`
             ],
             nodosLunares: [
-                  `...`
-            ],
-            parteFortuna: [
                   `...`
             ]
       },
@@ -5433,9 +5409,6 @@ const data = {
             ],
             nodosLunares: [
                   `...`
-            ],
-            parteFortuna: [
-                  `...`
             ]
       },
       {
@@ -5632,9 +5605,6 @@ const data = {
                   `...`
             ],
             nodosLunares: [
-                  `...`
-            ],
-            parteFortuna: [
                   `...`
             ]
       },
@@ -5837,9 +5807,6 @@ const data = {
                   `...`
             ],
             nodosLunares: [
-                  `...`
-            ],
-            parteFortuna: [
                   `...`
             ]
       },
@@ -6044,9 +6011,6 @@ const data = {
                   `...`
             ],
             nodosLunares: [
-                  `...`
-            ],
-            parteFortuna: [
                   `...`
             ]
       }]

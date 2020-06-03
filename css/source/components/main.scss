@@ -305,7 +305,17 @@ body {
   }
 }
 
-@media only screen and (min-width: 768px) {
+
+// MOBILE DEVICES
+// ______________________________________________________________
+
+@media (max-width: $tabl-bk) {}
+
+
+// DESKTOP DEVICES
+// ______________________________________________________________
+
+@media (min-width: $tabl-bk) {
   .contentSpotWrapper {
     .contentSpot {
       div[class^="textBlockWrapper-"]:hover {
@@ -321,155 +331,3 @@ body {
     }
   }
 }
-
-@media only screen and (max-width: 768px) {
-  body {
-    .contentSpotWrapper,
-    .formSpot {
-      width: 100%;
-      padding: 0;
-      margin: ($gutter/2) 0;
-      display: block;
-      position: relative;
-      background-color: $lightyellow;
-    }
-
-    .formSpot .selectForm {
-      padding: ($gutter);
-      margin: ($gutter/4);
-    }
-
-    .pageTitle {
-      font-size: 2.8rem;
-      font-weight: 700;
-      color: $crimson;
-      text-align: center;
-
-      padding: ($gutter/4) 0;
-      margin: ($gutter/4) auto;
-      display: block;
-      position: relative;
-    }
-
-    #mainForm1 {
-      height: auto;
-      width: 100%;
-      position: relative;
-    }
-
-    input[type="button"],
-    input[type="reset"],
-    button[type="print"] {
-      width: 100%;
-      min-height: 50px;
-      border: none;
-      box-shadow: none;
-
-      margin: ($gutter/2) 0;
-    }
-
-    input[type="button"] {
-      background-color: $lightgreen;
-    }
-
-    input[type="reset"] {
-      background-color: transparent;
-      border: 1px solid $lightgreen;
-      color: $lightgreen;
-    }
-
-    .printDocument {
-      background-color: $lightgreen;
-    }
-
-    .contentSpotWrapper .contentSpot {
-      font-size: 1.6rem;
-
-      div[class^="textBlockWrapper-"] {
-        &:hover div[class*="trashcan-"] {
-          display: inline-block;
-          font-size: 18px;
-          color: $white;
-          font-size: 0;
-        }
-
-        div[class*="trashcan-"] {
-          display: inline-block;
-          font-size: 18px;
-          color: $white;
-          font-size: 0;
-
-          &:before {
-            font-size: 18px;
-          }
-        }
-      }
-    }
-  }
-}
-
-@media print and (max-width: 768px) {
-  header,
-  footer,
-  aside,
-  nav,
-  form,
-  iframe,
-  .menu,
-  .hero,
-  .adslot,
-  .formSpot {
-    display: none;
-  }
-
-  html,
-  body,
-  p {
-    font-size: 14pt;
-    font-family: 'Times New Roman', Times, Georgia, Palatino;
-  }
-
-  body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-
-    .contentSpotWrapper {
-      display: block;
-      min-width: 100%;
-      width: 100%;
-      background-color: transparent;
-      border: none;
-      margin-top: -128px;
-      margin: 0;
-
-      div[class^="textBlockWrapper-"] {
-        page-break-after: auto;
-        break-after: always;
-        page-break-inside: auto;
-        break-inside: auto;
-
-        div[class*="trashcan-"] {
-          display: inline-block;
-          font-size: 20px;
-          color: $white;
-        }
-
-        button[type="print"] {
-          background-color: $lightgreen;
-        }
-      }
-    }
-  }
-}
-
-// MOBILE DEVICES
-// ______________________________________________________________
-
-@media (max-width: $tabl-bk) {}
-
-
-// DESKTOP DEVICES
-// ______________________________________________________________
-
-@media (min-width: $tabl-bk) {}

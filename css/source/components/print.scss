@@ -1,0 +1,60 @@
+﻿@media print and (max-width: 768px) {
+    header,
+    footer,
+    aside,
+    nav,
+    form,
+    iframe,
+    .menu,
+    .hero,
+    .adslot,
+    .formSpot {
+        display: none;
+    }
+
+    html,
+    body,
+    p {
+        font-size: 14pt;
+        font-family: 'Times New Roman', Times, Georgia, Palatino;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+
+        .contentSpotWrapper {
+            display: block;
+            min-width: 100%;
+            width: 100%;
+            background-color: transparent;
+            border: none;
+            margin-top: -128px;
+            margin: 0;
+
+            div[class^="textBlockWrapper-"] {
+                page-break-after: auto;
+                break-after: always;
+                page-break-inside: auto;
+                break-inside: auto;
+
+                div[class*="trashcan-"] {
+                    display: inline-block;
+                    font-size: 20px;
+                    color: $white;
+                }
+
+                button[type="print"] {
+                    background-color: $lightgreen;
+                }
+            }
+        }
+    }
+}
+
+@media print and (min-width: 768px) {
+    body {
+        background-color: red;
+    }
+}
