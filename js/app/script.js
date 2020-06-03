@@ -424,11 +424,11 @@ define(['jquery'], function($) {
             // Use the criarEl method to create this one
             // ------------------------------------------------------
             var textBlockWrapper = '',
-                klassAssigner = '',
-                templateArray = [],
-                selectedItemsArray = [],
-                textBlockCounterRef = textBlockCounter,
-                idAssigner = '';
+            klassAssigner = '',
+            templateArray = [],
+            selectedItemsArray = [],
+            textBlockCounterRef = textBlockCounter,
+            idAssigner = '';
 
             let getSelectedIndexInArray = defineSelectedIndexInAnArray(true, true);
 
@@ -584,12 +584,11 @@ define(['jquery'], function($) {
                 return;
             });
 
-            if(document.querySelector('#printDocument')) {
-                $printButton('#printDocument').addEventListener('click', function(ev) {
-                    window.print();
-                    return;
-                });
-            }
+            // if(document.querySelector('#printDocument')) {
+            //     $printButton('#printDocument').addEventListener('click', function(ev) {
+            //         return;
+            //     });
+            // }
 
             setInterval(() => {
                 console.log(`Every 60 second we run a function to clean up any empty block in the contentSpot tag`);
