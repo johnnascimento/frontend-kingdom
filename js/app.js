@@ -1,28 +1,26 @@
 requirejs.config({
-    baseUrl: 'js/libs',
+    baseUrl: './js/minJs',
 
     paths: {
-        app: '../app'
+        jquery: '../libs/jquery',
+        app: '../minJs/*'
     }
 });
 
 requirejs([
     'jquery',
-    'app/data',
-    'app/script',
-    // 'app/textLineBreak'
+    'data',
+    'script',
     ],
     function(
         $,
         data,
         script,
-        // textLineBreak
     ) {
-    console.log('App initialized! ', $('body'));
+    console.log('App initialized! ');
 
     var script = new script();
 
     // Initiating the functions
-    // _________________________
     script.init();
 });
