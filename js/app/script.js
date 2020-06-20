@@ -31,7 +31,7 @@ define(['jquery'], function($) {
         let lineBreaks = '';
         var tagFinder = new RegExp('\<\/strong\>', 'gmi');
 
-        contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
+        // contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
 
         const $submitBtn = docQuery('#submitBtn');
         const $contentSpotElem = docQuery('#contentSpot');
@@ -72,6 +72,8 @@ define(['jquery'], function($) {
         let levels = [];
 
         const criarEl = (elType, assignmentReference, klass, id, selectorElem, textEl, el) => {
+            console.log('criarEl', elType, ' ', assignmentReference, ' ', klass, ' ', id, ' ', selectorElem, ' ', textEl, ' ', el);
+
             el = d.createElement(elType);
             el.classList.add(klass);
             el.id = id;
@@ -324,13 +326,9 @@ define(['jquery'], function($) {
 
                 if (planetasTitle == element) {
                     if (elementsIndexAndTexts.element2[0] !== 0 && elementsIndexAndTexts.element2[1] === 0) {
-
                         evaluatedValueToReturn.push(defineTitles(planetasTitle, elementsIndexAndTexts) + " " + elementsIndexAndTexts.element1[2]);
-
                     } else if (elementsIndexAndTexts.element2[0] !== 0 && elementsIndexAndTexts.element2[2] === 0) {
-
                         evaluatedValueToReturn.push(defineTitles(planetasTitle, elementsIndexAndTexts) + " " + elementsIndexAndTexts.element1[1]);
-
                     }
                     return evaluatedValueToReturn;
                 }
@@ -346,7 +344,6 @@ define(['jquery'], function($) {
                         for(i = 0; i < data.signos[key].levels.length; i++) {
                             levels.push(data.signos[key].levels[i]);
                         }
-
                     } else if(elementsIndexAndTexts.element2[0] === 12) {
 
                         nodosFortuna = data.signos[key].nodosLunares;
@@ -424,17 +421,35 @@ define(['jquery'], function($) {
             // Use the criarEl method to create this one
             // ------------------------------------------------------
             var textBlockWrapper = '',
-            klassAssigner = '',
-            templateArray = [],
-            selectedItemsArray = [],
-            textBlockCounterRef = textBlockCounter,
-            idAssigner = '';
+                klassAssigner = '',
+                templateArray = [],
+                selectedItemsArray = [],
+                textBlockCounterRef = textBlockCounter,
+                idAssigner = '',
+                trashCanClass = 'trashcan-' + textBlockCounter,
+                klassAssigner = 'textBlockWrapper-' + textBlockCounter,
+                idAssigner = 'textBlockWrapperId-' + textBlockCounter,
+                currentContentSpot = 'contentSpot-' + textBlockCounter,
+                currentTextBlockWrapper = 'card-header-' + textBlockCounter,
+                accordionTitle = siteLists.second.link.selectedIndex != 0 ? siteLists.first.options[siteLists.first.link.selectedIndex].text + ' em ' + siteLists.second.options[siteLists.second.link.selectedIndex].text : siteLists.first.options[siteLists.first.link.selectedIndex].text + ' em ' + siteLists.third.options[siteLists.third.link.selectedIndex].text,
+                accordionTemplate = '<div class=\"card card-' + textBlockCounter + '\">' +
+                                        '<div class=\"card-header card-header-' + textBlockCounter + '\" id=\"heading-' + textBlockCounter + '\">' +
+                                            '<h5 class="mb-0">' +
+                                            '<button class=\"btn btn-link\" data-toggle=\"collapse\" data-target=\"#collapse-' + textBlockCounter + '\" aria-expanded=\"true\" aria-controls=\"collapse' + textBlockCounter + '\">' +
+                                                accordionTitle +
+                                            '</button>' +
+                                            '<span class=\"fas fa-times-circle ' + trashCanClass + '\" data-parent-card=\"card-' + textBlockCounter + '\"></span>' +
+                                            '</h5>' +
+                                        '</div>' +
+
+                                        '<div id=\"collapse-' + textBlockCounter + '\" class=\"collapse show\" aria-labelledby=\"heading-' + textBlockCounter + '\" data-parent=\"#accordion\">' +
+                                            '<div id=\"contentSpot-' + textBlockCounter + '\" class=\"contentSpot-' + textBlockCounter + ' card-body col-12\">' +
+                                            '</div>' +
+                                        '</div>' +
+                                    '</div>';
 
             let getSelectedIndexInArray = defineSelectedIndexInAnArray(true, true);
 
-            // Used in the function bellow
-            klassAssigner = 'textBlockWrapper-' + textBlockCounter;
-            idAssigner = 'textBlockWrapperId-' + textBlockCounter;
             selectedItemsArray.push(siteLists.first.options[siteLists.first.link.selectedIndex].text);
             selectedItemsArray.push(siteLists.second.options[siteLists.second.link.selectedIndex].text);
             selectedItemsArray.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
@@ -442,14 +457,19 @@ define(['jquery'], function($) {
 
             console.log('templateArray', templateArray);
             console.log('selectedItemsArray', selectedItemsArray);
-
+            console.log('accordionTemplate', accordionTemplate);
 
             if (getSelectedIndexInArray.element2[0] !== 0 && getSelectedIndexInArray.element2[1] !== 0 || getSelectedIndexInArray.element2[0] !== 0 && getSelectedIndexInArray.element2[2] !== 0) {
+
+                docQuery('#accordion').innerHTML += accordionTemplate;
+
                 // Create a for loop to test if there's any textBlockWrapper already created and empty.If so, grab the empty guy and add the value to it.
-                criarEl('div', 'contentSpot', klassAssigner, idAssigner, null, '');
-                criarEl('div', 'textBlockWrapper-' + textBlockCounter, 'trashcan-' + textBlockCounter, 'trashcanId', null, 'x');
+                criarEl('div', currentContentSpot, klassAssigner, idAssigner, null, '');
+                // criarEl('div', currentTextBlockWrapper, 'trashcan-' + textBlockCounter, 'trashcanId', null, 'x');
 
                 let trashCanClass = docQuery('.trashcan-' + textBlockCounter);
+                console.log('trashCanClass ', trashCanClass);
+
                 trashCanClass.addEventListener('click', (ev) => {
                     return deleteTextBlock(ev.target)
                 });
@@ -457,7 +477,7 @@ define(['jquery'], function($) {
                 textBlockCounter++;
 
             } else {
-                checkEmptyTextBlock('contentSpot');
+                // checkEmptyTextBlock('contentSpot');
             }
 
             levels = [];
@@ -466,14 +486,19 @@ define(['jquery'], function($) {
             console.log('templateArray', templateArray);
 
             for (var z = 0; z < templateArray.length; z++) {
+                console.log('For loop templateArray[z]', templateArray[z]);
+
                 if (siteLists.first.link.selectedIndex === 0) {
                     return;
                 } else {
                     if (siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex === 0 && siteLists.third.link.selectedIndex === 0) {
                         return;
                     } else if (siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex !== 0 || siteLists.third.link.selectedIndex !== 0) {
+                        console.log('For loop templateArray[z] else if', templateArray[z]);
 
                         if(siteLists.first.link.selectedIndex === 12 || siteLists.first.link.selectedIndex === 13 || siteLists.first.link.selectedIndex === 14 || siteLists.first.link.selectedIndex === 15) {
+                            console.log('For loop templateArray[z] else if - IF', templateArray[z]);
+
                             criarEl('p', klassAssigner, 'arrayKlassNodos', 'arrayId', null, 'nodosFortuna');
                             docQuery('.textBlockWrapper-' + textBlockCounterRef).querySelector('.arrayKlassNodos').innerHTML = nodosFortuna;
                         }
@@ -565,7 +590,7 @@ define(['jquery'], function($) {
                         docQuery('.listOfItems-3').setAttribute('disabled', true);
                         break;
 
-                    default: 
+                    default:
                         docQuery('.listOfItems-2').removeAttribute('disabled');
                         docQuery('.listOfItems-3').removeAttribute('disabled');
                 }
@@ -605,7 +630,7 @@ define(['jquery'], function($) {
 
             setInterval(() => {
                 console.log(`Every 60 second we run a function to clean up any empty block in the contentSpot tag`);
-                checkEmptyTextBlock('contentSpot');
+                // checkEmptyTextBlock('contentSpot');
             }, 60000);
         };
     }
