@@ -607,6 +607,8 @@ define(['jquery'], function($) {
                         break;
 
                     default:
+                        docQuery('.listOfItems-2').selectedIndex = 0;
+                        docQuery('.listOfItems-3').selectedIndex = 0;
                         docQuery('.listOfItems-2').removeAttribute('disabled');
                         docQuery('.listOfItems-3').removeAttribute('disabled');
                 }
