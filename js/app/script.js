@@ -402,9 +402,16 @@ define(['jquery'], function($) {
         };
 
 
-        const deleteTextBlock = (ev) => {
+        const deleteTextBlock = (ev, blockToDelete) => {
             console.log('DeleteTextBlock is running sound!');
-            ev.parentNode.remove();
+
+            if(blockToDelete === '' || blockToDelete === undefined || blockToDelete === null) {
+                console.log('remove specific element');
+                ev.parentNode.remove();
+            } else {
+                console.log('remove the whole card');
+                docQuery(blockToDelete).remove();
+            }
         };
 
         // Include a callback function that will be run after all the
@@ -438,12 +445,12 @@ define(['jquery'], function($) {
                                             '<button class=\"btn btn-link\" data-toggle=\"collapse\" data-target=\"#collapse-' + textBlockCounter + '\" aria-expanded=\"true\" aria-controls=\"collapse' + textBlockCounter + '\">' +
                                                 accordionTitle +
                                             '</button>' +
-                                            '<span class=\"fas fa-times-circle ' + trashCanClass + '\" data-parent-card=\"card-' + textBlockCounter + '\"></span>' +
+                                            '<span class=\"fas fa-times-circle trashcan ' + trashCanClass + '\" data-parent-card=\"card-' + textBlockCounter + '\"></span>' +
                                             '</h5>' +
                                         '</div>' +
 
                                         '<div id=\"collapse-' + textBlockCounter + '\" class=\"collapse show\" aria-labelledby=\"heading-' + textBlockCounter + '\" data-parent=\"#accordion\">' +
-                                            '<div id=\"contentSpot-' + textBlockCounter + '\" class=\"contentSpot-' + textBlockCounter + ' card-body col-12\">' +
+                                            '<div id=\"contentSpot-' + textBlockCounter + '\" class=\"contentSpot contentSpot-' + textBlockCounter + ' card-body col-12\" data-parent-card=\"card-' + textBlockCounter + '\">' +
                                             '</div>' +
                                         '</div>' +
                                     '</div>';
@@ -463,21 +470,15 @@ define(['jquery'], function($) {
 
                 docQuery('#accordion').innerHTML += accordionTemplate;
 
-                // Create a for loop to test if there's any textBlockWrapper already created and empty.If so, grab the empty guy and add the value to it.
                 criarEl('div', currentContentSpot, klassAssigner, idAssigner, null, '');
-                // criarEl('div', currentTextBlockWrapper, 'trashcan-' + textBlockCounter, 'trashcanId', null, 'x');
 
                 let trashCanClass = docQuery('.trashcan-' + textBlockCounter);
                 console.log('trashCanClass ', trashCanClass);
 
-                trashCanClass.addEventListener('click', (ev) => {
-                    return deleteTextBlock(ev.target)
-                });
-
                 textBlockCounter++;
 
             } else {
-                // checkEmptyTextBlock('contentSpot');
+                checkEmptyTextBlock('contentSpot');
             }
 
             levels = [];
@@ -534,16 +535,31 @@ define(['jquery'], function($) {
         const checkEmptyTextBlock = (elem) => {
             console.log('Check empty text block is running sound!');
 
-            let textBlocks = d.getElementsByClassName(elem);
+            let textBlocks = d.getElementsByClassName(elem),
+                textBlocksChildren = '',
+                blockToRemove = '',
+                i;
 
-            if (textBlocks[0].children.length === 0) {
+            if (!textBlocks && !textBlocks.length) {
+                console.log('!textBlocks && !textBlocks.length');
+
                 return;
             } else {
-                for (let i = 0; i < textBlocks[0].children.length; i++) {
-                    if (textBlocks[0].children[i].children.length > 1) {
-                        console.log('%c didn\'t remove it: ', 'font-size: 12px; color: darkred;', textBlocks[0].children[i].children);
+                console.log('Check for empty stuff');
+                textBlocksChildren = textBlocks.length;
+
+                for (i = 0; i < textBlocksChildren; i++) {
+                    console.log('check statement textBlocks[i].childNodes[0].innerHTML', textBlocks[i].childNodes[0].childNodes[1].innerHTML.substring(0, 10));
+                    console.log('check statement textBlocks[i].childNodes[0].innerHTML < 4', textBlocks[i].childNodes[0].childNodes[1].innerHTML.length < 4);
+
+                    if (textBlocks[i].childNodes[0].childNodes[1].innerHTML.length >= 4) {
+                        console.log('%c didn\'t remove it: ', 'font-size: 12px; color: darkred;', textBlocks[i].children[i].children);
                     } else {
-                        textBlocks[0].children[i].remove();
+                        blockToRemove = '.' + textBlocks[i].getAttribute('data-parent-card');
+                        console.log('Remove it away', blockToRemove);
+                        console.log('block removed', textBlocks[i].childNodes[0].childNodes[1].innerHTML.substring(0,30));
+
+                        docQuery(blockToRemove).remove();
                     }
                 }
             }
@@ -628,9 +644,20 @@ define(['jquery'], function($) {
             //     });
             // }
 
+            b.addEventListener('click', (ev) => {
+                console.log('clicked but didn\'t go any further');
+
+                if(!ev.target.classList.contains('trashcan')) return;
+                console.log('deleteTextBlock evTargetAttr', evTargetAttr, ' classList ', ev.target.classList);
+                console.log('classList contains trashcan ', ev.target.classList.contains('trashcan'));
+
+                let evTargetAttr = '.' + ev.target.getAttribute('data-parent-card');
+                return deleteTextBlock(ev.target, evTargetAttr);
+            });
+
             setInterval(() => {
                 console.log(`Every 60 second we run a function to clean up any empty block in the contentSpot tag`);
-                // checkEmptyTextBlock('contentSpot');
+                checkEmptyTextBlock('contentSpot');
             }, 60000);
         };
     }
