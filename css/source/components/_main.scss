@@ -61,10 +61,12 @@ body {
         text-align:Center;
 
         .card-header {
+            position: relative;
+
             .btn.btn-link {
                 @include font-size(1.6);
 
-                width: calc(100% - (#{$trashCanSize}/2));
+                width: 100%;
 
                 font-weight: bold;
                 color: $casal;
@@ -87,13 +89,23 @@ body {
             }
 
             .trashcan {
-                cursor: pointer;
+                position: absolute;
+                top: 50%;
+                left: auto;
+                right: 8px;
+                transform: translateY(-50%);
+                -webkit-transform: translateY(-50%);
+                -moz-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                -o-transform: translateY(-50%);
 
                 transition: transform 300ms ease-in-out;
                 -webkit-transition: transform 300ms ease-in-out;
                 -moz-transition: transform 300ms ease-in-out;
                 -ms-transition: transform 300ms ease-in-out;
                 -o-transition: transform 300ms ease-in-out;
+
+                cursor: pointer;
 
                 &:hover {
                     transform: scale(1.1);
