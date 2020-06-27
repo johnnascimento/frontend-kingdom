@@ -6,303 +6,130 @@ $trashCanSize: 40px;
 // ______________________________________________________________
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 html {
-  font-size: 62.5%;
-  color: $black;
+    color: $black;
 }
 
 /* css style sheet */
 body {
-  font-family: Verdana, Arial, sans-serif;
-  font-size: 1.6rem;
-  margin:  0;
+    @include font-size(1.6);
 
-  .divClass {
-    height: 75px;
-    width: 75px;
-    background-color: $green;
-    display: block;
-    font-size: 20px;
-    color: $white;
-  }
+    font-family: Verdana, Arial, sans-serif;
 
-  input {
-    font-size: 1.6rem;
-  }
-
-  nav,
-  section,
-  article {
-    margin: ($gutter/4);
-    padding: ($gutter/4);
-    background-color: $seashell;
-  }
-
-  /* Header and Footer
-  ------------------------------*/
-  header,
-  footer {
-    background-color: $seashell;
-    color: $white;
-    padding: ($gutter) 0;
-    margin:  0;
-  }
-
-  header {
-    font-size: 2.6rem;
-    color: $tundora;
-    text-align: center;
-  }
-
-  nav ul {
-    margin: 0;
-    padding: 0;
-
-    li {
-      display: inline-block;
-      margin: ($gutter/4);
+    .divClass {
+        background-color: $green;
     }
-  }
 
-  footer {
-    text-align: center;
-
-    > p {
-      font-size: 16px;
-      color: $boulder;
-      pointer-events: none;
-    }
-  }
-
-  /* Body
-  -----------------------------------*/
-  .contentWrapper {
-    width: auto;
-    position: relative;
-    display: block;
-    background-color: $white;
-    font-size: 0;
-  }
-
-  .contentSpotWrapper,
-  .formSpot {
-    display: inline-block;
-    position: relative;
-    background-color: $white;
-    border: 1px solid $mercury;
-    margin:  0;
-    padding: ($gutter/2);
-    vertical-align: top;
-  }
-
-  .contentSpotWrapper {
-    width: 100%;
-
-    float: none;
-    height: auto;
-    overflow: hidden;
-    text-align:Center;
-    margin-left: ($gutter/4);
-
-    .contentSpot {
-      width: 100%;
-      height: 100%;
-
-      p {
-        color: $tundora;
-        text-align: justify;
-        margin: 0;
-        padding: ($gutter);
-      }
-
-      img {
-        min-width: 100%;
-        position: absolute;
-      }
-
-      div[class^="textBlockWrapper-"] {
+    input {
         @include font-size(1.6);
-        position: relative;
-
-        &:hover div[class*="trashcan"] {
-          display: inline-block;
-          padding: ($gutter/2);
-          margin: 0;
-          vertical-align: middle;
-          cursor: pointer;
-          font-weight: bold;
-          text-align: center;
-        }
-
-        &:nth-child(odd) {
-          background-color: $gallery;
-        }
-
-        &:nth-child(even) {
-          background-color: $mercury;
-        }
-
-        div[class*="trashcan-"] {
-          width: $trashCanSize;
-          height: $trashCanSize;
-          content: " ";
-          display: none;
-          position: absolute;
-          padding: ($gutter/2);
-          top: 0;
-          right: 0;
-          bottom: auto;
-          left: auto;
-          background-color: transparent;
-          border: none;
-          font-size: 0;
-          transition: transform 300ms ease-in-out;
-
-          &:hover {
-            transform: scale(1.2);
-          }
-
-          &:before {
-            @include pseudo('\2716');
-
-            width: ($trashCanSize/2);
-            height: ($trashCanSize/2);
-            display: inline-block;
-            position: relative;
-            border: none;
-            background-color: $casal;
-            color: $seashell;
-            font-size: 16px;
-            text-align: center;
-            line-height: ($trashCanSize/2);
-          }
-        }
-
-        .default-text-title {
-          display: block;
-          position: relative;
-          padding: ($gutter/4) 0;
-        }
-
-        .title {
-          font-weight: bold;
-        }
-
-        .arrayKlass-title,
-        .arrayKlass-title-secondary,
-        .title {
-          color: $casal;
-          text-transform: uppercase;
-        }
-      }
-    }
-  }
-
-  .formSpot {
-    width: 100%;
-    max-width: calc(30% - (#{$gutter/2}));
-    float: none;
-    margin-right: ($gutter/4);
-
-    .selectForm {
-      .mainForm1 {
-        text-align: left;
-      }
-
-      #mainForm1 > input {
-        width: calc(50% - (#{$gutter/4}));
-        min-height: 50px;
-        border: none;
-        background: $mercury;
-        color: $tundora;
-        font-weight: bold;
-        letter-spacing: 1px;
-        transition: 300ms;
-
-        &:nth-child(even) {
-          margin-left: 0;
-          background: $japaneseLaurel;
-          color: $seashell;
-        }
-
-        &:nth-child(even):hover {
-          margin-left: 0;
-          background: #22a900;
-          color: $seashell;
-        }
-
-        &:nth-child(odd) {
-          margin-right: 0;
-          background: $lightcoral;
-          color: $white;
-        }
-
-        &:nth-child(odd):hover {
-          background: $coral;
-          color: $white;
-        }
-      }
     }
 
-    form select {
-      width: 100%;
-      display: block;
-      height: $selectHSize;
-      padding: ($gutter/2);
-      margin: ($gutter) auto;
-      font-size: 1.4rem;
-      line-height: $selectHSize;
+    nav,
+    section,
+    article {
+        background-color: $seashell;
     }
-  }
 
-  .resetFloat {
-    clear: both;
-  }
+    /* Footer
+    ------------------------------*/
+    footer {
+        text-align: center;
 
-  .outputClass {
-    position: relative;
-    display: block;
-    width: 100%;
-  }
+        > p {
+            @include font-size(1.6);
 
-  input[type="button"],
-  input[type="reset"] {
-    margin: ($gutter/4);
-  }
+            color: $boulder;
+            pointer-events: none;
+        }
+    }
 
-  .line-treated {
-    color: $seashell;
-    display: inline;
-  }
+    /* Body
+    -----------------------------------*/
+    .contentWrapper {
+        background-color: $white;
+    }
 
-  .inline {
-    display: inline;
-    padding: 0 ($gutter/4) 0 0;
-  }
+    .contentSpotWrapper,
+    .formSpot {
+        background-color: $white;
+    }
 
-  .strong {
-    font-weight: bold;
-  }
+    .contentSpotWrapper {
+        text-align:Center;
 
-  .italic {
-    font-style: italic;
-  }
+        .card-header {
+            .btn.btn-link {
+                width: calc(100% - (#{$trashCanSize}/2));
 
-  .underline {
-    text-decoration: underline;
-  }
+                &:hover {
+                    text-decoration: none;
+                }
+            }
 
-  .break {
-    display: block;
-    padding: 0 ($gutter/4) 0 0;
-  }
+            .trashcan {
+                cursor: pointer;
 
-  .inline + .break {
-    display: inline;
-  }
+                transition: transform 300ms ease-in-out;
+                -webkit-transition: transform 300ms ease-in-out;
+                -moz-transition: transform 300ms ease-in-out;
+                -ms-transition: transform 300ms ease-in-out;
+                -o-transition: transform 300ms ease-in-out;
+
+                &:hover {
+                    transform: scale(1.1);
+                    -webkit-transform: scale(1.1);
+                    -moz-transform: scale(1.1);
+                    -ms-transform: scale(1.1);
+                    -o-transform: scale(1.1);
+                }
+            }
+        }
+
+        .contentSpot {
+            p {
+                color: $tundora;
+                text-align: justify;
+            }
+
+            img {
+                min-width: 100%;
+                position: absolute;
+            }
+
+            div[class^="textBlockWrapper-"] {
+                @include font-size(1.6);
+
+                position: relative;
+
+                .default-text-title {
+                    display: block;
+                    position: relative;
+                }
+
+                .title {
+                    font-weight: bold;
+                }
+
+                .arrayKlass-title,
+                .arrayKlass-title-secondary,
+                .title {
+                    color: $casal;
+                    text-transform: uppercase;
+                }
+            }
+        }
+    }
+
+    .formSpot {
+        .selectForm {
+            .mainForm1 {
+                text-align: left;
+            }
+        }
+    }
 }
 
 
@@ -316,18 +143,18 @@ body {
 // ______________________________________________________________
 
 @media (min-width: $tabl-bk) {
-  .contentSpotWrapper {
-    .contentSpot {
-      div[class^="textBlockWrapper-"]:hover {
-        div[class*="trashcan-"] {
-          display: inline-block;
-          vertical-align: middle;
-          margin: 0;
-          cursor: pointer;
-          font-weight: bold;
-          text-align: center;
+    .contentSpotWrapper {
+        .contentSpot {
+            div[class^="textBlockWrapper-"]:hover {
+                div[class*="trashcan-"] {
+                    display: inline-block;
+                    vertical-align: middle;
+                    margin: 0;
+                    cursor: pointer;
+                    font-weight: bold;
+                    text-align: center;
+                }
+            }
         }
-      }
     }
-  }
 }

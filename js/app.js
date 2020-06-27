@@ -1,3 +1,12 @@
+requirejs.config({
+    baseUrl: './js/build/app',
+
+    paths: {
+        jquery: '../../libs/jquery',
+        app: '../build/app/*'
+    }
+});
+
 requirejs([
     'jquery',
     'data',
