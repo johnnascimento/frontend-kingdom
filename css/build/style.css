@@ -218,7 +218,7 @@ body {
         position: absolute;
         top: 50%;
         left: auto;
-        right: 8px;
+        right: 16px;
         transform: translateY(-50%);
         -webkit-transform: translateY(-50%);
         -moz-transform: translateY(-50%);
@@ -234,11 +234,11 @@ body {
         -o-transition: transform 300ms ease-in-out;
         cursor: pointer; }
         body .contentSpotWrapper .card-header .trashcan:hover {
-          transform: scale(1.1);
-          -webkit-transform: scale(1.1);
-          -moz-transform: scale(1.1);
-          -ms-transform: scale(1.1);
-          -o-transform: scale(1.1); }
+          transform: scale(1.1) translateY(-50%);
+          -webkit-transform: scale(1.1) translateY(-50%);
+          -moz-transform: scale(1.1) translateY(-50%);
+          -ms-transform: scale(1.1) translateY(-50%);
+          -o-transform: scale(1.1) translateY(-50%); }
     body .contentSpotWrapper .contentSpot p {
       font-size: 10px;
       font-size: 1rem;
