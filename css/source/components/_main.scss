@@ -15,7 +15,7 @@ html {
 
 /* css style sheet */
 body {
-    @include font-size(1.6);
+    @include font-size(1);
 
     font-family: Verdana, Arial, sans-serif;
 
@@ -24,7 +24,7 @@ body {
     }
 
     input {
-        @include font-size(1.6);
+        @include font-size(1);
     }
 
     nav,
@@ -39,7 +39,7 @@ body {
         text-align: center;
 
         > p {
-            @include font-size(1.6);
+            @include font-size(1);
 
             color: $boulder;
             pointer-events: none;
@@ -62,7 +62,24 @@ body {
 
         .card-header {
             .btn.btn-link {
+                @include font-size(1.6);
+
                 width: calc(100% - (#{$trashCanSize}/2));
+
+                font-weight: bold;
+                color: $casal;
+
+                &:hover {
+                    color: darken($casal, 5%);
+
+                    text-decoration: none;
+                }
+
+                &:visited,
+                &:focus,
+                &:active {
+                    text-decoration: none;
+                }
 
                 &:hover {
                     text-decoration: none;
@@ -90,6 +107,8 @@ body {
 
         .contentSpot {
             p {
+                @include font-size(1);
+
                 color: $tundora;
                 text-align: justify;
             }
@@ -100,7 +119,7 @@ body {
             }
 
             div[class^="textBlockWrapper-"] {
-                @include font-size(1.6);
+                @include font-size(1.4);
 
                 position: relative;
 
@@ -116,9 +135,19 @@ body {
                 .arrayKlass-title,
                 .arrayKlass-title-secondary,
                 .title {
+                    @include font-size(1.4);
+
+                    margin-top: $gutter;
+                    margin-bottom: $gutter;
+
                     color: $casal;
                     text-transform: uppercase;
+                    font-weight: bold;
                 }
+            }
+
+            .arrayKlassNodos {
+                padding-bottom: ($gutter);
             }
         }
     }
