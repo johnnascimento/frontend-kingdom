@@ -100,7 +100,6 @@ body {
 
   .contentSpotWrapper {
     width: 100%;
-    max-width: calc(70% - (#{$gutter/2}));
 
     float: none;
     height: auto;
@@ -125,10 +124,10 @@ body {
       }
 
       div[class^="textBlockWrapper-"] {
-        font-size: 16px;
+        @include font-size(1.6);
         position: relative;
 
-        &:hover div[class*="trashcan-"] {
+        &:hover div[class*="trashcan"] {
           display: inline-block;
           padding: ($gutter/2);
           margin: 0;
@@ -167,7 +166,8 @@ body {
           }
 
           &:before {
-            content: "\2716";
+            @include pseudo('\2716');
+
             width: ($trashCanSize/2);
             height: ($trashCanSize/2);
             display: inline-block;
