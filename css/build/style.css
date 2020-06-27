@@ -169,8 +169,8 @@ html {
 
 /* css style sheet */
 body {
-  font-size: 16px;
-  font-size: 1.6rem;
+  font-size: 10px;
+  font-size: 1rem;
   font-family: Verdana, Arial, sans-serif;
   /* Footer
     ------------------------------*/
@@ -179,8 +179,8 @@ body {
   body .divClass {
     background-color: green; }
   body input {
-    font-size: 16px;
-    font-size: 1.6rem; }
+    font-size: 10px;
+    font-size: 1rem; }
   body nav,
   body section,
   body article {
@@ -188,8 +188,8 @@ body {
   body footer {
     text-align: center; }
     body footer > p {
-      font-size: 16px;
-      font-size: 1.6rem;
+      font-size: 10px;
+      font-size: 1rem;
       color: #797979;
       pointer-events: none; }
   body .contentWrapper {
@@ -199,35 +199,57 @@ body {
     background-color: white; }
   body .contentSpotWrapper {
     text-align: Center; }
-    body .contentSpotWrapper .card-header .btn.btn-link {
-      width: calc(100% - (40px/2)); }
-      body .contentSpotWrapper .card-header .btn.btn-link:hover {
-        text-decoration: none; }
-    body .contentSpotWrapper .card-header .trashcan {
-      cursor: pointer;
-      -webkit-transition: -webkit-transform 300ms ease-in-out;
-      transition: -webkit-transform 300ms ease-in-out;
-      transition: transform 300ms ease-in-out;
-      transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
-      -webkit-transition: transform 300ms ease-in-out;
-      -moz-transition: transform 300ms ease-in-out;
-      -ms-transition: transform 300ms ease-in-out;
-      -o-transition: transform 300ms ease-in-out; }
-      body .contentSpotWrapper .card-header .trashcan:hover {
-        transform: scale(1.1);
-        -webkit-transform: scale(1.1);
-        -moz-transform: scale(1.1);
-        -ms-transform: scale(1.1);
-        -o-transform: scale(1.1); }
+    body .contentSpotWrapper .card-header {
+      position: relative; }
+      body .contentSpotWrapper .card-header .btn.btn-link {
+        font-size: 16px;
+        font-size: 1.6rem;
+        width: 100%;
+        font-weight: bold;
+        color: #265868; }
+        body .contentSpotWrapper .card-header .btn.btn-link:hover {
+          color: #1f4855;
+          text-decoration: none; }
+        body .contentSpotWrapper .card-header .btn.btn-link:visited, body .contentSpotWrapper .card-header .btn.btn-link:focus, body .contentSpotWrapper .card-header .btn.btn-link:active {
+          text-decoration: none; }
+        body .contentSpotWrapper .card-header .btn.btn-link:hover {
+          text-decoration: none; }
+      body .contentSpotWrapper .card-header .trashcan {
+        position: absolute;
+        top: 50%;
+        left: auto;
+        right: 16px;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        -webkit-transition: -webkit-transform 300ms ease-in-out;
+        transition: -webkit-transform 300ms ease-in-out;
+        transition: transform 300ms ease-in-out;
+        transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
+        -webkit-transition: transform 300ms ease-in-out;
+        -moz-transition: transform 300ms ease-in-out;
+        -ms-transition: transform 300ms ease-in-out;
+        -o-transition: transform 300ms ease-in-out;
+        cursor: pointer; }
+        body .contentSpotWrapper .card-header .trashcan:hover {
+          transform: scale(1.1) translateY(-50%);
+          -webkit-transform: scale(1.1) translateY(-50%);
+          -moz-transform: scale(1.1) translateY(-50%);
+          -ms-transform: scale(1.1) translateY(-50%);
+          -o-transform: scale(1.1) translateY(-50%); }
     body .contentSpotWrapper .contentSpot p {
+      font-size: 10px;
+      font-size: 1rem;
       color: #454545;
       text-align: justify; }
     body .contentSpotWrapper .contentSpot img {
       min-width: 100%;
       position: absolute; }
     body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] {
-      font-size: 16px;
-      font-size: 1.6rem;
+      font-size: 14px;
+      font-size: 1.4rem;
       position: relative; }
       body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .default-text-title {
         display: block;
@@ -237,8 +259,15 @@ body {
       body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title,
       body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title-secondary,
       body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .title {
+        font-size: 14px;
+        font-size: 1.4rem;
+        margin-top: 16px;
+        margin-bottom: 16px;
         color: #265868;
-        text-transform: uppercase; }
+        text-transform: uppercase;
+        font-weight: bold; }
+    body .contentSpotWrapper .contentSpot .arrayKlassNodos {
+      padding-bottom: 16px; }
   body .formSpot .selectForm .mainForm1 {
     text-align: left; }
 

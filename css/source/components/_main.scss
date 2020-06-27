@@ -15,7 +15,7 @@ html {
 
 /* css style sheet */
 body {
-    @include font-size(1.6);
+    @include font-size(1);
 
     font-family: Verdana, Arial, sans-serif;
 
@@ -24,7 +24,7 @@ body {
     }
 
     input {
-        @include font-size(1.6);
+        @include font-size(1);
     }
 
     nav,
@@ -39,7 +39,7 @@ body {
         text-align: center;
 
         > p {
-            @include font-size(1.6);
+            @include font-size(1);
 
             color: $boulder;
             pointer-events: none;
@@ -61,8 +61,27 @@ body {
         text-align:Center;
 
         .card-header {
+            position: relative;
+
             .btn.btn-link {
-                width: calc(100% - (#{$trashCanSize}/2));
+                @include font-size(1.6);
+
+                width: 100%;
+
+                font-weight: bold;
+                color: $casal;
+
+                &:hover {
+                    color: darken($casal, 5%);
+
+                    text-decoration: none;
+                }
+
+                &:visited,
+                &:focus,
+                &:active {
+                    text-decoration: none;
+                }
 
                 &:hover {
                     text-decoration: none;
@@ -70,7 +89,16 @@ body {
             }
 
             .trashcan {
-                cursor: pointer;
+                position: absolute;
+                top: 50%;
+                left: auto;
+                right: $gutter;
+
+                transform: translateY(-50%);
+                -webkit-transform: translateY(-50%);
+                -moz-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                -o-transform: translateY(-50%);
 
                 transition: transform 300ms ease-in-out;
                 -webkit-transition: transform 300ms ease-in-out;
@@ -78,18 +106,22 @@ body {
                 -ms-transition: transform 300ms ease-in-out;
                 -o-transition: transform 300ms ease-in-out;
 
+                cursor: pointer;
+
                 &:hover {
-                    transform: scale(1.1);
-                    -webkit-transform: scale(1.1);
-                    -moz-transform: scale(1.1);
-                    -ms-transform: scale(1.1);
-                    -o-transform: scale(1.1);
+                    transform: scale(1.1) translateY(-50%);
+                    -webkit-transform: scale(1.1) translateY(-50%);
+                    -moz-transform: scale(1.1) translateY(-50%);
+                    -ms-transform: scale(1.1) translateY(-50%);
+                    -o-transform: scale(1.1) translateY(-50%);
                 }
             }
         }
 
         .contentSpot {
             p {
+                @include font-size(1);
+
                 color: $tundora;
                 text-align: justify;
             }
@@ -100,7 +132,7 @@ body {
             }
 
             div[class^="textBlockWrapper-"] {
-                @include font-size(1.6);
+                @include font-size(1.4);
 
                 position: relative;
 
@@ -116,9 +148,19 @@ body {
                 .arrayKlass-title,
                 .arrayKlass-title-secondary,
                 .title {
+                    @include font-size(1.4);
+
+                    margin-top: $gutter;
+                    margin-bottom: $gutter;
+
                     color: $casal;
                     text-transform: uppercase;
+                    font-weight: bold;
                 }
+            }
+
+            .arrayKlassNodos {
+                padding-bottom: ($gutter);
             }
         }
     }
