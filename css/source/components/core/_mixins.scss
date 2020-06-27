@@ -101,3 +101,34 @@
     max-width: none;
     max-height: none;
 }
+
+@mixin img-no-crop {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+
+    margin: 0 auto;
+    padding: 0;
+
+    display: block;
+    position: relative;
+}
+
+@mixin pseudo($content: ' ') {
+    content: $content;
+    display: block;
+}
+
+@mixin f-ico($fontFamily: Arial) {
+    font-family: $fontFamily;
+}
+
+@mixin icon($icon: " ", $fontSize: 1.4) {
+    @include f-ico();
+
+    @include font-size($fontSize);
+
+    content: $icon;
+    color: $tundora;
+}

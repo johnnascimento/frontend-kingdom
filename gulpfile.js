@@ -35,7 +35,7 @@ gulp.task('server', function() {
 // ______________________________________
 gulp.task('clean-scripts', function() {
     console.log('Cleaning scripts');
-    return gulp.src('js/minJs/minified/*.js')
+    return gulp.src('js/build/app/*.js')
             .pipe(clean({force: true}));
 });
 
@@ -44,7 +44,7 @@ gulp.task('clean-scripts', function() {
 // ______________________________________
 gulp.task('clean-styles', function() {
     console.log('Cleaning styles');
-    return gulp.src('css/assets/minified/*.css')
+    return gulp.src('css/build/*.css')
             .pipe(clean({force: true}));
 });
 
@@ -59,7 +59,7 @@ gulp.task('scripts', function() {
                 }))
                 .pipe(uglify())
                 .on('error', console.error.bind(console))
-                .pipe(gulp.dest('js/minJs'))
+                .pipe(gulp.dest('js/build/app'))
                 .pipe(livereload());
 });
 
@@ -72,11 +72,11 @@ gulp.task('bundleJs', function (scripts) {
             {
                 name: "app",
                 configFile: "./js/app.js",
-                baseUrl: './js/minJs'
+                baseUrl: './js/build/app'
             }
         ))
         .pipe(concat('appConcat.js'))
-        .pipe(gulp.dest('./js/minJs/bundle'));
+        .pipe(gulp.dest('./js/build/app/bundle'));
 });
 
 // Styles task
@@ -92,7 +92,7 @@ gulp.task('styles', function() {
                 )
                 .on('error', console.error.bind(console))
                 .pipe(autoprefixer('last 2 versions', 'IE 11'))
-                .pipe(gulp.dest('css/'))
+                .pipe(gulp.dest('css/build/'))
                 .pipe(livereload());
 });
 
