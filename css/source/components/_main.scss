@@ -1,6 +1,6 @@
 ﻿// local variables
 $selectHSize: 60px;
-$trashCanSize: 40px;
+$trashCanSize: $iconSize;
 
 // ALL DEVICES
 // ______________________________________________________________
@@ -18,6 +18,40 @@ body {
     @include font-size(1);
 
     font-family: Verdana, Arial, sans-serif;
+
+    &.is-loading {
+        overflow: hidden;
+
+        &:before {
+            @include pseudo();
+
+            height: $iconSize;
+            width: $iconSize;
+
+            display: inline-block;
+            position: fixed;
+            top: 50%;
+            right: auto;
+            bottom: auto;
+            left: 50%;
+
+            border: 2px solid $seashell;
+            border-radius: 50%;
+            border-top: 2px solid $japaneseLaurel;
+
+            animation: loadSpinnerAbsolute 1s infinite;
+            -webkit-animation: loadSpinnerAbsolute 1s infinite;
+
+            transform: translate(-50%, -50%);
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            -o-transform: translate(-50%, -50%);
+
+            z-index: 10;
+
+        }
+    }
 
     .divClass {
         background-color: $green;
@@ -163,6 +197,10 @@ body {
                 padding-bottom: ($gutter);
             }
         }
+
+        .card.card-0 {
+            border-bottom: 1px solid $gray;
+        }
     }
 
     .formSpot {
@@ -198,5 +236,78 @@ body {
                 }
             }
         }
+    }
+}
+
+
+
+// ANIMATION
+// __________________________
+@-webkit-keyframes loadSpinnerAbsolute {
+    0% {
+        transform: translate(-50%, -50%) rotate(0);
+        -webkit-transform: translate(-50%, -50%) rotate(0);
+        -moz-transform: translate(-50%, -50%) rotate(0);
+        -ms-transform: translate(-50%, -50%) rotate(0);
+        -o-transform: translate(-50%, -50%) rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+        -webkit-transform: translate(-50%, -50%) rotate(360deg);
+        -moz-transform: translate(-50%, -50%) rotate(360deg);
+        -ms-transform: translate(-50%, -50%) rotate(360deg);
+        -o-transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+@-moz-keyframes loadSpinnerAbsolute {
+    0% {
+        transform: translate(-50%, -50%) rotate(0);
+        -webkit-transform: translate(-50%, -50%) rotate(0);
+        -moz-transform: translate(-50%, -50%) rotate(0);
+        -ms-transform: translate(-50%, -50%) rotate(0);
+        -o-transform: translate(-50%, -50%) rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+        -webkit-transform: translate(-50%, -50%) rotate(360deg);
+        -moz-transform: translate(-50%, -50%) rotate(360deg);
+        -ms-transform: translate(-50%, -50%) rotate(360deg);
+        -o-transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+@-o-keyframes loadSpinnerAbsolute {
+    0% {
+        transform: translate(-50%, -50%) rotate(0);
+        -webkit-transform: translate(-50%, -50%) rotate(0);
+        -moz-transform: translate(-50%, -50%) rotate(0);
+        -ms-transform: translate(-50%, -50%) rotate(0);
+        -o-transform: translate(-50%, -50%) rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+        -webkit-transform: translate(-50%, -50%) rotate(360deg);
+        -moz-transform: translate(-50%, -50%) rotate(360deg);
+        -ms-transform: translate(-50%, -50%) rotate(360deg);
+        -o-transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+@keyframes loadSpinnerAbsolute {
+    0% {
+        transform: translate(-50%, -50%) rotate(0);
+        -webkit-transform: translate(-50%, -50%) rotate(0);
+        -moz-transform: translate(-50%, -50%) rotate(0);
+        -ms-transform: translate(-50%, -50%) rotate(0);
+        -o-transform: translate(-50%, -50%) rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+        -webkit-transform: translate(-50%, -50%) rotate(360deg);
+        -moz-transform: translate(-50%, -50%) rotate(360deg);
+        -ms-transform: translate(-50%, -50%) rotate(360deg);
+        -o-transform: translate(-50%, -50%) rotate(360deg);
     }
 }

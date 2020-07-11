@@ -5,6 +5,9 @@ define(['jquery'], function($) {
         body: 'body'
     }
 
+    // For the future John, you need to break down this whole script and modularize the whole app,
+    // so that it gets more organized
+
     var returnedModule = function(options) {
         this.options = Object.assign({}, defaults, options);
 
@@ -72,8 +75,6 @@ define(['jquery'], function($) {
         let levels = [];
 
         const criarEl = (elType, assignmentReference, klass, id, selectorElem, textEl, el) => {
-            console.log('criarEl', elType, ' ', assignmentReference, ' ', klass, ' ', id, ' ', selectorElem, ' ', textEl, ' ', el);
-
             el = d.createElement(elType);
             el.classList.add(klass);
             el.id = id;
@@ -138,7 +139,6 @@ define(['jquery'], function($) {
         };
 
         const defineNodosLunaresTitle = (elemToActUpon, idx) => {
-            console.log('defineNodosLunaresTitle was invoked', elemToActUpon);
             var NodostitleReturned = '';
 
             switch(idx.element2[1]) {
@@ -199,8 +199,6 @@ define(['jquery'], function($) {
         };
 
         const defineTitles = (elemToActUpon, indexPassedIn) => {
-            console.log('defineTitles was invoked', elemToActUpon);
-
             var titleReturned = '';
             var elemToActUponLowerCase = elemToActUpon.toLowerCase();
 
@@ -315,7 +313,6 @@ define(['jquery'], function($) {
 
 
         const grabInputValues = (element, index) => {
-            console.log('Grab input values is running sound!');
             let elementsIndexAndTexts = defineSelectedIndexInAnArray(true, true);
             var planetasTitle = '';
             var signosTitle = '';
@@ -340,30 +337,19 @@ define(['jquery'], function($) {
                 if (signosTitle == element) {
                     evaluatedValueToReturn.push(data.signos[key].text[elementsIndexAndTexts.element2[0] - 1]);
 
+                    // Refactor this block and change it to a switch statment
                     if(elementsIndexAndTexts.element2[0] === 1) {
                         for(i = 0; i < data.signos[key].levels.length; i++) {
                             levels.push(data.signos[key].levels[i]);
                         }
                     } else if(elementsIndexAndTexts.element2[0] === 12) {
-
                         nodosFortuna = data.signos[key].nodosLunares;
-                        console.log('nodos lunares', nodosFortuna);
-
                     } else if(elementsIndexAndTexts.element2[0] === 13) {
-
                         nodosFortuna = data.defaultText.parteFortuna;
-                        console.log('parte fortuna ', nodosFortuna);
-
                     } else if(elementsIndexAndTexts.element2[0] === 14) {
-
                         nodosFortuna = data.defaultText.quironCurador;
-                        console.log('quiron curador ', nodosFortuna);
-
                     } else if(elementsIndexAndTexts.element2[0] === 15) {
-
                         nodosFortuna = data.defaultText.junosCasasSignos;
-                        console.log('junos nas casas e signos ', nodosFortuna);
-
                     } else {
                         levels.push("");
                     }
@@ -388,7 +374,6 @@ define(['jquery'], function($) {
 
 
         const setUpTextForTemplate = (indexSelectedArray) => {
-            console.log('setUpTextForTemplate is running sound!');
             evaluatedValueToReturn = [];
             indexSelectedArray = indexSelectedArray || [];
             var indexSelectedNum = 0;
@@ -403,13 +388,9 @@ define(['jquery'], function($) {
 
 
         const deleteTextBlock = (ev, blockToDelete) => {
-            console.log('DeleteTextBlock is running sound!');
-
             if(blockToDelete === '' || blockToDelete === undefined || blockToDelete === null) {
-                console.log('remove specific element');
                 ev.parentNode.remove();
             } else {
-                console.log('remove the whole card');
                 docQuery(blockToDelete).remove();
             }
         };
@@ -421,8 +402,6 @@ define(['jquery'], function($) {
         // carriage return tags.
         // ----------------------------------------------------------
         const addElementsToTemplate = () => {
-            console.log('addElementsToTemplate is running sound');
-
             var elemPlaceholder = [];
 
             // Use the criarEl method to create this one
@@ -462,19 +441,12 @@ define(['jquery'], function($) {
             selectedItemsArray.push(siteLists.third.options[siteLists.third.link.selectedIndex].text);
             templateArray = selectedItemsArray;
 
-            console.log('templateArray', templateArray);
-            console.log('selectedItemsArray', selectedItemsArray);
-            console.log('accordionTemplate', accordionTemplate);
-
             if (getSelectedIndexInArray.element2[0] !== 0 && getSelectedIndexInArray.element2[1] !== 0 || getSelectedIndexInArray.element2[0] !== 0 && getSelectedIndexInArray.element2[2] !== 0) {
 
                 docQuery('#accordion').innerHTML += accordionTemplate;
-
                 criarEl('div', currentContentSpot, klassAssigner, idAssigner, null, '');
 
                 let trashCanClass = docQuery('.trashcan-' + textBlockCounter);
-                console.log('trashCanClass ', trashCanClass);
-
                 textBlockCounter++;
 
             } else {
@@ -483,32 +455,21 @@ define(['jquery'], function($) {
 
             levels = [];
             elemPlaceholder = setUpTextForTemplate(templateArray);
-            console.log('elemPlaceholder', elemPlaceholder);
-            console.log('templateArray', templateArray);
 
             for (var z = 0; z < templateArray.length; z++) {
-                console.log('For loop templateArray[z]', templateArray[z]);
-
                 if (siteLists.first.link.selectedIndex === 0) {
                     return;
                 } else {
                     if (siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex === 0 && siteLists.third.link.selectedIndex === 0) {
                         return;
                     } else if (siteLists.first.link.selectedIndex !== 0 && siteLists.second.link.selectedIndex !== 0 || siteLists.third.link.selectedIndex !== 0) {
-                        console.log('For loop templateArray[z] else if', templateArray[z]);
-
                         if(siteLists.first.link.selectedIndex === 12 || siteLists.first.link.selectedIndex === 13 || siteLists.first.link.selectedIndex === 14 || siteLists.first.link.selectedIndex === 15) {
-                            console.log('For loop templateArray[z] else if - IF', templateArray[z]);
-
                             criarEl('p', klassAssigner, 'arrayKlassNodos', 'arrayId', null, 'nodosFortuna');
                             docQuery('.textBlockWrapper-' + textBlockCounterRef).querySelector('.arrayKlassNodos').innerHTML = nodosFortuna;
                         }
 
                         criarEl('p', klassAssigner, 'arrayKlass-title', 'arrayId', null, 'title created');
                         criarEl('p', klassAssigner, 'arrayKlass', 'arrayId', null, 'block created');
-
-                        console.log('textBlock content ', elemPlaceholder[1]);
-                        console.log('*************** Last block added ', docQuery('.' + klassAssigner + ':last-child'));
 
                         docQuery('.textBlockWrapper-' + textBlockCounterRef).querySelector('.arrayKlass-title').innerHTML = elemPlaceholder[0];
                         docQuery('.textBlockWrapper-' + textBlockCounterRef).querySelector('.arrayKlass').innerHTML = elemPlaceholder[1];
@@ -533,31 +494,22 @@ define(['jquery'], function($) {
 
         //Check for empty textBlock
         const checkEmptyTextBlock = (elem) => {
-            console.log('Check empty text block is running sound!');
-
             let textBlocks = d.getElementsByClassName(elem),
                 textBlocksChildren = '',
                 blockToRemove = '',
                 i;
 
             if (!textBlocks && !textBlocks.length) {
-                console.log('!textBlocks && !textBlocks.length');
-
                 return;
             } else {
-                console.log('Check for empty stuff');
                 textBlocksChildren = textBlocks.length;
 
+                // Refactor this block removing the unecessary if statement
                 for (i = 0; i < textBlocksChildren; i++) {
-                    console.log('check statement textBlocks[i].childNodes[0].innerHTML', textBlocks[i].childNodes[0].childNodes[1].innerHTML.substring(0, 10));
-                    console.log('check statement textBlocks[i].childNodes[0].innerHTML < 4', textBlocks[i].childNodes[0].childNodes[1].innerHTML.length < 4);
-
                     if (textBlocks[i].childNodes[0].childNodes[1].innerHTML.length >= 4) {
                         console.log('%c didn\'t remove it: ', 'font-size: 12px; color: darkred;', textBlocks[i].children[i].children);
                     } else {
                         blockToRemove = '.' + textBlocks[i].getAttribute('data-parent-card');
-                        console.log('Remove it away', blockToRemove);
-                        console.log('block removed', textBlocks[i].childNodes[0].childNodes[1].innerHTML.substring(0,30));
 
                         docQuery(blockToRemove).remove();
                     }
@@ -640,25 +592,14 @@ define(['jquery'], function($) {
                 return;
             });
 
-            // if(document.querySelector('#printDocument')) {
-            //     $printButton('#printDocument').addEventListener('click', function(ev) {
-            //         return;
-            //     });
-            // }
-
             b.addEventListener('click', (ev) => {
-                console.log('clicked but didn\'t go any further');
-
                 if(!ev.target.classList.contains('trashcan')) return;
-                console.log('deleteTextBlock evTargetAttr', evTargetAttr, ' classList ', ev.target.classList);
-                console.log('classList contains trashcan ', ev.target.classList.contains('trashcan'));
 
                 let evTargetAttr = '.' + ev.target.getAttribute('data-parent-card');
                 return deleteTextBlock(ev.target, evTargetAttr);
             });
 
             setInterval(() => {
-                console.log(`Every 60 second we run a function to clean up any empty block in the contentSpot tag`);
                 checkEmptyTextBlock('contentSpot');
             }, 60000);
         };

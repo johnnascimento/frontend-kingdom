@@ -176,6 +176,30 @@ body {
     ------------------------------*/
   /* Body
     -----------------------------------*/ }
+  body.is-loading {
+    overflow: hidden; }
+    body.is-loading:before {
+      content: " ";
+      display: block;
+      height: 40px;
+      width: 40px;
+      display: inline-block;
+      position: fixed;
+      top: 50%;
+      right: auto;
+      bottom: auto;
+      left: 50%;
+      border: 2px solid #F1F1F1;
+      border-radius: 50%;
+      border-top: 2px solid #227900;
+      animation: loadSpinnerAbsolute 1s infinite;
+      -webkit-animation: loadSpinnerAbsolute 1s infinite;
+      transform: translate(-50%, -50%);
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      -o-transform: translate(-50%, -50%);
+      z-index: 10; }
   body .divClass {
     background-color: green; }
   body input {
@@ -268,6 +292,8 @@ body {
         font-weight: bold; }
     body .contentSpotWrapper .contentSpot .arrayKlassNodos {
       padding-bottom: 16px; }
+    body .contentSpotWrapper .card.card-0 {
+      border-bottom: 1px solid #dfdfdf; }
   body .formSpot .selectForm .mainForm1 {
     text-align: left; }
 
@@ -279,3 +305,31 @@ body {
     cursor: pointer;
     font-weight: bold;
     text-align: center; } }
+
+@-webkit-keyframes loadSpinnerAbsolute {
+  0% {
+    transform: translate(-50%, -50%) rotate(0);
+    -webkit-transform: translate(-50%, -50%) rotate(0);
+    -moz-transform: translate(-50%, -50%) rotate(0);
+    -ms-transform: translate(-50%, -50%) rotate(0);
+    -o-transform: translate(-50%, -50%) rotate(0); }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+    -webkit-transform: translate(-50%, -50%) rotate(360deg);
+    -moz-transform: translate(-50%, -50%) rotate(360deg);
+    -ms-transform: translate(-50%, -50%) rotate(360deg);
+    -o-transform: translate(-50%, -50%) rotate(360deg); } }
+
+@keyframes loadSpinnerAbsolute {
+  0% {
+    transform: translate(-50%, -50%) rotate(0);
+    -webkit-transform: translate(-50%, -50%) rotate(0);
+    -moz-transform: translate(-50%, -50%) rotate(0);
+    -ms-transform: translate(-50%, -50%) rotate(0);
+    -o-transform: translate(-50%, -50%) rotate(0); }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+    -webkit-transform: translate(-50%, -50%) rotate(360deg);
+    -moz-transform: translate(-50%, -50%) rotate(360deg);
+    -ms-transform: translate(-50%, -50%) rotate(360deg);
+    -o-transform: translate(-50%, -50%) rotate(360deg); } }
