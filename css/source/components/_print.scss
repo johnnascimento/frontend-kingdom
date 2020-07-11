@@ -24,8 +24,34 @@
         padding: 0;
         overflow: hidden;
 
+        &.is-loading {
+            background-color: $white;
+
+            z-index: -1;
+
+            &:before,
+            &:after {
+                border: none;
+
+                z-index:  -2;
+            }
+        }
+
         .formSpot {
             display: none;
+        }
+
+        .jumbotron {
+            display: none;
+        }
+
+        .card {
+            border: none;
+            background-color: transparent;
+
+            &-header {
+                display: none;
+            }
         }
 
         #contentSpotWrapper {

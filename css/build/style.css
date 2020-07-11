@@ -132,8 +132,21 @@ q {
     margin: 0;
     padding: 0;
     overflow: hidden; }
+    body.is-loading {
+      background-color: white;
+      z-index: -1; }
+      body.is-loading:before, body.is-loading:after {
+        border: none;
+        z-index: -2; }
     body .formSpot {
       display: none; }
+    body .jumbotron {
+      display: none; }
+    body .card {
+      border: none;
+      background-color: transparent; }
+      body .card-header {
+        display: none; }
     body #contentSpotWrapper {
       width: 100%;
       min-width: 100%;
