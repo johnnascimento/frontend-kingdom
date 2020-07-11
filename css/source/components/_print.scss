@@ -1,4 +1,4 @@
-﻿@media print and (max-width: 768px) {
+﻿@media print and (min-width: 768px) {
     header,
     footer,
     aside,
@@ -24,14 +24,20 @@
         padding: 0;
         overflow: hidden;
 
-        .contentSpotWrapper {
-            display: block;
-            min-width: 100%;
+        .formSpot {
+            display: none;
+        }
+
+        #contentSpotWrapper {
             width: 100%;
+            min-width: 100%;
+
+            display: block;
+            margin: 0 auto;
+            padding: 0;
+
             background-color: transparent;
             border: none;
-            margin-top: -128px;
-            margin: 0;
 
             div[class^="textBlockWrapper-"] {
                 page-break-after: auto;
@@ -53,7 +59,7 @@
     }
 }
 
-@media print and (min-width: 768px) {
+@media print and (max-width: 768px) {
     body {
         background-color: red;
     }
