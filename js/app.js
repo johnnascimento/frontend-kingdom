@@ -1,9 +1,9 @@
 requirejs.config({
-    baseUrl: './js/minJs',
+    baseUrl: './js/build/app',
 
     paths: {
-        jquery: '../libs/jquery',
-        app: '../minJs/*'
+        jquery: '../../libs/jquery',
+        app: '../build/app/*'
     }
 });
 
@@ -17,6 +17,7 @@ requirejs([
         data,
         script,
     ) {
+
     console.log('App initialized! ');
 
     var script = new script();

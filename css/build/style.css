@@ -1,0 +1,281 @@
+/**
+*
+* Mixins and helpers
+*
+*/
+/* Parametric mixin to add background sprite */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  vertical-align: baseline; }
+
+body {
+  line-height: 1;
+  color: #000;
+  background: #fff; }
+
+ol,
+ul {
+  list-style: none; }
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+  border-collapse: separate;
+  border-spacing: 0; }
+
+caption,
+th,
+td {
+  text-align: left;
+  font-weight: normal; }
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: ""; }
+
+blockquote,
+q {
+  quotes: "" ""; }
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.saveFooterAndTopSpot {
+  padding-top: 48px;
+  padding-bottom: 80px; }
+
+@media print and (max-width: 768px) {
+  header,
+  footer,
+  aside,
+  nav,
+  form,
+  iframe,
+  .menu,
+  .hero,
+  .adslot,
+  .formSpot {
+    display: none; }
+  html,
+  body,
+  p {
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, Georgia, Palatino; }
+  body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; }
+    body .contentSpotWrapper {
+      display: block;
+      min-width: 100%;
+      width: 100%;
+      background-color: transparent;
+      border: none;
+      margin-top: -128px;
+      margin: 0; }
+      body .contentSpotWrapper div[class^="textBlockWrapper-"] {
+        page-break-after: auto;
+        -webkit-column-break-after: always;
+           -moz-column-break-after: always;
+                break-after: always;
+        page-break-inside: auto;
+        -webkit-column-break-inside: auto;
+           -moz-column-break-inside: auto;
+                break-inside: auto; }
+        body .contentSpotWrapper div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
+          display: inline-block;
+          font-size: 20px;
+          color: white; }
+        body .contentSpotWrapper div[class^="textBlockWrapper-"] button[type="print"] {
+          background-color: lightgreen; } }
+
+@media print and (min-width: 768px) {
+  body {
+    background-color: red; } }
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+html {
+  color: #151515; }
+
+/* css style sheet */
+body {
+  font-size: 10px;
+  font-size: 1rem;
+  font-family: Verdana, Arial, sans-serif;
+  /* Footer
+    ------------------------------*/
+  /* Body
+    -----------------------------------*/ }
+  body .divClass {
+    background-color: green; }
+  body input {
+    font-size: 10px;
+    font-size: 1rem; }
+  body nav,
+  body section,
+  body article {
+    background-color: #F1F1F1; }
+  body footer {
+    text-align: center; }
+    body footer > p {
+      font-size: 10px;
+      font-size: 1rem;
+      color: #797979;
+      pointer-events: none; }
+  body .contentWrapper {
+    background-color: white; }
+  body .contentSpotWrapper,
+  body .formSpot {
+    background-color: white; }
+  body .contentSpotWrapper {
+    text-align: Center; }
+    body .contentSpotWrapper .card-header {
+      position: relative; }
+      body .contentSpotWrapper .card-header .btn.btn-link {
+        font-size: 16px;
+        font-size: 1.6rem;
+        width: 100%;
+        font-weight: bold;
+        color: #265868; }
+        body .contentSpotWrapper .card-header .btn.btn-link:hover {
+          color: #1f4855;
+          text-decoration: none; }
+        body .contentSpotWrapper .card-header .btn.btn-link:visited, body .contentSpotWrapper .card-header .btn.btn-link:focus, body .contentSpotWrapper .card-header .btn.btn-link:active {
+          text-decoration: none; }
+        body .contentSpotWrapper .card-header .btn.btn-link:hover {
+          text-decoration: none; }
+      body .contentSpotWrapper .card-header .trashcan {
+        position: absolute;
+        top: 50%;
+        left: auto;
+        right: 16px;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        -webkit-transition: -webkit-transform 300ms ease-in-out;
+        transition: -webkit-transform 300ms ease-in-out;
+        transition: transform 300ms ease-in-out;
+        transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
+        -webkit-transition: transform 300ms ease-in-out;
+        -moz-transition: transform 300ms ease-in-out;
+        -ms-transition: transform 300ms ease-in-out;
+        -o-transition: transform 300ms ease-in-out;
+        cursor: pointer; }
+        body .contentSpotWrapper .card-header .trashcan:hover {
+          transform: scale(1.1) translateY(-50%);
+          -webkit-transform: scale(1.1) translateY(-50%);
+          -moz-transform: scale(1.1) translateY(-50%);
+          -ms-transform: scale(1.1) translateY(-50%);
+          -o-transform: scale(1.1) translateY(-50%); }
+    body .contentSpotWrapper .contentSpot p {
+      font-size: 10px;
+      font-size: 1rem;
+      color: #454545;
+      text-align: justify; }
+    body .contentSpotWrapper .contentSpot img {
+      min-width: 100%;
+      position: absolute; }
+    body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] {
+      font-size: 14px;
+      font-size: 1.4rem;
+      position: relative; }
+      body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .default-text-title {
+        display: block;
+        position: relative; }
+      body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .title {
+        font-weight: bold; }
+      body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title,
+      body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title-secondary,
+      body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .title {
+        font-size: 14px;
+        font-size: 1.4rem;
+        margin-top: 16px;
+        margin-bottom: 16px;
+        color: #265868;
+        text-transform: uppercase;
+        font-weight: bold; }
+    body .contentSpotWrapper .contentSpot .arrayKlassNodos {
+      padding-bottom: 16px; }
+  body .formSpot .selectForm .mainForm1 {
+    text-align: left; }
+
+@media (min-width: 800px) {
+  .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover div[class*="trashcan-"] {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center; } }

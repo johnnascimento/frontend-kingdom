@@ -1,0 +1,202 @@
+﻿// local variables
+$selectHSize: 60px;
+$trashCanSize: 40px;
+
+// ALL DEVICES
+// ______________________________________________________________
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    color: $black;
+}
+
+/* css style sheet */
+body {
+    @include font-size(1);
+
+    font-family: Verdana, Arial, sans-serif;
+
+    .divClass {
+        background-color: $green;
+    }
+
+    input {
+        @include font-size(1);
+    }
+
+    nav,
+    section,
+    article {
+        background-color: $seashell;
+    }
+
+    /* Footer
+    ------------------------------*/
+    footer {
+        text-align: center;
+
+        > p {
+            @include font-size(1);
+
+            color: $boulder;
+            pointer-events: none;
+        }
+    }
+
+    /* Body
+    -----------------------------------*/
+    .contentWrapper {
+        background-color: $white;
+    }
+
+    .contentSpotWrapper,
+    .formSpot {
+        background-color: $white;
+    }
+
+    .contentSpotWrapper {
+        text-align:Center;
+
+        .card-header {
+            position: relative;
+
+            .btn.btn-link {
+                @include font-size(1.6);
+
+                width: 100%;
+
+                font-weight: bold;
+                color: $casal;
+
+                &:hover {
+                    color: darken($casal, 5%);
+
+                    text-decoration: none;
+                }
+
+                &:visited,
+                &:focus,
+                &:active {
+                    text-decoration: none;
+                }
+
+                &:hover {
+                    text-decoration: none;
+                }
+            }
+
+            .trashcan {
+                position: absolute;
+                top: 50%;
+                left: auto;
+                right: $gutter;
+
+                transform: translateY(-50%);
+                -webkit-transform: translateY(-50%);
+                -moz-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                -o-transform: translateY(-50%);
+
+                transition: transform 300ms ease-in-out;
+                -webkit-transition: transform 300ms ease-in-out;
+                -moz-transition: transform 300ms ease-in-out;
+                -ms-transition: transform 300ms ease-in-out;
+                -o-transition: transform 300ms ease-in-out;
+
+                cursor: pointer;
+
+                &:hover {
+                    transform: scale(1.1) translateY(-50%);
+                    -webkit-transform: scale(1.1) translateY(-50%);
+                    -moz-transform: scale(1.1) translateY(-50%);
+                    -ms-transform: scale(1.1) translateY(-50%);
+                    -o-transform: scale(1.1) translateY(-50%);
+                }
+            }
+        }
+
+        .contentSpot {
+            p {
+                @include font-size(1);
+
+                color: $tundora;
+                text-align: justify;
+            }
+
+            img {
+                min-width: 100%;
+                position: absolute;
+            }
+
+            div[class^="textBlockWrapper-"] {
+                @include font-size(1.4);
+
+                position: relative;
+
+                .default-text-title {
+                    display: block;
+                    position: relative;
+                }
+
+                .title {
+                    font-weight: bold;
+                }
+
+                .arrayKlass-title,
+                .arrayKlass-title-secondary,
+                .title {
+                    @include font-size(1.4);
+
+                    margin-top: $gutter;
+                    margin-bottom: $gutter;
+
+                    color: $casal;
+                    text-transform: uppercase;
+                    font-weight: bold;
+                }
+            }
+
+            .arrayKlassNodos {
+                padding-bottom: ($gutter);
+            }
+        }
+    }
+
+    .formSpot {
+        .selectForm {
+            .mainForm1 {
+                text-align: left;
+            }
+        }
+    }
+}
+
+
+// MOBILE DEVICES
+// ______________________________________________________________
+
+@media (max-width: $tabl-bk) {}
+
+
+// DESKTOP DEVICES
+// ______________________________________________________________
+
+@media (min-width: $tabl-bk) {
+    .contentSpotWrapper {
+        .contentSpot {
+            div[class^="textBlockWrapper-"]:hover {
+                div[class*="trashcan-"] {
+                    display: inline-block;
+                    vertical-align: middle;
+                    margin: 0;
+                    cursor: pointer;
+                    font-weight: bold;
+                    text-align: center;
+                }
+            }
+        }
+    }
+}
