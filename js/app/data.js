@@ -1,6 +1,18 @@
 // Data part
 // -------------------------------------------------------------------
 const data = {
+      fixedTexts: {
+            title: `Astrologia | O significado dos planetas`,
+            signos: [
+                  {
+                        sol: `text`;
+                  },
+                  {
+                        Lua: `text`;
+                  }
+
+            ]
+      },
       defaultText: {
             parteFortuna: [
                   `<span class=\"title\">O LOTE DA FORTUNA OU PARTE DA FORTUNA: </span>
