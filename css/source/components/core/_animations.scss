@@ -1,0 +1,68 @@
+﻿﻿@-webkit-keyframes loadSpinnerAbsolute {
+    0% {
+        transform: translate(-50%, -50%) rotate(0);
+        -webkit-transform: translate(-50%, -50%) rotate(0);
+        -moz-transform: translate(-50%, -50%) rotate(0);
+        -ms-transform: translate(-50%, -50%) rotate(0);
+        -o-transform: translate(-50%, -50%) rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+        -webkit-transform: translate(-50%, -50%) rotate(360deg);
+        -moz-transform: translate(-50%, -50%) rotate(360deg);
+        -ms-transform: translate(-50%, -50%) rotate(360deg);
+        -o-transform: translate(-50%, -50%) rotate(360deg);
+    }
+  }
+  @-moz-keyframes loadSpinnerAbsolute {
+    0% {
+        transform: translate(-50%, -50%) rotate(0);
+        -webkit-transform: translate(-50%, -50%) rotate(0);
+        -moz-transform: translate(-50%, -50%) rotate(0);
+        -ms-transform: translate(-50%, -50%) rotate(0);
+        -o-transform: translate(-50%, -50%) rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+        -webkit-transform: translate(-50%, -50%) rotate(360deg);
+        -moz-transform: translate(-50%, -50%) rotate(360deg);
+        -ms-transform: translate(-50%, -50%) rotate(360deg);
+        -o-transform: translate(-50%, -50%) rotate(360deg);
+    }
+  }
+  @-o-keyframes loadSpinnerAbsolute {
+    0% {
+        transform: translate(-50%, -50%) rotate(0);
+        -webkit-transform: translate(-50%, -50%) rotate(0);
+        -moz-transform: translate(-50%, -50%) rotate(0);
+        -ms-transform: translate(-50%, -50%) rotate(0);
+        -o-transform: translate(-50%, -50%) rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+        -webkit-transform: translate(-50%, -50%) rotate(360deg);
+        -moz-transform: translate(-50%, -50%) rotate(360deg);
+        -ms-transform: translate(-50%, -50%) rotate(360deg);
+        -o-transform: translate(-50%, -50%) rotate(360deg);
+    }
+  }
+  @keyframes loadSpinnerAbsolute {
+    0% {
+        transform: translate(-50%, -50%) rotate(0);
+        -webkit-transform: translate(-50%, -50%) rotate(0);
+        -moz-transform: translate(-50%, -50%) rotate(0);
+        -ms-transform: translate(-50%, -50%) rotate(0);
+        -o-transform: translate(-50%, -50%) rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+        -webkit-transform: translate(-50%, -50%) rotate(360deg);
+        -moz-transform: translate(-50%, -50%) rotate(360deg);
+        -ms-transform: translate(-50%, -50%) rotate(360deg);
+        -o-transform: translate(-50%, -50%) rotate(360deg);
+    }
+  }

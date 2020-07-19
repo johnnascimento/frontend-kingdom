@@ -9,19 +9,33 @@ requirejs.config({
 
 requirejs([
     'jquery',
+    'polyfill',
     'data',
     'script',
+    'htmlToDoc'
     ],
     function(
         $,
+        polyfillUtils,
         data,
         script,
+        htmlToDoc
     ) {
 
     console.log('App initialized! ');
 
-    var script = new script();
+    // Initiating constructors
+    var script = new script(),
+        htmlToDoc = new htmlToDoc();
+
+
+    // Polyfills and utils
+    polyfillUtils.objectPolyfill();
+    polyfillUtils.includesPolyfill();
+    polyfillUtils.mapPolyfill();
+    polyfillUtils.customEventsPolyfill();
 
     // Initiating the functions
     script.init();
+    htmlToDoc.init();
 });
