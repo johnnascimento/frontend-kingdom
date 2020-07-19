@@ -17,27 +17,32 @@ define(['jquery'], function($) {
             return this;
         }.bind(this);
 
-        // Loglal part
+        // Var, consts and lets
         //-------------------------------------------------------------------------
-        const d = document;
-        const b = d.body || d.bodyElement;
-        const docQuery = (elem) => {
-            return d.querySelector(elem);
-        };
+        const d = document,
+            b = d.body || d.bodyElement,
+            docQuery = (elem) => {
+                return d.querySelector(elem);
+            },
+            w = window,
+            $contentSpot = docQuery('.contentSpot');
 
-        const w = window;
-        const $contentSpot = docQuery('.contentSpot');
-        let key = '';
-        let selectedItemsArray = [];
-        let evaluatedValueToReturn = [];
-        let nodosFortuna = '';
-        let lineBreaks = '';
-        var tagFinder = new RegExp('\<\/strong\>', 'gmi');
+        let key = '',
+            selectedItemsArray = [],
+            evaluatedValueToReturn = [],
+            nodosFortuna = '',
+            lineBreaks = '',
+            i = 0,
+            levels = [];
 
-        // contentSpot.innerHTML = ""; // Getting rid of any white spce within content spot's tags
+        var tagFinder = new RegExp('\<\/strong\>', 'gmi'),
+            textBlockCounter = 0;
+
+        // Functions
+        const $contentSpotElem = docQuery('#contentSpot');
 
         const $submitBtn = docQuery('#submitBtn');
-        const $contentSpotElem = docQuery('#contentSpot');
+
         const $inputSignoOrCasa = (elem) => {
             return docQuery(elem);
         };
@@ -70,10 +75,6 @@ define(['jquery'], function($) {
             }
         };
 
-        var textBlockCounter = 0;
-        let i = 0;
-        let levels = [];
-
         const criarEl = (elType, assignmentReference, klass, id, selectorElem, textEl, el) => {
             el = d.createElement(elType);
             el.classList.add(klass);
@@ -90,7 +91,7 @@ define(['jquery'], function($) {
         };
 
         //
-        // Used st the currying function for indeces and/or text
+        // Used sthe currying function for indeces and/or text
         // ---------------------------------------------------
         const storeIndexOrText = (elem) => {
             elems = [];
@@ -407,32 +408,32 @@ define(['jquery'], function($) {
             // Use the criarEl method to create this one
             // ------------------------------------------------------
             var textBlockWrapper = '',
-                klassAssigner = '',
-                templateArray = [],
-                selectedItemsArray = [],
-                textBlockCounterRef = textBlockCounter,
-                idAssigner = '',
-                trashCanClass = 'trashcan-' + textBlockCounter,
-                klassAssigner = 'textBlockWrapper-' + textBlockCounter,
-                idAssigner = 'textBlockWrapperId-' + textBlockCounter,
-                currentContentSpot = 'contentSpot-' + textBlockCounter,
-                currentTextBlockWrapper = 'card-header-' + textBlockCounter,
-                accordionTitle = siteLists.second.link.selectedIndex != 0 ? siteLists.first.options[siteLists.first.link.selectedIndex].text + ' em ' + siteLists.second.options[siteLists.second.link.selectedIndex].text : siteLists.first.options[siteLists.first.link.selectedIndex].text + ' em ' + siteLists.third.options[siteLists.third.link.selectedIndex].text,
-                accordionTemplate = '<div class=\"card card-' + textBlockCounter + '\">' +
-                                        '<div class=\"card-header card-header-' + textBlockCounter + '\" id=\"heading-' + textBlockCounter + '\">' +
-                                            '<h5 class="mb-0">' +
-                                            '<button class=\"btn btn-link\" data-toggle=\"collapse\" data-target=\"#collapse-' + textBlockCounter + '\" aria-expanded=\"true\" aria-controls=\"collapse' + textBlockCounter + '\">' +
-                                                accordionTitle +
-                                            '</button>' +
-                                            '<span class=\"fas fa-times-circle trashcan ' + trashCanClass + '\" data-parent-card=\"card-' + textBlockCounter + '\"></span>' +
-                                            '</h5>' +
-                                        '</div>' +
+            klassAssigner = '',
+            templateArray = [],
+            selectedItemsArray = [],
+            textBlockCounterRef = textBlockCounter,
+            idAssigner = '',
+            trashCanClass = 'trashcan-' + textBlockCounter,
+            klassAssigner = 'textBlockWrapper-' + textBlockCounter,
+            idAssigner = 'textBlockWrapperId-' + textBlockCounter,
+            currentContentSpot = 'contentSpot-' + textBlockCounter,
+            currentTextBlockWrapper = 'card-header-' + textBlockCounter,
+            accordionTitle = siteLists.second.link.selectedIndex != 0 ? siteLists.first.options[siteLists.first.link.selectedIndex].text + ' em ' + siteLists.second.options[siteLists.second.link.selectedIndex].text : siteLists.first.options[siteLists.first.link.selectedIndex].text + ' em ' + siteLists.third.options[siteLists.third.link.selectedIndex].text,
+            accordionTemplate = '<div class=\"card card-' + textBlockCounter + '\">' +
+            '<div class=\"card-header card-header-' + textBlockCounter + '\" id=\"heading-' + textBlockCounter + '\">' +
+            '<h5 class="mb-0">' +
+            '<button class=\"btn btn-link\" data-toggle=\"collapse\" data-target=\"#collapse-' + textBlockCounter + '\" aria-expanded=\"true\" aria-controls=\"collapse' + textBlockCounter + '\">' +
+            accordionTitle +
+            '</button>' +
+            '<span class=\"fas fa-times-circle trashcan ' + trashCanClass + '\" data-parent-card=\"card-' + textBlockCounter + '\"></span>' +
+            '</h5>' +
+            '</div>' +
 
-                                        '<div id=\"collapse-' + textBlockCounter + '\" class=\"collapse show\" aria-labelledby=\"heading-' + textBlockCounter + '\" data-parent=\"#accordion\">' +
-                                            '<div id=\"contentSpot-' + textBlockCounter + '\" class=\"contentSpot contentSpot-' + textBlockCounter + ' card-body col-12\" data-parent-card=\"card-' + textBlockCounter + '\">' +
-                                            '</div>' +
-                                        '</div>' +
-                                    '</div>';
+            '<div id=\"collapse-' + textBlockCounter + '\" class=\"collapse show\" aria-labelledby=\"heading-' + textBlockCounter + '\" data-parent=\"#accordion\">' +
+            '<div id=\"contentSpot-' + textBlockCounter + '\" class=\"contentSpot contentSpot-' + textBlockCounter + ' card-body col-12\" data-parent-card=\"card-' + textBlockCounter + '\">' +
+            '</div>' +
+            '</div>' +
+            '</div>';
 
             let getSelectedIndexInArray = defineSelectedIndexInAnArray(true, true);
 
@@ -495,9 +496,9 @@ define(['jquery'], function($) {
         //Check for empty textBlock
         const checkEmptyTextBlock = (elem) => {
             let textBlocks = d.getElementsByClassName(elem),
-                textBlocksChildren = '',
-                blockToRemove = '',
-                i;
+            textBlocksChildren = '',
+            blockToRemove = '',
+            i;
 
             if (!textBlocks && !textBlocks.length) {
                 return;
@@ -546,23 +547,23 @@ define(['jquery'], function($) {
 
                 switch(firstListOfItems) {
                     case 0:
-                        docQuery('#resetForm').click();
-                        docQuery('.listOfItems-2').setAttribute('disabled', true);
-                        docQuery('.listOfItems-3').setAttribute('disabled', true);
+                    docQuery('#resetForm').click();
+                    docQuery('.listOfItems-2').setAttribute('disabled', true);
+                    docQuery('.listOfItems-3').setAttribute('disabled', true);
 
-                        break;
+                    break;
 
                     case 3:
-                        docQuery('.listOfItems-3').selectedIndex = 0;
-                        docQuery('.listOfItems-2').removeAttribute('disabled', true);
-                        docQuery('.listOfItems-3').setAttribute('disabled', true);
-                        break;
+                    docQuery('.listOfItems-3').selectedIndex = 0;
+                    docQuery('.listOfItems-2').removeAttribute('disabled', true);
+                    docQuery('.listOfItems-3').setAttribute('disabled', true);
+                    break;
 
                     default:
-                        docQuery('.listOfItems-2').selectedIndex = 0;
-                        docQuery('.listOfItems-3').selectedIndex = 0;
-                        docQuery('.listOfItems-2').removeAttribute('disabled');
-                        docQuery('.listOfItems-3').removeAttribute('disabled');
+                    docQuery('.listOfItems-2').selectedIndex = 0;
+                    docQuery('.listOfItems-3').selectedIndex = 0;
+                    docQuery('.listOfItems-2').removeAttribute('disabled');
+                    docQuery('.listOfItems-3').removeAttribute('disabled');
                 }
             });
 

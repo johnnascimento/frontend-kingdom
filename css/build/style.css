@@ -127,16 +127,32 @@ q {
   body,
   p {
     font-size: 14pt;
-    font-family: 'Times New Roman', Times, Georgia, Palatino; }
-  body {
-    margin: 0;
+    font-family: 'Times New Roman', Times, Georgia, Palatino;
+    border: none; }
+  html {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
     padding: 0;
-    overflow: hidden; }
+    background-color: transparent; }
+    html * {
+      padding: 0;
+      margin: 0 auto;
+      border: none !important;
+      background-color: transparent; }
+  body {
+    width: 21cm;
+    height: 29.7cm;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: white; }
     body.is-loading {
       background-color: white;
       z-index: -1; }
       body.is-loading:before, body.is-loading:after {
         border: none;
+        opacity: 0;
         z-index: -2; }
     body .formSpot {
       display: none; }
@@ -155,7 +171,14 @@ q {
       padding: 0;
       background-color: transparent;
       border: none; }
+      body #contentSpotWrapper .contentSpot {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        padding: 0; }
       body #contentSpotWrapper div[class^="textBlockWrapper-"] {
+        width: 100%;
+        padding: 0 0 1cm;
         page-break-after: auto;
         -webkit-column-break-after: always;
            -moz-column-break-after: always;
@@ -163,17 +186,7 @@ q {
         page-break-inside: auto;
         -webkit-column-break-inside: auto;
            -moz-column-break-inside: auto;
-                break-inside: auto; }
-        body #contentSpotWrapper div[class^="textBlockWrapper-"] div[class*="trashcan-"] {
-          display: inline-block;
-          font-size: 20px;
-          color: white; }
-        body #contentSpotWrapper div[class^="textBlockWrapper-"] button[type="print"] {
-          background-color: lightgreen; } }
-
-@media print and (max-width: 768px) {
-  body {
-    background-color: red; } }
+                break-inside: auto; } }
 
 * {
   -webkit-box-sizing: border-box;
