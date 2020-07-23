@@ -548,6 +548,9 @@ define(['jquery'], function($) {
 
             $submitBtn.addEventListener('click', addElementsToTemplate);
 
+            // Inject content
+            this.injectFixedContent();
+
             // Control the buttons' behaviour
             // ------------------------------------------------------------------------------------------
             docQuery('.listOfItems-1').addEventListener('change', (ev) => {
