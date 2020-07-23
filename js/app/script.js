@@ -529,6 +529,14 @@ define(['jquery'], function($) {
             }
         }
 
+        this.injectFixedContent = function() {
+            $.each(data.fixedTexts, function(idx, elem) {
+                console.log('fixed content idx', idx);
+                console.log('fixed content elem', elem);
+            }.bind(this))
+            $('.fixedContentSpot').html();
+        }.bind(this);
+
 
         this.init = function() {
             fillFormIn(data.planets, 1);
