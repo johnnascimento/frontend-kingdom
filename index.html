@@ -41,9 +41,19 @@
 
     <div class="container">
         <section class="contentWrapper row">
-            <div class="jumbotron">
-                <img src="/images/mapa-astral-introductory-image.png" alt="Mapa Astral Personalizado" title="Mapa Astral Personalizado" class="mapa_astral_image_introdutoria">
-                <h1>Mapa Astral <small>Personalizado</small></h1>
+            <div class="jumbotron col-12 d-inline-block">
+                <div class="row">
+                    <div class="col-4 d-inline-block">
+                        <img src="/images/mapa-astral-introductory-image.png" alt="Mapa Astral Personalizado" title="Mapa Astral Personalizado" class="mapa_astral_image_introdutoria col-12">
+                    </div>
+
+                    <div class="col-8 d-inline-block">
+                        <h1>
+                            Mapa Astral
+                            <small>Personalizado</small>
+                        </h1>
+                    </div>
+                </div>
             </div>
 
             <article class="formSpot col-12 col-sm-3 pl-0 pr-0">
@@ -64,6 +74,9 @@
                             <select class="listOfItems-3 form-control mb-2 custom-select" name="list of items" id="OfItems-3">
                                 <option value="select an element">Escolha a casa</option>
                             </select>
+
+                            <!-- File -->
+                            <input type="file" class="upload-image-input" accept=".jpg, .jpeg, .png, .svg" name="file" placeholder="Anexe um mapa Astral">
                         </div>
 
                         <div class="btn-group col-12 pl-0 pr-0 d-flex" role="group" aria-label="Form button group">
