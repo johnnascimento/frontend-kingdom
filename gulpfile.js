@@ -53,7 +53,7 @@ gulp.task('clean-styles', function() {
 // ______________________________________
 gulp.task('scripts', function() {
     console.log('Scripts is being transpiled and uglified');
-    return gulp.src('js/app/*.js')
+    return gulp.src('js/app/**/*.js')
                 .pipe(babel({
                     presets: ['@babel/preset-env']
                 }))
