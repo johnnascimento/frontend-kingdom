@@ -67,8 +67,10 @@
             display: none;
         }
 
-        .jumbotron {
-            display: none;
+        .jumbotron,
+        .jumbotron > *,
+        .mapa_astral_image_introdutoria {
+            display: none !important;
         }
 
         .card {
@@ -120,6 +122,11 @@
                     page-break-before: always;
                 }
             }
+
+            // This property gets the layout cut right above its element where this property was defined
+            // .arrayKlass-title {
+            //     page-break-before: always;
+            // }
         }
     }
 }
