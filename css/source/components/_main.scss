@@ -25,6 +25,21 @@ body {
         @include invisibleButInteractible();
     }
 
+    strong,
+    b {
+        font-weight: bold;
+    }
+
+    em,
+    i {
+        font-style: italic;
+    }
+
+    u {
+        font-style: normal;
+        text-decoration: underline;
+    }
+
     &.is-loading {
         overflow: hidden;
 
@@ -219,6 +234,10 @@ body {
 
             .arrayKlassNodos {
                 padding-bottom: ($gutter);
+
+                .title {
+                    display: block;
+                }
             }
         }
 

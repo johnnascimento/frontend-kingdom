@@ -156,8 +156,10 @@ q {
         z-index: -2; }
     body .formSpot {
       display: none; }
-    body .jumbotron {
-      display: none; }
+    body .jumbotron,
+    body .jumbotron > *,
+    body .mapa_astral_image_introdutoria {
+      display: none !important; }
     body .card {
       border: none;
       background-color: transparent; }
@@ -225,6 +227,15 @@ body {
     opacity: 0;
     visibility: hidden;
     font-size: 0; }
+  body strong,
+  body b {
+    font-weight: bold; }
+  body em,
+  body i {
+    font-style: italic; }
+  body u {
+    font-style: normal;
+    text-decoration: underline; }
   body.is-loading {
     overflow: hidden; }
     body.is-loading:before {
@@ -354,6 +365,8 @@ body {
         font-weight: bold; }
     body .contentSpotWrapper .contentSpot .arrayKlassNodos {
       padding-bottom: 16px; }
+      body .contentSpotWrapper .contentSpot .arrayKlassNodos .title {
+        display: block; }
     body .contentSpotWrapper .card.card-0 {
       border-bottom: 1px solid #dfdfdf; }
   body .formSpot .selectForm .mainForm1 {
