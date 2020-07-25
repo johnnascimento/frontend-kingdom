@@ -211,8 +211,6 @@ body {
     ------------------------------*/
   /* Body
     -----------------------------------*/ }
-  body .fixedContentSpot,
-  body .relatorioPersonalizado,
   body .upload-image-input {
     width: 0;
     height: 0;

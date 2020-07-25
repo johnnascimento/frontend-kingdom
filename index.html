@@ -59,10 +59,45 @@
             <article class="formSpot col-12 col-sm-3 pl-0 pr-0">
                 <div class="selectForm">
                     <form id="mainForm1" action="#">
-                        <label class="mb-4 col-12 pl-0 pr-0" for="OfItems-1">
-                            Escolha a combinação abaixo
+                        <label class="mb-2 col-12 pl-0 pr-0" for="userName">
+                            <h3>Dados do cliente</h3>
                         </label>
-                        <div class="form-group col-12 pl-0 pr-0 d-block">
+                        <div class="form-group customerData col-12 mb-4 pl-0 pr-0 d-block">
+                            <div class="inputOne input-customer">
+                                <label class="mb-1" for="userName">Nome do cliente</label>
+                                <input type="text" class="inputControl-3 form-control mb-2" name="userName" id="userName" />
+                            </div>
+
+                            <div class="inputTwo input-customer">
+                                <label class="mb-1" for="dateOfBirth">Data de nascimento</label>
+                                <input type="date" class="inputControl-3 form-control mb-2" name="dateOfBirth" id="dateOfBirth" />
+                            </div>
+
+                            <div class="inputThree input-customer">
+                                <label class="mb-1" for="timeOfBirth">Hora do nascimento</label>
+                                <input type="time" class="inputControl-3 form-control mb-2" name="timeOfBirth" id="timeOfBirth" />
+                            </div>
+
+                            <div class="inputFour input-customer">
+                                <label class="mb-1" for="placeOfBirth">Estado de nascimento</label>
+                                <input type="text" class="inputControl-3 form-control mb-2" name="placeOfBirth" id="placeOfBirth" />
+                            </div>
+
+                            <div class="inputFive input-customer">
+                                <label class="mb-1" for="countryOfBirth">Pais de nascimento</label>
+                                <input type="text" class="inputControl-3 form-control mb-2" name="countryOfBirth" id="countryOfBirth" />
+                            </div>
+
+                            <div class="inputFive input-customer">
+                                <label class="mb-1" for="countryOfBirth">Pais de nascimento</label>
+                                <input type="file" class="inputControl-3 form-control mb-2" id="countryOfBirth" accept=".jpg, .jpeg, .png, .svg" name="file" placeholder="Anexe um mapa Astral" />
+                            </div>
+                        </div>
+
+                        <label class="mb-2 col-12 pl-0 pr-0" for="OfItems-1">
+                            <h3>Configuração do mapa</h3>
+                        </label>
+                        <div class="form-group col-12 mb-4 pl-0 pr-0 d-block">
                             <select class="listOfItems-1 form-control mb-2 custom-select" name="list of items" id="OfItems-1">
                                 <option value="select an element">Escolha o planeta</option>
                             </select>
@@ -74,9 +109,6 @@
                             <select class="listOfItems-3 form-control mb-2 custom-select" name="list of items" id="OfItems-3">
                                 <option value="select an element">Escolha a casa</option>
                             </select>
-
-                            <!-- File -->
-                            <input type="file" class="upload-image-input" accept=".jpg, .jpeg, .png, .svg" name="file" placeholder="Anexe um mapa Astral">
                         </div>
 
                         <div class="btn-group col-12 pl-0 pr-0 d-flex" role="group" aria-label="Form button group">

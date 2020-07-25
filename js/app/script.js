@@ -530,6 +530,9 @@ define(['jquery'], function($) {
         }
 
         this.injectFixedContent = function() {
+            $('.fixedContentSpot').html(' ');
+            $('.reportSummary').html(' ');
+
             $.each(data.fixedTexts, function(idx, elem) {
                 // console.log('fixed content idx', idx);
                 // console.log('fixed content elem', elem);
@@ -540,7 +543,6 @@ define(['jquery'], function($) {
 
                     if(elem.info) {
                         console.log('WOWWWWWWWWWWW', elem);
-                        $('.reportSummary').html(' ');
                         $('.reportSummary').html($('.reportSummary').html() + elem.info);
                     } else {
                         $.each(elem, function(idx, elem) {
