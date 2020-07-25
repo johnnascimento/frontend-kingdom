@@ -37,6 +37,22 @@
     font-size: #{$remValue}rem;
 }
 
+@mixin invisibleButInteractible() {
+    width: 0;
+    height: 0;
+    display: inline-block;
+    position: absolute;
+    top: auto;
+    right: 100%;
+    bottom: 100%;
+    left: auto;
+    padding: 0;
+    margin: 0 auto;
+    opacity: 0;
+    visibility: hidden;
+    font-size: 0;
+}
+
 //
 //  some utils classes
 //  _____________________________________________

@@ -78,6 +78,10 @@
             &-header {
                 display: none;
             }
+
+            .collapse:not(.show) {
+                display: block !important;
+            }
         }
 
         #contentSpotWrapper {
@@ -108,6 +112,13 @@
                 break-after: always;
                 page-break-inside: auto;
                 break-inside: auto;
+            }
+
+            .arrayKlass {
+                br,
+                p {
+                    page-break-before: always;
+                }
             }
         }
     }

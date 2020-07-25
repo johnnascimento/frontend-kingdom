@@ -163,6 +163,8 @@ q {
       background-color: transparent; }
       body .card-header {
         display: none; }
+      body .card .collapse:not(.show) {
+        display: block !important; }
     body #contentSpotWrapper {
       width: 100%;
       min-width: 100%;
@@ -186,7 +188,10 @@ q {
         page-break-inside: auto;
         -webkit-column-break-inside: auto;
            -moz-column-break-inside: auto;
-                break-inside: auto; } }
+                break-inside: auto; }
+      body #contentSpotWrapper .arrayKlass br,
+      body #contentSpotWrapper .arrayKlass p {
+        page-break-before: always; } }
 
 * {
   -webkit-box-sizing: border-box;
@@ -204,6 +209,22 @@ body {
     ------------------------------*/
   /* Body
     -----------------------------------*/ }
+  body .fixedContentSpot,
+  body .relatorioPersonalizado,
+  body .upload-image-input {
+    width: 0;
+    height: 0;
+    display: inline-block;
+    position: absolute;
+    top: auto;
+    right: 100%;
+    bottom: 100%;
+    left: auto;
+    padding: 0;
+    margin: 0 auto;
+    opacity: 0;
+    visibility: hidden;
+    font-size: 0; }
   body.is-loading {
     overflow: hidden; }
     body.is-loading:before {

@@ -19,6 +19,12 @@ body {
 
     font-family: Verdana, Arial, sans-serif;
 
+    .fixedContentSpot,
+    .relatorioPersonalizado,
+    .upload-image-input {
+        @include invisibleButInteractible();
+    }
+
     &.is-loading {
         overflow: hidden;
 
