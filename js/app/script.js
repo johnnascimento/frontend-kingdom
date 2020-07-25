@@ -20,23 +20,23 @@ define(['jquery'], function($) {
         // Var, consts and lets
         //-------------------------------------------------------------------------
         const d = document,
-            b = d.body || d.bodyElement,
-            docQuery = (elem) => {
-                return d.querySelector(elem);
-            },
-            w = window,
-            $contentSpot = docQuery('.contentSpot');
+        b = d.body || d.bodyElement,
+        docQuery = (elem) => {
+            return d.querySelector(elem);
+        },
+        w = window,
+        $contentSpot = docQuery('.contentSpot');
 
         let key = '',
-            selectedItemsArray = [],
-            evaluatedValueToReturn = [],
-            nodosFortuna = '',
-            lineBreaks = '',
-            i = 0,
-            levels = [];
+        selectedItemsArray = [],
+        evaluatedValueToReturn = [],
+        nodosFortuna = '',
+        lineBreaks = '',
+        i = 0,
+        levels = [];
 
         var tagFinder = new RegExp('\<\/strong\>', 'gmi'),
-            textBlockCounter = 0;
+        textBlockCounter = 0;
 
         // Functions
         const $contentSpotElem = docQuery('#contentSpot');
@@ -531,10 +531,25 @@ define(['jquery'], function($) {
 
         this.injectFixedContent = function() {
             $.each(data.fixedTexts, function(idx, elem) {
-                console.log('fixed content idx', idx);
-                console.log('fixed content elem', elem);
+                // console.log('fixed content idx', idx);
+                // console.log('fixed content elem', elem);
+
+                $(elem).each(function(ix, elem) {
+                    console.log('MAP content elem', elem);
+                    console.log('******************** MAP Object', elem.info);
+
+                    if(elem.info) {
+                        console.log('WOWWWWWWWWWWW', elem);
+                        $('.reportSummary').html(' ');
+                        $('.reportSummary').html($('.reportSummary').html() + elem.info);
+                    } else {
+                        $.each(elem, function(idx, elem) {
+                            // console.log('EACH MAP EACH content elem', elem);
+                            $('.fixedContentSpot').html($('.fixedContentSpot').html() + elem);
+                        }.bind(this));
+                    }
+                });
             }.bind(this))
-            $('.fixedContentSpot').html();
         }.bind(this);
 
 
