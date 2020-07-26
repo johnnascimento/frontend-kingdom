@@ -1,8 +1,29 @@
-define(['jquery'], function($) {
+define(['jquery', 'utils'], function($, utils) {
     console.log('script initialized !');
 
     const defaults = {
-        body: 'body'
+        body: 'body',
+        userInfo: {
+            userName: '.inputField[name="userName"]',
+            dateOfBirth: '.inputField[name="dateOfBirth"]',
+            timeOfBirth: '.inputField[name="timeOfBirth"]',
+            stateOfBirth: '.inputField[name="stateOfBirth"]',
+            countryOfBirth: '.inputField[name="countryOfBirth"]',
+            signStar: '.inputField[name="signStar"]',
+            ascendent: '.inputField[name="ascendent"]',
+            moon: '.inputField[name="moon"]',
+            imageFile: '.inputField[name="imageFile"]',
+        },
+        userInfoSpot: {
+            userShortIntroduction: '.userShortIntroduction',
+            userName: '.userName',
+            dateOfBirth: '.dateOfBirth',
+            timeOfBirth: '.timeOfBirth',
+            stateOfBirth: '.stateOfBirth',
+            countryOfBirth: '.countryOfBirth',
+            signStartShortDescription: '.signStartShortDescription',
+            reportImage: '.reportImage .reportImageImg',
+        }
     }
 
     // For the future John, you need to break down this whole script and modularize the whole app,
@@ -534,24 +555,54 @@ define(['jquery'], function($) {
             $('.reportSummary').html(' ');
 
             $.each(data.fixedTexts, function(idx, elem) {
-                // console.log('fixed content idx', idx);
-                // console.log('fixed content elem', elem);
-
                 $(elem).each(function(ix, elem) {
-                    console.log('MAP content elem', elem);
-                    console.log('******************** MAP Object', elem.info);
-
                     if(elem.info) {
-                        console.log('WOWWWWWWWWWWW', elem);
                         $('.reportSummary').html($('.reportSummary').html() + elem.info);
                     } else {
                         $.each(elem, function(idx, elem) {
-                            // console.log('EACH MAP EACH content elem', elem);
                             $('.fixedContentSpot').html($('.fixedContentSpot').html() + elem);
                         }.bind(this));
                     }
                 });
             }.bind(this))
+        }.bind(this);
+
+        this.cleanReportSpot = function() {
+            $(this.options.userInfoSpot.userName).html(' ');
+            $(this.options.userInfoSpot.dateOfBirth).html(' ');
+            $(this.options.userInfoSpot.timeOfBirth).html(' ');
+            $(this.options.userInfoSpot.stateOfBirth).html(' ');
+            $(this.options.userInfoSpot.countryOfBirth).html(' ');
+            $(this.options.userInfoSpot.signStartShortDescription).html(' ');
+            $(this.options.userInfoSpot.reportImage).attr('src', 'images/mapa-astral-introductory-image.png');
+        }.bind(this);
+
+        this.getUserInfo = function() {
+            let userInfoArray = [
+                $(this.options.userInfo.userName).val(),
+                `Nasceu ${$(this.options.userInfo.dateOfBirth).val()} `,
+                `às ${$(this.options.userInfo.timeOfBirth).val().split(':').join('h')} `,
+                `em ${$(this.options.userInfo.stateOfBirth).val()} | `,
+                `${$(this.options.userInfo.countryOfBirth).val()}.`,
+                `Seu signo é ${$(this.options.userInfo.signStar).val()}, seu Ascendente é ${$(this.options.userInfo.ascendent).val()} e sua Lua é em ${$(this.options.userInfo.moon).val()}`
+            ];
+
+            return userInfoArray;
+
+        }.bind(this);
+
+        this.insertUserInfo = function() {
+            this.cleanReportSpot();
+
+            let userInfo = this.getUserInfo();
+            console.log('userInfo', userInfo);
+
+            $('.userName').html(userInfo[0]);
+            $('.dateOfBirth').html(userInfo[1]);
+            $('.timeOfBirth').html(userInfo[2])
+            $('.stateOfBirth').html(userInfo[3])
+            $('.countryOfBirth').html(userInfo[4])
+            $('.signStartShortDescription').html(userInfo[5])
         }.bind(this);
 
 
@@ -614,6 +665,12 @@ define(['jquery'], function($) {
                     return docQuery('.listOfItems-2').removeAttribute('disabled');
                 }
             });
+
+            docQuery('#insertIntoLayout').addEventListener('click', function() {
+                console.log('Text Inserted');
+
+                this.insertUserInfo();
+            }.bind(this));
 
             $resetInput('input[type=\"reset\"]').addEventListener('click', (ev) => {
                 docQuery('.listOfItems-2').setAttribute('disabled', true);

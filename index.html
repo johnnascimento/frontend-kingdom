@@ -65,32 +65,51 @@
                         <div class="form-group customerData col-12 mb-4 pl-0 pr-0 d-block">
                             <div class="inputOne input-customer">
                                 <label class="mb-1" for="userName">Nome do cliente</label>
-                                <input type="text" class="inputControl-3 form-control mb-2" name="userName" id="userName" />
+                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="userName" id="userName" />
                             </div>
 
                             <div class="inputTwo input-customer">
                                 <label class="mb-1" for="dateOfBirth">Data de nascimento</label>
-                                <input type="date" class="inputControl-3 form-control mb-2" name="dateOfBirth" id="dateOfBirth" />
+                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="dateOfBirth" id="dateOfBirth" />
                             </div>
 
                             <div class="inputThree input-customer">
                                 <label class="mb-1" for="timeOfBirth">Hora do nascimento</label>
-                                <input type="time" class="inputControl-3 form-control mb-2" name="timeOfBirth" id="timeOfBirth" />
+                                <input type="time" class="inputField inputControl-3 form-control mb-2" name="timeOfBirth" id="timeOfBirth" />
                             </div>
 
                             <div class="inputFour input-customer">
-                                <label class="mb-1" for="placeOfBirth">Estado de nascimento</label>
-                                <input type="text" class="inputControl-3 form-control mb-2" name="placeOfBirth" id="placeOfBirth" />
+                                <label class="mb-1" for="stateOfBirth">Estado de nascimento</label>
+                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="stateOfBirth" id="stateOfBirth" />
                             </div>
 
                             <div class="inputFive input-customer">
                                 <label class="mb-1" for="countryOfBirth">Pais de nascimento</label>
-                                <input type="text" class="inputControl-3 form-control mb-2" name="countryOfBirth" id="countryOfBirth" />
+                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="countryOfBirth" id="countryOfBirth" />
                             </div>
 
-                            <div class="inputFive input-customer">
-                                <label class="mb-1" for="countryOfBirth">Pais de nascimento</label>
-                                <input type="file" class="inputControl-3 form-control mb-2" id="countryOfBirth" accept=".jpg, .jpeg, .png, .svg" name="file" placeholder="Anexe um mapa Astral" />
+                            <div class="inputSix input-customer">
+                                <label class="mb-1" for="signStar">Signo do cliente</label>
+                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="signStar" id="signStar" />
+                            </div>
+
+                            <div class="inputSeven input-customer">
+                                <label class="mb-1" for="ascendent">Ascendente do cliente</label>
+                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="ascendent" id="ascendent" />
+                            </div>
+
+                            <div class="inputEight input-customer">
+                                <label class="mb-1" for="moon">Lua do cliente</label>
+                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="moon" id="moon" />
+                            </div>
+
+                            <div class="inputNine input-customer">
+                                <label class="mb-1" for="imageFile">Anexar imagem</label>
+                                <input type="file" class="inputField inputControl-3 form-control mb-2" id="imageFile" accept=".jpg, .jpeg, .png, .svg" name="file" disabled />
+                            </div>
+
+                            <div class="inputTen input-customer">
+                                <input class="col-12 mb-4 btn btn-large btn-primary" type="button" value="Inserir no layout" id="insertIntoLayout" />
                             </div>
                         </div>
 
@@ -121,12 +140,23 @@
             </article>
 
             <article id="contentSpotWrapper" class="contentSpotWrapper accordion col-12 col-sm-8 offset-1">
+                <div class="booksImageCover">
+                    <img src="images/mapa-astral-introductory-image.png" alt="Imagem de capa do Mapa astral personalizado" title="Imagem de capa do Mapa astral personalizado" class="booksImageCoverImg" />
+                </div>
                 <div class="fixedContentSpot">Fixed Content</div>
 
                 <div class="relatorioPersonalizado">
                     <div class="userName">Username</div>
-                    <div class="userShortIntroduction">Short introduction</div>
-                    <div class="reportImage">Report image</div>
+                    <div class="userShortIntroduction">
+                        <span class="dateOfBirth">- Date of birth</span>
+                        <span class="timeOfBirth">- time of birth</span>
+                        <span class="stateOfBirth">- State of birth</span>
+                        <span class="countryOfBirth">- Country of birth</span>
+                        <span class="signStartShortDescription">- Sign star short description</span>
+                    </div>
+                    <div class="reportImage">
+                        <img src="#" alt="Imagem do mapa Astral Personalizado" title="Imagem do Mapa Astral personaizado" class="reportImageImg" />
+                    </div>
                     <div class="reportSummary">Report summary</div>
                 </div>
 

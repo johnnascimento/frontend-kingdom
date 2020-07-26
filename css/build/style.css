@@ -193,7 +193,28 @@ q {
                 break-inside: auto; }
       body #contentSpotWrapper .arrayKlass br,
       body #contentSpotWrapper .arrayKlass p {
-        page-break-before: always; } }
+        page-break-before: always; }
+    body .booksImageCover,
+    body .fixedContentSpot,
+    body .relatorioPersonalizado {
+      font-size: 14px;
+      font-size: 1.4rem;
+      width: auto !important;
+      height: auto !important;
+      display: block !important;
+      position: relative !important;
+      margin: 0 auto !important;
+      padding: 0 0 16px !important;
+      top: auto !important;
+      right: auto !important;
+      bottom: auto !important;
+      left: auto !important;
+      opacity: 1 !important;
+      visibility: visible !important; }
+    body .booksImageCover {
+      page-break-after: always; }
+    body .relatorioPersonalizado {
+      page-break-before: always; } }
 
 * {
   -webkit-box-sizing: border-box;
@@ -207,33 +228,11 @@ body {
   font-size: 10px;
   font-size: 1rem;
   font-family: Verdana, Arial, sans-serif;
+  line-height: 1.2;
   /* Footer
     ------------------------------*/
   /* Body
     -----------------------------------*/ }
-  body .upload-image-input {
-    width: 0;
-    height: 0;
-    display: inline-block;
-    position: absolute;
-    top: auto;
-    right: 100%;
-    bottom: 100%;
-    left: auto;
-    padding: 0;
-    margin: 0 auto;
-    opacity: 0;
-    visibility: hidden;
-    font-size: 0; }
-  body strong,
-  body b {
-    font-weight: bold; }
-  body em,
-  body i {
-    font-style: italic; }
-  body u {
-    font-style: normal;
-    text-decoration: underline; }
   body.is-loading {
     overflow: hidden; }
     body.is-loading:before {
@@ -271,6 +270,29 @@ body {
       left: 0;
       background-color: #151515;
       opacity: 0.5; }
+  body .upload-image-input {
+    width: 0;
+    height: 0;
+    display: inline-block;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    top: auto;
+    right: 100%;
+    bottom: 100%;
+    left: auto;
+    opacity: 0;
+    visibility: hidden;
+    font-size: 0; }
+  body strong,
+  body b {
+    font-weight: bold; }
+  body em,
+  body i {
+    font-style: italic; }
+  body u {
+    font-style: normal;
+    text-decoration: underline; }
   body .divClass {
     background-color: green; }
   body input {
@@ -287,13 +309,88 @@ body {
       font-size: 1rem;
       color: #797979;
       pointer-events: none; }
+  body .subTitle {
+    display: block;
+    font-weight: bold;
+    color: #265868; }
+    body .subTitle.inline {
+      display: inline-block;
+      vertical-align: baseline; }
+  body .highlighted {
+    color: #265868; }
+    body .highlighted.followingTitle {
+      font-size: 12px;
+      font-size: 1.2rem;
+      display: inline-block;
+      vertical-align: baseline;
+      padding-left: 8px;
+      line-height: 1.4; }
+    body .highlighted.is-bold {
+      font-weight: bold;
+      color: #151515; }
+  body .booksImageCover,
+  body .reportImage {
+    display: block;
+    position: relative; }
+    body .booksImageCover .booksImageCoverImg,
+    body .booksImageCover .reportImageImg,
+    body .reportImage .booksImageCoverImg,
+    body .reportImage .reportImageImg {
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: 100%;
+      display: block;
+      position: relative; }
+  body .fixedContentSpot .title {
+    font-size: 14px;
+    font-size: 1.4rem;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 0 0 8px;
+    font-weight: bold;
+    line-height: 2;
+    color: #265868; }
+    body .fixedContentSpot .title.small {
+      font-size: 12px;
+      font-size: 1.2rem;
+      display: block;
+      position: relative;
+      margin: 0 auto;
+      padding: 0 0 8px;
+      font-weight: normal; }
+  body .fixedContentSpot .subTitle {
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 1.4; }
+    body .fixedContentSpot .subTitle.inline + .content {
+      display: inline-block;
+      vertical-align: baseline; }
+  body .fixedContentSpot .content {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 8px 0 32px; }
+  body .relatorioPersonalizado {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 16px 0;
+    text-align: center; }
+    body .relatorioPersonalizado .reportSummary {
+      display: block;
+      position: relative;
+      margin: 0 auto;
+      padding: 0 0 16px;
+      text-align: left; }
   body .contentWrapper {
     background-color: white; }
   body .contentSpotWrapper,
   body .formSpot {
     background-color: white; }
   body .contentSpotWrapper {
-    text-align: Center; }
+    text-align: left; }
     body .contentSpotWrapper .card-header {
       position: relative; }
       body .contentSpotWrapper .card-header .btn.btn-link {

@@ -40,17 +40,39 @@
 @mixin invisibleButInteractible() {
     width: 0;
     height: 0;
+
     display: inline-block;
     position: absolute;
+    margin: 0 auto;
+    padding: 0;
     top: auto;
     right: 100%;
     bottom: 100%;
     left: auto;
-    padding: 0;
-    margin: 0 auto;
+
     opacity: 0;
     visibility: hidden;
+
     font-size: 0;
+}
+
+@mixin visibleAndInteractible() {
+    @include font-size(1.4);
+
+    width: auto !important;
+    height: auto !important;
+
+    display: block !important;
+    position: relative !important;
+    margin: 0 auto !important;
+    padding: 0 0 ($gutter) !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    left: auto !important;
+
+    opacity: 1 !important;
+    visibility: visible !important;
 }
 
 //

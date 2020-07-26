@@ -122,11 +122,20 @@
                     page-break-before: always;
                 }
             }
+        }
 
-            // This property gets the layout cut right above its element where this property was defined
-            // .arrayKlass-title {
-            //     page-break-before: always;
-            // }
+        .booksImageCover,
+        .fixedContentSpot,
+        .relatorioPersonalizado {
+            @include visibleAndInteractible();
+        }
+
+        .booksImageCover {
+            page-break-after: always;
+        }
+
+        .relatorioPersonalizado {
+            page-break-before: always;
         }
     }
 }
