@@ -439,17 +439,17 @@ const data = {
             levels: [
                   `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`<br /><br />,
 
-                  `<strong> 1º nível de evolução: </strong>`<br /><br />,
+                  `<strong> 1º nível de evolução: </strong>`,
 
                   `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`<br /><br />,
 
-                  `<strong> 2º nível de evolução: </strong> `<br /><br />,
+                  `<strong> 2º nível de evolução: </strong> `,
 
-                  `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`<br /><br />,
+                  `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações.<br /><br /> O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`<br /><br />,
 
-                  `<strong> 3º nível de evolução: </strong> `<br /><br />,
+                  `<strong> 3º nível de evolução: </strong> `,
 
-                  `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`<br /><br />
+                  `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. <br /><br /> São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`<br /><br />
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -698,18 +698,17 @@ const data = {
 
                   `<strong> 1º nível de evolução: </strong>`,
 
-                  `Amar a obscuridade da Matéria significa levar o Espírito ao seu lado Oposto. <br />
-                  O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. <br />`,
+                  `Amar a obscuridade da Matéria significa levar o Espírito ao seu lado Oposto. O Amor é vivido pelo prazer de possuir e de delimitar territórios. A emoção é ligada ao instinto, interiorizada, sensorial e sensual. <br /><br />`,
 
                   `<strong> 2º nível de evolução: </strong>`,
 
-                  `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. <br />
-                  Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. <br />`,
+                  `Aprende sobre como a segurança material pode ser experimentada. Valoriza suas qualidades, seus talentos e seus dons. <br /><br />
+                  Cultiva o poder de se relacionar com a matéria e o amor. O que verdadeiramente considera seu é fruto de suas capacidades, conquistado pelo seu esforço. <br /><br />`,
 
                   `<strong> 3º nível de evolução: </strong>`,
 
-                  `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. <br />
-                  Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. <br />`
+                  `Aprende sobre o desapego em relação à matéria, o distanciamento emocional frente ao que possui. <br /><br />
+                  Desenvolve a forma como o espírito lida com a matéria e uma escala de valores que situa a matéria e os bens materiais no lugar que lhes compete. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -978,21 +977,21 @@ const data = {
                   No mapa de um homem mostra uma esposa/parceira, espontânea e esperta, viva. Também no casamento essa mulher se comportará sempre de forma muito jovial, e tentará preservar seus comportamentos de juventude. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução: </strong>`,
 
-                  `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima e a forma como responde aos encontros casuais. <br />`,
+                  `Vive a comunicação imediata, factual, o dia a dia das relações, do comércio, o mundo quotidiano como campo de troca verbal. Exprime a pequena informação dada à pessoa mais próxima e a forma como responde aos encontros casuais. <br /><br />`,
 
                   `<strong> 2º nível de evolução: </strong>`,
 
-                  `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário. <br />
-                  Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. <br />`,
+                  `Desenvolve o intelecto, a mente racional, concreta, a aprendizagem, o ensino. A forma como compreende o mundo e como o revela aos outros. É o campo dos estudos primário e secundário. <br /><br />
+                  Neste nível situa-se o jornalismo como via imediata de informação, a capacidade de marketing e relações públicas, a facilidade de comunicação e expressão. <br /><br />`,
 
                   `<strong> 3º nível de evolução: </strong>`,
 
-                  `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. <br />
-                  Desenvolve também o poder mental e a confiança que os estudos podem despertar em si mesmo. <br />`
+                  `Revela as qualidades que desenvolve ao aprender e que se expandem ao ensinar. O modo como assimila e transmite o conhecimento. <br /><br />
+                  Desenvolve também o poder mental e a confiança que os estudos podem despertar em si mesmo. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -1258,19 +1257,19 @@ const data = {
                   Mas atenção ao considerar esta possibilidade! No mapa de um homem, escolha de uma esposa com características muito maternais e protetoras, mas verificar a posição e os aspectos de sua Lua Natal. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução: </strong>`,
 
-                  `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade. <br />`,
+                  `Corresponde à memória mais recente, a família, a intimidade, o mundo privado e o modo como a privacidade é sentida. A casa é o refúgio da sua imaturidade. <br /><br />`,
 
                   `<strong>2º nível de evolução: </strong>`,
 
-                  `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais. <br />`,
+                  `A memória se torna mais vasta e abrangente. A pátria e a terra onde nasce são vivenciadas como uma família maior. Valoriza suas raízes coletivas, históricas e socioculturais. <br /><br />`,
 
                   `<strong> 3º nível de evolução: </strong>`,
 
-                  `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. <br />`
+                  `Desenvolve o equilíbrio emocional, supera inseguranças e temores. Suas qualidades potenciais que antes estavam submersas no inconsciente são compreendidas e consciencializadas. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -1537,20 +1536,20 @@ const data = {
                   Capacidades e dons artísticos se Vênus, o Sol ou a Lua também mostram essas tendências. Proteção na procriação, que será vista por ela como sua \"obra\", \"foi feito por mim\".`
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução:</strong>`,
 
-                  `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. <br />`,
+                  `A forma mais imediata de autoexpressão. Identifica-se consigo mesmo ao expressar o que sente. Vivencia a experiência criativa de maternidade ou paternidade. <br /><br />`,
 
                   `<strong> 2º nível de evolução:</strong>`,
 
-                  `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. <br />
-                  A criatividade se manifesta quando busca a sua identidade através da transformação da matéria. <br />`,
+                  `Encontra o prazer da criatividade. Cultiva os talentos próprios, a inspiração, a resposta mais pessoal à vida, a força que impulsiona uma total tradução de si mesmo. <br /><br />
+                  A criatividade se manifesta quando busca a sua identidade através da transformação da matéria. <br /><br />`,
 
                   `<strong> 3º nível de evolução:</strong>`,
 
-                  `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original. <br />`
+                  `Encontra sua individualidade, a capacidade máxima de expressão de todo um potencial de experiência e conhecimento adquirido. Torna-se verdadeiramente criativo e original. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -1834,21 +1833,21 @@ const data = {
                   Boa posição para os artistas. Terapia pela Beleza, que pode ser uma fonte para a regeneração da própria pessoa.`
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução:</strong>`,
-                  `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. <br />
-                  Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades. <br />
-                  Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. <br />`,
+                  `Vivencia a servidão. Os empregos de rotina, trabalhos que denunciam obrigações esforçadas, desadaptação e não liberdade. <br /><br />
+                  Quando o que faz não afirma suas reais capacidades, quando exerce uma função que não lhe é adequada, quando projeta no trabalho uma energia que não corresponde às qualidades. <br /><br />
+                  Se o trabalho não expressa prazer que nasce da convicção de suas capacidades, úteis ao mundo dos outros, o desequilíbrio energético acontece e a doença se manifesta. <br /><br />`,
 
                   `<strong> 2º nível de evolução:</strong>`,
-                  `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. <br />
-                  No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição. <br />`,
+                  `Neste nível encontra um trabalho já personalizado, onde já afirma uma capacidade própria, uma competência profissional que se traduz em realização, em afirmação pessoal. <br /><br />
+                  No entanto, ainda não altruísta, não generoso, não consciente do prazer da real contribuição. <br /><br />`,
 
                   `<strong> 3º nível de evolução:</strong>`,
-                  `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta. <br />
-                  Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. <br />
-                  Vivencia com amor o serviço da missão da sua alma a favor de um propósito maior do que acredita ser o propósito de sua própria vida. <br />`
+                  `O prazer de ser útil, de fazer a diferença na vida das pessoas com suas capacidades e talentos se manifesta. <br /><br />
+                  Quando se disponibiliza em benefício dos outros, concretiza o seu potencial de intervenção própria no mundo, vive a consciência de enriquecer o mesmo mundo dando o melhor de si. <br /><br />
+                  Vivencia com amor o serviço da missão da sua alma a favor de um propósito maior do que acredita ser o propósito de sua própria vida. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -2142,22 +2141,22 @@ const data = {
                   A vida social da pessoa com Juno nesta casa se valoriza mais, quando ela se torna a parte de um casal.`
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução:</strong>`,
-                  `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica. <br />`,
+                  `Vive a primeira experiência amorosa, o encontro do eu com o outro. O primeiro impacto de relacionamento emocional frente a alguém com quem se identifica. <br /><br />`,
 
                   `<strong> 2º nível de evolução:</strong>`,
-                  `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. <br />
-                  A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. É necessário quebrar o espelho e aceitar uma dolorosa recuperação emocional. <br />
-                  A maturidade amorosa consiste em digerir este processo de evolução emocional. <br />
-                  Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade. <br />
-                  O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana. <br />`,
+                  `Neste nível vive-se a lenta, conflitante e fundamental experiência da aprendizagem do Amor. O outro é o espelho de suas sombras, que lhe falta saber. <br /><br />
+                  A dor de amor acontece sempre que o espelho lhe reduz, em vez de ampliar. É necessário quebrar o espelho e aceitar uma dolorosa recuperação emocional. <br /><br />
+                  A maturidade amorosa consiste em digerir este processo de evolução emocional. <br /><br />
+                  Ao perceber o irrealismo e a ilusão da expectativa, só então se atinge o equilíbrio amoroso, nascido de uma recuperação interior, de um centramento emocional, de uma conquista de liberdade. <br /><br />
+                  O Amor acontece quando outro lhe amplia e revela sua maior dimensão. Do prazer de seu reconhecimento no outro nasce uma empatia, a verdadeira emoção venusiana. <br /><br />`,
 
                   `<strong> 3º nível de evolução:</strong>`,
-                  `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. <br />
-                  A tensão amorosa é a força atuante para o crescimento e a consciência. Compreende que só o Amor nos liberta da prisão interior e do separatismo solitário. <br />
-                  Só o Amor liberta da divisão do mundo e por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade. <br />`,
+                  `É a vivência do Amor. O prazer do relacionamento sentido como troca, no dar e receber em liberdade. <br /><br />
+                  A tensão amorosa é a força atuante para o crescimento e a consciência. Compreende que só o Amor nos liberta da prisão interior e do separatismo solitário. <br /><br />
+                  Só o Amor liberta da divisão do mundo e por ser o polo exterior de sua imagem interior, o outro complementa e fecha o ciclo da sua identidade. <br /><br />`,
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -2456,20 +2455,20 @@ const data = {
                   São pessoas que em matéria de negócios tenderão a investir no que é belo ou no que possui uma certa harmonia. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução:</strong>`,
-                  `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. <br />
-                  Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade. <br />`,
+                  `Vive na dependência dos outros e de bens alheios, que impedem a confrontação real com o valor próprio. Atitudes compulsivas não detectadas pela consciência. <br /><br />
+                  Condicionado pelos instintos, desejos e emoções, dificulta a descoberta de sua própria identidade. <br /><br />`,
 
                   `<strong> 2º nível de evolução:</strong>`,
-                  `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. <br />
-                  Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade. <br />`,
+                  `A força do instinto é vivida como afirmação sobre os outros. Ainda luta para superar dependências psíquicas, a possessividade, a falta de liberdade emocional. <br /><br />
+                  Ainda é dominado por desejos obsessivos. Um medo remoto e inconsciente domina a personalidade. <br /><br />`,
 
                   `<strong> 3º nível de evolução:</strong>`,
-                  `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. <br />
-                  É uma morte psíquica. Acontece normalmente quando a vida o obriga a largar o que julgava ser a sua força, a sua obscura segurança, o seu poder. <br />
-                  Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação. <br />`
+                  `É quando ocorre a grande alquimia do Ser. A transformação do Eu em profundidade, a dolorosa confrontação com seus desejos. <br /><br />
+                  É uma morte psíquica. Acontece normalmente quando a vida o obriga a largar o que julgava ser a sua força, a sua obscura segurança, o seu poder. <br /><br />
+                  Vive e aceita a perda, vivida como Processo de Regeneração. Abre uma nova vida e transcende a realidade. É a via da salvação. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -2771,22 +2770,21 @@ const data = {
                   Há também uma tendência para idealizar o parceiro/a que deve corresponder, de alguma forma ou em algum campo a esta idealização. Tendência a legalizar suas uniões e parcerias. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução:</strong>`,
-                  `Experimenta as viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. <br />
-                  O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra. <br />
-                  Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. <br />`,
+                  `Experimenta as viagens de longa distância, nascidas da insatisfação que o faz procurar novos horizontes, novas culturas, novos modos de vida. O conhecimento que adquire ainda é horizontal, passa-se ainda sobre a Terra. <br /><br />
+                  Vêm da identificação com outros povos, outras nações que revelam comportamentos não familiares. É o apelo do longe, do distante, de tudo o que é estrangeiro e por isso o dinamiza. <br /><br />`,
 
                   `<strong> 2º nível de evolução:</strong>`,
-                  `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. <br />
-                  Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores. <br />`,
+                  `É vertical. Procura uma Verdade Interior, no desejo de ensinamentos que estimulem a mente superior. <br /><br />
+                  Busca ensinamentos eternos, transcendentes, capazes de despertar uma adesão emocional, uma nova Fé. O conhecimento revela novos valores. <br /><br />`,
 
                   `<strong> 3º nível de evolução:</strong>`,
-                  `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. <br />
-                  Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar. <br />
-                  Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. <br />
-                  É a chamada Via dos Mestres, a expressão da sua Sabedoria. <br />`
+                  `É a descoberta da primeira experiência Iniciática. Compreende que não somos entidades solitárias, separadas da força de um universo em expansão. <br /><br />
+                  Transcende a divisão do ego separatista para aderir a Leis Intemporais capazes de o-direcionar e orientar. <br /><br />
+                  Aprende Verdades Universais, que serão ensinadas aos outros. Ao adquirir uma nova fé que lhe mostra o caminho, procura expandir-se pelo prazer de ensinar. <br /><br />
+                  É a chamada Via dos Mestres, a expressão da sua Sabedoria. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -3062,25 +3060,25 @@ const data = {
                   No mapa de uma mulher indica que esta será uma parceira de muita confiabilidade, prudente e séria. No de um homem, que a esposa que ele escolherá terá estas características. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução:</strong>`,
-                  `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. <br />
-                  O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros. <br />
-                  Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. <br />
-                  Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado. <br />
-                  Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. <br />`,
+                  `Desenvolve a ambição social como desejo de projeção no coletivo e de afirmação pública. Procura status, consideração, prestígio e poder público. <br /><br />
+                  O desejo corresponde à necessidade de transcender os limites do seu mundo privado para um relacionamento mais abrangente com a vida e com os outros. <br /><br />
+                  Mas esse desejo é muitas vezes confundido com um sentimento de insegurança e inferioridade social. <br /><br />
+                  Como reação, pode compensar-se pela afirmação egocentrada e perversa de poder. Outra possibilidade é abster-se do apelo social por se encontrar totalmente inibido ou bloqueado. <br /><br />
+                  Abdica de sua intervenção maior, de sua ação no coletivo. Encontra-se frustrado e socialmente irresponsável, aquém do que podia vir a ser e reduzidos à esfera de suas necessidades básicas, do seu mundo privado, das suas preocupações domésticas e familiares. <br /><br />`,
 
                   `<strong> 2º nível de evolução:</strong>`,
-                  `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. <br />
-                  Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. <br />`,
+                  `Cultiva a capacidade de afirmação social e se projeta frente à opinião pública. Seu poder individual dinamiza as forças do coletivo. <br /><br />
+                  Participa de organizações nacionais ou internacionais. Vive a profissão como forma de intervenção nas estruturas da Ordem Comum. <br /><br />`,
 
                   `<strong> 3º nível de evolução:</strong>`,
-                  `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. <br />
-                  Aceita incondicionalmente Ser quem pode Vir a Ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida. <br />
-                  Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável. <br />
-                  Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. <br />
-                  Nesta fase pode criar novas estruturas. <br />`
+                  `Identifica-se com a responsabilidade social. A contribuição se torna mais segura, mais adulta, mais livre e mais determinada. <br /><br />
+                  Aceita incondicionalmente Ser quem pode Vir a Ser. Vence os medos, a imaturidade e responde totalmente ao seu destino, ao seu projeto de vida. <br /><br />
+                  Uma vez liberto das inseguranças e condicionamentos que o prendiam ao Passado, só então é emocionalmente adulto, capaz de se assumir responsável. <br /><br />
+                  Agora pode afirmar conscientemente o que antes não podia ser expresso, liberto de medos inconscientes, de resistências emocionais e sentimentos redutores de inferioridade. <br /><br />
+                  Nesta fase pode criar novas estruturas. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -3350,24 +3348,24 @@ const data = {
                   Nas parcerias de amizade, fidelidade que não suporta as limitações dos amigos nem as desilusões com eles. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução:</strong>`,
 
-                  `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. <br />
-                  Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação. <br />`,
+                  `Faz amigos por identificação. Traduz o tipo de qualidade que a amizade pode estimular a capacidade de ter ou não ter amigos. <br /><br />
+                  Amigos, entendidos como aqueles com quem se partilha algo em comum. Os que despertam um sentimento de troca, de movimento, de libertação. <br /><br />`,
 
                   `<strong> 2º nível de evolução:</strong>`,
 
-                  `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós. <br />
-                  O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro. <br />`,
+                  `Desenvolve a capacidade de realizar com os outros. É a identificação com um grupo, o prazer do trabalho em equipe, que traz a consciência de que não estamos sós. <br /><br />
+                  O sentimento de solidariedade desperta quando se associa a novos projetos, dinâmicos, com objetivos de transformação social. Os que atualizam a Cultura e abrem o Futuro. <br /><br />`,
 
                   `<strong> 3º nível de evolução:</strong>`,
 
-                  `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão. <br />
-                  Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu. <br />
-                  Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte. <br />
-                  Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador. <br />`
+                  `É a Consciência Cósmica. A Mentalidade da Nova Era ou Consciência Aquariana. Apreende a intenção evolutiva de um Universo em expansão. <br /><br />
+                  Afirma-se como ser universal, consciente da sua evolução planetária, sabendo-se uma parte Individualizada desse organismo vivo que é a Humanidade, conhecendo-se como um elo dessa Imensa cadeia cósmica, onde cada um tem o lugar que é seu. <br /><br />
+                  Ao chegar a este alto nível de consciência, desperta para a sua responsabilidade de estar no mundo. Vibra na alta frequência humanitária da grande família humana de que faz parte. <br /><br />
+                  Ao assumir o que tem de único e individualizado, acrescenta de um modo solidário algo de seu ao movimento de evolução coletiva. Contribui para um futuro melhor, mais fraterno, libertador. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
@@ -3630,22 +3628,22 @@ const data = {
                   Busca de uma união espiritual e mística. Avaliar a posição do signo de Libra e de seu regente Vênus, nas suas relações com Juno para ter ideia da natureza global desta pessoa, de forma pela qual ela vivencia seu ideal afetivo e de que forma esse ideal pode ajudar ou atrapalhar suas associações. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução:</strong>`,
 
-                  `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. <br />
-                  É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior. <br />`,
+                  `É a esfera da solidão, da fuga da realidade, da incompreensão. O mal estar de uma energia presa que não encontra expressão. <br /><br />
+                  É o emparedamento da alma, o sentimento de não fazer parte do mundo. Sente-se fora e longe de tudo, prisioneiro de si próprio, ausente da realidade exterior. <br /><br />`,
 
                   `<strong> 2º nível de evolução:</strong>`,
 
-                  `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade. <br />
-                  Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo. <br />`,
+                  `Vive o doloroso combate do Eu frente ao mundo, onde procura situar-se. Seu insciente sabe que existe algo infinitamente maior além da realidade. <br /><br />
+                  Esse sentimento é vivenciado como experiência de mal-estar Interior, sacrifício e desilusão, por excesso de projeção emocional numa realidade incapaz de satisfazê-lo. <br /><br />`,
 
                   `<strong> 3º nível de evolução:</strong>`,
 
-                  `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração. <br />
-                  E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno. <br />`
+                  `É a morada do Eu Superior. O Eu Liberto, já sem medo, consciente de que É em sua Essência Templo de Vida. Neste último nível acontece a rendição do Ser, quando abre o coração. <br /><br />
+                  E desfaz o Nó da Eternidade. Das profundezas do Ser finalmente emerge uma Emoção de Unidade, um sentimento de Gratidão e Paz. Só então se reconhece Eterno. <br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
