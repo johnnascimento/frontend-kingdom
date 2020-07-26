@@ -449,7 +449,7 @@ const data = {
 
                   `<strong> 3º nível de evolução: </strong> `,
 
-                  `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. <br /><br /> São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`<br /><br />
+                  `A energia de áries já se encontra orientada para objetivos superiores, humanitários e transpessoais. <br /><br /> São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`<br /><br />
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
