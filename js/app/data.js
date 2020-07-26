@@ -207,7 +207,7 @@ const data = {
       signos: [{
             title: `aries</strong>`,
             text: [
-                  `Árie sé um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida.<br /><br />
+                  `Áries é um signo de Fogo, o primeiro signo do Zodíaco. Traz da ideia do 1, do impulso inicial, do ponto de partida.<br /><br />
                   Qualidades: pioneirismo, entusiasmo, iniciativa, coragem, garra, espontaneidade, competitividade e energia.<br /><br />
                   Áries quer desbravar, conquistar, caminhar sozinho, ser o senhor da sua vontade, ter autonomia e assumir o comando de seu destino.<br /><br />
                   O Sol se exalta em Áries e reforça suas qualidades, como a autoconfiança, a liderança, o poder e o espirito de liberdade. O Sol em Áries favorece a audácia e a impulsividade.<br /><br />
@@ -437,19 +437,19 @@ const data = {
                   Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, e que podem ser boas ou ruins para a própria parceria. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`<br /><br />,
 
-                  `<strong> 1º nível de evolução: </strong>`,
+                  `<strong> 1º nível de evolução: </strong>`<br /><br />,
 
-                  `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`,
+                  `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`<br /><br />,
 
-                  `<strong> 2º nível de evolução: </strong> `,
+                  `<strong> 2º nível de evolução: </strong> `<br /><br />,
 
-                  `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`,
+                  `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações. O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`<br /><br />,
 
-                  `<strong> 3º nível de evolução: </strong> `,
+                  `<strong> 3º nível de evolução: </strong> `<br /><br />,
 
-                  `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`
+                  `A energia de ariana já se encontra orientada para objetivos superiores, humanitários, transpessoais. São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`<br /><br />
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
