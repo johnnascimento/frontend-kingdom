@@ -437,19 +437,19 @@ const data = {
                   Tendência a tomar decisões a respeito da parceria, que são muito impulsivas, e que podem ser boas ou ruins para a própria parceria. <br />`,
             ],
             levels: [
-                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):`<br /><br />,
+                  `<strong> Níveis evolutivos da alma </strong> (<i>reflita para perceber em que nível está</i>):<br /><br />`,
 
                   `<strong> 1º nível de evolução: </strong>`,
 
-                  `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.`<br /><br />,
+                  `Um ariano reativo, que reage por mal-estar. A insegurança o faz afirmar-se. A energia de Áries se manifesta de um modo compulsivo, condicionada pelo instinto e pelos desejos, que dominam a personalidade.<br /><br />`,
 
                   `<strong> 2º nível de evolução: </strong> `,
 
-                  `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações.<br /><br /> O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.`<br /><br />,
+                  `É a fase da aprendizagem através do conflito. Passa a avaliar a qualidade de seus desejos pelas consequências das suas ações.<br /><br /> O ariano aprende a ser mais reflexivo conscientemente direcionado a um propósito altruísta, fruto da inteligência e da vontade.<br /><br />`,
 
                   `<strong> 3º nível de evolução: </strong> `,
 
-                  `A energia de áries já se encontra orientada para objetivos superiores, humanitários e transpessoais. <br /><br /> São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.`<br /><br />
+                  `A energia de áries já se encontra orientada para objetivos superiores, humanitários e transpessoais. <br /><br /> São seguros e responsáveis, cientes da força que os liga ao Plano Cósmico e ao pensamento universal, determinados a iniciar movimentos capazes de iluminar o mundo.<br /><br />`
             ],
             nodosLunares: [
                   `<strong> Os Nodos Lunares Norte e Sul </strong> (ou Cabeça do Dragão e Cauda do Dragão) são indicadores de padrões cármicos. Representam um caminho de desenvolvimento individual e espiritual. <br /><br />
