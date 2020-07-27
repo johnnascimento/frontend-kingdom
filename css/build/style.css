@@ -464,6 +464,12 @@ body {
         display: block; }
     body .contentSpotWrapper .card.card-0 {
       border-bottom: 1px solid #dfdfdf; }
+    body .contentSpotWrapper .levelsClass {
+      display: block;
+      position: relative;
+      padding: 8px 0; }
+    body .contentSpotWrapper #levelsId-0 {
+      padding-bottom: 16px; }
   body .formSpot .selectForm .mainForm1 {
     text-align: left; }
 

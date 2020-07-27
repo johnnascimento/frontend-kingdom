@@ -363,6 +363,16 @@ body {
         .card.card-0 {
             border-bottom: 1px solid $gray;
         }
+
+        .levelsClass {
+            display: block;
+            position: relative;
+            padding: ($gutter/2) 0;
+        }
+
+        #levelsId-0 {
+            padding-bottom: ($gutter);
+        }
     }
 
     .formSpot {
