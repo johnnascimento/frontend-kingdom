@@ -30,6 +30,10 @@
 
         background-color: transparent;
 
+        font-family: Verdana, Arial, sans-serif, Helvetica;
+        line-height: 1.2;
+        text-align: left;
+
         * {
             padding: 0;
             margin: 0 auto;
@@ -40,8 +44,8 @@
     }
 
     body {
-        width: 21cm;
-        height: 29.7cm;
+        width: $AFourWSize;
+        height: $AFourHSize;
 
         margin: 0 auto;
         padding: 0;
@@ -130,8 +134,34 @@
             @include visibleAndInteractible();
         }
 
+        .booksImageCover,
+        .reportImage {
+            width: auto;
+            height: auto;
+            max-width: 100%;
+            max-height: 100%;
+
+            padding: ($gutter) 0;
+
+            & > img {
+                margin: 0 auto;
+            }
+        }
+
         .booksImageCover {
             page-break-after: always;
+
+            & > img {
+                padding-top: calc((#{$AFourWSize}/2) + (#{$gutter}*5));
+                padding-bottom: calc((#{$AFourWSize}/2) + (#{$gutter}*5));
+            }
+        }
+
+        .reportSummary {
+            display: block;
+            position: relative;
+            margin: ($gutter*2) auto 0;
+            padding: ($gutter) 0;
         }
 
         .relatorioPersonalizado {

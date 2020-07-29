@@ -11,13 +11,14 @@ $trashCanSize: $iconSize;
 
 html {
     color: $black;
+    font-family: Verdana, Arial, sans-serif, Helvetica;
 }
 
 /* css style sheet */
 body {
     @include font-size(1);
 
-    font-family: Verdana, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif, Helvetica;
     line-height: 1.2;
 
 
@@ -157,6 +158,9 @@ body {
         display: block;
         position: relative;
 
+        margin: 0 auto;
+        padding: ($gutter*2) 0 ($gutter*3);
+
         .booksImageCoverImg,
         .reportImageImg {
             width: auto;
@@ -166,6 +170,7 @@ body {
 
             display: block;
             position: relative;
+            margin: 0 auto;
         }
     }
 
@@ -223,6 +228,34 @@ body {
 
         text-align: center;
 
+        .userName {
+            @include font-size(2);
+
+            display: block;
+            position: relative;
+
+            color: $casal;
+            font-weight: bold;
+        }
+
+        .userShortIntroduction {
+            @include font-size(1.4);
+
+            display: inline-block;
+            position: relative;
+            vertical-align: baseline;
+
+            .dateOfBirth,
+            .timeOfBirth,
+            .stateOfBirth,
+            .countryOfBirth,
+            .signStartShortDescription {
+                display: inline-block;
+                position: relative;
+                vertical-align: baseline;
+            }
+        }
+
         .reportSummary {
             display: block;
             position:  relative;
@@ -234,11 +267,11 @@ body {
     }
 
     // Activate this to get things hidden
-    // .booksImageCover,
-    // .fixedContentSpot,
-    // .relatorioPersonalizado {
-    //     @include invisibleButInteractible()
-    // }
+    .booksImageCover,
+    .fixedContentSpot,
+    .relatorioPersonalizado {
+        // @include invisibleButInteractible();
+    }
 
     .contentWrapper {
         background-color: $white;
@@ -379,6 +412,17 @@ body {
         .selectForm {
             .mainForm1 {
                 text-align: left;
+            }
+        }
+    }
+
+    // Aside form
+    .input-customer {
+        &.file {
+            input {
+                padding: ($gutter/4) 0 0;
+
+                border: none;
             }
         }
     }

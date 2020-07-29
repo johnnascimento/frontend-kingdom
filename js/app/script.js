@@ -3,6 +3,9 @@ define(['jquery', 'utils'], function($, utils) {
 
     const defaults = {
         body: 'body',
+        imageFileMap: '#imageFile',
+        imageFileCover: '#imageFileCover',
+        coverImage: '.js-booksImageCover > img',
         userInfo: {
             userName: '.inputField[name="userName"]',
             dateOfBirth: '.inputField[name="dateOfBirth"]',
@@ -543,7 +546,6 @@ define(['jquery', 'utils'], function($, utils) {
         const fillFormIn = (obj, listNumber) => {
             var treatedTitle = '';
 
-
             for (key in obj) {
                 treatedTitle = obj[key].title.replace(tagFinder, '');
                 criarEl('option', 'listOfItems-' + listNumber, 'optionClass', 'optionId', null, treatedTitle);
@@ -567,6 +569,30 @@ define(['jquery', 'utils'], function($, utils) {
             }.bind(this))
         }.bind(this);
 
+        this.previewImage = function(ev) {
+            if(ev == undefined || ev == null || ev == '') return;
+
+            console.log('Preview image', ev);
+            console.log('Preview image', ev.target);
+
+            let reader = new FileReader(),
+                currentTarget = $(ev.target).prop('id') == 'imageFileCover';
+
+            console.log('currentTarget', currentTarget);
+
+            reader.onload = function(){
+                console.log('reader.onload');
+
+                if(currentTarget) {
+                    $(this.options.coverImage).attr('src', reader.result);
+                } else {
+                    $(this.options.userInfoSpot.reportImage).attr('src', reader.result);
+                }
+            }.bind(this);
+
+            reader.readAsDataURL(ev.target.files[0]);
+        }.bind(this);
+
         this.cleanReportSpot = function() {
             $(this.options.userInfoSpot.userName).html(' ');
             $(this.options.userInfoSpot.dateOfBirth).html(' ');
@@ -574,7 +600,6 @@ define(['jquery', 'utils'], function($, utils) {
             $(this.options.userInfoSpot.stateOfBirth).html(' ');
             $(this.options.userInfoSpot.countryOfBirth).html(' ');
             $(this.options.userInfoSpot.signStartShortDescription).html(' ');
-            $(this.options.userInfoSpot.reportImage).attr('src', 'images/mapa-astral-introductory-image.png');
         }.bind(this);
 
         this.getUserInfo = function() {
@@ -599,10 +624,10 @@ define(['jquery', 'utils'], function($, utils) {
 
             $('.userName').html(userInfo[0]);
             $('.dateOfBirth').html(userInfo[1]);
-            $('.timeOfBirth').html(userInfo[2])
-            $('.stateOfBirth').html(userInfo[3])
-            $('.countryOfBirth').html(userInfo[4])
-            $('.signStartShortDescription').html(userInfo[5])
+            $('.timeOfBirth').html(userInfo[2]);
+            $('.stateOfBirth').html(userInfo[3]);
+            $('.countryOfBirth').html(userInfo[4]);
+            $('.signStartShortDescription').html(userInfo[5]);
         }.bind(this);
 
 
@@ -678,6 +703,9 @@ define(['jquery', 'utils'], function($, utils) {
                 return;
             });
 
+            $(this.options.body).on('change', this.options.imageFileCover, this.previewImage);
+            $(this.options.body).on('change', this.options.imageFileMap, this.previewImage);
+
             b.addEventListener('click', (ev) => {
                 if(!ev.target.classList.contains('trashcan')) return;
 
@@ -688,7 +716,7 @@ define(['jquery', 'utils'], function($, utils) {
             setInterval(() => {
                 checkEmptyTextBlock('contentSpot');
             }, 60000);
-        };
+        }.bind(this);
     }
 
     return returnedModule;
