@@ -1,8 +1,32 @@
-define(['jquery'], function($) {
+define(['jquery', 'utils'], function($, utils) {
     console.log('script initialized !');
 
     const defaults = {
-        body: 'body'
+        body: 'body',
+        imageFileMap: '#imageFile',
+        imageFileCover: '#imageFileCover',
+        coverImage: '.js-booksImageCover > img',
+        userInfo: {
+            userName: '.inputField[name="userName"]',
+            dateOfBirth: '.inputField[name="dateOfBirth"]',
+            timeOfBirth: '.inputField[name="timeOfBirth"]',
+            stateOfBirth: '.inputField[name="stateOfBirth"]',
+            countryOfBirth: '.inputField[name="countryOfBirth"]',
+            signStar: '.inputField[name="signStar"]',
+            ascendent: '.inputField[name="ascendent"]',
+            moon: '.inputField[name="moon"]',
+            imageFile: '.inputField[name="imageFile"]',
+        },
+        userInfoSpot: {
+            userShortIntroduction: '.userShortIntroduction',
+            userName: '.userName',
+            dateOfBirth: '.dateOfBirth',
+            timeOfBirth: '.timeOfBirth',
+            stateOfBirth: '.stateOfBirth',
+            countryOfBirth: '.countryOfBirth',
+            signStartShortDescription: '.signStartShortDescription',
+            reportImage: '.reportImage .reportImageImg',
+        }
     }
 
     // For the future John, you need to break down this whole script and modularize the whole app,
@@ -522,7 +546,6 @@ define(['jquery'], function($) {
         const fillFormIn = (obj, listNumber) => {
             var treatedTitle = '';
 
-
             for (key in obj) {
                 treatedTitle = obj[key].title.replace(tagFinder, '');
                 criarEl('option', 'listOfItems-' + listNumber, 'optionClass', 'optionId', null, treatedTitle);
@@ -530,26 +553,81 @@ define(['jquery'], function($) {
         }
 
         this.injectFixedContent = function() {
+            $('.fixedContentSpot').html(' ');
+            $('.reportSummary').html(' ');
+
             $.each(data.fixedTexts, function(idx, elem) {
-                // console.log('fixed content idx', idx);
-                // console.log('fixed content elem', elem);
-
                 $(elem).each(function(ix, elem) {
-                    console.log('MAP content elem', elem);
-                    console.log('******************** MAP Object', elem.info);
-
                     if(elem.info) {
-                        console.log('WOWWWWWWWWWWW', elem);
-                        $('.reportSummary').html(' ');
                         $('.reportSummary').html($('.reportSummary').html() + elem.info);
                     } else {
                         $.each(elem, function(idx, elem) {
-                            // console.log('EACH MAP EACH content elem', elem);
                             $('.fixedContentSpot').html($('.fixedContentSpot').html() + elem);
                         }.bind(this));
                     }
                 });
             }.bind(this))
+        }.bind(this);
+
+        this.previewImage = function(ev) {
+            if(ev == undefined || ev == null || ev == '') return;
+
+            console.log('Preview image', ev);
+            console.log('Preview image', ev.target);
+
+            let reader = new FileReader(),
+                currentTarget = $(ev.target).prop('id') == 'imageFileCover';
+
+            console.log('currentTarget', currentTarget);
+
+            reader.onload = function(){
+                console.log('reader.onload');
+
+                if(currentTarget) {
+                    $(this.options.coverImage).attr('src', reader.result);
+                } else {
+                    $(this.options.userInfoSpot.reportImage).attr('src', reader.result);
+                }
+            }.bind(this);
+
+            reader.readAsDataURL(ev.target.files[0]);
+        }.bind(this);
+
+        this.cleanReportSpot = function() {
+            $(this.options.userInfoSpot.userName).html(' ');
+            $(this.options.userInfoSpot.dateOfBirth).html(' ');
+            $(this.options.userInfoSpot.timeOfBirth).html(' ');
+            $(this.options.userInfoSpot.stateOfBirth).html(' ');
+            $(this.options.userInfoSpot.countryOfBirth).html(' ');
+            $(this.options.userInfoSpot.signStartShortDescription).html(' ');
+        }.bind(this);
+
+        this.getUserInfo = function() {
+            let userInfoArray = [
+                $(this.options.userInfo.userName).val(),
+                `Nasceu ${$(this.options.userInfo.dateOfBirth).val()} `,
+                `às ${$(this.options.userInfo.timeOfBirth).val().split(':').join('h')} `,
+                `em ${$(this.options.userInfo.stateOfBirth).val()} | `,
+                `${$(this.options.userInfo.countryOfBirth).val()}.`,
+                `Seu signo é ${$(this.options.userInfo.signStar).val()}, seu Ascendente é ${$(this.options.userInfo.ascendent).val()} e sua Lua é em ${$(this.options.userInfo.moon).val()}`
+            ];
+
+            return userInfoArray;
+
+        }.bind(this);
+
+        this.insertUserInfo = function() {
+            this.cleanReportSpot();
+
+            let userInfo = this.getUserInfo();
+            console.log('userInfo', userInfo);
+
+            $('.userName').html(userInfo[0]);
+            $('.dateOfBirth').html(userInfo[1]);
+            $('.timeOfBirth').html(userInfo[2]);
+            $('.stateOfBirth').html(userInfo[3]);
+            $('.countryOfBirth').html(userInfo[4]);
+            $('.signStartShortDescription').html(userInfo[5]);
         }.bind(this);
 
 
@@ -613,11 +691,20 @@ define(['jquery'], function($) {
                 }
             });
 
+            docQuery('#insertIntoLayout').addEventListener('click', function() {
+                console.log('Text Inserted');
+
+                this.insertUserInfo();
+            }.bind(this));
+
             $resetInput('input[type=\"reset\"]').addEventListener('click', (ev) => {
                 docQuery('.listOfItems-2').setAttribute('disabled', true);
                 docQuery('.listOfItems-3').setAttribute('disabled', true);
                 return;
             });
+
+            $(this.options.body).on('change', this.options.imageFileCover, this.previewImage);
+            $(this.options.body).on('change', this.options.imageFileMap, this.previewImage);
 
             b.addEventListener('click', (ev) => {
                 if(!ev.target.classList.contains('trashcan')) return;
@@ -629,7 +716,7 @@ define(['jquery'], function($) {
             setInterval(() => {
                 checkEmptyTextBlock('contentSpot');
             }, 60000);
-        };
+        }.bind(this);
     }
 
     return returnedModule;

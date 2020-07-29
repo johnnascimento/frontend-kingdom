@@ -11,34 +11,16 @@ $trashCanSize: $iconSize;
 
 html {
     color: $black;
+    font-family: Verdana, Arial, sans-serif, Helvetica;
 }
 
 /* css style sheet */
 body {
     @include font-size(1);
 
-    font-family: Verdana, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif, Helvetica;
+    line-height: 1.2;
 
-    .fixedContentSpot,
-    .relatorioPersonalizado,
-    .upload-image-input {
-        @include invisibleButInteractible();
-    }
-
-    strong,
-    b {
-        font-weight: bold;
-    }
-
-    em,
-    i {
-        font-style: italic;
-    }
-
-    u {
-        font-style: normal;
-        text-decoration: underline;
-    }
 
     &.is-loading {
         overflow: hidden;
@@ -92,6 +74,25 @@ body {
         }
     }
 
+    .upload-image-input {
+        @include invisibleButInteractible();
+    }
+
+    strong,
+    b {
+        font-weight: bold;
+    }
+
+    em,
+    i {
+        font-style: italic;
+    }
+
+    u {
+        font-style: normal;
+        text-decoration: underline;
+    }
+
     .divClass {
         background-color: $green;
     }
@@ -121,6 +122,170 @@ body {
 
     /* Body
     -----------------------------------*/
+    .subTitle {
+        display: block;
+
+        font-weight: bold;
+        color: $casal;
+
+        &.inline {
+            display: inline-block;
+            vertical-align: baseline;
+        }
+    }
+
+    .highlighted {
+        color: $casal;
+
+        &.followingTitle {
+            @include font-size(1.2);
+
+            display: inline-block;
+            vertical-align: baseline;
+            padding-left: ($gutter/2);
+
+            line-height: 1.4;
+        }
+
+        &.is-bold {
+            font-weight: bold;
+            color: $black;
+        }
+    }
+
+    .booksImageCover,
+    .reportImage {
+        display: block;
+        position: relative;
+
+        margin: 0 auto;
+        padding: ($gutter*2) 0 ($gutter*3);
+
+        .booksImageCoverImg,
+        .reportImageImg {
+            width: auto;
+            height: auto;
+            max-width: 100%;
+            max-height: 100%;
+
+            display: block;
+            position: relative;
+            margin: 0 auto;
+        }
+    }
+
+    .fixedContentSpot {
+        .title {
+            @include font-size(1.4);
+
+            display: block;
+            position: relative;
+            margin: 0 auto;
+            padding: 0 0 ($gutter/2);
+
+            font-weight: bold;
+            line-height: 2;
+            color: $casal;
+
+            &.small {
+                @include font-size(1.2);
+
+                display: block;
+                position: relative;
+                margin: 0 auto;
+                padding: 0 0 ($gutter/2);
+
+                font-weight: normal;
+            }
+        }
+
+        .subTitle {
+            @include font-size(1.2);
+
+            line-height: 1.4;
+
+            &.inline {
+                &+ .content {
+                    display: inline-block;
+                    vertical-align: baseline;
+                }
+            }
+        }
+
+        .content {
+            @include font-size(1);
+
+            display: block;
+            position: relative;
+            margin: 0 auto;
+            padding: ($gutter/2) 0 ($gutter*2);
+
+            color: $tundora;
+        }
+    }
+
+    .relatorioPersonalizado {
+        display: block;
+        position: relative;
+        margin: 0 auto;
+        padding: ($gutter) 0;
+
+        text-align: center;
+
+        .userName {
+            @include font-size(2);
+
+            display: block;
+            position: relative;
+
+            color: $casal;
+            font-weight: bold;
+        }
+
+        .userShortIntroduction {
+            @include font-size(1.4);
+
+            display: inline-block;
+            position: relative;
+            vertical-align: baseline;
+
+            .dateOfBirth,
+            .timeOfBirth,
+            .stateOfBirth,
+            .countryOfBirth,
+            .signStartShortDescription {
+                display: inline-block;
+                position: relative;
+                vertical-align: baseline;
+            }
+        }
+
+        .reportSummary {
+            display: block;
+            position:  relative;
+            margin: 0 auto;
+            padding: 0 0 ($gutter);
+
+            text-align: left;
+        }
+
+        .userShortIntroduction,
+        .reportSummary {
+            @include font-size(1);
+
+            color: $tundora;
+        }
+    }
+
+    // Activate this to get things hidden
+    .booksImageCover,
+    .fixedContentSpot,
+    .relatorioPersonalizado {
+        @include invisibleButInteractible();
+
+        overflow: hidden;
+    }
+
     .contentWrapper {
         background-color: $white;
     }
@@ -131,7 +296,7 @@ body {
     }
 
     .contentSpotWrapper {
-        text-align:Center;
+        text-align: left;
 
         .card-header {
             position: relative;
@@ -244,12 +409,33 @@ body {
         .card.card-0 {
             border-bottom: 1px solid $gray;
         }
+
+        .levelsClass {
+            display: block;
+            position: relative;
+            padding: ($gutter/2) 0;
+        }
+
+        #levelsId-0 {
+            padding-bottom: ($gutter);
+        }
     }
 
     .formSpot {
         .selectForm {
             .mainForm1 {
                 text-align: left;
+            }
+        }
+    }
+
+    // Aside form
+    .input-customer {
+        &.file {
+            input {
+                padding: ($gutter/4) 0 0;
+
+                border: none;
             }
         }
     }

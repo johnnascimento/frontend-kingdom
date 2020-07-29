@@ -125,7 +125,8 @@ q {
     display: none; }
   html,
   body,
-  p {
+  p,
+  span {
     font-size: 14pt;
     font-family: 'Times New Roman', Times, Georgia, Palatino;
     border: none; }
@@ -134,7 +135,10 @@ q {
     height: 100%;
     margin: 0 auto;
     padding: 0;
-    background-color: transparent; }
+    background-color: transparent;
+    font-family: Verdana, Arial, sans-serif, Helvetica;
+    line-height: 1.2;
+    text-align: left; }
     html * {
       padding: 0;
       margin: 0 auto;
@@ -193,49 +197,65 @@ q {
                 break-inside: auto; }
       body #contentSpotWrapper .arrayKlass br,
       body #contentSpotWrapper .arrayKlass p {
-        page-break-before: always; } }
+        page-break-before: always; }
+    body .booksImageCover,
+    body .fixedContentSpot,
+    body .relatorioPersonalizado {
+      font-size: 14px;
+      font-size: 1.4rem;
+      width: auto !important;
+      height: auto !important;
+      display: block !important;
+      position: relative !important;
+      margin: 0 auto !important;
+      padding: 0 0 16px !important;
+      top: auto !important;
+      right: auto !important;
+      bottom: auto !important;
+      left: auto !important;
+      opacity: 1 !important;
+      visibility: visible !important; }
+    body .booksImageCover,
+    body .reportImage {
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: 100%;
+      padding: 16px 0; }
+      body .booksImageCover > img,
+      body .reportImage > img {
+        margin: 0 auto; }
+    body .booksImageCover {
+      page-break-after: always; }
+      body .booksImageCover > img {
+        padding-top: calc((21cm/2) + (16px*5));
+        padding-bottom: calc((21cm/2) + (16px*5)); }
+    body .reportSummary {
+      display: block;
+      position: relative;
+      margin: 32px auto 0;
+      padding: 16px 0; }
+    body .relatorioPersonalizado {
+      page-break-before: always; } }
 
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box; }
 
 html {
-  color: #151515; }
+  color: #151515;
+  font-family: Verdana, Arial, sans-serif, Helvetica; }
 
 /* css style sheet */
 body {
   font-size: 10px;
   font-size: 1rem;
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  line-height: 1.2;
   /* Footer
     ------------------------------*/
   /* Body
     -----------------------------------*/ }
-  body .fixedContentSpot,
-  body .relatorioPersonalizado,
-  body .upload-image-input {
-    width: 0;
-    height: 0;
-    display: inline-block;
-    position: absolute;
-    top: auto;
-    right: 100%;
-    bottom: 100%;
-    left: auto;
-    padding: 0;
-    margin: 0 auto;
-    opacity: 0;
-    visibility: hidden;
-    font-size: 0; }
-  body strong,
-  body b {
-    font-weight: bold; }
-  body em,
-  body i {
-    font-style: italic; }
-  body u {
-    font-style: normal;
-    text-decoration: underline; }
   body.is-loading {
     overflow: hidden; }
     body.is-loading:before {
@@ -273,6 +293,29 @@ body {
       left: 0;
       background-color: #151515;
       opacity: 0.5; }
+  body .upload-image-input {
+    width: 0;
+    height: 0;
+    display: inline-block;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    top: auto;
+    right: 100%;
+    bottom: 100%;
+    left: auto;
+    opacity: 0;
+    visibility: hidden;
+    font-size: 0; }
+  body strong,
+  body b {
+    font-weight: bold; }
+  body em,
+  body i {
+    font-style: italic; }
+  body u {
+    font-style: normal;
+    text-decoration: underline; }
   body .divClass {
     background-color: green; }
   body input {
@@ -289,13 +332,137 @@ body {
       font-size: 1rem;
       color: #797979;
       pointer-events: none; }
+  body .subTitle {
+    display: block;
+    font-weight: bold;
+    color: #265868; }
+    body .subTitle.inline {
+      display: inline-block;
+      vertical-align: baseline; }
+  body .highlighted {
+    color: #265868; }
+    body .highlighted.followingTitle {
+      font-size: 12px;
+      font-size: 1.2rem;
+      display: inline-block;
+      vertical-align: baseline;
+      padding-left: 8px;
+      line-height: 1.4; }
+    body .highlighted.is-bold {
+      font-weight: bold;
+      color: #151515; }
+  body .booksImageCover,
+  body .reportImage {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 32px 0 48px; }
+    body .booksImageCover .booksImageCoverImg,
+    body .booksImageCover .reportImageImg,
+    body .reportImage .booksImageCoverImg,
+    body .reportImage .reportImageImg {
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: 100%;
+      display: block;
+      position: relative;
+      margin: 0 auto; }
+  body .fixedContentSpot .title {
+    font-size: 14px;
+    font-size: 1.4rem;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 0 0 8px;
+    font-weight: bold;
+    line-height: 2;
+    color: #265868; }
+    body .fixedContentSpot .title.small {
+      font-size: 12px;
+      font-size: 1.2rem;
+      display: block;
+      position: relative;
+      margin: 0 auto;
+      padding: 0 0 8px;
+      font-weight: normal; }
+  body .fixedContentSpot .subTitle {
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 1.4; }
+    body .fixedContentSpot .subTitle.inline + .content {
+      display: inline-block;
+      vertical-align: baseline; }
+  body .fixedContentSpot .content {
+    font-size: 10px;
+    font-size: 1rem;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 8px 0 32px;
+    color: #454545; }
+  body .relatorioPersonalizado {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 16px 0;
+    text-align: center; }
+    body .relatorioPersonalizado .userName {
+      font-size: 20px;
+      font-size: 2rem;
+      display: block;
+      position: relative;
+      color: #265868;
+      font-weight: bold; }
+    body .relatorioPersonalizado .userShortIntroduction {
+      font-size: 14px;
+      font-size: 1.4rem;
+      display: inline-block;
+      position: relative;
+      vertical-align: baseline; }
+      body .relatorioPersonalizado .userShortIntroduction .dateOfBirth,
+      body .relatorioPersonalizado .userShortIntroduction .timeOfBirth,
+      body .relatorioPersonalizado .userShortIntroduction .stateOfBirth,
+      body .relatorioPersonalizado .userShortIntroduction .countryOfBirth,
+      body .relatorioPersonalizado .userShortIntroduction .signStartShortDescription {
+        display: inline-block;
+        position: relative;
+        vertical-align: baseline; }
+    body .relatorioPersonalizado .reportSummary {
+      display: block;
+      position: relative;
+      margin: 0 auto;
+      padding: 0 0 16px;
+      text-align: left; }
+    body .relatorioPersonalizado .userShortIntroduction,
+    body .relatorioPersonalizado .reportSummary {
+      font-size: 10px;
+      font-size: 1rem;
+      color: #454545; }
+  body .booksImageCover,
+  body .fixedContentSpot,
+  body .relatorioPersonalizado {
+    width: 0;
+    height: 0;
+    display: inline-block;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    top: auto;
+    right: 100%;
+    bottom: 100%;
+    left: auto;
+    opacity: 0;
+    visibility: hidden;
+    font-size: 0;
+    overflow: hidden; }
   body .contentWrapper {
     background-color: white; }
   body .contentSpotWrapper,
   body .formSpot {
     background-color: white; }
   body .contentSpotWrapper {
-    text-align: Center; }
+    text-align: left; }
     body .contentSpotWrapper .card-header {
       position: relative; }
       body .contentSpotWrapper .card-header .btn.btn-link {
@@ -369,8 +536,17 @@ body {
         display: block; }
     body .contentSpotWrapper .card.card-0 {
       border-bottom: 1px solid #dfdfdf; }
+    body .contentSpotWrapper .levelsClass {
+      display: block;
+      position: relative;
+      padding: 8px 0; }
+    body .contentSpotWrapper #levelsId-0 {
+      padding-bottom: 16px; }
   body .formSpot .selectForm .mainForm1 {
     text-align: left; }
+  body .input-customer.file input {
+    padding: 4px 0 0;
+    border: none; }
 
 @media (min-width: 800px) {
   .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"]:hover div[class*="trashcan-"] {
