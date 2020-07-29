@@ -125,7 +125,8 @@ q {
     display: none; }
   html,
   body,
-  p {
+  p,
+  span {
     font-size: 14pt;
     font-family: 'Times New Roman', Times, Georgia, Palatino;
     border: none; }
@@ -393,10 +394,13 @@ body {
       display: inline-block;
       vertical-align: baseline; }
   body .fixedContentSpot .content {
+    font-size: 10px;
+    font-size: 1rem;
     display: block;
     position: relative;
     margin: 0 auto;
-    padding: 8px 0 32px; }
+    padding: 8px 0 32px;
+    color: #454545; }
   body .relatorioPersonalizado {
     display: block;
     position: relative;
@@ -430,6 +434,28 @@ body {
       margin: 0 auto;
       padding: 0 0 16px;
       text-align: left; }
+    body .relatorioPersonalizado .userShortIntroduction,
+    body .relatorioPersonalizado .reportSummary {
+      font-size: 10px;
+      font-size: 1rem;
+      color: #454545; }
+  body .booksImageCover,
+  body .fixedContentSpot,
+  body .relatorioPersonalizado {
+    width: 0;
+    height: 0;
+    display: inline-block;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    top: auto;
+    right: 100%;
+    bottom: 100%;
+    left: auto;
+    opacity: 0;
+    visibility: hidden;
+    font-size: 0;
+    overflow: hidden; }
   body .contentWrapper {
     background-color: white; }
   body .contentSpotWrapper,

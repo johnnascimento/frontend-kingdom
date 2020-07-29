@@ -213,10 +213,14 @@ body {
         }
 
         .content {
+            @include font-size(1);
+
             display: block;
             position: relative;
             margin: 0 auto;
             padding: ($gutter/2) 0 ($gutter*2);
+
+            color: $tundora;
         }
     }
 
@@ -264,13 +268,22 @@ body {
 
             text-align: left;
         }
+
+        .userShortIntroduction,
+        .reportSummary {
+            @include font-size(1);
+
+            color: $tundora;
+        }
     }
 
     // Activate this to get things hidden
     .booksImageCover,
     .fixedContentSpot,
     .relatorioPersonalizado {
-        // @include invisibleButInteractible();
+        @include invisibleButInteractible();
+
+        overflow: hidden;
     }
 
     .contentWrapper {
