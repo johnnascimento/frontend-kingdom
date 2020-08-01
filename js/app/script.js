@@ -616,7 +616,7 @@ define(['jquery', 'utils'], function($, utils) {
 
         }.bind(this);
 
-        this.insertUserInfo = function() {
+        this.insertUserInfo = function(callbackFunc, arg) {
             this.cleanReportSpot();
 
             let userInfo = this.getUserInfo();
@@ -628,8 +628,50 @@ define(['jquery', 'utils'], function($, utils) {
             $('.stateOfBirth').html(userInfo[3]);
             $('.countryOfBirth').html(userInfo[4]);
             $('.signStartShortDescription').html(userInfo[5]);
+
+            console.log('typeof callbackFunc', typeof callbackFunc);
+
+            if(typeof callbackFunc == 'function') {
+                if(arg === '') {
+                    return;
+                }
+
+                callbackFunc(arg);
+            }
         }.bind(this);
 
+        this.togglePanel = function() {
+            $('body').on('click', '.toggle-icon', function(ev) {
+                if(!$(ev.target).parents('.mainPanel').length) return;
+
+                console.log('!$(ev.target).parents(\'.mainPanel\').hasClass(\'active\')', $(ev.target).parents('.mainPanel').hasClass('active'));
+                if(!$(ev.target).parents('.mainPanel').hasClass('active')) return $('.mainPanel').addClass('active');
+
+                console.log('$(ev.target).parents(\'.mainPanel\').hasClass(\'active\')', $(ev.target).parents('.mainPanel').hasClass('active'));
+                return $('.mainPanel').removeClass('active');
+            }.bind(this));
+        }.bind(this);
+
+        this.showMessage = function(ev) {
+            console.log('this.showMessage', ev);
+
+            if(ev === undefined || ev === null || ev === '') return;
+
+            console.log('this.showMessage', $(ev.target).parent());
+
+            if(!$('.inserted-successfully').length) {
+                let insertionMessage = '<div class=\"message-success inserted-successfully bg-success text-white p-4\">Informações inseridas com sucesso</div>';
+                $(ev.target).parent().append(insertionMessage);
+            } else {
+                $('.inserted-successfully').fadeIn();
+            }
+
+            setTimeout(this.hideMessage, 2000);
+        }.bind(this);
+
+        this.hideMessage = function() {
+            $('.inserted-successfully').fadeOut();
+        }.bind(this);
 
         this.init = function() {
             fillFormIn(data.planets, 1);
@@ -643,6 +685,9 @@ define(['jquery', 'utils'], function($, utils) {
 
             // Inject content
             this.injectFixedContent();
+
+            // bind click over toggle-icons box
+            this.togglePanel();
 
             // Control the buttons' behaviour
             // ------------------------------------------------------------------------------------------
@@ -691,10 +736,10 @@ define(['jquery', 'utils'], function($, utils) {
                 }
             });
 
-            docQuery('#insertIntoLayout').addEventListener('click', function() {
+            docQuery('#insertIntoLayout').addEventListener('click', function(ev) {
                 console.log('Text Inserted');
 
-                this.insertUserInfo();
+                this.insertUserInfo(this.showMessage, ev);
             }.bind(this));
 
             $resetInput('input[type=\"reset\"]').addEventListener('click', (ev) => {

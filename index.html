@@ -43,11 +43,11 @@
         <section class="contentWrapper row">
             <div class="jumbotron col-12 d-inline-block">
                 <div class="row">
-                    <div class="col-4 d-inline-block">
+                    <div class="col-12 col-sm-4 d-inline-block">
                         <img src="images/mapa-astral-introductory-image.png" alt="Mapa Astral Personalizado" title="Mapa Astral Personalizado" class="mapa_astral_image_introdutoria js-coverImage col-12">
                     </div>
 
-                    <div class="col-8 d-inline-block">
+                    <div class="col-12 col-sm-8 d-inline-block">
                         <h1>
                             Mapa Astral
                             <small>Personalizado</small>
@@ -56,95 +56,103 @@
                 </div>
             </div>
 
-            <article class="formSpot col-12 col-sm-3 pl-0 pr-0">
+            <article class="mainPanel formSpot col-12">
+                <div class="toggle-icon">
+                    <i class="fa fa-caret-right"></i>
+                    <i class="fa fa-times"></i>
+                </div>
                 <div class="selectForm">
                     <form id="mainForm1" action="#">
-                        <label class="mb-2 col-12 pl-0 pr-0" for="userName">
-                            <h3>Dados do cliente</h3>
-                        </label>
-                        <div class="form-group customerData col-12 mb-4 pl-0 pr-0 d-block">
-                            <div class="inputOne input-customer">
-                                <label class="mb-1" for="userName">Nome do cliente</label>
-                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="userName" id="userName" />
-                            </div>
+                        <div class="panelUserInfo">
+                            <label class="mb-2 col-12 pl-0 pr-0" for="userName">
+                                <h3>Dados do cliente</h3>
+                            </label>
+                            <div class="form-group customerData col-12 mb-4 pl-0 pr-0 d-block">
+                                <div class="inputOne input-customer">
+                                    <label class="mb-1" for="userName">Nome do cliente</label>
+                                    <input type="text" class="inputField inputControl-3 form-control mb-2" name="userName" id="userName" />
+                                </div>
 
-                            <div class="inputTwo input-customer">
-                                <label class="mb-1" for="dateOfBirth">Data de nascimento</label>
-                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="dateOfBirth" id="dateOfBirth" />
-                            </div>
+                                <div class="inputTwo input-customer">
+                                    <label class="mb-1" for="dateOfBirth">Data de nascimento</label>
+                                    <input type="text" class="inputField inputControl-3 form-control mb-2" name="dateOfBirth" id="dateOfBirth" />
+                                </div>
 
-                            <div class="inputThree input-customer">
-                                <label class="mb-1" for="timeOfBirth">Hora do nascimento</label>
-                                <input type="time" class="inputField inputControl-3 form-control mb-2" name="timeOfBirth" id="timeOfBirth" />
-                            </div>
+                                <div class="inputThree input-customer">
+                                    <label class="mb-1" for="timeOfBirth">Hora do nascimento</label>
+                                    <input type="time" class="inputField inputControl-3 form-control mb-2" name="timeOfBirth" id="timeOfBirth" />
+                                </div>
 
-                            <div class="inputFour input-customer">
-                                <label class="mb-1" for="stateOfBirth">Estado de nascimento</label>
-                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="stateOfBirth" id="stateOfBirth" />
-                            </div>
+                                <div class="inputFour input-customer">
+                                    <label class="mb-1" for="stateOfBirth">Estado de nascimento</label>
+                                    <input type="text" class="inputField inputControl-3 form-control mb-2" name="stateOfBirth" id="stateOfBirth" />
+                                </div>
 
-                            <div class="inputFive input-customer">
-                                <label class="mb-1" for="countryOfBirth">Pais de nascimento</label>
-                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="countryOfBirth" id="countryOfBirth" />
-                            </div>
+                                <div class="inputFive input-customer">
+                                    <label class="mb-1" for="countryOfBirth">Pais de nascimento</label>
+                                    <input type="text" class="inputField inputControl-3 form-control mb-2" name="countryOfBirth" id="countryOfBirth" />
+                                </div>
 
-                            <div class="inputSix input-customer">
-                                <label class="mb-1" for="signStar">Signo do cliente</label>
-                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="signStar" id="signStar" />
-                            </div>
+                                <div class="inputSix input-customer">
+                                    <label class="mb-1" for="signStar">Signo do cliente</label>
+                                    <input type="text" class="inputField inputControl-3 form-control mb-2" name="signStar" id="signStar" />
+                                </div>
 
-                            <div class="inputSeven input-customer">
-                                <label class="mb-1" for="ascendent">Ascendente do cliente</label>
-                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="ascendent" id="ascendent" />
-                            </div>
+                                <div class="inputSeven input-customer">
+                                    <label class="mb-1" for="ascendent">Ascendente do cliente</label>
+                                    <input type="text" class="inputField inputControl-3 form-control mb-2" name="ascendent" id="ascendent" />
+                                </div>
 
-                            <div class="inputEight input-customer">
-                                <label class="mb-1" for="moon">Lua do cliente</label>
-                                <input type="text" class="inputField inputControl-3 form-control mb-2" name="moon" id="moon" />
-                            </div>
+                                <div class="inputEight input-customer">
+                                    <label class="mb-1" for="moon">Lua do cliente</label>
+                                    <input type="text" class="inputField inputControl-3 form-control mb-2" name="moon" id="moon" />
+                                </div>
 
-                            <div class="inputNine input-customer file">
-                                <label class="mb-1" for="imageFileCover">Anexar Capa</label>
-                                <input type="file" class="inputField inputControl-3 form-control mb-2" id="imageFileCover" accept=".jpg, .jpeg, .png, .svg" name="file" />
-                            </div>
+                                <div class="inputNine input-customer file">
+                                    <label class="mb-1" for="imageFileCover">Anexar Capa</label>
+                                    <input type="file" class="inputField inputControl-3 form-control mb-2" id="imageFileCover" accept=".jpg, .jpeg, .png, .svg" name="file" />
+                                </div>
 
-                            <div class="inputTen input-customer file">
-                                <label class="mb-1" for="imageFile">Anexar Mapa</label>
-                                <input type="file" class="inputField inputControl-3 form-control mb-2" id="imageFile" accept=".jpg, .jpeg, .png, .svg" name="file" />
-                            </div>
+                                <div class="inputTen input-customer file">
+                                    <label class="mb-1" for="imageFile">Anexar Mapa</label>
+                                    <input type="file" class="inputField inputControl-3 form-control mb-2" id="imageFile" accept=".jpg, .jpeg, .png, .svg" name="file" />
+                                </div>
 
-                            <div class="inputEleven input-customer">
-                                <input class="col-12 mb-4 btn btn-large btn-primary" type="button" value="Inserir no layout" id="insertIntoLayout" />
+                                <div class="inputEleven input-customer">
+                                    <input class="col-12 mb-4 btn btn-large btn-primary" type="button" value="Inserir no layout" id="insertIntoLayout" />
+                                </div>
                             </div>
                         </div>
 
-                        <label class="mb-2 col-12 pl-0 pr-0" for="OfItems-1">
-                            <h3>Configuração do mapa</h3>
-                        </label>
-                        <div class="form-group col-12 mb-4 pl-0 pr-0 d-block">
-                            <select class="listOfItems-1 form-control mb-2 custom-select" name="list of items" id="OfItems-1">
-                                <option value="select an element">Escolha o planeta</option>
-                            </select>
+                        <div class="panelButtons">
+                            <label class="mb-2 col-12 pl-0 pr-0" for="OfItems-1">
+                                <h3>Configuração do mapa</h3>
+                            </label>
+                            <div class="form-group col-12 mb-4 pl-0 pr-0 d-block">
+                                <select class="listOfItems-1 form-control mb-2 custom-select" name="list of items" id="OfItems-1">
+                                    <option value="select an element">Escolha o planeta</option>
+                                </select>
 
-                            <select class="listOfItems-2 form-control mb-2 custom-select" name="list of items" id="OfItems-2">
-                                <option value="select an element">Escolha o signo</option>
-                            </select>
+                                <select class="listOfItems-2 form-control mb-2 custom-select" name="list of items" id="OfItems-2">
+                                    <option value="select an element">Escolha o signo</option>
+                                </select>
 
-                            <select class="listOfItems-3 form-control mb-2 custom-select" name="list of items" id="OfItems-3">
-                                <option value="select an element">Escolha a casa</option>
-                            </select>
-                        </div>
+                                <select class="listOfItems-3 form-control mb-2 custom-select" name="list of items" id="OfItems-3">
+                                    <option value="select an element">Escolha a casa</option>
+                                </select>
+                            </div>
 
-                        <div class="btn-group col-12 pl-0 pr-0 d-flex" role="group" aria-label="Form button group">
-                            <input class="col-6 col-sm-4 mb-1 btn btn-large btn-primary" type="button" value="submit" id="submitBtn" />
-                            <input class="col-6 col-sm-4 mb-1 btn btn-large btn-secondary bg-danger" type="reset" value="reset" id="resetForm" />
-                            <input class="col-6 col-sm-4 mb-1 btn btn-large btn-secondary bg-info is-disabled" type="button" value="Print" id="printDocument" />
+                            <div class="btn-group col-12 pl-0 pr-0 d-flex" role="group" aria-label="Form button group">
+                                <input class="col-6 col-sm-4 mb-1 btn btn-large btn-primary" type="button" value="submit" id="submitBtn" />
+                                <input class="col-6 col-sm-4 mb-1 btn btn-large btn-secondary bg-danger" type="reset" value="reset" id="resetForm" />
+                                <input class="col-6 col-sm-4 mb-1 btn btn-large btn-secondary bg-info is-disabled" type="button" value="Print" id="printDocument" />
+                            </div>
                         </div>
                     </form>
                 </div>
             </article>
 
-            <article id="contentSpotWrapper" class="contentSpotWrapper accordion col-12 col-sm-8 offset-1">
+            <article id="contentSpotWrapper" class="contentSpotWrapper accordion col-12">
                 <div class="booksImageCover js-booksImageCover">
                     <img src="images/no-image.png" alt="Imagem de capa do Mapa astral personalizado" title="Imagem de capa do Mapa astral personalizado" class="booksImageCoverImg" />
                 </div>
