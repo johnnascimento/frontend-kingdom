@@ -41,6 +41,10 @@
             border: none !important;
 
             background-color: transparent;
+
+            font-family: Verdana, Arial, sans-serif, Helvetica !important;
+
+            text-align: left;
         }
     }
 
@@ -152,10 +156,10 @@
         .booksImageCover {
             page-break-after: always;
 
-            & > img {
-                padding-top: calc((#{$AFourWSize}/2) + (#{$gutter}*5));
-                padding-bottom: calc((#{$AFourWSize}/2) + (#{$gutter}*5));
-            }
+            // & > img {
+            //     padding-top: calc((#{$AFourWSize}/2) + (#{$gutter}*5));
+            //     padding-bottom: calc((#{$AFourWSize}/2) + (#{$gutter}*5));
+            // }
         }
 
         .reportSummary {
@@ -167,6 +171,11 @@
 
         .relatorioPersonalizado {
             page-break-before: always;
+        }
+
+        .userName,
+        .userShortIntroduction {
+            text-align: center;
         }
     }
 }
