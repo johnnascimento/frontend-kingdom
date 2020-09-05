@@ -11,171 +11,247 @@
     .formSpot {
         display: none;
     }
-
+    
     html,
     body,
     p,
     span {
-        font-size: 14pt;
-        font-family: 'Times New Roman', Times, Georgia, Palatino;
-
+        font-size: 10.5pt;
+        font-family: Verdana, Arial, sans-serif, Helvetica !important;
+        
         border: none;
     }
-
+    
     html {
         width: 100%;
         height: 100%;
-
+        
         margin: 0 auto;
         padding: 0;
-
+        
         background-color: transparent;
-
-        font-family: Verdana, Arial, sans-serif, Helvetica;
+        
+        font-family: Verdana, Arial, sans-serif, Helvetica !important;
         line-height: 1.2;
         text-align: left;
-
+        color: $black;
+        
         * {
             padding: 0;
             margin: 0 auto;
             border: none !important;
-
+            
             background-color: transparent;
-
+            
             font-family: Verdana, Arial, sans-serif, Helvetica !important;
-
+            
             text-align: left;
         }
     }
-
+    
+    h1, h2, h3, h4, h5 {
+        font-weight: bold;
+        page-break-after: avoid;
+        page-break-inside: avoid;
+    }
+    
+    h1+p, h2+p, h3+p {
+        page-break-before: avoid;
+    }
+    
+    table, figure {
+        page-break-inside: avoid;
+    }
+    
+    p, span, strong, i, em, b {
+        page-break-inside: avoid;
+    }
+    
     body {
         width: $AFourWSize;
         height: $AFourHSize;
-
+        
         margin: 0 auto;
         padding: 0;
         overflow: hidden;
-
+        
         background-color: $white;
-
+        
         &.is-loading {
             background-color: $white;
-
+            
             z-index: -1;
-
+            
             &:before,
             &:after {
                 border: none;
-
+                
                 opacity: 0;
                 z-index:  -2;
             }
         }
-
+        
         .formSpot {
             display: none;
         }
-
+        
         .jumbotron,
-        .jumbotron > *,
+        .jumbotron *,
         .mapa_astral_image_introdutoria {
             display: none !important;
         }
 
+        .toggle-icon {
+            display: none;
+        }
+        
         .card {
             border: none;
             background-color: transparent;
-
+            
             &-header {
-                display: none;
-            }
+                font-size: 0 !important;
 
+                display: none !important; 
+                padding: 0 !important;
+                margin: 0 !important;
+            }
+            
             .collapse:not(.show) {
-                display: block !important;
+                font-size: 0 !important;
+
+                display: none !important; 
+                padding: 0 !important;
+                margin: 0 !important;
             }
         }
-
+        
         #contentSpotWrapper {
             width: 100%;
             min-width: 100%;
-
+            
             display: block;
             margin: 0 auto;
             padding: 0;
-
+            
             background-color: transparent;
             border: none;
-
+            
             .contentSpot {
                 width: 100%;
-
+                
                 display: block;
                 margin: 0 auto;
                 padding: 0;
-            }
 
+                page-break-inside: avoid;
+                page-break-after: auto;
+            }
+            
             div[class^="textBlockWrapper-"] {
                 width: 100%;
-
+                
                 padding: 0 0 1cm;
-
+                
                 page-break-after: auto;
-                break-after: always;
                 page-break-inside: auto;
-                break-inside: auto;
             }
-
+            
             .arrayKlass {
+                page-break-inside: avoid;
+                page-break-before: avoid;
+                page-break-after: auto;
+
                 br,
                 p {
-                    page-break-before: always;
+                    page-break-inside: avoid;
                 }
             }
         }
-
+        
         .booksImageCover,
         .fixedContentSpot,
         .relatorioPersonalizado {
             @include visibleAndInteractible();
         }
-
+        
         .booksImageCover,
         .reportImage {
             width: auto;
             height: auto;
             max-width: 100%;
             max-height: 100%;
-
+            
             padding: ($gutter) 0;
-
+            
             & > img {
                 margin: 0 auto;
             }
         }
-
+        
         .booksImageCover {
             page-break-after: always;
-
-            // & > img {
-            //     padding-top: calc((#{$AFourWSize}/2) + (#{$gutter}*5));
-            //     padding-bottom: calc((#{$AFourWSize}/2) + (#{$gutter}*5));
-            // }
         }
-
+        
         .reportSummary {
             display: block;
             position: relative;
             margin: ($gutter*2) auto 0;
             padding: ($gutter) 0;
-        }
 
+            page-break-after: always;
+        }
+        
         .relatorioPersonalizado {
             page-break-before: always;
         }
-
+        
         .userName,
         .userShortIntroduction {
             text-align: center;
+        }
+
+        .page-break-before {
+            page-break-before: always;
+        }
+        
+        // Typography
+        // Fixed content
+        .fixedContentSpot {
+            font-size: 10.5pt;
+            font-family: Verdana, sans-serif, Geneva, Tahoma;
+        }
+
+        // Specific report typography
+        .contentSpot {
+            p,
+            strong,
+            em,
+            b,
+            span,
+            div {
+                font-size: 10pt;
+                font-family: Verdana, sans-serif, Geneva, Tahoma;
+            }
+
+            .arrayKlass-title,
+            .default-text-title {
+                font-size: 10pt;
+                font-family: Verdana, sans-serif, Geneva, Tahoma;
+
+                page-break-after: avoid;
+                page-break-inside: avoid;
+            }
+
+            .arrayKlassNodos + .arrayKlass-title {
+                page-break-after: avoid;
+                page-break-before: always;
+
+                & + .arrayKlass {
+                    page-break-before: avoid;
+                    page-break-after: auto;
+                }
+            }
         }
     }
 }

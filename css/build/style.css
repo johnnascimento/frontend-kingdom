@@ -127,8 +127,8 @@ q {
   body,
   p,
   span {
-    font-size: 14pt;
-    font-family: 'Times New Roman', Times, Georgia, Palatino;
+    font-size: 10.5pt;
+    font-family: Verdana, Arial, sans-serif, Helvetica !important;
     border: none; }
   html {
     width: 100%;
@@ -136,9 +136,10 @@ q {
     margin: 0 auto;
     padding: 0;
     background-color: transparent;
-    font-family: Verdana, Arial, sans-serif, Helvetica;
+    font-family: Verdana, Arial, sans-serif, Helvetica !important;
     line-height: 1.2;
-    text-align: left; }
+    text-align: left;
+    color: #151515; }
     html * {
       padding: 0;
       margin: 0 auto;
@@ -146,6 +147,16 @@ q {
       background-color: transparent;
       font-family: Verdana, Arial, sans-serif, Helvetica !important;
       text-align: left; }
+  h1, h2, h3, h4, h5 {
+    font-weight: bold;
+    page-break-after: avoid;
+    page-break-inside: avoid; }
+  h1 + p, h2 + p, h3 + p {
+    page-break-before: avoid; }
+  table, figure {
+    page-break-inside: avoid; }
+  p, span, strong, i, em, b {
+    page-break-inside: avoid; }
   body {
     width: 21cm;
     height: 29.7cm;
@@ -163,16 +174,24 @@ q {
     body .formSpot {
       display: none; }
     body .jumbotron,
-    body .jumbotron > *,
+    body .jumbotron *,
     body .mapa_astral_image_introdutoria {
       display: none !important; }
+    body .toggle-icon {
+      display: none; }
     body .card {
       border: none;
       background-color: transparent; }
       body .card-header {
-        display: none; }
+        font-size: 0 !important;
+        display: none !important;
+        padding: 0 !important;
+        margin: 0 !important; }
       body .card .collapse:not(.show) {
-        display: block !important; }
+        font-size: 0 !important;
+        display: none !important;
+        padding: 0 !important;
+        margin: 0 !important; }
     body #contentSpotWrapper {
       width: 100%;
       min-width: 100%;
@@ -185,21 +204,21 @@ q {
         width: 100%;
         display: block;
         margin: 0 auto;
-        padding: 0; }
+        padding: 0;
+        page-break-inside: avoid;
+        page-break-after: auto; }
       body #contentSpotWrapper div[class^="textBlockWrapper-"] {
         width: 100%;
         padding: 0 0 1cm;
         page-break-after: auto;
-        -webkit-column-break-after: always;
-           -moz-column-break-after: always;
-                break-after: always;
-        page-break-inside: auto;
-        -webkit-column-break-inside: auto;
-           -moz-column-break-inside: auto;
-                break-inside: auto; }
-      body #contentSpotWrapper .arrayKlass br,
-      body #contentSpotWrapper .arrayKlass p {
-        page-break-before: always; }
+        page-break-inside: auto; }
+      body #contentSpotWrapper .arrayKlass {
+        page-break-inside: avoid;
+        page-break-before: avoid;
+        page-break-after: auto; }
+        body #contentSpotWrapper .arrayKlass br,
+        body #contentSpotWrapper .arrayKlass p {
+          page-break-inside: avoid; }
     body .booksImageCover,
     body .fixedContentSpot,
     body .relatorioPersonalizado {
@@ -233,12 +252,38 @@ q {
       display: block;
       position: relative;
       margin: 32px auto 0;
-      padding: 16px 0; }
+      padding: 16px 0;
+      page-break-after: always; }
     body .relatorioPersonalizado {
       page-break-before: always; }
     body .userName,
     body .userShortIntroduction {
-      text-align: center; } }
+      text-align: center; }
+    body .page-break-before {
+      page-break-before: always; }
+    body .fixedContentSpot {
+      font-size: 10.5pt;
+      font-family: Verdana, sans-serif, Geneva, Tahoma; }
+    body .contentSpot p,
+    body .contentSpot strong,
+    body .contentSpot em,
+    body .contentSpot b,
+    body .contentSpot span,
+    body .contentSpot div {
+      font-size: 10pt;
+      font-family: Verdana, sans-serif, Geneva, Tahoma; }
+    body .contentSpot .arrayKlass-title,
+    body .contentSpot .default-text-title {
+      font-size: 10pt;
+      font-family: Verdana, sans-serif, Geneva, Tahoma;
+      page-break-after: avoid;
+      page-break-inside: avoid; }
+    body .contentSpot .arrayKlassNodos + .arrayKlass-title {
+      page-break-after: avoid;
+      page-break-before: always; }
+      body .contentSpot .arrayKlassNodos + .arrayKlass-title + .arrayKlass {
+        page-break-before: avoid;
+        page-break-after: auto; } }
 
 * {
   -webkit-box-sizing: border-box;
@@ -250,8 +295,8 @@ html {
 
 /* css style sheet */
 body {
-  font-size: 10px;
-  font-size: 1rem;
+  font-size: 10.5px;
+  font-size: 1.05rem;
   font-family: Verdana, Arial, sans-serif, Helvetica;
   line-height: 1.2;
   /* Footer
@@ -343,8 +388,8 @@ body {
   body .divClass {
     background-color: green; }
   body input {
-    font-size: 10px;
-    font-size: 1rem; }
+    font-size: 10.5px;
+    font-size: 1.05rem; }
   body nav,
   body section,
   body article {
@@ -352,29 +397,44 @@ body {
   body footer {
     text-align: center; }
     body footer > p {
-      font-size: 10px;
-      font-size: 1rem;
+      font-size: 10.5px;
+      font-size: 1.05rem;
       color: #797979;
       pointer-events: none; }
   body .subTitle {
     display: block;
     font-weight: bold;
+    text-transform: uppercase;
     color: #265868; }
-    body .subTitle.inline {
+    body .subTitle.inline-block {
       display: inline-block;
       vertical-align: baseline; }
+    body .subTitle.inline {
+      display: inline;
+      vertical-align: baseline; }
+    body .subTitle.text-normal {
+      text-transform: initial; }
+    body .subTitle.italic {
+      font-style: italic; }
   body .highlighted {
     color: #265868; }
     body .highlighted.followingTitle {
-      font-size: 12px;
-      font-size: 1.2rem;
+      font-size: 10.5px;
+      font-size: 1.05rem;
       display: inline-block;
       vertical-align: baseline;
-      padding-left: 8px;
       line-height: 1.4; }
+      body .highlighted.followingTitle.inline + .content {
+        display: inline;
+        vertical-align: baseline; }
+      body .highlighted.followingTitle + .content {
+        padding-bottom: 0; }
     body .highlighted.is-bold {
       font-weight: bold;
       color: #151515; }
+      body .highlighted.is-bold-colored {
+        font-weight: bold;
+        color: #265868; }
   body .booksImageCover,
   body .reportImage {
     display: block;
@@ -393,38 +453,56 @@ body {
       position: relative;
       margin: 0 auto; }
   body .fixedContentSpot .title {
-    font-size: 14px;
-    font-size: 1.4rem;
+    font-size: 10.5px;
+    font-size: 1.05rem;
     display: block;
     position: relative;
     margin: 0 auto;
-    padding: 0 0 8px;
+    padding: 0 0 4px;
     font-weight: bold;
-    line-height: 2;
+    line-height: 1.4;
     color: #265868; }
+    body .fixedContentSpot .title.text-uppercase {
+      text-transform: uppercase; }
+    body .fixedContentSpot .title.font-normal {
+      font-weight: normal; }
     body .fixedContentSpot .title.small {
-      font-size: 12px;
-      font-size: 1.2rem;
+      font-size: 10.5px;
+      font-size: 1.05rem;
       display: block;
       position: relative;
       margin: 0 auto;
-      padding: 0 0 8px;
+      padding: 0 0 16px;
+      font-weight: normal;
+      line-height: 1; }
+    body .fixedContentSpot .title.houses {
+      padding-top: 32px; }
+    body .fixedContentSpot .title .font-normal {
       font-weight: normal; }
   body .fixedContentSpot .subTitle {
-    font-size: 12px;
-    font-size: 1.2rem;
+    font-size: 10.5px;
+    font-size: 1.05rem;
     line-height: 1.4; }
     body .fixedContentSpot .subTitle.inline + .content {
+      display: inline;
+      vertical-align: baseline; }
+    body .fixedContentSpot .subTitle.inline-block + .content {
       display: inline-block;
       vertical-align: baseline; }
   body .fixedContentSpot .content {
-    font-size: 10px;
-    font-size: 1rem;
+    font-size: 10.5px;
+    font-size: 1.05rem;
     display: block;
     position: relative;
     margin: 0 auto;
-    padding: 8px 0 32px;
+    padding: 0 0 32px;
     color: #454545; }
+  body .fixedContentSpot .line-breaker {
+    height: 32px;
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0; }
   body .relatorioPersonalizado {
     display: block;
     position: relative;
@@ -432,15 +510,16 @@ body {
     padding: 16px 0;
     text-align: center; }
     body .relatorioPersonalizado .userName {
-      font-size: 20px;
-      font-size: 2rem;
+      font-size: 28px;
+      font-size: 2.8rem;
+      font-family: 'Century Gothic', Verdana, sans-serif, Geneva, Tahoma;
       display: block;
       position: relative;
       color: #265868;
-      font-weight: bold; }
+      font-weight: normal; }
     body .relatorioPersonalizado .userShortIntroduction {
-      font-size: 14px;
-      font-size: 1.4rem;
+      font-size: 10.5px;
+      font-size: 1.05rem;
       display: inline-block;
       position: relative;
       vertical-align: baseline; }
@@ -453,15 +532,22 @@ body {
         position: relative;
         vertical-align: baseline; }
     body .relatorioPersonalizado .reportSummary {
+      font-size: 9px;
+      font-size: 0.9rem;
       display: block;
       position: relative;
       margin: 0 auto;
       padding: 0 0 16px;
       text-align: left; }
-    body .relatorioPersonalizado .userShortIntroduction,
-    body .relatorioPersonalizado .reportSummary {
-      font-size: 10px;
-      font-size: 1rem;
+      body .relatorioPersonalizado .reportSummary .content {
+        display: block;
+        position: relative;
+        margin: 0 auto;
+        padding: 0 0 16px;
+        color: #454545; }
+    body .relatorioPersonalizado .userShortIntroduction {
+      font-size: 10.5px;
+      font-size: 1.05rem;
       color: #454545; }
   body .booksImageCover,
   body .fixedContentSpot,
@@ -490,8 +576,8 @@ body {
     body .contentSpotWrapper .card-header {
       position: relative; }
       body .contentSpotWrapper .card-header .btn.btn-link {
-        font-size: 16px;
-        font-size: 1.6rem;
+        font-size: 10.5px;
+        font-size: 1.05rem;
         width: 100%;
         font-weight: bold;
         color: #265868; }
@@ -528,16 +614,16 @@ body {
           -ms-transform: scale(1.1) translateY(-50%);
           -o-transform: scale(1.1) translateY(-50%); }
     body .contentSpotWrapper .contentSpot p {
-      font-size: 10px;
-      font-size: 1rem;
+      font-size: 10.5px;
+      font-size: 1.05rem;
       color: #454545;
       text-align: justify; }
     body .contentSpotWrapper .contentSpot img {
       min-width: 100%;
       position: absolute; }
     body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] {
-      font-size: 14px;
-      font-size: 1.4rem;
+      font-size: 10.5px;
+      font-size: 1.05rem;
       position: relative; }
       body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .default-text-title {
         display: block;
@@ -547,8 +633,8 @@ body {
       body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title,
       body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .arrayKlass-title-secondary,
       body .contentSpotWrapper .contentSpot div[class^="textBlockWrapper-"] .title {
-        font-size: 14px;
-        font-size: 1.4rem;
+        font-size: 10.5px;
+        font-size: 1.05rem;
         margin-top: 16px;
         margin-bottom: 16px;
         color: #265868;
