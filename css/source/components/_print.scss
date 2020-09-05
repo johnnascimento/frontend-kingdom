@@ -241,6 +241,16 @@
 
                 page-break-after: avoid;
                 page-break-inside: avoid;
+
+                span,
+                strong,
+                div,
+                em,
+                b,
+                i {
+                    page-break-after: avoid;
+                    page-break-inside: avoid;
+                }
             }
 
             .arrayKlassNodos + .arrayKlass-title {

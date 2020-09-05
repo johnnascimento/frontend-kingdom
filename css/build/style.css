@@ -278,6 +278,20 @@ q {
       font-family: Verdana, sans-serif, Geneva, Tahoma;
       page-break-after: avoid;
       page-break-inside: avoid; }
+      body .contentSpot .arrayKlass-title span,
+      body .contentSpot .arrayKlass-title strong,
+      body .contentSpot .arrayKlass-title div,
+      body .contentSpot .arrayKlass-title em,
+      body .contentSpot .arrayKlass-title b,
+      body .contentSpot .arrayKlass-title i,
+      body .contentSpot .default-text-title span,
+      body .contentSpot .default-text-title strong,
+      body .contentSpot .default-text-title div,
+      body .contentSpot .default-text-title em,
+      body .contentSpot .default-text-title b,
+      body .contentSpot .default-text-title i {
+        page-break-after: avoid;
+        page-break-inside: avoid; }
     body .contentSpot .arrayKlassNodos + .arrayKlass-title {
       page-break-after: avoid;
       page-break-before: always; }
