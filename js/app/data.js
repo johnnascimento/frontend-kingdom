@@ -553,11 +553,11 @@ const data = {
 
                   `Indica pessoas que partilhavam com toda a sua geração uma certa ideologia da guerra justa e necessária. Nessa geração, havia muito poucos antimilitaristas ou contestadores de consciência: <br /><br />
                   Netuno (os ideais) associado a Áries (a guerra) conduzia os homens de então a uma ideologia guerreira.<br /><br />
-                  Mas aqueles que tinham Netuno retrógrado viveram com um carma de desilusões muito doloroso: assistir ao desmoronamento dos valores aos quais haviam dedi¬cado sua vida.<br /><br />
+                  Mas aqueles que tinham Netuno retrógrado viveram com um carma de desilusões muito doloroso: assistir ao desmoronamento dos valores aos quais haviam dedicado sua vida.<br /><br />
                   A fé e a espiritualidade podem tê-los ajudado a tomar certa distância com relação às ideologias militaristas. Esses nativos eram também artistas. <br />`,
 
                   `A posição parece indicar uma violência inconsciente mal canalizada. O nativo, ao mesmo tempo em que tem uma sede intensa de justiça, tem reações primitivas e além da justa medida. <br /><br />
-                  É assim que a personagem de Villiers de Isle – Adam exala essa surda violência que os conduz ao assassinato; é assim também que os na¬zistas reivindicam a influência de Nietzsche.<br /><br />
+                  É assim que a personagem de Villiers de Isle – Adam exala essa surda violência que os conduz ao assassinato; é assim também que os nazistas reivindicam a influência de Nietzsche.<br /><br />
                   Em quem encontraram uma ideologia do super-homem, uma apologia da virilidade, do \"machismo"\, inteiramente na linha de Plutão retrógrado em Áries, que marcou esses dois autores. <br />`,
 
                   `Quem traz Quíron retrógrado no mapa possui poderes de cura, iniciáticos e alquímicos. O Dom de cura com as mãos. <br />
@@ -974,7 +974,7 @@ const data = {
                   Preocupam se principalmente com a clareza em contratos e acordos. A honestidade na comunicação e a confiança são de extrema importância.<br /><br />
                   Os nativos geralmente buscam argumentos sólidos para provar os seus esforços.<br /><br />
                   Saturno atua bem em todos os signos de ar, porque acrescenta disciplina, justiça e senso prático às funções intelectuais.<br /><br />
-                  Secretárias, estenógrafas, contadores, escri¬tores, professores e pesquisadores possuem esta posição. Ela também favorece pessoas envolvidas em engenharia, ciências físicas e matemáticas.<br /><br />
+                  Secretárias, estenógrafas, contadores, escritores, professores e pesquisadores possuem esta posição. Ela também favorece pessoas envolvidas em engenharia, ciências físicas e matemáticas.<br /><br />
                   No seu pior, pode haver tendência a sentir e demonstrar muita dúvida, suspeita, timidez ou uma atitude crítica.<br /><br />
                   Contudo, os nativos são suficientemente flexíveis para se adaptarem às necessidades práticas de qualquer situação.<br /><br />
                   Sendo assim, são habilidosos para encontrar soluções de problemas. Eles enxergam a vida com objetividade prática. <br />`,
@@ -1086,14 +1086,14 @@ const data = {
 
                   `Netuno em Gêmeos indica grande habilidade manual acrescida de uma viva atividade mental. A imaginação era muito desenvolvida entre os nativos.<br /><br />
                   Escritores brilhantes Henry Miller (nascido em 1891), ou Drieu La Rochelle (1893) utilizaram assim seu senso agudo da palavra e da resposta pronta.<br /><br />
-                  Mas seu humor, muitas vezes corrosivo, lhes acarretavam aborrecimen¬tos. Netuno em Gêmeos é também o senso dos negócios, mas a retrogradação de Netuno indica que foram enganadores.<br /><br />
+                  Mas seu humor, muitas vezes corrosivo, lhes acarretavam aborrecimentos. Netuno em Gêmeos é também o senso dos negócios, mas a retrogradação de Netuno indica que foram enganadores.<br /><br />
                   Podem ter sido até mesmo criminosos. A extrema habilidade, a imaginação viva, a mente ágil e ativa foram empregadas de maneira principalmente negativa. <br />`,
 
                   `O período coincidiu com um extraordinário boom tecnológico nos meios de comunicação, particularmente a aviação (já que Gêmeos é signo de Ar). O \"Avião\" de Clément Ader nasceu em 1897.<br /><br />
                   Os grandes pioneiros: Didier Daurat e Jean Mermoz têm Plutão retrógrado em Gêmeos. Exatamente como Enzo Ferrari, o famoso construtor de carros.<br /><br />
                   Aliás, a primeira corrida de automóveis do mundo, a famosa \"Paris-BordéusParis\", ocorreu em 1895. Enfim, rádio e cinema vão florescer.<br /><br />
                   O triunfo científico proclama um tanto exageradamente que \"não se para o progresso\". Gêmeos é o reino de Mercúrio, símbolo ao mesmo tempo dos conhecimentos teóricos e das suas aplicações práticas: a tecnologia.<br /><br />
-                  Os nativos de Plutão retrógrado em Gêmeos têm por vezes uma surpreen¬dente aptidão para jogar com as palavras: Henry Miller, Raymond Queneau, Jean Genet, Eugène lonesco, Papillon, Jacques Prévert.<br /><br />
+                  Os nativos de Plutão retrógrado em Gêmeos têm por vezes uma surpreendente aptidão para jogar com as palavras: Henry Miller, Raymond Queneau, Jean Genet, Eugène lonesco, Papillon, Jacques Prévert.<br /><br />
                   O verbo é, para eles, um instrumento de poder político. A sedução das palavras, o jogo duplo, por vezes. Esses nativos já aprenderam, em várias vidas passadas, a manejar o verbo (escrito ou falado).<br /><br />
                   Terão eles sido escribas desonestos? Escritores que haviam propagado ideias nefastas? Colegiais vadios, como no tempo de Villon? Seu carma deve levá-los a uma reflexão sobre os meios de comunicação. Seu programa: não abusar das pessoas jogando com as palavras. <br />`,
 
@@ -1367,7 +1367,7 @@ const data = {
                   O nativo se apegava choramingando a uma situação sem esperança, assumindo uma atitude de vítima (que não o faz progredir nada).<br /><br />
                   Foi assim que se viram viúvas ou mães que haviam perdido um filho instalar-se para o resto da vida num luto permanente (particularmente depois da Grande Guerra de 1914-1918).<br /><br />
                   Ou ainda, pessoas abandonadas pelo cônjuge, que se recusam a tentar compreender por que, dizendo: \"Quanto a mim, sempre fui um perfeito esposo (ou esposa)!\"<br /><br />
-                  Netuno retrógrado em Câncer indica um carma no qual o nativo deveria apren¬der a reconsiderar seus laços familiares sem sentimento de posse.<br /><br />
+                  Netuno retrógrado em Câncer indica um carma no qual o nativo deveria aprender a reconsiderar seus laços familiares sem sentimento de posse.<br /><br />
                   Aprender a amar os seus com desprendimento, procurar as razões espirituais e cármicas de seu afastamento. Só uma atitude espiritual dinâmica pode ajudar a liquidar os carmas de Netuno retrógrado. <br />`,
 
                   `Plutão em Câncer leva o nativo a refletir mais sobre a vida privada e familiar. Os primeiros líderes da ecologia, pertencentes a esta geração, questionam se o progresso técnico realmente melhora a qualidade de vida, à qual são mais sensíveis do que seus pais.<br /><br />
@@ -1649,7 +1649,7 @@ const data = {
                   A passagem de Netuno em Leão coincide, aliás, com o grande período do cinema em Hollywood (Leão é o símbolo do show-business, e Netuno o da evasão).<br /><br />
                   Armadilha para pássaros, na qual muitos perderam as asas! Quantas estrelas deslumbrantes não morreram na miséria e na decadência?
                   O luxo e o ouro são buscados como prova de poder: "exibe-se" o máximo possível.<br /><br />
-                  Os nativos poderiam ter abrandado suas decepções utilizando o dinheiro e as amizades - nos períodos faustosos - para ajudar realmente os necessita¬dos.<br /><br />
+                  Os nativos poderiam ter abrandado suas decepções utilizando o dinheiro e as amizades - nos períodos faustosos - para ajudar realmente os necessitados.<br /><br />
                   Poderiam utilizar a inspiração de Netuno em Leão para a criação artística e colocar as potencialidades do dinheiro a serviço dos mais pobres. <br />`,
 
                   `Os nativos dessa geração têm a tendência de se afirmar. Comportam-se de maneira muito autoritária.<br /><br />
@@ -1944,7 +1944,7 @@ const data = {
                   A palavra-chave deste período é "terapia", mas também "psicoterapia", à qual são sensíveis os nativos de 1957 a 1972. Os nativos podem explorar a terapia na pesquisa das vidas anteriores!<br /><br />
                   Os nativos de Plutão retrógrado em Virgem têm outros programas de reflexão: o trabalho e o respeito pela Natureza.<br /><br />
                   Sendo Virgem o signo do trabalho, Plutão retrógrado indica aí, no mapa individual, uma dificuldade em se disciplinar nas vidas passadas.<br /><br />
-                  O nativo tem grandes faculdades de concentração e quando está motivado, é extre¬mamente trabalhador. Mas ninguém conseguirá fazê-lo realizar o mínimo trabalho se isso não o interessar.<br /><br />
+                  O nativo tem grandes faculdades de concentração e quando está motivado, é extremamente trabalhador. Mas ninguém conseguirá fazê-lo realizar o mínimo trabalho se isso não o interessar.<br /><br />
                   Muitos nativos dessa geração foram ou ainda são estudantes rebeldes a toda disciplina escolar: um pesadelo para os professores.<br /><br />
                   Entretanto, nas horas vagas, são capazes de realizar grandes trabalhos, como por exemplo, maquetes de avião, trabalhos de mecânica, química, carpintaria.<br /><br />
                   Quando Plutão está em conjunção com Urano, ambos retrógrados (1964-65), a criança é um pequeno gênio da eletricidade, faz trabalhos manuais com muita inspiração (a configuração indica que já foi engenheiro ou artesão numa vida anterior).<br /><br />
@@ -2254,7 +2254,7 @@ const data = {
 
                   `É um período de transformações, limpezas e purificações nos assuntos ligados à Justiça e ao Casamento (regidos por Libra).<br /><br />
                   Assistimos a corajosos esforços para tornar a Justiça mais justa, as prisões mais humanas, a pena de morte mais rara e os contratos de casamento menos constrangedores.<br /><br />
-                  No plano individual, o nativo parece ser forçado por Plutão retrógrado em Balança a rever suas ideias nesses dois âmbitos. Ou bem enfrenta difi¬culdades judiciárias, processos etc.<br /><br />
+                  No plano individual, o nativo parece ser forçado por Plutão retrógrado em Balança a rever suas ideias nesses dois âmbitos. Ou bem enfrenta dificuldades judiciárias, processos etc.<br /><br />
                   Ou se envolve num casamento que lhe dá oportunidade de reparar erros cármicos, e por isso mesmo se revela profundamente transformador.<br /><br />
                   Seu equilíbrio de vida será difícil de atingir; o casamento está sujeito a enfrentar furacões mortais. Em todo caso, há fortes chances de que o nativo (ou a nativa) encontre-se de novo, nesta vida, casado com um cônjuge que já fora o seu numa vida passada.<br /><br />
                   O objetivo espiritual de Plutão retrógrado em Libra é o de progredir na consciência da justiça, de ajudar a sociedade, estabelecer um mundo mais justo e equilibrado.<br /><br />
@@ -2391,7 +2391,7 @@ const data = {
                   `Mercúrio no signo de Escorpião proporciona uma mente intuitiva capaz de profundos insights.<br /><br />
                   A percepção dos nativos pode levar ao exame crítico das motivações humanas. Eles consideram as coisas com precisão, mas não necessariamente com compaixão.<br /><br />
                   É preciso cuidado para não utilizar uma linguagem agressiva, medir as palavras para não ofender os sentimentos dos outros. A tendência é dizer exatamente o que sente ou permanecer em silêncio.<br /><br />
-                  Fazer planos em segredo e os comunicar so¬mente quando tem um propósito definido que está tentando realizar.<br /><br />
+                  Fazer planos em segredo e os comunicar somente quando tem um propósito definido que está tentando realizar.<br /><br />
                   Contudo, como pode ser influenciado por fortes fatores emocionais, é mais objetivo quando não está pessoalmente envolvido.<br /><br />
                   Quem tem Mercúrio em Escorpião possui uma mente determinada e grande engenhosidade, pode vencer obstáculos que outros considerariam insuperáveis.<br /><br />
                   As pessoas com Mercúrio neste signo gostam de vasculhar os porões da mente, são bons detectives, investigadores e pesquisadores. Pode também haver desconfiança dos outros.<br /><br />
@@ -2520,7 +2520,7 @@ const data = {
                   Deve agora usar sua palavra e sua inteligência para curar, ajudar, desenvolvendo uma consciência mais elevada e espiritual. <br />`,
 
                   `Em vidas passadas, o nativo foi insatisfeito, sequioso de novidades, intensas experiências, emoções e paixões destrutivas.<br /><br />
-                  Suas dificuldades com o sexo oposto têm origem nas outras vidas: o nativo viveu ex¬periências amorosas que lhe haviam provocado um profundo desprezo por si próprio.<br /><br />
+                  Suas dificuldades com o sexo oposto têm origem nas outras vidas: o nativo viveu experiências amorosas que lhe haviam provocado um profundo desprezo por si próprio.<br /><br />
                   Seu "comportamento de fracasso" tende a provar que o amor é digno de desprezo.<br /><br />
                   Deve essencialmente aprender a perdoar e a esquecer do passado para que possa se abrir ao amor. Deve também buscar uma perspectiva espiritual mais elevada. <br />`,
 
@@ -2535,7 +2535,7 @@ const data = {
                   Causa aos outros os sentimentos de o ódio ou amor, a admiração ou o respeito, em essencial é uma pessoa que nunca é indiferente.<br /><br />
                   A vida atual lhe oferece todos os dias novas oportunidades de transformação para subtrair às suas tendências negativas.<br /><br />
                   Este caráter muito apaixonado tem muito a fazer, no início de sua vida, para canalizar seus apetites sexuais.<br /><br />
-                  Mal compreendido pelos que o cercam, trava seu combate inteiramente só, bravamente. Mas não deve causar espanto que ele tenha, para isso, necessi¬dade de uma enorme liberdade. <br />`,
+                  Mal compreendido pelos que o cercam, trava seu combate inteiramente só, bravamente. Mas não deve causar espanto que ele tenha, para isso, necessidade de uma enorme liberdade. <br />`,
 
                   `O nativo já viu tantas coisas, ao longo das suas vidas passadas! Saturno neste signo indica a alma de velho sábio, que foi iniciado em saberes e mistérios.<br /><br />
                   Nada escapa ao seu olho de águia. Não tentem esconder-lhe o que quer que seja: farejará logo a mentira. As alegrias e sucessos da vida não o deslumbram: sabe que há algo mais.<br /><br />
@@ -2545,7 +2545,7 @@ const data = {
                   Procurará conhecer mais sobre suas vidas passadas e só ficará feliz quando tiver encontrado a resposta para a questão essencial: "o que é a Verdade?" <br />`,
 
                   `Urano está exaltado em Escorpião. A sua natureza independente, não conformista e corajosa está bem de acordo com a do signo.<br /><br />
-                  Esta posição é excelente para um pesquisador científico, um investigador ou um psicoterapeuta: sua visão de raio x pode vasculhar as profundezas e os mínimos re¬cantos onde se esconde a verdade.<br /><br />
+                  Esta posição é excelente para um pesquisador científico, um investigador ou um psicoterapeuta: sua visão de raio x pode vasculhar as profundezas e os mínimos recantos onde se esconde a verdade.<br /><br />
                   Médium, muito clarividente, adivinha em um segundo o que se queria esconder-lhe. Lúcido sobre si mesmo, não se permite ilusões.<br /><br />
                   Tem um grande papel a representar no mundo, apontando certas coisas até então veladas.<br /><br />
                   Entretanto, deve compreender que a lucidez não exclui a bondade e a indulgência para com os seres (ou para com ele mesmo).<br /><br />
@@ -2565,7 +2565,7 @@ const data = {
 
                   `A força transformadora de Plutão exerce total influência aqui. Foi a geração nascida entre 1737 e 1749 que preparou e depois inflamou a Revolução francesa de 1789.<br /><br />
                   Os nativos nascidos sob essa configuração são grandes reformadores, ou grandes destruidores, se essa retrogradação do planeta for vivida negativamente.<br /><br />
-                  Quando criança, pode ter se sentido pessoalmente atingido pelas injustiças do mundo. Se você escolheu essa en¬carnação, foi por um profundo desejo de queimar todas as escórias do passado.<br /><br />
+                  Quando criança, pode ter se sentido pessoalmente atingido pelas injustiças do mundo. Se você escolheu essa encarnação, foi por um profundo desejo de queimar todas as escórias do passado.<br /><br />
                   Entramos assim num grande renascimento, nas escalas planetárias. Os homens serão equipados com poderes parapsicológicos que o Ocidente esquecera reforçados pelos poderes tecnológicos que já temos, e que logo aumentarão.<br /><br />
                   As crianças plutonianas retrógradas de Escorpião desenvolverão sistematicamente seus poderes psíquicos (leitura das auras, telepatia, percepção extrassensorial, desdobramento etc.).<br /><br />
                   Mas esses imensos poderes, desenvolvidos com um objetivo egoísta, podem tornar-se infinitamente destruidores. É preciso consciência e amor. <br />`,
@@ -3163,7 +3163,7 @@ const data = {
                   Em alguns casos, esse Júpiter retrógrado pode indicar um materialista bastante pragmático, cuja avidez em acumular dinheiro trai a sua profunda angústia.<br /><br />
                   Tem mais sucesso na maturidade com a condição de não abafar as aspirações espirituais que desenvolvera nas encarnações precedentes. <br />`,
 
-                  `Ao trabalhar duro, cultivando ao mesmo tempo a esperança e a perseverança, o nativo é capaz de se isolar, de se fechar a todas as influências para se con¬centrar num único objetivo.<br /><br />
+                  `Ao trabalhar duro, cultivando ao mesmo tempo a esperança e a perseverança, o nativo é capaz de se isolar, de se fechar a todas as influências para se concentrar num único objetivo.<br /><br />
                   Secreto, reservado, muitas vezes soturno, é a montanha de gelo cujas arestas cortantes muitas vezes ferem os outros.<br /><br />
                   Detesta o que é fútil. Chega a ter a tendência de considerar a beleza, o amor e a vida social como coisas supérfluas que o desviam de seu caminho.<br /><br />
                   Esta posição de Saturno indica que o nativo está maduro para completar seu trabalho cármico. Para conquistar o sucesso, deve agora cultivar metas nobres e elevadas.<br /><br />
@@ -3727,7 +3727,7 @@ const data = {
 
                   `A palavra-chave de Júpiter é "expansão". Inspira fé, ética, entusiasmo e positividade. Quando Júpiter está retrógrado, algumas dessas qualidades não foram cultivadas em vidas passadas.<br /><br />
                   Em suas encarnações anteriores, pode ter sido sacerdote ou filósofo. Portanto, traz conhecimentos elevados, um saber inato das verdades religiosas e cósmicas.<br /><br />
-                  Mas é preciso cuidado para não ficar preso à organi¬zação prática da vida e, com sua bondade, iludir-se muito sobre as pessoas.<br /><br />
+                  Mas é preciso cuidado para não ficar preso à organização prática da vida e, com sua bondade, iludir-se muito sobre as pessoas.<br /><br />
                   Tem necessidade de se "escorar" num parceiro ou num sócio mais prático do que ele, que o ajudará a disciplinar-se.<br /><br />
                   A espiritualidade pode e deve ser desenvolvida agora com mais liberdade, disciplina e maturidade. <br />`,
 
@@ -3746,7 +3746,7 @@ const data = {
                   Se tomar consciência disso, pode, na vida atual, tomar-se um excelente amigo, dedicado e fiel.<br /><br />
                   Seu aprendizado é desenvolver a espiritualidade e aprender a canalizar objetivamente suas tendências revolucionárias. Comprometer-se com um grupo de trabalho e fortalecer suas amizades. <br />`,
 
-                  `Peixes, na via negativa, é a prisão do Zodíaco. Essa posição indica um nativo idealista, mas desti¬nado a alguns sacrifícios.<br /><br />
+                  `Peixes, na via negativa, é a prisão do Zodíaco. Essa posição indica um nativo idealista, mas destinado a alguns sacrifícios.<br /><br />
                   O destino não é um acaso, não é coisa que se possa inventar: o nativo o escolheu antes de nascer.<br /><br />
                   Podemos supor que é a liquidação de uma dívida anterior muito pesada (o nativo pode ter perseguido inocentes em vidas passadas).<br /><br />
                   Netuno é o regente de Peixes, fala sobre os temas transcendentais, a fantasia e a imaginação. É preciso observar se há tendência para fuga da realidade, os sonhos irreais e a autodestruição.<br /><br />
@@ -4544,7 +4544,7 @@ const data = {
                   Seu cônjuge pode ser vítima desse mesmo sentimento de insegurança. O nativo deve compreender que as traições, a fuga, a desconfiança dos outros são a consequência das suas próprias traições do passado. O respeito aos seus familiares exige a retidão com relação a eles. <br />`,
 
                   `Em vidas passadas o nativo foi manipulador em sua família, pode ter magoado seus familiares. Sua atitude para com eles foi destruidora, a ponto de criar um pesado carma familiar.<br /><br />
-                  Agarrava-se à família porque tinha uma sede in¬saciável de segurança afetiva. Depois, exasperado com essa dependência emocional, tentava se libertar dela se tornando o mais odioso possível.<br /><br />
+                  Agarrava-se à família porque tinha uma sede insaciável de segurança afetiva. Depois, exasperado com essa dependência emocional, tentava se libertar dela se tornando o mais odioso possível.<br /><br />
                   Agredindo seus parentes, oprimindo-os com exigências extravagantes, atraía para si toda a atenção, o tempo e as forças de todos.<br /><br />
                   Um vampiro do coração. De tal maneira que não restavam mais à sua família, alternativas senão a da escravidão ou da revolta.<br /><br />
                   Nesta vida o nativo deve reconhecer em si essa tendência de abusar dos laços familiares e se esforçar para transformar toda tirania.<br /><br />
@@ -4699,7 +4699,7 @@ const data = {
 
                   `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.<br /><br />
                   Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Dotado de grande criatividade em vidas passadas, mas de natureza dominadora, deixou de ouvir a opinião dos outros.<br /><br />
-                  De qualquer modo, não seguiu os con¬selhos. Foi considerado intrometido e exibicionista.<br /><br />
+                  De qualquer modo, não seguiu os conselhos. Foi considerado intrometido e exibicionista.<br /><br />
                   É preciso cuidado para não exigir o impossível dos filhos, dos seus amores, de seu cônjuge, porque se superestima e tem ambições exageradas.  Numa vida passada, pode ter sido um pai ou uma mãe intransigente.<br /><br />
                   Ou um amante execrável, preocupado apenas com sua própria satisfação sexual e afetiva. Pode ter sido também um incorrigível jogador. Para se libertar, deve adotar uma atitude diferente.<br /><br />
                   Sobretudo prestar atenção às necessidades de seus filhos e de seu parceiro amoroso. Dedicando muito tempo às atividades de lazer, fará muito bem se zelar pela qualidade destas. <br />`,
@@ -5099,9 +5099,9 @@ const data = {
 
                   `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.<br /><br />
                   Conclusão: pouco ou nenhum progresso... É preciso recomeçar! Em vidas passadas, o nativo não parece ter brilhado por suas qualidades conjugais, ou cultivado parcerias éticas e saudáveis.<br /><br />
-                  Ele (ou ela) não se preocupava em ser fiel (tanto nas asso¬ciações, quanto no seu casamento).<br /><br />
+                  Ele (ou ela) não se preocupava em ser fiel (tanto nas associações, quanto no seu casamento).<br /><br />
                   O dinheiro tinha, certamente, um papel determinante: procura de um parceiro rico ou perda de dinheiro pelo parceiro ou ainda chantagem exercida sobre este último pelo nativo, que detinha o dinheiro.<br /><br />
-                  De qualquer modo, tudo lhe servia de meio de domi¬nação: o dinheiro, a lei, os contratos, a influência social.<br /><br />
+                  De qualquer modo, tudo lhe servia de meio de dominação: o dinheiro, a lei, os contratos, a influência social.<br /><br />
                   Na vida atual, o nativo está sujeito a novos dissabores conjugais (e legais) se não respeitar seus parceiros. Deve aprender a crescer em conjunto, cultivar parcerias equilibradas e justas. <br />`,
 
                   `Saturno está no sector das relações sociais, das associações e parcerias. O nativo não assumiu as responsabilidades enquanto parceiro. Ignorou a lealdade e o respeito à palavra dada, deve.<br /><br />
@@ -5204,7 +5204,7 @@ const data = {
                   Alguns podem até mesmo contar com dons mediúnicos e se comunicar telepaticamente com habitantes de outras esferas.<br /><br />
                   Com frequência, os nativos se sentem atraídos por negócios como casas funerárias, seguros, contabilidade de impostos e levantamento corporativo de fundos. <br />`,
 
-                  `Saturno na Oitava Casa indica envolvimento com finanças de parcei¬ros, dinheiro corporativo, seguros, impostos e heranças, o que sempre traz responsabilidades.<br /><br />
+                  `Saturno na Oitava Casa indica envolvimento com finanças de parceiros, dinheiro corporativo, seguros, impostos e heranças, o que sempre traz responsabilidades.<br /><br />
                   Os nativos devem desenvolver seu senso de justiça na utilização de recursos materiais, porque são responsáveis pelas suas propriedades, bem como pelas dos outros.<br /><br />
                   Há possibilidade de ocorrer litígios ou outros problemas com dinheiro, heranças ou bens de outras pessoas.<br /><br />
                   Talvez lhes neguem direitos legais sobre heranças. Ou em caso de divórcio, podem sofrer perdas por meio de pensões alimentícias.<br /><br />
@@ -5325,9 +5325,9 @@ const data = {
 
                   `Levado por um forte instinto vital, o nativo dispõe de um excepcional poder. Tanto para o bem, quanto para o mal.<br /><br />
                   Que fez ele, em suas vidas anteriores? Muitas experiências sexuais e aventuras na vida noturna. É alguém que "viveu muito" e que, como tal, conhece os recantos secretos da alma humana.<br /><br />
-                  Tendo usado os poderes do dinheiro em seu proveito e tendo manipulado as pes¬soas para saciar sua própria sede de poder, foi tanto mais negativo quanto grande era a sua influência.<br /><br />
-                  Tendo desvirtuado os mais altos valores espi¬rituais em seu benefício, abusou da fé dos outros. Assim, semeou a morte em tomo de si, acarretando o fim violento das suas empresas, e das suas relações afetivas.<br /><br />
-                  Nesta vida Plutão lhe dá podero¬sos meios para mudar o eixo de sua evolução. Seus dons devem ser utilizados para a cura, a transformação, a purificação e o desenvolvimento espiritual. <br />`,
+                  Tendo usado os poderes do dinheiro em seu proveito e tendo manipulado as pessoas para saciar sua própria sede de poder, foi tanto mais negativo quanto grande era a sua influência.<br /><br />
+                  Tendo desvirtuado os mais altos valores espirituais em seu benefício, abusou da fé dos outros. Assim, semeou a morte em tomo de si, acarretando o fim violento das suas empresas, e das suas relações afetivas.<br /><br />
+                  Nesta vida Plutão lhe dá poderosos meios para mudar o eixo de sua evolução. Seus dons devem ser utilizados para a cura, a transformação, a purificação e o desenvolvimento espiritual. <br />`,
 
                   `Quem tem Quíron na casa 8 pode se tornar um bom terapeuta sexual e ajudar outros a encontrar o prazer na vida sexual, porém sua vida sexual não é satisfatória. Alguns podem se sentir impotentes como uma fuga do sexo, com medo que outros possam dominá-lo.<br /><br />
                   Há possibilidade ainda da compulsão por sexo. O mito de Quíron está muito presente nessa colocação: tem talento para curar ou reabilitar os outros, mas não a si mesmo e isso pode estar presente também na reabilitação de qualquer deficiência, mental ou física.<br /><br />
@@ -5517,9 +5517,9 @@ const data = {
                   `A casa 9 fala dos ideais filosóficas e espirituais, da justiça e da Lei. Portanto, a transformação de Plutão se dá nesses assuntos.<br /><br />
                   Nos melhores casos, o planeta indica apenas a continuação de um trabalho que não pôde ser completado numa vida passada.<br /><br />
                   O nativo pode ter sido sacerdote, missionário ou juiz. Quando morreu, não estava satisfeito com sua tarefa, julgava que algo não fora realizado.<br /><br />
-                  Desejava então recomeçar nesta vida. Nos piores casos, o nativo abusou do poder, quer jurídico, quer reli¬gioso (ou os dois, num país e numa época em que estavam misturados).<br /><br />
+                  Desejava então recomeçar nesta vida. Nos piores casos, o nativo abusou do poder, quer jurídico, quer religioso (ou os dois, num país e numa época em que estavam misturados).<br /><br />
                   Era ele um missionário que impunha à força suas ideias religiosas? Tinha ele matado pessoas em nome de sua fé?<br /><br />
-                  Tinha ele expor¬tado para um país estrangeiro ideias destruidoras, embaladas numa apre¬sentação sedutora?<br /><br />
+                  Tinha ele exportado para um país estrangeiro ideias destruidoras, embaladas numa apresentação sedutora?<br /><br />
                   De qualquer modo, uma sede de poder e desejos sexuais dissimulados sob uma autoridade religiosa tinham conduzido o nativo a um comportamento sem piedade.<br /><br />
                   Nesta vida, o nativo deve sobre tudo cultivar a tolerância. Pode reencontrar suas antigas vítimas ao sabor das circunstâncias.<br /><br />
                   Mas se expandir a consciência, buscar sabedoria e praticar uma espiritualidade generosa, sua dívida cármica será eliminada. <br />`,
@@ -5708,7 +5708,7 @@ const data = {
                   Daí as suas dificuldades profissionais hoje: orientação difícil entre várias profissões, patrões odiosos que o perseguem ou trapaças no emprego. Se o nativo ainda não aprendeu uma lição suficiente das suas vidas passadas, seus superiores, até mesmo os melhores, irão recusar-lhe a confiança.<br /><br />
                   Mas é possível também que, tendo compreendido isso, o nativo seja perfeitamente íntegro, embora deva ainda liquidar algumas dívidas para com aqueles que lesara anteriormente.<br /><br />
                   Isso se traduz por desilusões nos seus sucessivos empregos. O nativo deve então desenvolver uma atitude de desprendimento com relação à vida profissional.<br /><br />
-                  Caso consiga, pela inte¬gridade, inspirar confiança, é capaz de ir longe, pois desde muitas vidas passadas tem a experiência das responsabilidades superiores. <br />`,
+                  Caso consiga, pela integridade, inspirar confiança, é capaz de ir longe, pois desde muitas vidas passadas tem a experiência das responsabilidades superiores. <br />`,
 
                   `Plutão retrógrado nesta casa inspira grandes ambições ao nativo. Indica que grandes poderes foram conquistados em vidas passadas. Mas esse poder foi negociado ou usado mal.<br /><br />
                   Ou ainda, se esse poder foi perdido gerou uma grande frustração. O nativo reencarna com o desejo apaixonado de retomá-lo. Mas não como ditadores. Seu gosto muito forte pelo poder não chega a tanto.<br /><br />
@@ -5886,7 +5886,7 @@ const data = {
                   Não cultivou a responsabilidade necessária para o cultivo de bons amigos. Não se comprometeu com o trabalho em grupo. Pode ter sido egoísta ou interesseiro.<br /><br />
                   Pode ter cultivado amigos “inferiores” para se valorizar. Ou amigos "úteis" para suas ambições. Nesta vida, corre o risco de ficar privado de verdadeiros amigos.<br /><br />
                   Pode sofrer com isso e questionar o motivo. É importante que agora escolha seus amigos sem motivações egoístas ou interesses mesquinhos.<br /><br />
-                  Com abertura para a troca espiritual e afetiva, reen¬contrará pouco a pouco o sentido das amizades.<br /><br />
+                  Com abertura para a troca espiritual e afetiva, reencontrará pouco a pouco o sentido das amizades.<br /><br />
                   O trabalho com assistência social, ongs, causas humanitárias ou os projetos de grupo conscientes também podem ajudá-lo a liquidar essa dívida cármica. <br />`,
 
                   `Esta posição indica pessoas liberais, preocupadas com a verdade e os acontecimentos e que não levam em consideração a tradição ou aprovação alheia.<br /><br />
@@ -5900,7 +5900,7 @@ const data = {
                   Geralmente possuem muitos amigos incomuns, mental e espiritualmente estimulantes. Gostam de atividades em grupo que tenham propósitos humanitários ou científicos.<br /><br />
                   O seu senso de igualdade as torna tolerantes com aqueles que têm ideias e comportamento semelhantes. Nisso, são muito democráticas. <br />`,
 
-                  `O nativo traz de vidas passadas o desco¬nhecimento dos valores da amizade. Netuno acrescenta aí uma matriz de traição: a entidade seduzia as pessoas, fazia amigos facilmente e os usava.<br /><br />
+                  `O nativo traz de vidas passadas o desconhecimento dos valores da amizade. Netuno acrescenta aí uma matriz de traição: a entidade seduzia as pessoas, fazia amigos facilmente e os usava.<br /><br />
                   Depois abandonava quando não tinha mais nada a oferecer. Todos nós conhecemos pessoas assim: quando se trata de uma brilhante festa, elas se aproximam.<br /><br />
                   Mas quando o anfitrião, arruinado, está no hospital ou na prisão, quem irá visitá-lo? Certamente não os falsos amigos.<br /><br />
                   Nesta vida, pode haver dificuldade de fazer amigos: as suas amizades terminam rapidamente, ou desaparecem misteriosamente.<br /><br />
@@ -5909,10 +5909,10 @@ const data = {
                   De qualquer modo, Netuno retrógrado na casa 11 mostra vidas passadas nas quais o nativo se deixou seduzir por amigos instáveis, desonestos, de ideias confusas e nebulosas.<br /><br />
                   Esses mesmos amigos desastrosos podem retornar nesta vida atual: o nativo deve então cultivar muito bom-senso na escolha dos que a cercam. <br />`,
 
-                  `Os nativos com Plutão retrógrado nessa casa experimentaram no passado a amargura de decepções com amigos e devem agora aprender a amizade desinteres¬sada.<br /><br />
+                  `Os nativos com Plutão retrógrado nessa casa experimentaram no passado a amargura de decepções com amigos e devem agora aprender a amizade desinteressada.<br /><br />
                   Em suas vidas anteriores estavam, antes de tudo, mais preocupados em receber, do que em dar. O nativo deseja conquistar amigos, não importa a que preço.<br /><br />
                   Traz a tendência de fechar os olhos para suas próprias motivações e para a qualidade do "amigo", estabelecendo uma relação baseada apenas no interesse e nas manipulações.<br /><br />
-                  É por isso que esse tipo de amizade muitas vezes acaba mal: o ciúme não demora a se infiltrar. Colhendo o que haviam semeado, pergun¬tam-se hoje por que os amigos lhes fogem.<br /><br />
+                  É por isso que esse tipo de amizade muitas vezes acaba mal: o ciúme não demora a se infiltrar. Colhendo o que haviam semeado, perguntam-se hoje por que os amigos lhes fogem.<br /><br />
                   Mas caminham em direção à descoberta da verdadeira amizade: simpatia espontânea baseada numa pesquisa espiritual comum.<br /><br />
                   Esta só pode existir ao longo prazo, entre dois seres suficientemente conscientes e esclarecidos. <br />`,
 
@@ -6080,7 +6080,7 @@ const data = {
                   `Do ponto de vista da saúde, o nativo destruiu-se a si mesmo (drogas, bebidas ou uso neurótico de medicamentos perigosos). Em todo caso, faltava-lhe qualquer disciplina na gestão de sua saúde.<br /><br />
                   É possível também que o nativo já tenha encarnado várias vezes para liquidar esse carma, sem conseguir: a cada vez, perdeu o pé e se afogou.<br /><br />
                   Nesta vida pode se libertar através do auxilio ao próximo e com trabalhos de caridade (cuidar de doentes num hospital ou de prisioneiros, por exemplo).<br /><br />
-                  Deve cultivar humildade e respeitar seus limites, sem se encarregar de pro¬gramas impossíveis e pesados.<br /><br />
+                  Deve cultivar humildade e respeitar seus limites, sem se encarregar de programas impossíveis e pesados.<br /><br />
                   É preciso aprender a respeitar seus limites energéticos, cuidar da saúde junto com o desenvolvimento da espiritualidade. <br />`,
 
                   `Quando Júpiter está retrógrado, indica que o nativo não alçara voo em vidas passadas e suas vidas precedentes foram vividas no desperdício ou na limitação. Não renderam os frutos previstos.<br /><br />
