@@ -288,44 +288,44 @@ define(['jquery', 'utils'], function($, utils) {
                 titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Juno na ' : '<strong>Juno em ';
                 break;
 
-                case 'mercúrio retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Mercúrio Retrógado na ' : '<strong>Mercúrio Retrógado em ';
+                case 'mercúrio retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Mercúrio Retrógrado na ' : '<strong>Mercúrio Retrógrado em ';
                 break;
 
-                case 'vênus retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Vênus Retrógado na ' : '<strong>Vênus Retrógado em ';
+                case 'vênus retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Vênus Retrógrado na ' : '<strong>Vênus Retrógrado em ';
                 break;
 
-                case 'marte retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Marte Retrógado na ' : '<strong>Marte Retrógado em ';
+                case 'marte retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Marte Retrógrado na ' : '<strong>Marte Retrógrado em ';
                 break;
 
-                case 'júpter retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Júpter Retrógado na ' : '<strong>Júpter Retrógado em ';
+                case 'júpter retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Júpter Retrógrado na ' : '<strong>Júpter Retrógrado em ';
                 break;
 
-                case 'saturno retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Saturno Retrógado na ' : '<strong>Saturno Retrógado em ';
+                case 'saturno retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Saturno Retrógrado na ' : '<strong>Saturno Retrógrado em ';
                 break;
 
-                case 'urano retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Urano Retrógado na ' : '<strong>Urano Retrógado em ';
+                case 'urano retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Urano Retrógrado na ' : '<strong>Urano Retrógrado em ';
                 break;
 
-                case 'netuno retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Netuno Retrógado na ' : '<strong>Netuno Retrógado em ';
+                case 'netuno retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Netuno Retrógrado na ' : '<strong>Netuno Retrógrado em ';
                 break;
 
-                case 'plutão retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Plutão Retrógado na ' : '<strong>Plutão Retrógado em ';
+                case 'plutão retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Plutão Retrógrado na ' : '<strong>Plutão Retrógrado em ';
                 break;
 
-                case 'quíron retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Quíron Retrógado na ' : '<strong>Quíron Retrógado em ';
+                case 'quíron retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Quíron Retrógrado na ' : '<strong>Quíron Retrógrado em ';
                 break;
 
-                case 'juno retrógado':
-                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Juno Retrógado na ' : '<strong>Juno Retrógado em ';
+                case 'juno retrógrado':
+                titleReturned = (indexPassedIn.element2[1] === 0) ? '<strong>Juno Retrógrado na ' : '<strong>Juno Retrógrado em ';
                 break;
 
                 default:
