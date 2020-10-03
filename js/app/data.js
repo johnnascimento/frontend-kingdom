@@ -325,43 +325,43 @@ const data = {
                   id: 15
             },
             {
-                  title: `Mercúrio retrógado`,
+                  title: `Mercúrio retrógrado`,
                   id: 16
             },
             {
-                  title: `Vênus retrógado`,
+                  title: `Vênus retrógrado`,
                   id: 17
             },
             {
-                  title: `Marte retrógado`,
+                  title: `Marte retrógrado`,
                   id: 18
             },
             {
-                  title: `Júpter retrógado`,
+                  title: `Júpter retrógrado`,
                   id: 19
             },
             {
-                  title: `Saturno retrógado`,
+                  title: `Saturno retrógrado`,
                   id: 20
             },
             {
-                  title: `Urano retrógado`,
+                  title: `Urano retrógrado`,
                   id: 21
             },
             {
-                  title: `Netuno retrógado`,
+                  title: `Netuno retrógrado`,
                   id: 22
             },
             {
-                  title: `Plutão retrógado`,
+                  title: `Plutão retrógrado`,
                   id: 23
             },
             {
-                  title: `Quíron retrógado`,
+                  title: `Quíron retrógrado`,
                   id: 24
             },
             {
-                  title: `Juno retrógado`,
+                  title: `Juno retrógrado`,
                   id: 25
             }
       ],
