@@ -4,180 +4,207 @@ const data = {
       fixedTexts: {
             planets: [
                   {
-                        title: `<span class="title highlighted">Astrologia | O significado dos planetas</span>`
+                        title: `<span class="title highlighted text-uppercase"><span class="font-normal">Astrologia</span> | O significado dos planetas</span>`
                   },
                   {
-                        sol:`<span class="subTitle">Sol: </span>
+                        subtitle: `<span class="line-breaker"></span>`
+                  },
+                  {
+                        sol:`<span class="subTitle inline">Sol: </span>
                         <p class="content">Esse astro representa a maneira como você expressa a sua natureza mais essencial, o seu eu na forma mais básica.
                         Ele aponta a forma como você compreende o seu poder pessoal e a sua identidade, revelando a forma como você se afirma e se mostra diante do mundo. Sua influência é considerável, é o pai, o gerador universal em nosso mundo.<br /><br />
                         <span class="highlighted">Aspectos positivos</span>: Magnanimidade, generosidade, vitalidade, representa o eu interior, ânimo, grandiosidade, alegria de viver, liderança, autoridade, nobreza, criatividade, capacidade de organização.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Orgulho, arrogância, vaidade, autoconfiança excessiva, autoritarismo e presunção.</p>`
+                        <span class="highlighted">Aspectos negativos</span>: Orgulho, arrogância, vaidade, autoconfiança excessiva, autoritarismo e presunção.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        Lua: `<span class="subTitle">LUA: </span>
+                        Lua: `<span class="subTitle inline">LUA: </span>
                         <p class="content">A Lua é o astro relacionado às questões emocionais. Ela mostra como você lida com a sua sensibilidade e as reações emotivas que você tem diante da sua vida.<br /><br />
                         Aqui também leve em consideração os condicionamentos que você traz da sua infância.<br /><br />
                         A lua é de grande importância para o homem, é na verdade a matriz astral de todas as produções terrestres de que o Sol é o pai vivo. Tudo o que chega à Terra passa pela Lua e tudo o que parte da Terra, pela Lua também passa.<br /><br />
                         <span class="highlighted">Aspectos positivos</span>: representa a humildade, as emoções, maternidade, sensibilidade, intuição, imaginação, receptividade, boa memória e fertilidade.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Preguiça, irracionalidade, inconstância, indecisão, rege as instabilidades, os humores, teimosia e timidez.</p>`
+                        <span class="highlighted">Aspectos negativos</span>: Preguiça, irracionalidade, inconstância, indecisão, rege as instabilidades, os humores, teimosia e timidez.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        mercurio: `<span class="subTitle">MERCÚRIO: </span>
+                        mercurio: `<span class="subTitle inline">MERCÚRIO: </span>
                         <p class="content">Esse é o planeta da razão. Mercúrio está relacionado a tudo que envolve o raciocínio e a inteligência humana. É também o astro da comunicação e do comportamento mental. Ele revelará a forma como você se expressa.<br /><br />
                         O planeta mais próximo do Sol representa a infância com seu trasbordamento de ação e vitalidade.<br /><br />
                         <span class="highlighted">Aspectos positivos</span>: Paciência, eloquência, inteligência, rapidez de raciocínio, comunicabilidade, astúcia e diplomacia.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Inveja, tendência a trapacear, cinismo, descontrole nervoso e capacidade crítica exacerbada.</p>`
+                        <span class="highlighted">Aspectos negativos</span>: Inveja, tendência a trapacear, cinismo, descontrole nervoso e capacidade crítica exacerbada.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        venus: `<span class="subTitle">VÊNUS: </span>
+                        venus: `<span class="subTitle inline">VÊNUS: </span>
                         <p class="content">Esse planeta é o representante da beleza e do amor. Ele mostra a sua forma de lidar com o amor e com a feição. Mostra onde se encontra os valores que você dá as coisas e as pessoas e como você enxerga o belo.<br /><br />
                         Conhecida como a “Estrela da Manhã”, representa a juventude feminina com todas as suas faceirices, suas seduções e seus perigos – é a deusa do amor em todas suas modalidades.<br /><br />
                         <span class="highlighted">Aspectos positivos</span>: Temperança, graça, ternura, estética, charme, bom gosto, amor, leveza, rege as artes, a cultura, os pequenos prazeres, cuidados com a aparência, rege também o matrimônio e o senso de valor.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Regente da luxúria, das paixões carnais desenfreadas, amoralidade e da incapacidade de se lidar com os impulsos sexuais e a sensualidade.</p>`
+                        <span class="highlighted">Aspectos negativos</span>: Regente da luxúria, das paixões carnais desenfreadas, amoralidade e da incapacidade de se lidar com os impulsos sexuais e a sensualidade.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        marte: `<span class="subTitle">MARTE: </span>
+                        marte: `<span class="subTitle inline">MARTE: </span>
                         <p class="content">Marte mostra o seu relacionamento com as questões que exigem esforço e conquista. Como você lida com a sua força? Ele vai mostrar como funciona o seu espírito de luta.<br /><br />
                         O mais próximo da Terra. É a própria imagem do homem de guerra. Possui a coragem, a energia, a cólera e a violência.<br />
                         <span class="highlighted">Aspectos positivos</span>: Diligência, coragem, determinação, energia, iniciativa, liderança e força.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Ira, impulsividade, agressividade, brutalidade, egoísmo, espírito vingativo, instinto destrutivo e ambição.</p>`
+                        <span class="highlighted">Aspectos negativos</span>: Ira, impulsividade, agressividade, brutalidade, egoísmo, espírito vingativo, instinto destrutivo e ambição.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        jupter: `<span class="subTitle">JUPTER: </span>
+                        jupter: `<span class="subTitle inline">JUPTER: </span>
                         <p class="content">A forma como você vai buscar um sentido para a sua existência é representada por Júpiter. Esse planeta revela as questões relacionadas a oportunidades, crescimento pessoal e objetivo de vida.<br /><br />
                         A fé, a filosofia e o sentido de justiça também são temas representados por esse planeta. Calmo e metódico é a imagem do homem de razão e de vontade, no qual as violências e arrebatamentos da juventude estão domados, sendo verdadeiramente senhor de si mesmo.<br /><br />
                         <span class="highlighted">Aspectos positivos</span>: Caridade, justiça, generosidade, aspirações, busca pelo que é superior, rege o pensamento filosófico, jovialidade, indulgência, ordem, crescimento, evolução e representa a mente superior.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Gula, ambição, arrogância, megalomania e autoindulgência.</p>`
+                        <span class="highlighted">Aspectos negativos</span>: Gula, ambição, arrogância, megalomania e autoindulgência.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        saturno: `<span class="subTitle">SATURNO: </span>
+                        saturno: `<span class="subTitle inline">SATURNO: </span>
                         <p class="content">A representação das suas inseguranças e valores morais é representada por Saturno.<br /><br />
                         A forma como você pretende se destacar, a sua excelência e poder de determinação também são pontos importantes para esse planeta.<br /><br />
                         As regras que regem a nossa vida e as escolhas morais que acabamos optando são demonstradas na análise desse planeta. Indica o homem triste, porém de grande experiência.<br /><br />
                         Sua energia conduz a um comportamento restritivo-pessimista e acompanha a introversão e o isolamento.<br /><br />
                         <span class="highlighted">Aspectos positivos</span>: Castidade, Sabedoria, responsabilidade, senso de organização, paciência, representa a ação do tempo, a reflexão profunda, amadurecimento, experiência, solidez, disciplina, e rege a forma.<br /><br />
                         <span class="highlighted">Aspectos negativos</span>: Avareza, voluptuosidade, ambição, egoísmo, severidade, crueldade, rigidez excessiva, mesquinhez e rege a tristeza e as limitações.<br /><br />
-                        Deste modo, encerra-se o <strong class="highlighted is-bold">Septenário Astrológico</strong>, determinado por muitos autores como uma fase ou ciclo.<br /><br />
+                        Deste modo, encerra-se o <strong class="highlighted is-bold-colored">Septenário Astrológico</strong>, determinado por muitos autores como uma fase ou ciclo.<br /><br />
                         Como se vê o <em>Sol, Mercúrio, Marte, Júpiter e Saturno</em> representam os diferentes estágios da vida humana, desde a infância até a velhice, além de indicar o caráter moral e intelectual em cada um destes períodos que o ente humano atravessa.<br /><br />
                         Quanto à <em>Lua e Vênus</em>, especificamente, estes se relacionam com o <em>feminino</em>, representando as suas duas grandes modalidades; a Maternidade e o Amor.<br /><br />
-                        Do oitavo planeta em diante, os chamados <strong class="highlighted is-bold">transsaturninos</strong>, inicia-se uma nova série que representa outro ciclo mais elevado de influências astrais.<br /><br />
-                        Assim, temos uma trilogia intimamente ligada às forças que constantemente impelem à mudança psicológica e a transformação que nos leva ao desenvolvimento.</p>`
+                        Do oitavo planeta em diante, os chamados <strong class="highlighted is-bold-colored">transsaturninos</strong>, inicia-se uma nova série que representa outro ciclo mais elevado de influências astrais.<br /><br />
+                        Assim, temos uma trilogia intimamente ligada às forças que constantemente impelem à mudança psicológica e a transformação que nos leva ao desenvolvimento.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        urano: `<span class="subTitle">URANO: </span>
+                        urano: `<span class="subTitle inline">URANO: </span>
                         <p class="content">Urano representa a revolução e o nosso espírito de mudança. Em quais áreas você expressa sua originalidade? Aqui é mostrada a sua sede pelo novo, pelo desconhecido e também onde reside a sua confusão mental e contradições.<br /><br />
-                        Representa a energia explosiva do redemoinho caótico. É a força que se manifesta em mudanças súbitas, nos planos do ser. É o intelecto ligado aos planos superiores da iniciação.</p>`
+                        Representa a energia explosiva do redemoinho caótico. É a força que se manifesta em mudanças súbitas, nos planos do ser. É o intelecto ligado aos planos superiores da iniciação.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        netuno: `<span class="subTitle">NETUNO: </span>
+                        netuno: `<span class="subTitle inline">NETUNO: </span>
                         <p class="content">As relações com a espiritualidade são mostradas em Netuno. Até que ponto as ilusões que criamos são realmente crenças?<br />
                         As tendências que você se apega para expressar uma dimensão maior e as aparências que criamos para disfarçar a nossa realidade são retratadas nesse planeta.<br /><br />
-                        Representa a sublimação e o preparo ao retorno da espiritualidade incorporal, pois sua força age através do mais puro amor, levado ao idealismo que transcende em beleza.</p>`
+                        Representa a sublimação e o preparo ao retorno da espiritualidade incorporal, pois sua força age através do mais puro amor, levado ao idealismo que transcende em beleza.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        plutao: `<span class="subTitle">PLUTÃO: </span>
+                        plutao: `<span class="subTitle inline">PLUTÃO: </span>
                         <p class="content">Representa a forma como você lida com as questões relacionadas à morte e ao renascimento.<br /><br />
                         Plutão vai mostrar a existência de um poder maior que você e como você lida com essa descoberta. Está ligado aos ciclos de vida e à descoberta de grandiosidades maiores que você.<br /><br />
                         Representa o grande princípio masculino. Muitos astrólogos concordam em afirmar que Plutão simboliza uma dimensão tão complexa que está envolto em uma aura misteriosa. Está relacionado aos mais profundos ideais espirituais.<br /><br />
-                        Sendo assim, Plutão representa também, o impulso vital em busca da forma. Marcando os passos evolutivos da nossa humanidade.</p>`
+                        Sendo assim, Plutão representa também, o impulso vital em busca da forma. Marcando os passos evolutivos da nossa humanidade.</p>
+                        <span class="line-breaker"></span>`
                   }
             ],
             houses: [
                   {
-                        title: `<span class="title">Astrologia | O significado das casas</span>`
+                        title: `<span class="title houses highlighted text-uppercase page-break-before"><span class="font-normal">Astrologia</span> | O significado das casas</span>`
                   },
                   {
                         subtitle: `<span class="title small">- A importância das casas astrológicas: angulares, sucedentes e cadentes.</span>`
                   },
                   {
-                        casasAngulares: `<span class="subTitle inline">Casas angulares: </span><em class="followingTitle highlighted">1, 4, 7 e 10.</em>
+                        casasAngulares: `<span class="subTitle inline italic text-normal">Casas angulares: </span><em class="followingTitle highlighted">1, 4, 7 e 10.</em>
                         <p class="content">A palavra "angular" aqui se refere aos ângulos principais, as quais são: a primeira, quarta, sétima e décima casa. A palavra-chave para as casas angulares são o "Eu". <br /><br />
-                        Nesse caso, o "Eu" significa "O Ego". As casas angulares nos dizem como lidar com a realidade e como começamos as coisas.</p>`
+                        Nesse caso, o "Eu" significa "O Ego". As casas angulares nos dizem como lidar com a realidade e como começamos as coisas.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casasSucedentes: `<span class="subTitle inline">Casas sucedentes: </span><em class="followingTitle highlighted">2, 5, 8 e 11.</em>
+                        casasSucedentes: `<span class="subTitle inline italic text-normal">Casas sucedentes: </span><em class="followingTitle highlighted">2, 5, 8 e 11.</em>
                         <p class="content">A palavra "sucedente" significa "seguir" ou "alcançar" (ou meios para se seguir ou alcançar o sucesso). As casas sucedentes são: a segunda, quinta, oitava e décima primeira.<br /><br />
                         A palavra-chave para as casas sucedentes é "coleção". Uma coleção pode significar juntar dinheiro.<br /><br />
                         Também pode significar juntar coisas e se proteger, em prol de segurança.<br /><br />
                         Uma consequência direta de colecionar coisas é a organização. Precisamos organizar e nos organizar. Isto implica a gestão do que você tem e o desenvolvimento dos seus recursos ao seu favor.<br /><br />
-                        E tudo isso pode ser um prazer, pois você pode desfrutar de suas aquisições. Este é o ciclo! As casas sucedentes estão ligadas aos signos fixos.</p>`
+                        E tudo isso pode ser um prazer, pois você pode desfrutar de suas aquisições. Este é o ciclo! As casas sucedentes estão ligadas aos signos fixos.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casasCadentes: `<span class="subTitle inline">Casas cadentes: </span><em class="followingTitle highlighted">3, 6, 9 E 12.</em>
+                        casasCadentes: `<span class="subTitle inline italic text-normal">Casas cadentes: </span><em class="followingTitle highlighted">3, 6, 9 E 12.</em>
                         <p class="content">Cadente nesse caso significa "queda", "chegar ao fim" ou "resolução". As casas cadentes são a terceira, sexta, nona e décima segunda. A palavra-chave para cadente é "dispersão". Um dos significados de dispersão é "dar" ou "doar".<br /><br />
                         Quando um grupo de pessoas segue em rumo para caminhos separados, dizemos que se dispersam. Outra maneira de exemplificar é em termos de reflexão (pensamento) e suas consequências.<br /><br />
                         Tendo tomado ação como seres conscientes, ganhamos segurança ou reunimos valores e conseguimos (ou não) refletir sobre algo (pensar seriamente sobre alguma coisa ou situação), portanto este é o ciclo de reação da ação, de lidar com as consequências.<br /><br />
                         Nas casas cadentes, refletimos sobre o que aconteceu antes e o que vamos fazer em seguida, ou seja, o que vai acontecer no futuro. É onde acontece o pensamento antes de tomar a próxima ação.<br /><br />
                         <em>No mundo, as casas cadentes aparecem periodicamente, nos momentos onde as estações do ano estão para mudar.</em><br /><br />
-                        Na astrologia, significa pensarmos sobre o passado e o futuro de uma forma mais ou menos crítica, detalhada e impessoal, com a intenção de usar o que aprendemos para dar os nossos próximos passos na vida.</p>`
+                        Na astrologia, significa pensarmos sobre o passado e o futuro de uma forma mais ou menos crítica, detalhada e impessoal, com a intenção de usar o que aprendemos para dar os nossos próximos passos na vida.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaUm: `<span class="subTitle inline">CASA 01 | </span><em class="followingTitle highlighted">casa angular:</em>
+                        casaUm: `<span class="subTitle inline text-normal">CASA 01 | </span><em class="followingTitle inline highlighted">casa angular:</em>
                         <p class="content">Aparência Pessoal, da Primeira abordagem e das situações da vida.<br />
                         <strong>A primeira casa rege o potencial pessoal, a forma como iniciamos as coisas e o próprio corpo ou aparência.</strong><br /><br />
-                        Por exemplo, se vênus está na primeira casa, temos a tendência a nos apresentar de uma forma harmoniosa e diplomática.</p>`
+                        Por exemplo, se vênus está na primeira casa, temos a tendência a nos apresentar de uma forma harmoniosa e diplomática.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaDois: `<span class="subTitle inline">CASA 02 | </span><em class="followingTitle highlighted">casa sucedente:</em>
+                        casaDois: `<span class="subTitle inline text-normal">CASA 02 | </span><em class="followingTitle inline highlighted">casa sucedente:</em>
                         <p class="content">Valores e do Dinheiro e como você lida com ele e seus Recursos.<br />
                         <strong>A segunda casa é muitas vezes associada à riqueza, de bens pessoais.</strong><br /><br />
-                        Naturalmente, o que acumulamos depende do valor que atribuímos. A segunda casa se preocupa com o que nós damos valor, incluindo nós mesmos e a nossa autoestima, assim, como também o que ganhamos.</p>`
+                        Naturalmente, o que acumulamos depende do valor que atribuímos. A segunda casa se preocupa com o que nós damos valor, incluindo nós mesmos e a nossa autoestima, assim, como também o que ganhamos.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaTres: `<span class="subTitle inline">CASA 03 | </span><em class="followingTitle highlighted">casa cadente: </em>
+                        casaTres: `<span class="subTitle inline text-normal">CASA 03 | </span><em class="followingTitle inline highlighted">casa cadente: </em>
                         <p class="content">Pensamentos, Aprendizagem, Comunicação e dos Irmãos.<br />
                         <strong>A terceira casa está preocupada com a comunicação,</strong><br />
                         Em certo sentido, pode se dizer que seria "dispersar" o nosso conhecimento e experiência para os outros.<br /><br />
                         É o ato de pensar sobre as coisas, ir aqui e ali compartilhando nosso conhecimento, assim como ganhando mais conhecimento.<br /><br />
-                        Este não é um conhecimento profundo, no qual é a preocupação da nona casa, e sim simplesmente fatos e informações. Literatura e comunicação verbal se ressaltam.</p>`
+                        Este não é um conhecimento profundo, no qual é a preocupação da nona casa, e sim simplesmente fatos e informações. Literatura e comunicação verbal se ressaltam.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaQuatro: `<span class="subTitle inline">CASA 04 | </span><em class="followingTitle highlighted">casa angular: </em>
+                        casaQuatro: `<span class="subTitle inline text-normal">CASA 04 | </span><em class="followingTitle inline highlighted">casa angular: </em>
                         <p class="content">Passado, da influência familiar, do Lar e dos Cuidados Recebidos.<br />
-                        <strong>A quarta casa é a da família, ou o "eu" em relação à família</strong>, significa o ego que criamos a partir do passado, as origens genéticas, a memória, o autodesenvolvimento, etc.</p>`
+                        <strong>A quarta casa é a da família, ou o "eu" em relação à família</strong>, significa o ego que criamos a partir do passado, as origens genéticas, a memória, o autodesenvolvimento, etc.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaCinco: `<span class="subTitle inline">CASA 05 | </span><em class="followingTitle highlighted">casa sucedente: </em>
+                        casaCinco: `<span class="subTitle inline text-normal">CASA 05 | </span><em class="followingTitle inline highlighted">casa sucedente: </em>
                         <p class="content">Criatividade, dos Filhos, da Recreação e do Namoro.<br />
                         <strong>A quinta casa, muitas vezes refere-se a prazeres, que são o resultado de alguma atividade.</strong><br /><br />
-                        Preocupa-se com amor e romance, assim como todos os tipos de entretenimento, incluindo quaisquer jogos e esportes. Também diz respeito a crianças.</p>`
+                        Preocupa-se com amor e romance, assim como todos os tipos de entretenimento, incluindo quaisquer jogos e esportes. Também diz respeito a crianças.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaSeis: `<span class="subTitle inline">CASA 06 | </span><em class="followingTitle highlighted">casa cadente: </em>
+                        casaSeis: `<span class="subTitle inline text-normal">CASA 06 | </span><em class="followingTitle inline highlighted">casa cadente: </em>
                         <p class="content">Saúde, do Trabalho e da sua Atitude diante deles.<br />
                         <strong>A sexta casa é a casa de serviço</strong>, onde voluntariamente oferecemos os nossos recursos pessoais e habilidades para ajudar os outros, fazer a manutenção e melhoras as coisas.<br /><br />
-                        É onde pensamos seriamente sobre questões de trabalho, rotinas e de saúde, e como resultado, compartilhamos nosso conhecimento, principalmente no sentido de fazer as coisas para os outros. `
+                        É onde pensamos seriamente sobre questões de trabalho, rotinas e de saúde, e como resultado, compartilhamos nosso conhecimento, principalmente no sentido de fazer as coisas para os outros.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaSete: `<span class="subTitle inline">CASA 07 | </span><em class="followingTitle highlighted">casa angular: </em>
+                        casaSete: `<span class="subTitle inline text-normal">CASA 07 | </span><em class="followingTitle inline highlighted">casa angular: </em>
                         <p class="content">Casamento e outras Relações de Compromissos.<br />
-                        <strong>A sétima casa é o "eu" em relação aos outros</strong> (interpessoal).</p>`
+                        <strong>A sétima casa é o "eu" em relação aos outros</strong> (interpessoal).</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaOito: `<span class="subTitle inline">CASA 08 | </span><em class="followingTitle highlighted">casa sucedente: </em>
+                        casaOito: `<span class="subTitle inline text-normal">CASA 08 | </span><em class="followingTitle inline highlighted">casa sucedente: </em>
                         <p class="content">Morte e Renascimento, do Sexo, da Reprodução e da Cura.<br />
                         <strong>A oitava casa às vezes se refere aos recursos compartilhados, incluindo heranças.</strong><br /><br />
-                        <strong>Também tem a ver com o sexo, regeneração</strong> e a rapidez com que você pode se recuperar de uma doença, etc. Trata da saúde, do dinheiro de outras pessoas e dos valores sociais.</p>`
+                        <strong>Também tem a ver com o sexo, regeneração</strong> e a rapidez com que você pode se recuperar de uma doença, etc. Trata da saúde, do dinheiro de outras pessoas e dos valores sociais.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaNove: `<span class="subTitle inline">CASA 09 | </span><em class="followingTitle highlighted">casa cadente: </em>
+                        casaNove: `<span class="subTitle inline text-normal">CASA 09 | </span><em class="followingTitle inline highlighted">casa cadente: </em>
                         <p class="content">Filosofia, da Vida, da Expansão da Consciência, do Saber, do Autoconhecimento e da Educação Superior.<br /><br />
                         <strong>A nona casa é a da filosofia e expansão da consciência</strong>, onde residem preocupações maiores e educação de nível superior, onde doamos o nosso tempo e esforço para expandir o nosso potencial mais elevado.<br />
-                        Aqui nós pensamos muito profundamente sobre as coisas, tomando viagens mais longas a fim de adquirir o conhecimento.</p>`
+                        Aqui nós pensamos muito profundamente sobre as coisas, tomando viagens mais longas a fim de adquirir o conhecimento.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaDez: `<span class="subTitle inline">CASA 10 | </span><em class="followingTitle highlighted">casa angular: </em>
+                        casaDez: `<span class="subTitle inline text-normal">CASA 10 | </span><em class="followingTitle inline highlighted">casa angular: </em>
                         <p class="content">Carreira, da sua Autoridade e da sua Posição no Mundo.<br />
-                        <stronng>A décima casa é o "eu público"</stronng> (fama, notoriedade), ou o "eu" visto pelas pessoas.</p>`
+                        <stronng>A décima casa é o "eu público"</stronng> (fama, notoriedade), ou o "eu" visto pelas pessoas.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaOnze: `<span class="subTitle inline">CASA 11 | </span><em class="followingTitle highlighted">casa sucedente: </em>
+                        casaOnze: `<span class="subTitle inline text-normal">CASA 11 | </span><em class="followingTitle inline highlighted">casa sucedente: </em>
                         <p class="content">Amigos, dos Grupos e da sua Transformação Social.<br />
                         <strong>A décima primeira casa refere-se aos amigos e grupos, que foram "colecionados".</strong><br /><br />
-                        Também se preocupa com as esperanças e desejos que nós temos. Está preocupada com o futuro, e tais preocupações também envolvem os valores que esperamos que a sociedade adote.</p>`
+                        Também se preocupa com as esperanças e desejos que nós temos. Está preocupada com o futuro, e tais preocupações também envolvem os valores que esperamos que a sociedade adote.</p>
+                        <span class="line-breaker"></span>`
                   },
                   {
-                        casaDoze: `<span class="subTitle inline">CASA 12 | </span><em class="followingTitle highlighted">casa cadente: </em>
+                        casaDoze: `<span class="subTitle inline text-normal">CASA 12 | </span><em class="followingTitle inline highlighted">casa cadente: </em>
                         <p class="content">Espiritualidade, do Comportamento Secreto e do Inconsciente.<br />
                         <strong>A décima segunda casa pode se referir ao carma, "lei do retorno" ou assuntos ditos religiosos ou espirituais.</strong><br />
                         Esta é uma casa de "não-eu", da quebra do ego, o que significa que está preocupada com as grandes instituições e formas mais impessoais de se lidar com as coisas, como hospitais, prisões, grandes burocracias, o serviço civil, o "além", etc.<br /><br />
@@ -188,16 +215,23 @@ const data = {
                         Qualquer pessoa que reveja sua vida é provável que pense em coisas que não fizeram e ou que gostariam de ter feito, assim como as coisas que fez ou que desejaram e não possuíram.<br /><br />
                         Isso pode resultar em sentimentos como alguma tristeza, culpa ou vergonha como também orgulho e satisfação, quando pensamos nas coisas boas que fizemos (ou mesmo nas tentações que resistimos). <br /><br />
                         <strong>A décima segunda casa também está preocupada com a saúde</strong>, seja como profissão ou como lidamos com a doença, com a meditação (reflexão), o autosacrifício (desprendimento) e a caridade (doação altruísta).<br /><br />
-                        Indica também áreas onde temos inimigos secretos, que podem ser até mesmo certos aspectos de nós mesmos, aqueles que agem como sabotadores subconscientes que podem nos levar a nossa ruína.</p>`
+                        Indica também áreas onde temos inimigos secretos, que podem ser até mesmo certos aspectos de nós mesmos, aqueles que agem como sabotadores subconscientes que podem nos levar a nossa ruína.</p>
+                        <span class="line-breaker"></span>`
                   }
                   
             ],
             observation: [
                   {
-                        info: `<p class="content">- Neste estudo interpretamos as possibilidades de cada planeta em cada signo e em cada casa do seu mapa. Aqui você tem um excelente material para autoconhecimento.<br /><br />
-                        - É importante sempre cultivar apenas o que há de melhor e potencializar os seus dons e talentos. Explore a sua visão interior e experimente ouvir a voz da sua intuição para que assim, possa sentir o despertar e o manifestar de todas as habilidades que existem adormecidas dentro de você.<br /><br />
-                        - Não fazemos a interpretação dos aspectos entre os planetas, ou seja: o estudo da relação entre eles. Assim, é possível que um detalhe ou outro não ressoe em você. Para uma interpretação mais pessoal, dinâmica, objetiva e interativa, recomendo sempre uma consulta particular com um Astrólogo de confiança, procure por Marcelo Dalla.<br /><br />
-                        - Vale imprimir este texto para ler, reler, sublinhar as partes com que mais se identificar e refletir sobre o que mais tocar o seu coração. Aproveite este momento para se reconectar com o seu propósito de Alma e Seja o Amor que você espera receber do mundo. Reconecte agora é hora do despertar.</p>`
+                        info: `<p class="content">Este é um relatório astrológico do seu mapa natal, com a interpretação de todos os planetas em cada casa astrológica e em cada signo, além dos Nodos Lunares, da Parte da Fortuna e dos asteroides Quíron e Juno.</p>
+                        <span class="subTitle text-normal">
+                              Observações
+                        </span>
+                        <p class="content">
+                              - Neste estudo interpretamos as possibilidades de cada planeta em cada signo e em cada casa do seu mapa. Aqui você tem um excelente material para autoconhecimento.<br /><br />
+                              - É importante sempre cultivar apenas o que há de melhor e potencializar os seus dons e talentos. Explore a sua visão interior e experimente ouvir a voz da sua intuição para que assim, possa sentir o despertar e o manifestar de todas as habilidades que existem adormecidas dentro de você.<br /><br />
+                              - Não fazemos a interpretação dos aspectos entre os planetas, ou seja: o estudo da relação entre eles. Assim, é possível que um detalhe ou outro não ressoe em você. Para uma interpretação mais pessoal, dinâmica, objetiva e interativa, recomendo sempre uma consulta particular com um Astrólogo de confiança, procure por Marcelo Dalla.<br /><br />
+                              - Vale imprimir este texto para ler, reler, sublinhar as partes com que mais se identificar e refletir sobre o que mais tocar o seu coração. Aproveite este momento para se reconectar com o seu propósito de Alma e Seja o Amor que você espera receber do mundo. Reconecte agora é hora do despertar.
+                        </p>`
                   }
             ]
       },

@@ -21,7 +21,7 @@ html {
 
 /* css style sheet */
 body {
-    @include font-size(1);
+    @include font-size(1.05);
 
     font-family: Verdana, Arial, sans-serif, Helvetica;
     line-height: 1.2;
@@ -135,7 +135,7 @@ body {
     }
 
     input {
-        @include font-size(1);
+        @include font-size(1.05);
     }
 
     nav,
@@ -150,7 +150,7 @@ body {
         text-align: center;
 
         > p {
-            @include font-size(1);
+            @include font-size(1.05);
 
             color: $boulder;
             pointer-events: none;
@@ -163,11 +163,25 @@ body {
         display: block;
 
         font-weight: bold;
+        text-transform: uppercase;
         color: $casal;
 
-        &.inline {
+        &.inline-block {
             display: inline-block;
             vertical-align: baseline;
+        }
+
+        &.inline {
+            display: inline;
+            vertical-align: baseline;
+        }
+
+        &.text-normal {
+            text-transform: initial;
+        }
+
+        &.italic {
+            font-style: italic;
         }
     }
 
@@ -175,18 +189,33 @@ body {
         color: $casal;
 
         &.followingTitle {
-            @include font-size(1.2);
+            @include font-size(1.05);
 
             display: inline-block;
             vertical-align: baseline;
-            padding-left: ($gutter/2);
 
             line-height: 1.4;
+
+            &.inline {
+                & + .content {
+                    display: inline;
+                    vertical-align: baseline;
+                }
+            }
+
+            & + .content {
+                padding-bottom: 0;
+            }
         }
 
         &.is-bold {
             font-weight: bold;
             color: $black;
+
+            &-colored {
+                font-weight: bold;
+                color: $casal;
+            }
         }
     }
 
@@ -213,36 +242,60 @@ body {
 
     .fixedContentSpot {
         .title {
-            @include font-size(1.4);
+            @include font-size(1.05);
 
             display: block;
             position: relative;
             margin: 0 auto;
-            padding: 0 0 ($gutter/2);
+            padding: 0 0 ($gutter/4);
 
             font-weight: bold;
-            line-height: 2;
+            line-height: 1.4;
             color: $casal;
 
+            &.text-uppercase {
+                text-transform: uppercase;
+            }
+
+            &.font-normal {
+                font-weight: normal;
+            }
+
             &.small {
-                @include font-size(1.2);
+                @include font-size(1.05);
 
                 display: block;
                 position: relative;
                 margin: 0 auto;
-                padding: 0 0 ($gutter/2);
+                padding: 0 0 ($gutter);
 
+                font-weight: normal;
+                line-height: 1;
+            }
+
+            &.houses {
+                padding-top: ($gutter*2);
+            }
+
+            .font-normal {
                 font-weight: normal;
             }
         }
 
         .subTitle {
-            @include font-size(1.2);
+            @include font-size(1.05);
 
             line-height: 1.4;
 
             &.inline {
-                &+ .content {
+                & + .content {
+                    display: inline;
+                    vertical-align: baseline;
+                }
+            }
+
+            &.inline-block {
+                & + .content {
                     display: inline-block;
                     vertical-align: baseline;
                 }
@@ -250,14 +303,22 @@ body {
         }
 
         .content {
-            @include font-size(1);
+            @include font-size(1.05);
 
             display: block;
             position: relative;
             margin: 0 auto;
-            padding: ($gutter/2) 0 ($gutter*2);
+            padding: 0 0 ($gutter*2);
 
             color: $tundora;
+        }
+
+        .line-breaker {
+            height: $lineBreakerHSize;
+            display: block;
+            position: relative;
+            margin: 0;
+            padding: 0;
         }
     }
 
@@ -270,17 +331,19 @@ body {
         text-align: center;
 
         .userName {
-            @include font-size(2);
+            @include font-size(2.8);
+
+            font-family: 'Century Gothic', Verdana, sans-serif, Geneva, Tahoma;
 
             display: block;
             position: relative;
 
             color: $casal;
-            font-weight: bold;
+            font-weight: normal;
         }
 
         .userShortIntroduction {
-            @include font-size(1.4);
+            @include font-size(1.05);
 
             display: inline-block;
             position: relative;
@@ -298,17 +361,27 @@ body {
         }
 
         .reportSummary {
+            @include font-size(0.9);
+
             display: block;
             position:  relative;
             margin: 0 auto;
             padding: 0 0 ($gutter);
 
             text-align: left;
+
+            .content {
+                display: block;
+                position: relative;
+                margin: 0 auto;
+                padding: 0 0 ($gutter);
+
+                color: $tundora;
+            }
         }
 
-        .userShortIntroduction,
-        .reportSummary {
-            @include font-size(1);
+        .userShortIntroduction {
+            @include font-size(1.05);
 
             color: $tundora;
         }
@@ -339,7 +412,7 @@ body {
             position: relative;
 
             .btn.btn-link {
-                @include font-size(1.6);
+                @include font-size(1.05);
 
                 width: 100%;
 
@@ -395,7 +468,7 @@ body {
 
         .contentSpot {
             p {
-                @include font-size(1);
+                @include font-size(1.05);
 
                 color: $tundora;
                 text-align: justify;
@@ -407,7 +480,7 @@ body {
             }
 
             div[class^="textBlockWrapper-"] {
-                @include font-size(1.4);
+                @include font-size(1.05);
 
                 position: relative;
 
@@ -423,7 +496,7 @@ body {
                 .arrayKlass-title,
                 .arrayKlass-title-secondary,
                 .title {
-                    @include font-size(1.4);
+                    @include font-size(1.05);
 
                     margin-top: $gutter;
                     margin-bottom: $gutter;
