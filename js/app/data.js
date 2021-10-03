@@ -2,102 +2,9 @@
 // -------------------------------------------------------------------
 const data = {
       fixedTexts: {
-            planets: [
-                  {
-                        title: `<span class="title highlighted text-uppercase"><span class="font-normal">Astrologia</span> | O significado dos planetas</span>`
-                  },
-                  {
-                        subtitle: `<span class="line-breaker"></span>`
-                  },
-                  {
-                        sol:`<span class="subTitle inline">Sol: </span>
-                        <p class="content">Esse astro representa a maneira como você expressa a sua natureza mais essencial, o seu eu na forma mais básica.
-                        Ele aponta a forma como você compreende o seu poder pessoal e a sua identidade, revelando a forma como você se afirma e se mostra diante do mundo. Sua influência é considerável, é o pai, o gerador universal em nosso mundo.<br /><br />
-                        <span class="highlighted">Aspectos positivos</span>: Magnanimidade, generosidade, vitalidade, representa o eu interior, ânimo, grandiosidade, alegria de viver, liderança, autoridade, nobreza, criatividade, capacidade de organização.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Orgulho, arrogância, vaidade, autoconfiança excessiva, autoritarismo e presunção.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        Lua: `<span class="subTitle inline">LUA: </span>
-                        <p class="content">A Lua é o astro relacionado às questões emocionais. Ela mostra como você lida com a sua sensibilidade e as reações emotivas que você tem diante da sua vida.<br /><br />
-                        Aqui também leve em consideração os condicionamentos que você traz da sua infância.<br /><br />
-                        A lua é de grande importância para o homem, é na verdade a matriz astral de todas as produções terrestres de que o Sol é o pai vivo. Tudo o que chega à Terra passa pela Lua e tudo o que parte da Terra, pela Lua também passa.<br /><br />
-                        <span class="highlighted">Aspectos positivos</span>: representa a humildade, as emoções, maternidade, sensibilidade, intuição, imaginação, receptividade, boa memória e fertilidade.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Preguiça, irracionalidade, inconstância, indecisão, rege as instabilidades, os humores, teimosia e timidez.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        mercurio: `<span class="subTitle inline">MERCÚRIO: </span>
-                        <p class="content">Esse é o planeta da razão. Mercúrio está relacionado a tudo que envolve o raciocínio e a inteligência humana. É também o astro da comunicação e do comportamento mental. Ele revelará a forma como você se expressa.<br /><br />
-                        O planeta mais próximo do Sol representa a infância com seu trasbordamento de ação e vitalidade.<br /><br />
-                        <span class="highlighted">Aspectos positivos</span>: Paciência, eloquência, inteligência, rapidez de raciocínio, comunicabilidade, astúcia e diplomacia.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Inveja, tendência a trapacear, cinismo, descontrole nervoso e capacidade crítica exacerbada.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        venus: `<span class="subTitle inline">VÊNUS: </span>
-                        <p class="content">Esse planeta é o representante da beleza e do amor. Ele mostra a sua forma de lidar com o amor e com a feição. Mostra onde se encontra os valores que você dá as coisas e as pessoas e como você enxerga o belo.<br /><br />
-                        Conhecida como a “Estrela da Manhã”, representa a juventude feminina com todas as suas faceirices, suas seduções e seus perigos – é a deusa do amor em todas suas modalidades.<br /><br />
-                        <span class="highlighted">Aspectos positivos</span>: Temperança, graça, ternura, estética, charme, bom gosto, amor, leveza, rege as artes, a cultura, os pequenos prazeres, cuidados com a aparência, rege também o matrimônio e o senso de valor.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Regente da luxúria, das paixões carnais desenfreadas, amoralidade e da incapacidade de se lidar com os impulsos sexuais e a sensualidade.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        marte: `<span class="subTitle inline">MARTE: </span>
-                        <p class="content">Marte mostra o seu relacionamento com as questões que exigem esforço e conquista. Como você lida com a sua força? Ele vai mostrar como funciona o seu espírito de luta.<br /><br />
-                        O mais próximo da Terra. É a própria imagem do homem de guerra. Possui a coragem, a energia, a cólera e a violência.<br />
-                        <span class="highlighted">Aspectos positivos</span>: Diligência, coragem, determinação, energia, iniciativa, liderança e força.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Ira, impulsividade, agressividade, brutalidade, egoísmo, espírito vingativo, instinto destrutivo e ambição.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        jupter: `<span class="subTitle inline">JUPTER: </span>
-                        <p class="content">A forma como você vai buscar um sentido para a sua existência é representada por Júpiter. Esse planeta revela as questões relacionadas a oportunidades, crescimento pessoal e objetivo de vida.<br /><br />
-                        A fé, a filosofia e o sentido de justiça também são temas representados por esse planeta. Calmo e metódico é a imagem do homem de razão e de vontade, no qual as violências e arrebatamentos da juventude estão domados, sendo verdadeiramente senhor de si mesmo.<br /><br />
-                        <span class="highlighted">Aspectos positivos</span>: Caridade, justiça, generosidade, aspirações, busca pelo que é superior, rege o pensamento filosófico, jovialidade, indulgência, ordem, crescimento, evolução e representa a mente superior.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Gula, ambição, arrogância, megalomania e autoindulgência.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        saturno: `<span class="subTitle inline">SATURNO: </span>
-                        <p class="content">A representação das suas inseguranças e valores morais é representada por Saturno.<br /><br />
-                        A forma como você pretende se destacar, a sua excelência e poder de determinação também são pontos importantes para esse planeta.<br /><br />
-                        As regras que regem a nossa vida e as escolhas morais que acabamos optando são demonstradas na análise desse planeta. Indica o homem triste, porém de grande experiência.<br /><br />
-                        Sua energia conduz a um comportamento restritivo-pessimista e acompanha a introversão e o isolamento.<br /><br />
-                        <span class="highlighted">Aspectos positivos</span>: Castidade, Sabedoria, responsabilidade, senso de organização, paciência, representa a ação do tempo, a reflexão profunda, amadurecimento, experiência, solidez, disciplina, e rege a forma.<br /><br />
-                        <span class="highlighted">Aspectos negativos</span>: Avareza, voluptuosidade, ambição, egoísmo, severidade, crueldade, rigidez excessiva, mesquinhez e rege a tristeza e as limitações.<br /><br />
-                        Deste modo, encerra-se o <strong class="highlighted is-bold-colored">Septenário Astrológico</strong>, determinado por muitos autores como uma fase ou ciclo.<br /><br />
-                        Como se vê o <em>Sol, Mercúrio, Marte, Júpiter e Saturno</em> representam os diferentes estágios da vida humana, desde a infância até a velhice, além de indicar o caráter moral e intelectual em cada um destes períodos que o ente humano atravessa.<br /><br />
-                        Quanto à <em>Lua e Vênus</em>, especificamente, estes se relacionam com o <em>feminino</em>, representando as suas duas grandes modalidades; a Maternidade e o Amor.<br /><br />
-                        Do oitavo planeta em diante, os chamados <strong class="highlighted is-bold-colored">transsaturninos</strong>, inicia-se uma nova série que representa outro ciclo mais elevado de influências astrais.<br /><br />
-                        Assim, temos uma trilogia intimamente ligada às forças que constantemente impelem à mudança psicológica e a transformação que nos leva ao desenvolvimento.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        urano: `<span class="subTitle inline">URANO: </span>
-                        <p class="content">Urano representa a revolução e o nosso espírito de mudança. Em quais áreas você expressa sua originalidade? Aqui é mostrada a sua sede pelo novo, pelo desconhecido e também onde reside a sua confusão mental e contradições.<br /><br />
-                        Representa a energia explosiva do redemoinho caótico. É a força que se manifesta em mudanças súbitas, nos planos do ser. É o intelecto ligado aos planos superiores da iniciação.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        netuno: `<span class="subTitle inline">NETUNO: </span>
-                        <p class="content">As relações com a espiritualidade são mostradas em Netuno. Até que ponto as ilusões que criamos são realmente crenças?<br />
-                        As tendências que você se apega para expressar uma dimensão maior e as aparências que criamos para disfarçar a nossa realidade são retratadas nesse planeta.<br /><br />
-                        Representa a sublimação e o preparo ao retorno da espiritualidade incorporal, pois sua força age através do mais puro amor, levado ao idealismo que transcende em beleza.</p>
-                        <span class="line-breaker"></span>`
-                  },
-                  {
-                        plutao: `<span class="subTitle inline">PLUTÃO: </span>
-                        <p class="content">Representa a forma como você lida com as questões relacionadas à morte e ao renascimento.<br /><br />
-                        Plutão vai mostrar a existência de um poder maior que você e como você lida com essa descoberta. Está ligado aos ciclos de vida e à descoberta de grandiosidades maiores que você.<br /><br />
-                        Representa o grande princípio masculino. Muitos astrólogos concordam em afirmar que Plutão simboliza uma dimensão tão complexa que está envolto em uma aura misteriosa. Está relacionado aos mais profundos ideais espirituais.<br /><br />
-                        Sendo assim, Plutão representa também, o impulso vital em busca da forma. Marcando os passos evolutivos da nossa humanidade.</p>
-                        <span class="line-breaker"></span>`
-                  }
-            ],
             houses: [
                   {
-                        title: `<span class="title houses highlighted text-uppercase page-break-before"><span class="font-normal">Astrologia</span> | O significado das casas</span>`
+                        title: `<span class="title houses highlighted text-uppercase page-break-before"><span class="font-normal">Astrologia</span> | O significado e a importância das Casas astrológicas</span>`
                   },
                   {
                         subtitle: `<span class="title small">- A importância das casas astrológicas: angulares, sucedentes e cadentes.</span>`
@@ -218,7 +125,99 @@ const data = {
                         Indica também áreas onde temos inimigos secretos, que podem ser até mesmo certos aspectos de nós mesmos, aqueles que agem como sabotadores subconscientes que podem nos levar a nossa ruína.</p>
                         <span class="line-breaker"></span>`
                   }
-                  
+            ],
+            planets: [
+                  {
+                        title: `<span class="title highlighted text-uppercase"><span class="font-normal">Astrologia</span> | O significado dos planetas</span>`
+                  },
+                  {
+                        subtitle: `<span class="line-breaker"></span>`
+                  },
+                  {
+                        sol:`<span class="subTitle inline">Sol: </span>
+                        <p class="content">Esse astro representa a maneira como você expressa a sua natureza mais essencial, o seu eu na forma mais básica.
+                        Ele aponta a forma como você compreende o seu poder pessoal e a sua identidade, revelando a forma como você se afirma e se mostra diante do mundo. Sua influência é considerável, é o pai, o gerador universal em nosso mundo.<br /><br />
+                        <span class="highlighted">Aspectos positivos</span>: Magnanimidade, generosidade, vitalidade, representa o eu interior, ânimo, grandiosidade, alegria de viver, liderança, autoridade, nobreza, criatividade, capacidade de organização.<br /><br />
+                        <span class="highlighted">Aspectos negativos</span>: Orgulho, arrogância, vaidade, autoconfiança excessiva, autoritarismo e presunção.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        Lua: `<span class="subTitle inline">LUA: </span>
+                        <p class="content">A Lua é o astro relacionado às questões emocionais. Ela mostra como você lida com a sua sensibilidade e as reações emotivas que você tem diante da sua vida.<br /><br />
+                        Aqui também leve em consideração os condicionamentos que você traz da sua infância.<br /><br />
+                        A lua é de grande importância para o homem, é na verdade a matriz astral de todas as produções terrestres de que o Sol é o pai vivo. Tudo o que chega à Terra passa pela Lua e tudo o que parte da Terra, pela Lua também passa.<br /><br />
+                        <span class="highlighted">Aspectos positivos</span>: representa a humildade, as emoções, maternidade, sensibilidade, intuição, imaginação, receptividade, boa memória e fertilidade.<br /><br />
+                        <span class="highlighted">Aspectos negativos</span>: Preguiça, irracionalidade, inconstância, indecisão, rege as instabilidades, os humores, teimosia e timidez.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        mercurio: `<span class="subTitle inline">MERCÚRIO: </span>
+                        <p class="content">Esse é o planeta da razão. Mercúrio está relacionado a tudo que envolve o raciocínio e a inteligência humana. É também o astro da comunicação e do comportamento mental. Ele revelará a forma como você se expressa.<br /><br />
+                        O planeta mais próximo do Sol representa a infância com seu trasbordamento de ação e vitalidade.<br /><br />
+                        <span class="highlighted">Aspectos positivos</span>: Paciência, eloquência, inteligência, rapidez de raciocínio, comunicabilidade, astúcia e diplomacia.<br /><br />
+                        <span class="highlighted">Aspectos negativos</span>: Inveja, tendência a trapacear, cinismo, descontrole nervoso e capacidade crítica exacerbada.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        venus: `<span class="subTitle inline">VÊNUS: </span>
+                        <p class="content">Esse planeta é o representante da beleza e do amor. Ele mostra a sua forma de lidar com o amor e com a feição. Mostra onde se encontra os valores que você dá as coisas e as pessoas e como você enxerga o belo.<br /><br />
+                        Conhecida como a “Estrela da Manhã”, representa a juventude feminina com todas as suas faceirices, suas seduções e seus perigos – é a deusa do amor em todas suas modalidades.<br /><br />
+                        <span class="highlighted">Aspectos positivos</span>: Temperança, graça, ternura, estética, charme, bom gosto, amor, leveza, rege as artes, a cultura, os pequenos prazeres, cuidados com a aparência, rege também o matrimônio e o senso de valor.<br /><br />
+                        <span class="highlighted">Aspectos negativos</span>: Regente da luxúria, das paixões carnais desenfreadas, amoralidade e da incapacidade de se lidar com os impulsos sexuais e a sensualidade.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        marte: `<span class="subTitle inline">MARTE: </span>
+                        <p class="content">Marte mostra o seu relacionamento com as questões que exigem esforço e conquista. Como você lida com a sua força? Ele vai mostrar como funciona o seu espírito de luta.<br /><br />
+                        O mais próximo da Terra. É a própria imagem do homem de guerra. Possui a coragem, a energia, a cólera e a violência.<br />
+                        <span class="highlighted">Aspectos positivos</span>: Diligência, coragem, determinação, energia, iniciativa, liderança e força.<br /><br />
+                        <span class="highlighted">Aspectos negativos</span>: Ira, impulsividade, agressividade, brutalidade, egoísmo, espírito vingativo, instinto destrutivo e ambição.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        jupter: `<span class="subTitle inline">JUPTER: </span>
+                        <p class="content">A forma como você vai buscar um sentido para a sua existência é representada por Júpiter. Esse planeta revela as questões relacionadas a oportunidades, crescimento pessoal e objetivo de vida.<br /><br />
+                        A fé, a filosofia e o sentido de justiça também são temas representados por esse planeta. Calmo e metódico é a imagem do homem de razão e de vontade, no qual as violências e arrebatamentos da juventude estão domados, sendo verdadeiramente senhor de si mesmo.<br /><br />
+                        <span class="highlighted">Aspectos positivos</span>: Caridade, justiça, generosidade, aspirações, busca pelo que é superior, rege o pensamento filosófico, jovialidade, indulgência, ordem, crescimento, evolução e representa a mente superior.<br /><br />
+                        <span class="highlighted">Aspectos negativos</span>: Gula, ambição, arrogância, megalomania e autoindulgência.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        saturno: `<span class="subTitle inline">SATURNO: </span>
+                        <p class="content">A representação das suas inseguranças e valores morais é representada por Saturno.<br /><br />
+                        A forma como você pretende se destacar, a sua excelência e poder de determinação também são pontos importantes para esse planeta.<br /><br />
+                        As regras que regem a nossa vida e as escolhas morais que acabamos optando são demonstradas na análise desse planeta. Indica o homem triste, porém de grande experiência.<br /><br />
+                        Sua energia conduz a um comportamento restritivo-pessimista e acompanha a introversão e o isolamento.<br /><br />
+                        <span class="highlighted">Aspectos positivos</span>: Castidade, Sabedoria, responsabilidade, senso de organização, paciência, representa a ação do tempo, a reflexão profunda, amadurecimento, experiência, solidez, disciplina, e rege a forma.<br /><br />
+                        <span class="highlighted">Aspectos negativos</span>: Avareza, voluptuosidade, ambição, egoísmo, severidade, crueldade, rigidez excessiva, mesquinhez e rege a tristeza e as limitações.<br /><br />
+                        Deste modo, encerra-se o <strong class="highlighted is-bold-colored">Septenário Astrológico</strong>, determinado por muitos autores como uma fase ou ciclo.<br /><br />
+                        Como se vê o <em>Sol, Mercúrio, Marte, Júpiter e Saturno</em> representam os diferentes estágios da vida humana, desde a infância até a velhice, além de indicar o caráter moral e intelectual em cada um destes períodos que o ente humano atravessa.<br /><br />
+                        Quanto à <em>Lua e Vênus</em>, especificamente, estes se relacionam com o <em>feminino</em>, representando as suas duas grandes modalidades; a Maternidade e o Amor.<br /><br />
+                        Do oitavo planeta em diante, os chamados <strong class="highlighted is-bold-colored">transsaturninos</strong>, inicia-se uma nova série que representa outro ciclo mais elevado de influências astrais.<br /><br />
+                        Assim, temos uma trilogia intimamente ligada às forças que constantemente impelem à mudança psicológica e a transformação que nos leva ao desenvolvimento.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        urano: `<span class="subTitle inline">URANO: </span>
+                        <p class="content">Urano representa a revolução e o nosso espírito de mudança. Em quais áreas você expressa sua originalidade? Aqui é mostrada a sua sede pelo novo, pelo desconhecido e também onde reside a sua confusão mental e contradições.<br /><br />
+                        Representa a energia explosiva do redemoinho caótico. É a força que se manifesta em mudanças súbitas, nos planos do ser. É o intelecto ligado aos planos superiores da iniciação.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        netuno: `<span class="subTitle inline">NETUNO: </span>
+                        <p class="content">As relações com a espiritualidade são mostradas em Netuno. Até que ponto as ilusões que criamos são realmente crenças?<br />
+                        As tendências que você se apega para expressar uma dimensão maior e as aparências que criamos para disfarçar a nossa realidade são retratadas nesse planeta.<br /><br />
+                        Representa a sublimação e o preparo ao retorno da espiritualidade incorporal, pois sua força age através do mais puro amor, levado ao idealismo que transcende em beleza.</p>
+                        <span class="line-breaker"></span>`
+                  },
+                  {
+                        plutao: `<span class="subTitle inline">PLUTÃO: </span>
+                        <p class="content">Representa a forma como você lida com as questões relacionadas à morte e ao renascimento.<br /><br />
+                        Plutão vai mostrar a existência de um poder maior que você e como você lida com essa descoberta. Está ligado aos ciclos de vida e à descoberta de grandiosidades maiores que você.<br /><br />
+                        Representa o grande princípio masculino. Muitos astrólogos concordam em afirmar que Plutão simboliza uma dimensão tão complexa que está envolto em uma aura misteriosa. Está relacionado aos mais profundos ideais espirituais.<br /><br />
+                        Sendo assim, Plutão representa também, o impulso vital em busca da forma. Marcando os passos evolutivos da nossa humanidade.</p>
+                        <span class="line-breaker"></span>`
+                  }
             ],
             observation: [
                   {

@@ -6,6 +6,7 @@
   "dependencies": {
     "file-saver": "^2.0.2",
     "gem": "^2.4.3",
+    "graceful-fs": "^4.2.8",
     "gulp-babel5": "^5.4.2",
     "popper.js": "^1.16.1"
   },
@@ -34,6 +35,9 @@
     "gulp-webserver": "^0.9.1",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
   },
   "repository": {
     "type": "git",

@@ -12,7 +12,7 @@ var gulp = require('gulp'),
     imagemin = require('gulp-imagemin'),
     autoprefixer = require('gulp-autoprefixer');
 
-// CoOnsole log function
+// Console log function
 // function errorLog(error) {
 //     console.error.bind(error);
 //     this.emit('end');
