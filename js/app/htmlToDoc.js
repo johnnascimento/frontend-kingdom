@@ -7,7 +7,7 @@
         printButton: '#printDocument',
     };
 
-    var returnedModule = function(options) {
+    return function (options) {
         this.options = Object.assign({}, defaults, options);
 
         this.setOptions = function(options) {
@@ -59,6 +59,4 @@
             return this;
         }.bind(this);
     };
-
-    return returnedModule;
 });
