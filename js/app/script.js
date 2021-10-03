@@ -32,7 +32,7 @@ define(['jquery', 'utils'], function($, utils) {
     // For the future John, you need to break down this whole script and modularize the whole app,
     // so that it gets more organized
 
-    var returnedModule = function(options) {
+    return function (options) {
         this.options = Object.assign({}, defaults, options);
 
         this.setOptions = function(options) {
@@ -763,6 +763,4 @@ define(['jquery', 'utils'], function($, utils) {
             }, 60000);
         }.bind(this);
     }
-
-    return returnedModule;
 });

@@ -1,3 +1,7 @@
 # Ignored files #
 #################
 node_modules
+package-lock.json
+printingTests/*
+js/build/
+npm-shrinkwrap.json
