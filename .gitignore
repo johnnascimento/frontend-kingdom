@@ -3,5 +3,5 @@
 node_modules
 package-lock.json
 printingTests/*
-build/app/*
+js/build/
 npm-shrinkwrap.json
